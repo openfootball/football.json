@@ -1,0 +1,40 @@
+{
+  "name": "Deutsche Bundesliga 2015/16",
+  "rounds": [
+    {
+      "name": "1. Spieltag",
+      "matches": [
+        {
+          "date": "2015-08-14",
+          "team1": {
+            "key":  "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key":  "hamburg",
+            "name": "Hamburger SV",
+            "code": "HSV"
+          },
+          "score1": 5,
+          "score2": 0
+        },
+        {
+          "date": "2015-08-15",
+          "team1": {
+            "key":  "bremen",
+            "name": "Werder Bremen",
+            "code": "WBM"
+          },
+          "team2": {
+            "key":  "schalke",
+            "name": "FC Schalke 04",
+            "code": "F04"
+          },
+          "score1": 0,
+          "score2": 3
+        }
+      ]
+    }
+  ]
+}
