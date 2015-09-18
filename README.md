@@ -103,7 +103,7 @@ the (auto-)update machinery.
 
 
 
-## Contribution Welcome - Add Your Leagues and Tournaments!
+## Contributions Welcome - Add Your Leagues and Tournaments!
 
 Any leagues or tournament missing? Contributions welcome!
 For a new country see the [Mauritius League Quick Starter Kit](https://github.com/sportkit/mu-mauritius).
