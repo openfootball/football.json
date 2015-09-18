@@ -109,6 +109,10 @@ Any leagues or tournaments missing? Contributions welcome!
 For starting your own repo from scratch see the [Mauritius League Quick Starter Kit](https://github.com/sportkit/mu-mauritius).
 
 
+## License
+
+The football.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
 
 ## Questions? Comments?
 
