@@ -51,7 +51,6 @@ Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-1
           "score2": 2
         },
         ...
-       }
       ]
     }
   ]
