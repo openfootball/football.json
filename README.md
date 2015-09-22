@@ -1,7 +1,6 @@
 # football.json
 
-Free open public domain football data in the JSON (JavaScript Object Notation)
-data interchange format.
+Football data in the JSON (JavaScript Object Notation) data interchange format, sourced from the [Open Sports & Friends Forum/Mailing List](https://groups.google.com/forum/#!forum/opensport) hosted on Google Groups.
 
 Leagues include:
 
@@ -111,7 +110,7 @@ For starting your own repo from scratch see the [Mauritius League Quick Starter 
 
 ## License
 
-The football.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The football.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever. The license and copyright of the source data, though, are unknown and should be determined by the terms by which each of the Open Sports & Friends contributors share the data they produce.
 
 
 ## Questions? Comments?
