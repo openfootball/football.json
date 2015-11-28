@@ -98,7 +98,7 @@ edit the JSON files but the source files in the country repos e.g.:
 
 
 If all works weekly updates get pushed by the skriptbot.
-See the [`skriptbot/football.json`](https://github.com/skriptbot/football.json) scripts for
+See the [`skriptbot/football.db`](https://github.com/skriptbot/football.db) build scripts for
 the (auto-)update machinery.
 
 
