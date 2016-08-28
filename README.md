@@ -97,10 +97,9 @@ edit the JSON files but the source files in the country repos e.g.:
 - and so on
 
 
-If all works weekly updates get pushed by the skriptbot.
-See the [`skriptbot/football.db`](https://github.com/skriptbot/football.db) build scripts for
+If all works weekly updates get pushed by yorobot.
+See the [`yorobot/football.db`](https://github.com/yorobot/football.db) build scripts for
 the (auto-)update machinery.
-
 
 
 ## Contributions Welcome - Add Your Leagues and Tournaments!
