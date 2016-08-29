@@ -461,8 +461,8 @@
             "name": "FC RB Salzburg",
             "code": "RBS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2016-08-28",
@@ -476,8 +476,8 @@
             "name": "FK Austria Wien",
             "code": "AUS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         }
       ]
     },
@@ -567,29 +567,14 @@
         {
           "date": "2016-09-17",
           "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
+            "key": "ried",
+            "name": "SV Ried",
+            "code": "RIE"
           },
           "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-17",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
+            "key": "altach",
+            "name": "SCR Altach",
+            "code": "ALT"
           },
           "score1": null,
           "score2": null
@@ -625,16 +610,31 @@
           "score2": null
         },
         {
-          "date": "2016-09-17",
+          "date": "2016-09-18",
           "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
+            "key": "salzburg",
+            "name": "FC RB Salzburg",
+            "code": "RBS"
           },
           "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
+            "key": "austria",
+            "name": "FK Austria Wien",
+            "code": "AUS"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-09-18",
+          "team1": {
+            "key": "rapid",
+            "name": "SK Rapid Wien",
+            "code": "RAP"
+          },
+          "team2": {
+            "key": "mattersburg",
+            "name": "SV Mattersburg",
+            "code": "MAT"
           },
           "score1": null,
           "score2": null
