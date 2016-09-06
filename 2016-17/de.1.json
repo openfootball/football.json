@@ -705,6 +705,21 @@
       "name": "6. Spieltag",
       "matches": [
         {
+          "date": "2016-09-30",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
           "date": "2016-10-01",
           "team1": {
             "key": "bayern",
@@ -737,14 +752,14 @@
         {
           "date": "2016-10-01",
           "team1": {
-            "key": "schalke",
-            "name": "Schalke 04",
-            "code": "S04"
+            "key": "darmstadt",
+            "name": "SV Darmstadt 98",
+            "code": "D98"
           },
           "team2": {
-            "key": "mgladbach",
-            "name": "Borussia M'gladbach",
-            "code": "BMG"
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
           },
           "score1": null,
           "score2": null
@@ -767,14 +782,14 @@
         {
           "date": "2016-10-01",
           "team1": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
           },
           "team2": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
           },
           "score1": null,
           "score2": null
@@ -795,46 +810,31 @@
           "score2": null
         },
         {
-          "date": "2016-10-01",
+          "date": "2016-10-02",
           "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
           },
           "team2": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2016-10-01",
+          "date": "2016-10-02",
           "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
+            "key": "schalke",
+            "name": "Schalke 04",
+            "code": "S04"
           },
           "team2": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-01",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
+            "key": "mgladbach",
+            "name": "Borussia M'gladbach",
+            "code": "BMG"
           },
           "score1": null,
           "score2": null
@@ -845,7 +845,7 @@
       "name": "7. Spieltag",
       "matches": [
         {
-          "date": "2016-10-15",
+          "date": "2016-10-14",
           "team1": {
             "key": "dortmund",
             "name": "Borussia Dortmund",
@@ -877,14 +877,14 @@
         {
           "date": "2016-10-15",
           "team1": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
+            "key": "hoffenheim",
+            "name": "1899 Hoffenheim",
+            "code": "HOF"
           },
           "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
           },
           "score1": null,
           "score2": null
@@ -892,14 +892,14 @@
         {
           "date": "2016-10-15",
           "team1": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
           },
           "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
+            "key": "bayern",
+            "name": "FC Bayern München",
+            "code": "FCB"
           },
           "score1": null,
           "score2": null
@@ -950,31 +950,31 @@
           "score2": null
         },
         {
-          "date": "2016-10-15",
+          "date": "2016-10-16",
           "team1": {
-            "key": "hoffenheim",
-            "name": "1899 Hoffenheim",
-            "code": "HOF"
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
           },
           "team2": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2016-10-15",
+          "date": "2016-10-16",
           "team1": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
           },
           "team2": {
-            "key": "bayern",
-            "name": "FC Bayern München",
-            "code": "FCB"
+            "key": "darmstadt",
+            "name": "SV Darmstadt 98",
+            "code": "D98"
           },
           "score1": null,
           "score2": null
@@ -985,6 +985,21 @@
       "name": "8. Spieltag",
       "matches": [
         {
+          "date": "2016-10-21",
+          "team1": {
+            "key": "hsv",
+            "name": "Hamburger SV",
+            "code": "HSV"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
           "date": "2016-10-22",
           "team1": {
             "key": "bayern",
@@ -1017,14 +1032,14 @@
         {
           "date": "2016-10-22",
           "team1": {
-            "key": "schalke",
-            "name": "Schalke 04",
-            "code": "S04"
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
           },
           "team2": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
           },
           "score1": null,
           "score2": null
@@ -1047,50 +1062,20 @@
         {
           "date": "2016-10-22",
           "team1": {
-            "key": "hsv",
-            "name": "Hamburger SV",
-            "code": "HSV"
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
           },
           "team2": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2016-10-22",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "dortmund",
-            "name": "Borussia Dortmund",
-            "code": "BVB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-22",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-22",
+          "date": "2016-10-23",
           "team1": {
             "key": "leipzig",
             "name": "RB Leipzig",
@@ -1105,16 +1090,31 @@
           "score2": null
         },
         {
-          "date": "2016-10-22",
+          "date": "2016-10-23",
           "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
+            "key": "schalke",
+            "name": "Schalke 04",
+            "code": "S04"
           },
           "team2": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-23",
+          "team1": {
+            "key": "darmstadt",
+            "name": "SV Darmstadt 98",
+            "code": "D98"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
           },
           "score1": null,
           "score2": null
@@ -1125,6 +1125,21 @@
       "name": "9. Spieltag",
       "matches": [
         {
+          "date": "2016-10-28",
+          "team1": {
+            "key": "mgladbach",
+            "name": "Borussia M'gladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
           "date": "2016-10-29",
           "team1": {
             "key": "dortmund",
@@ -1135,21 +1150,6 @@
             "key": "schalke",
             "name": "Schalke 04",
             "code": "S04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-29",
-          "team1": {
-            "key": "mgladbach",
-            "name": "Borussia M'gladbach",
-            "code": "BMG"
-          },
-          "team2": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
           },
           "score1": null,
           "score2": null
@@ -1180,21 +1180,6 @@
             "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
             "code": "B04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-29",
-          "team1": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "team2": {
-            "key": "hsv",
-            "name": "Hamburger SV",
-            "code": "HSV"
           },
           "score1": null,
           "score2": null
@@ -1245,7 +1230,7 @@
           "score2": null
         },
         {
-          "date": "2016-10-29",
+          "date": "2016-10-30",
           "team1": {
             "key": "hoffenheim",
             "name": "1899 Hoffenheim",
@@ -1255,6 +1240,21 @@
             "key": "herthabsc",
             "name": "Hertha BSC",
             "code": "BSC"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-30",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "hsv",
+            "name": "Hamburger SV",
+            "code": "HSV"
           },
           "score1": null,
           "score2": null
@@ -1265,6 +1265,21 @@
       "name": "10. Spieltag",
       "matches": [
         {
+          "date": "2016-11-04",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Borussia M'gladbach",
+            "code": "BMG"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
           "date": "2016-11-05",
           "team1": {
             "key": "bayern",
@@ -1297,29 +1312,14 @@
         {
           "date": "2016-11-05",
           "team1": {
-            "key": "schalke",
-            "name": "Schalke 04",
-            "code": "S04"
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
           },
           "team2": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-05",
-          "team1": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "team2": {
-            "key": "mgladbach",
-            "name": "Borussia M'gladbach",
-            "code": "BMG"
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
           },
           "score1": null,
           "score2": null
@@ -1370,22 +1370,7 @@
           "score2": null
         },
         {
-          "date": "2016-11-05",
-          "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
-          },
-          "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-05",
+          "date": "2016-11-06",
           "team1": {
             "key": "leipzig",
             "name": "RB Leipzig",
@@ -1395,6 +1380,21 @@
             "key": "mainz",
             "name": "1. FSV Mainz 05",
             "code": "M05"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-11-06",
+          "team1": {
+            "key": "schalke",
+            "name": "Schalke 04",
+            "code": "S04"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
           },
           "score1": null,
           "score2": null
@@ -1405,6 +1405,21 @@
       "name": "11. Spieltag",
       "matches": [
         {
+          "date": "2016-11-18",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
           "date": "2016-11-19",
           "team1": {
             "key": "dortmund",
@@ -1415,21 +1430,6 @@
             "key": "bayern",
             "name": "FC Bayern München",
             "code": "FCB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-19",
-          "team1": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
           },
           "score1": null,
           "score2": null
@@ -1497,21 +1497,6 @@
         {
           "date": "2016-11-19",
           "team1": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "team2": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-19",
-          "team1": {
             "key": "darmstadt",
             "name": "SV Darmstadt 98",
             "code": "D98"
@@ -1525,7 +1510,7 @@
           "score2": null
         },
         {
-          "date": "2016-11-19",
+          "date": "2016-11-20",
           "team1": {
             "key": "hoffenheim",
             "name": "1899 Hoffenheim",
@@ -1535,6 +1520,21 @@
             "key": "hsv",
             "name": "Hamburger SV",
             "code": "HSV"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-11-20",
+          "team1": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
           },
           "score1": null,
           "score2": null
@@ -1545,6 +1545,21 @@
       "name": "12. Spieltag",
       "matches": [
         {
+          "date": "2016-11-25",
+          "team1": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
           "date": "2016-11-26",
           "team1": {
             "key": "bayern",
@@ -1570,66 +1585,6 @@
             "key": "hoffenheim",
             "name": "1899 Hoffenheim",
             "code": "HOF"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-26",
-          "team1": {
-            "key": "schalke",
-            "name": "Schalke 04",
-            "code": "S04"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-26",
-          "team1": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "team2": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-26",
-          "team1": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "team2": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-11-26",
-          "team1": {
-            "key": "hsv",
-            "name": "Hamburger SV",
-            "code": "HSV"
-          },
-          "team2": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
           },
           "score1": null,
           "score2": null
@@ -1667,14 +1622,59 @@
         {
           "date": "2016-11-26",
           "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
           },
           "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-11-26",
+          "team1": {
+            "key": "hsv",
+            "name": "Hamburger SV",
+            "code": "HSV"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-11-27",
+          "team1": {
+            "key": "schalke",
+            "name": "Schalke 04",
+            "code": "S04"
+          },
+          "team2": {
+            "key": "darmstadt",
+            "name": "SV Darmstadt 98",
+            "code": "D98"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-11-27",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
           },
           "score1": null,
           "score2": null
