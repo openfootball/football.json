@@ -496,8 +496,8 @@
             "name": "SK Rapid Wien",
             "code": "RAP"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-10",
@@ -511,8 +511,8 @@
             "name": "Wolfsberger AC",
             "code": "WAC"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 1
         },
         {
           "date": "2016-09-10",
@@ -526,8 +526,8 @@
             "name": "SV Mattersburg",
             "code": "MAT"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2016-09-10",
@@ -541,8 +541,8 @@
             "name": "SV Ried",
             "code": "RIE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 3
         },
         {
           "date": "2016-09-11",
@@ -556,8 +556,8 @@
             "name": "FC RB Salzburg",
             "code": "RBS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 4
         }
       ]
     },
@@ -647,6 +647,21 @@
         {
           "date": "2016-09-24",
           "team1": {
+            "key": "stpoelten",
+            "name": "SKN St. Pölten",
+            "code": "SKN"
+          },
+          "team2": {
+            "key": "rapid",
+            "name": "SK Rapid Wien",
+            "code": "RAP"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-09-24",
+          "team1": {
             "key": "austria",
             "name": "FK Austria Wien",
             "code": "AUS"
@@ -677,21 +692,6 @@
         {
           "date": "2016-09-24",
           "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-24",
-          "team1": {
             "key": "mattersburg",
             "name": "SV Mattersburg",
             "code": "MAT"
@@ -705,16 +705,16 @@
           "score2": null
         },
         {
-          "date": "2016-09-24",
+          "date": "2016-09-25",
           "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
+            "key": "altach",
+            "name": "SCR Altach",
+            "code": "ALT"
           },
           "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
+            "key": "salzburg",
+            "name": "FC RB Salzburg",
+            "code": "RBS"
           },
           "score1": null,
           "score2": null
@@ -727,29 +727,14 @@
         {
           "date": "2016-10-01",
           "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
+            "key": "wac",
+            "name": "Wolfsberger AC",
+            "code": "WAC"
           },
           "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-01",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
+            "key": "altach",
+            "name": "SCR Altach",
+            "code": "ALT"
           },
           "score1": null,
           "score2": null
@@ -770,22 +755,22 @@
           "score2": null
         },
         {
-          "date": "2016-10-01",
+          "date": "2016-10-02",
           "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
+            "key": "salzburg",
+            "name": "FC RB Salzburg",
+            "code": "RBS"
           },
           "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
+            "key": "sturm",
+            "name": "SK Sturm Graz",
+            "code": "STU"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2016-10-01",
+          "date": "2016-10-02",
           "team1": {
             "key": "ried",
             "name": "SV Ried",
@@ -795,6 +780,21 @@
             "key": "rapid",
             "name": "SK Rapid Wien",
             "code": "RAP"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-02",
+          "team1": {
+            "key": "austria",
+            "name": "FK Austria Wien",
+            "code": "AUS"
+          },
+          "team2": {
+            "key": "stpoelten",
+            "name": "SKN St. Pölten",
+            "code": "SKN"
           },
           "score1": null,
           "score2": null

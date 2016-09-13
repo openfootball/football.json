@@ -315,6 +315,36 @@
       "name": "3^ Giornata",
       "matches": [
         {
+          "date": "2016-09-10",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "sassuolo",
+            "name": "Sassuolo",
+            "code": "SAS"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-10",
+          "team1": {
+            "key": "palermo",
+            "name": "Palermo",
+            "code": "PAL"
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
           "date": "2016-09-11",
           "team1": {
             "key": "atalanta",
@@ -326,8 +356,8 @@
             "name": "Torino",
             "code": "TOR"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2016-09-11",
@@ -341,8 +371,8 @@
             "name": "Cagliari",
             "code": "CAG"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2016-09-11",
@@ -356,23 +386,8 @@
             "name": "Lazio",
             "code": "LAZ"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-11",
-          "team1": {
-            "key": "empoli",
-            "name": "Empoli",
-            "code": "EMP"
-          },
-          "team2": {
-            "key": "crotone",
-            "name": "Crotone",
-            "code": "CRO"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-11",
@@ -392,21 +407,6 @@
         {
           "date": "2016-09-11",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "Sassuolo",
-            "code": "SAS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-11",
-          "team1": {
             "key": "milan",
             "name": "Milan",
             "code": "MIL"
@@ -416,23 +416,8 @@
             "name": "Udinese",
             "code": "UDI"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-11",
-          "team1": {
-            "key": "palermo",
-            "name": "Palermo",
-            "code": "PAL"
-          },
-          "team2": {
-            "key": "napoli",
-            "name": "Napoli",
-            "code": "NAP"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2016-09-11",
@@ -446,8 +431,8 @@
             "name": "Inter",
             "code": "INT"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2016-09-11",
@@ -460,6 +445,21 @@
             "key": "sampdoria",
             "name": "Sampdoria",
             "code": "SAM"
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-12",
+          "team1": {
+            "key": "empoli",
+            "name": "Empoli",
+            "code": "EMP"
+          },
+          "team2": {
+            "key": "crotone",
+            "name": "Crotone",
+            "code": "CRO"
           },
           "score1": null,
           "score2": null
