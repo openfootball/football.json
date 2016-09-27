@@ -621,8 +621,8 @@
             "name": "FK Austria Wien",
             "code": "AUS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 1
         },
         {
           "date": "2016-09-18",
@@ -636,8 +636,8 @@
             "name": "SV Mattersburg",
             "code": "MAT"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
         }
       ]
     },
@@ -656,8 +656,8 @@
             "name": "SK Rapid Wien",
             "code": "RAP"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-24",
@@ -671,8 +671,8 @@
             "name": "FC Admira Wacker",
             "code": "ADM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2016-09-24",
@@ -686,8 +686,8 @@
             "name": "Wolfsberger AC",
             "code": "WAC"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2016-09-24",
@@ -701,8 +701,8 @@
             "name": "SV Ried",
             "code": "RIE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-25",
@@ -716,8 +716,8 @@
             "name": "FC RB Salzburg",
             "code": "RBS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         }
       ]
     },
@@ -807,6 +807,21 @@
         {
           "date": "2016-10-15",
           "team1": {
+            "key": "wac",
+            "name": "Wolfsberger AC",
+            "code": "WAC"
+          },
+          "team2": {
+            "key": "salzburg",
+            "name": "FC RB Salzburg",
+            "code": "RBS"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-15",
+          "team1": {
             "key": "rapid",
             "name": "SK Rapid Wien",
             "code": "RAP"
@@ -850,22 +865,7 @@
           "score2": null
         },
         {
-          "date": "2016-10-15",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-15",
+          "date": "2016-10-16",
           "team1": {
             "key": "mattersburg",
             "name": "SV Mattersburg",

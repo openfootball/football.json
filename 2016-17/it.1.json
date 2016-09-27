@@ -625,6 +625,21 @@
       "name": "5^ Giornata",
       "matches": [
         {
+          "date": "2016-09-20",
+          "team1": {
+            "key": "milan",
+            "name": "Milan",
+            "code": "MIL"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "Lazio",
+            "code": "LAZ"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
           "date": "2016-09-21",
           "team1": {
             "key": "atalanta",
@@ -636,8 +651,8 @@
             "name": "Palermo",
             "code": "PAL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2016-09-21",
@@ -651,8 +666,8 @@
             "name": "Sampdoria",
             "code": "SAM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
           "date": "2016-09-21",
@@ -666,8 +681,8 @@
             "name": "Sassuolo",
             "code": "SAS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2016-09-21",
@@ -681,8 +696,8 @@
             "name": "Inter",
             "code": "INT"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 2
         },
         {
           "date": "2016-09-21",
@@ -696,23 +711,8 @@
             "name": "Napoli",
             "code": "NAP"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "milan",
-            "name": "Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "Lazio",
-            "code": "LAZ"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2016-09-21",
@@ -726,8 +726,8 @@
             "name": "Cagliari",
             "code": "CAG"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 0
         },
         {
           "date": "2016-09-21",
@@ -741,8 +741,8 @@
             "name": "Torino",
             "code": "TOR"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2016-09-21",
@@ -756,8 +756,8 @@
             "name": "Crotone",
             "code": "CRO"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 0
         },
         {
           "date": "2016-09-21",
@@ -771,8 +771,8 @@
             "name": "Fiorentina",
             "code": "FIO"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 2
         }
       ]
     },
@@ -780,34 +780,34 @@
       "name": "6^ Giornata",
       "matches": [
         {
-          "date": "2016-09-25",
+          "date": "2016-09-24",
           "team1": {
-            "key": "cagliari",
-            "name": "Cagliari",
-            "code": "CAG"
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
           },
           "team2": {
-            "key": "sampdoria",
-            "name": "Sampdoria",
-            "code": "SAM"
+            "key": "chievoverona",
+            "name": "Chievo",
+            "code": "CHI"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "2016-09-25",
+          "date": "2016-09-24",
           "team1": {
-            "key": "crotone",
-            "name": "Crotone",
-            "code": "CRO"
+            "key": "palermo",
+            "name": "Palermo",
+            "code": "PAL"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta",
-            "code": "ATA"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2016-09-25",
@@ -821,8 +821,8 @@
             "name": "Milan",
             "code": "MIL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2016-09-25",
@@ -836,8 +836,8 @@
             "name": "Pescara",
             "code": "PES"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-25",
@@ -851,8 +851,8 @@
             "name": "Bologna",
             "code": "BOL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-25",
@@ -866,38 +866,8 @@
             "name": "Empoli",
             "code": "EMP"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "napoli",
-            "name": "Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "chievoverona",
-            "name": "Chievo",
-            "code": "CHI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "palermo",
-            "name": "Palermo",
-            "code": "PAL"
-          },
-          "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
           "date": "2016-09-25",
@@ -911,8 +881,8 @@
             "name": "Udinese",
             "code": "UDI"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2016-09-25",
@@ -926,8 +896,38 @@
             "name": "Roma",
             "code": "ROM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-26",
+          "team1": {
+            "key": "cagliari",
+            "name": "Cagliari",
+            "code": "CAG"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "Sampdoria",
+            "code": "SAM"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-26",
+          "team1": {
+            "key": "crotone",
+            "name": "Crotone",
+            "code": "CRO"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta",
+            "code": "ATA"
+          },
+          "score1": 1,
+          "score2": 3
         }
       ]
     },

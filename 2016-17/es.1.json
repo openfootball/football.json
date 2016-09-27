@@ -487,21 +487,6 @@
         {
           "date": "2016-09-17",
           "team1": {
-            "key": "villareal",
-            "name": "Villarreal CF",
-            "code": "VLL"
-          },
-          "team2": {
-            "key": "realsociedad",
-            "name": "R. Sociedad",
-            "code": "RSO"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-17",
-          "team1": {
             "key": "leganes",
             "name": "Club Deportivo Leganés",
             "code": null
@@ -517,16 +502,16 @@
         {
           "date": "2016-09-17",
           "team1": {
-            "key": "laspalmas",
-            "name": "Las Palmas",
-            "code": null
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
           },
           "team2": {
-            "key": "malaga",
-            "name": "Málaga",
-            "code": "MAG"
+            "key": "sporting",
+            "name": "Sporting",
+            "code": null
           },
-          "score1": 1,
+          "score1": 5,
           "score2": 0
         },
         {
@@ -547,47 +532,17 @@
         {
           "date": "2016-09-17",
           "team1": {
-            "key": "atletico",
-            "name": "Atlético",
-            "code": "ATL"
-          },
-          "team2": {
-            "key": "sporting",
-            "name": "Sporting",
+            "key": "laspalmas",
+            "name": "Las Palmas",
             "code": null
           },
-          "score1": 5,
+          "team2": {
+            "key": "malaga",
+            "name": "Málaga",
+            "code": "MAG"
+          },
+          "score1": 1,
           "score2": 0
-        },
-        {
-          "date": "2016-09-18",
-          "team1": {
-            "key": "alaves",
-            "name": "Alavés",
-            "code": null
-          },
-          "team2": {
-            "key": "deportivo",
-            "name": "Deportivo",
-            "code": "DEP"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-18",
-          "team1": {
-            "key": "athletic",
-            "name": "Athletic",
-            "code": "ATH"
-          },
-          "team2": {
-            "key": "valencia",
-            "name": "Valencia",
-            "code": "VAL"
-          },
-          "score1": null,
-          "score2": null
         },
         {
           "date": "2016-09-18",
@@ -601,8 +556,38 @@
             "name": "Celta",
             "code": "CEL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2016-09-18",
+          "team1": {
+            "key": "athletic",
+            "name": "Athletic",
+            "code": "ATH"
+          },
+          "team2": {
+            "key": "valencia",
+            "name": "Valencia",
+            "code": "VAL"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-18",
+          "team1": {
+            "key": "villareal",
+            "name": "Villarreal CF",
+            "code": "VLL"
+          },
+          "team2": {
+            "key": "realsociedad",
+            "name": "R. Sociedad",
+            "code": "RSO"
+          },
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2016-09-18",
@@ -616,8 +601,23 @@
             "name": "R. Madrid",
             "code": "RMD"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-19",
+          "team1": {
+            "key": "alaves",
+            "name": "Alavés",
+            "code": null
+          },
+          "team2": {
+            "key": "deportivo",
+            "name": "Deportivo",
+            "code": "DEP"
+          },
+          "score1": 0,
+          "score2": 0
         }
       ]
     },
@@ -625,19 +625,34 @@
       "name": "Jornada 5",
       "matches": [
         {
-          "date": "2016-09-21",
+          "date": "2016-09-20",
           "team1": {
-            "key": "osasuna",
-            "name": "Osasuna",
-            "code": "OSA"
+            "key": "malaga",
+            "name": "Málaga",
+            "code": "MAG"
           },
           "team2": {
-            "key": "espanyol",
-            "name": "Espanyol",
-            "code": "ESP"
+            "key": "eibar",
+            "name": "Eibar",
+            "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-20",
+          "team1": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "team2": {
+            "key": "betis",
+            "name": "Betis",
+            "code": "BET"
+          },
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2016-09-21",
@@ -651,113 +666,8 @@
             "name": "Villarreal CF",
             "code": "VLL"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "realsociedad",
-            "name": "R. Sociedad",
-            "code": "RSO"
-          },
-          "team2": {
-            "key": "laspalmas",
-            "name": "Las Palmas",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "malaga",
-            "name": "Málaga",
-            "code": "MAG"
-          },
-          "team2": {
-            "key": "eibar",
-            "name": "Eibar",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "sevilla",
-            "name": "Sevilla",
-            "code": "SEV"
-          },
-          "team2": {
-            "key": "betis",
-            "name": "Betis",
-            "code": "BET"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "granada",
-            "name": "Granada",
-            "code": "GRA"
-          },
-          "team2": {
-            "key": "athletic",
-            "name": "Athletic",
-            "code": "ATH"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "valencia",
-            "name": "Valencia",
-            "code": "VAL"
-          },
-          "team2": {
-            "key": "alaves",
-            "name": "Alavés",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "deportivo",
-            "name": "Deportivo",
-            "code": "DEP"
-          },
-          "team2": {
-            "key": "leganes",
-            "name": "Club Deportivo Leganés",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-21",
-          "team1": {
-            "key": "barcelona",
-            "name": "Barcelona",
-            "code": "BAR"
-          },
-          "team2": {
-            "key": "atletico",
-            "name": "Atlético",
-            "code": "ATL"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2016-09-21",
@@ -771,8 +681,98 @@
             "name": "Sporting",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-21",
+          "team1": {
+            "key": "barcelona",
+            "name": "Barcelona",
+            "code": "BAR"
+          },
+          "team2": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-21",
+          "team1": {
+            "key": "realsociedad",
+            "name": "R. Sociedad",
+            "code": "RSO"
+          },
+          "team2": {
+            "key": "laspalmas",
+            "name": "Las Palmas",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-21",
+          "team1": {
+            "key": "granada",
+            "name": "Granada",
+            "code": "GRA"
+          },
+          "team2": {
+            "key": "athletic",
+            "name": "Athletic",
+            "code": "ATH"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-22",
+          "team1": {
+            "key": "deportivo",
+            "name": "Deportivo",
+            "code": "DEP"
+          },
+          "team2": {
+            "key": "leganes",
+            "name": "Club Deportivo Leganés",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-22",
+          "team1": {
+            "key": "osasuna",
+            "name": "Osasuna",
+            "code": "OSA"
+          },
+          "team2": {
+            "key": "espanyol",
+            "name": "Espanyol",
+            "code": "ESP"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-22",
+          "team1": {
+            "key": "valencia",
+            "name": "Valencia",
+            "code": "VAL"
+          },
+          "team2": {
+            "key": "alaves",
+            "name": "Alavés",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
         }
       ]
     },
@@ -780,6 +780,126 @@
       "name": "Jornada 6",
       "matches": [
         {
+          "date": "2016-09-23",
+          "team1": {
+            "key": "betis",
+            "name": "Betis",
+            "code": "BET"
+          },
+          "team2": {
+            "key": "malaga",
+            "name": "Málaga",
+            "code": "MAG"
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2016-09-24",
+          "team1": {
+            "key": "eibar",
+            "name": "Eibar",
+            "code": null
+          },
+          "team2": {
+            "key": "realsociedad",
+            "name": "R. Sociedad",
+            "code": "RSO"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2016-09-24",
+          "team1": {
+            "key": "sporting",
+            "name": "Sporting",
+            "code": null
+          },
+          "team2": {
+            "key": "barcelona",
+            "name": "Barcelona",
+            "code": "BAR"
+          },
+          "score1": 0,
+          "score2": 5
+        },
+        {
+          "date": "2016-09-24",
+          "team1": {
+            "key": "athletic",
+            "name": "Athletic",
+            "code": "ATH"
+          },
+          "team2": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2016-09-24",
+          "team1": {
+            "key": "laspalmas",
+            "name": "Las Palmas",
+            "code": null
+          },
+          "team2": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-25",
+          "team1": {
+            "key": "leganes",
+            "name": "Club Deportivo Leganés",
+            "code": null
+          },
+          "team2": {
+            "key": "valencia",
+            "name": "Valencia",
+            "code": "VAL"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2016-09-25",
+          "team1": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "team2": {
+            "key": "deportivo",
+            "name": "Deportivo",
+            "code": "DEP"
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2016-09-25",
+          "team1": {
+            "key": "villareal",
+            "name": "Villarreal CF",
+            "code": "VLL"
+          },
+          "team2": {
+            "key": "osasuna",
+            "name": "Osasuna",
+            "code": "OSA"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
           "date": "2016-09-25",
           "team1": {
             "key": "espanyol",
@@ -791,86 +911,11 @@
             "name": "Celta",
             "code": "CEL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "villareal",
-            "name": "Villarreal CF",
-            "code": "VLL"
-          },
-          "team2": {
-            "key": "osasuna",
-            "name": "Osasuna",
-            "code": "OSA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "laspalmas",
-            "name": "Las Palmas",
-            "code": null
-          },
-          "team2": {
-            "key": "madrid",
-            "name": "R. Madrid",
-            "code": "RMD"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "eibar",
-            "name": "Eibar",
-            "code": null
-          },
-          "team2": {
-            "key": "realsociedad",
-            "name": "R. Sociedad",
-            "code": "RSO"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "betis",
-            "name": "Betis",
-            "code": "BET"
-          },
-          "team2": {
-            "key": "malaga",
-            "name": "Málaga",
-            "code": "MAG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "athletic",
-            "name": "Athletic",
-            "code": "ATH"
-          },
-          "team2": {
-            "key": "sevilla",
-            "name": "Sevilla",
-            "code": "SEV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
+          "date": "2016-09-26",
           "team1": {
             "key": "alaves",
             "name": "Alavés",
@@ -881,59 +926,134 @@
             "name": "Granada",
             "code": "GRA"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "leganes",
-            "name": "Club Deportivo Leganés",
-            "code": null
-          },
-          "team2": {
-            "key": "valencia",
-            "name": "Valencia",
-            "code": "VAL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "atletico",
-            "name": "Atlético",
-            "code": "ATL"
-          },
-          "team2": {
-            "key": "deportivo",
-            "name": "Deportivo",
-            "code": "DEP"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-09-25",
-          "team1": {
-            "key": "sporting",
-            "name": "Sporting",
-            "code": null
-          },
-          "team2": {
-            "key": "barcelona",
-            "name": "Barcelona",
-            "code": "BAR"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 1
         }
       ]
     },
     {
       "name": "Jornada 7",
       "matches": [
+        {
+          "date": "2016-09-30",
+          "team1": {
+            "key": "realsociedad",
+            "name": "R. Sociedad",
+            "code": "RSO"
+          },
+          "team2": {
+            "key": "betis",
+            "name": "Betis",
+            "code": "BET"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-01",
+          "team1": {
+            "key": "granada",
+            "name": "Granada",
+            "code": "GRA"
+          },
+          "team2": {
+            "key": "leganes",
+            "name": "Club Deportivo Leganés",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-01",
+          "team1": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "team2": {
+            "key": "alaves",
+            "name": "Alavés",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-01",
+          "team1": {
+            "key": "osasuna",
+            "name": "Osasuna",
+            "code": "OSA"
+          },
+          "team2": {
+            "key": "laspalmas",
+            "name": "Las Palmas",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-01",
+          "team1": {
+            "key": "deportivo",
+            "name": "Deportivo",
+            "code": "DEP"
+          },
+          "team2": {
+            "key": "sporting",
+            "name": "Sporting",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-02",
+          "team1": {
+            "key": "valencia",
+            "name": "Valencia",
+            "code": "VAL"
+          },
+          "team2": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-02",
+          "team1": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "team2": {
+            "key": "eibar",
+            "name": "Eibar",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-02",
+          "team1": {
+            "key": "malaga",
+            "name": "Málaga",
+            "code": "MAG"
+          },
+          "team2": {
+            "key": "athletic",
+            "name": "Athletic",
+            "code": "ATH"
+          },
+          "score1": null,
+          "score2": null
+        },
         {
           "date": "2016-10-02",
           "team1": {
@@ -945,126 +1065,6 @@
             "key": "villareal",
             "name": "Villarreal CF",
             "code": "VLL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "osasuna",
-            "name": "Osasuna",
-            "code": "OSA"
-          },
-          "team2": {
-            "key": "laspalmas",
-            "name": "Las Palmas",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "madrid",
-            "name": "R. Madrid",
-            "code": "RMD"
-          },
-          "team2": {
-            "key": "eibar",
-            "name": "Eibar",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "realsociedad",
-            "name": "R. Sociedad",
-            "code": "RSO"
-          },
-          "team2": {
-            "key": "betis",
-            "name": "Betis",
-            "code": "BET"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "malaga",
-            "name": "Málaga",
-            "code": "MAG"
-          },
-          "team2": {
-            "key": "athletic",
-            "name": "Athletic",
-            "code": "ATH"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "sevilla",
-            "name": "Sevilla",
-            "code": "SEV"
-          },
-          "team2": {
-            "key": "alaves",
-            "name": "Alavés",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "granada",
-            "name": "Granada",
-            "code": "GRA"
-          },
-          "team2": {
-            "key": "leganes",
-            "name": "Club Deportivo Leganés",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "valencia",
-            "name": "Valencia",
-            "code": "VAL"
-          },
-          "team2": {
-            "key": "atletico",
-            "name": "Atlético",
-            "code": "ATL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-02",
-          "team1": {
-            "key": "deportivo",
-            "name": "Deportivo",
-            "code": "DEP"
-          },
-          "team2": {
-            "key": "sporting",
-            "name": "Sporting",
-            "code": null
           },
           "score1": null,
           "score2": null
@@ -1090,22 +1090,7 @@
       "name": "Jornada 8",
       "matches": [
         {
-          "date": "2016-10-16",
-          "team1": {
-            "key": "villareal",
-            "name": "Villarreal CF",
-            "code": "VLL"
-          },
-          "team2": {
-            "key": "celta",
-            "name": "Celta",
-            "code": "CEL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-16",
+          "date": "2016-10-14",
           "team1": {
             "key": "laspalmas",
             "name": "Las Palmas",
@@ -1120,22 +1105,52 @@
           "score2": null
         },
         {
-          "date": "2016-10-16",
+          "date": "2016-10-15",
           "team1": {
-            "key": "eibar",
-            "name": "Eibar",
+            "key": "leganes",
+            "name": "Club Deportivo Leganés",
             "code": null
           },
           "team2": {
-            "key": "osasuna",
-            "name": "Osasuna",
-            "code": "OSA"
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2016-10-16",
+          "date": "2016-10-15",
+          "team1": {
+            "key": "barcelona",
+            "name": "Barcelona",
+            "code": "BAR"
+          },
+          "team2": {
+            "key": "deportivo",
+            "name": "Deportivo",
+            "code": "DEP"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-15",
+          "team1": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "team2": {
+            "key": "granada",
+            "name": "Granada",
+            "code": "GRA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-15",
           "team1": {
             "key": "betis",
             "name": "Betis",
@@ -1145,21 +1160,6 @@
             "key": "madrid",
             "name": "R. Madrid",
             "code": "RMD"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-16",
-          "team1": {
-            "key": "athletic",
-            "name": "Athletic",
-            "code": "ATH"
-          },
-          "team2": {
-            "key": "realsociedad",
-            "name": "R. Sociedad",
-            "code": "RSO"
           },
           "score1": null,
           "score2": null
@@ -1182,29 +1182,14 @@
         {
           "date": "2016-10-16",
           "team1": {
-            "key": "leganes",
-            "name": "Club Deportivo Leganés",
-            "code": null
+            "key": "athletic",
+            "name": "Athletic",
+            "code": "ATH"
           },
           "team2": {
-            "key": "sevilla",
-            "name": "Sevilla",
-            "code": "SEV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2016-10-16",
-          "team1": {
-            "key": "atletico",
-            "name": "Atlético",
-            "code": "ATL"
-          },
-          "team2": {
-            "key": "granada",
-            "name": "Granada",
-            "code": "GRA"
+            "key": "realsociedad",
+            "name": "R. Sociedad",
+            "code": "RSO"
           },
           "score1": null,
           "score2": null
@@ -1227,14 +1212,29 @@
         {
           "date": "2016-10-16",
           "team1": {
-            "key": "barcelona",
-            "name": "Barcelona",
-            "code": "BAR"
+            "key": "villareal",
+            "name": "Villarreal CF",
+            "code": "VLL"
           },
           "team2": {
-            "key": "deportivo",
-            "name": "Deportivo",
-            "code": "DEP"
+            "key": "celta",
+            "name": "Celta",
+            "code": "CEL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2016-10-17",
+          "team1": {
+            "key": "eibar",
+            "name": "Eibar",
+            "code": null
+          },
+          "team2": {
+            "key": "osasuna",
+            "name": "Osasuna",
+            "code": "OSA"
           },
           "score1": null,
           "score2": null
