@@ -11,7 +11,7 @@ Leagues include:
 - Italian Serie A
 - and more
 
-Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-16/en.1.json`](https://github.com/openfootball/football.json/blob/master/2015-16/en.1.json):
+Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/opendatajson/football.json/blob/master/2015-16/en.1.json):
 
 ``` json
 {
@@ -58,7 +58,7 @@ Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-1
 ```
 
 
-Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://github.com/openfootball/football.json/blob/master/2015-16/en.1.clubs.json):
+Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw.githubusercontent.com/opendatajson/football.json/blob/master/2015-16/en.1.clubs.json):
 
 ``` json
 {
@@ -82,6 +82,17 @@ Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://git
     ...
   ]
 }
+```
+
+## How to Use the Public JSON API Service - No API Key Required ;-)
+
+Use the "raw" links served by GitHub (
+otherwise you get the complete "formatted" GitHub page).
+
+Example:
+
+```
+curl https://raw.githubusercontent.com/opendatajson/football.json/blob/master/2016-17/en.1.clubs.json 
 ```
 
 
