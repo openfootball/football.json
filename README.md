@@ -118,6 +118,21 @@ the (auto-)update machinery.
 Any leagues or tournaments missing? Contributions welcome!
 For starting your own repo from scratch see the [Mauritius League Quick Starter Kit](https://github.com/sportkit/mu-mauritius).
 
+## More
+
+Enrique Lopez Magallon (@enadol) writes:
+
+> Greetings! I started coding the following python robot to read the .txt files 
+> (for instance, "1-bundesliga-i.txt)" and generate an emulated version of the JSONs featured in football.json.
+> 
+> https://github.com/enadol/fbjsonrobot
+>
+> Just make sure the proper .txt file is on the same folder, launch the file launch.py and that's (almost) it! 
+> For other leagues, adapt is required.
+>
+> It's still not perfect, but that's Github is for! 😄
+>
+> Have fun! ⚽️ ⚽️
 
 ## License
 
