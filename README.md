@@ -101,7 +101,7 @@ $ curl https://raw.githubusercontent.com/opendatajson/football.json/master/2015-
 Note: The JSON files get (auto-)generated using the football.db datasets, thus, please do NOT
 edit the JSON files but the source files in the country repos e.g.:
 
-- English Premier League in [`/en-england`](https://github.com/openfootball/eng-england)
+- English Premier League in [`/eng-england`](https://github.com/openfootball/eng-england)
 - Deutsche Bundesliga in [`/de-deutschland`](https://github.com/openfootball/de-deutschland)
 - Spanish Primera División ("La Liga") in [`/es-espana`](https://github.com/openfootball/es-espana)
 - Italian Serie A  in [`/it-italy`](https://github.com/openfootball/it-italy)
