@@ -1,0 +1,105 @@
+{
+  "name": "Serie A 2017/18",
+  "clubs": [
+    {
+      "key": "milan",
+      "name": "Milan",
+      "code": "MIL"
+    },
+    {
+      "key": "inter",
+      "name": "Inter",
+      "code": "INT"
+    },
+    {
+      "key": "lazio",
+      "name": "Lazio",
+      "code": "LAZ"
+    },
+    {
+      "key": "roma",
+      "name": "Roma",
+      "code": "ROM"
+    },
+    {
+      "key": "genoa",
+      "name": "Genoa",
+      "code": "GEN"
+    },
+    {
+      "key": "sampdoria",
+      "name": "Sampdoria",
+      "code": "SAM"
+    },
+    {
+      "key": "juventus",
+      "name": "Juventus",
+      "code": "JUV"
+    },
+    {
+      "key": "torino",
+      "name": "Torino",
+      "code": "TOR"
+    },
+    {
+      "key": "napoli",
+      "name": "Napoli",
+      "code": "NAP"
+    },
+    {
+      "key": "atalanta",
+      "name": "Atalanta",
+      "code": "ATA"
+    },
+    {
+      "key": "chievoverona",
+      "name": "Chievo",
+      "code": "CHI"
+    },
+    {
+      "key": "fiorentina",
+      "name": "Fiorentina",
+      "code": "FIO"
+    },
+    {
+      "key": "udinese",
+      "name": "Udinese",
+      "code": "UDI"
+    },
+    {
+      "key": "sassuolo",
+      "name": "Sassuolo",
+      "code": "SAS"
+    },
+    {
+      "key": "bologna",
+      "name": "Bologna",
+      "code": "BOL"
+    },
+    {
+      "key": "cagliari",
+      "name": "Cagliari",
+      "code": "CAG"
+    },
+    {
+      "key": "crotone",
+      "name": "Crotone",
+      "code": "CRO"
+    },
+    {
+      "key": "hellasverona",
+      "name": "Verona",
+      "code": "HEL"
+    },
+    {
+      "key": "spal",
+      "name": "SPAL",
+      "code": null
+    },
+    {
+      "key": "benevento",
+      "name": "Benevento",
+      "code": null
+    }
+  ]
+}
