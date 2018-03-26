@@ -11,7 +11,7 @@ Leagues include:
 - Italian Serie A
 - and more
 
-Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/opendatajson/football.json/master/2015-16/en.1.json):
+Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json):
 
 ``` json
 {
@@ -58,7 +58,7 @@ Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-1
 ```
 
 
-Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw.githubusercontent.com/opendatajson/football.json/master/2015-16/en.1.clubs.json):
+Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json):
 
 ``` json
 {
@@ -92,7 +92,7 @@ otherwise you get the complete "formatted" GitHub page).
 Example:
 
 ```
-$ curl https://raw.githubusercontent.com/opendatajson/football.json/master/2015-16/en.1.clubs.json
+$ curl https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json
 ```
 
 
@@ -116,7 +116,8 @@ the (auto-)update machinery.
 ## Contributions Welcome - Add Your Leagues and Tournaments!
 
 Any leagues or tournaments missing? Contributions welcome!
-For starting your own repo from scratch see the [Mauritius League Quick Starter Kit](https://github.com/sportkit/mu-mauritius).
+For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/your-league-starter).
+
 
 ## More
 
