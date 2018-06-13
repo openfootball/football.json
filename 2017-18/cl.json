@@ -18,6 +18,29 @@
           },
           "score1": 1,
           "score2": 2,
+          "goals1": [
+            {
+              "name": "Seferović",
+              "minute": 50,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Vitinho",
+              "minute": 63,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "Zhamaletdinov",
+              "minute": 71,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -34,6 +57,29 @@
           },
           "score1": 3,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Fellaini",
+              "minute": 35,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Lukaku",
+              "minute": 53,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Rashford",
+              "minute": 84,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
         },
         {
@@ -50,6 +96,30 @@
           },
           "score1": 3,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Lewandowski",
+              "minute": 12,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Thiago",
+              "minute": 65,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Kimmich",
+              "minute": 90,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
         },
         {
@@ -66,7 +136,529 @@
           },
           "score1": 0,
           "score2": 5,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Neymar",
+              "minute": 19,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Mbappé",
+              "minute": 34,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Cavani",
+              "minute": 40,
+              "score1": 0,
+              "score2": 3,
+              "penalty": true
+            },
+            {
+              "name": "Lustig",
+              "minute": 83,
+              "score1": 0,
+              "score2": 4,
+              "owngoal": true
+            },
+            {
+              "name": "Cavani",
+              "minute": 85,
+              "score1": 0,
+              "score2": 5
+            }
+          ],
           "group": "Group B"
+        },
+        {
+          "date": "2017-09-12",
+          "team1": {
+            "key": "chelsea",
+            "name": "Chelsea",
+            "code": "CHE"
+          },
+          "team2": {
+            "key": "qarabag",
+            "name": "Qarabağ FK",
+            "code": null
+          },
+          "score1": 6,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Pedro",
+              "minute": 5,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Zappacosta",
+              "minute": 30,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Azpilicueta",
+              "minute": 55,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Bakayoko",
+              "minute": 71,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Batshuayi",
+              "minute": 76,
+              "score1": 5,
+              "score2": 0
+            },
+            {
+              "name": "Medvedev",
+              "minute": 82,
+              "score1": 6,
+              "score2": 0,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-09-12",
+          "team1": {
+            "key": "roma",
+            "name": "Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "group": "Group C"
+        },
+        {
+          "date": "2017-09-12",
+          "team1": {
+            "key": "barcelonaguayaquil",
+            "name": "Barcelona",
+            "code": null
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Messi",
+              "minute": 45,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Rakitić",
+              "minute": 56,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Messi",
+              "minute": 69,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-09-12",
+          "team1": {
+            "key": "olympiacos",
+            "name": "Olympiakos Piräus",
+            "code": null
+          },
+          "team2": {
+            "key": "sportinglisboa",
+            "name": "Sporting Lisboa",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 3,
+          "goals1": [
+            {
+              "name": "Pardo",
+              "minute": 89,
+              "score1": 1,
+              "score2": 3
+            },
+            {
+              "name": "Pardo",
+              "minute": 90,
+              "offset": 3,
+              "score1": 2,
+              "score2": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Doumbia",
+              "minute": 2,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Gelson M.",
+              "minute": 13,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Fernandes",
+              "minute": 43,
+              "score1": 0,
+              "score2": 3
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "maribor",
+            "name": "Maribor",
+            "code": null
+          },
+          "team2": {
+            "key": "spartak",
+            "name": "Spartak",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Bohar",
+              "minute": 85,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Samedov",
+              "minute": 59,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "liverpoolmontevideo",
+            "name": "Liverpool",
+            "code": null
+          },
+          "team2": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "score1": 2,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Firmino",
+              "minute": 21,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Salah",
+              "minute": 37,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Ben Yedder",
+              "minute": 5,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Correa",
+              "minute": 72,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "feyenoord",
+            "name": "Feyenoord",
+            "code": null
+          },
+          "team2": {
+            "key": "mancity",
+            "name": "Manchester City",
+            "code": "MCI"
+          },
+          "score1": 0,
+          "score2": 4,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Stones",
+              "minute": 2,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Agüero",
+              "minute": 10,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Gabriel Jesus",
+              "minute": 25,
+              "score1": 0,
+              "score2": 3
+            },
+            {
+              "name": "Stones",
+              "minute": 63,
+              "score1": 0,
+              "score2": 4
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "donezk",
+            "name": "Shakhtar Donetsk",
+            "code": null
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Taison",
+              "minute": 15,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Ferreyra",
+              "minute": 58,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Milik",
+              "minute": 72,
+              "score1": 2,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "monaco",
+            "name": "AS Monaco",
+            "code": "ASM"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Forsberg",
+              "minute": 33,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Tielemans",
+              "minute": 34,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "porto",
+            "name": "Porto",
+            "code": null
+          },
+          "team2": {
+            "key": "besiktas",
+            "name": "Beşiktaş JK",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 3,
+          "goals1": [
+            {
+              "name": "Tošić",
+              "minute": 21,
+              "score1": 1,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Talisca",
+              "minute": 13,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Tosun",
+              "minute": 28,
+              "score1": 1,
+              "score2": 2
+            },
+            {
+              "name": "Babel",
+              "minute": 86,
+              "score1": 1,
+              "score2": 3
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "team2": {
+            "key": "apoel",
+            "name": "APOEL",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Ronaldo",
+              "minute": 12,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 51,
+              "score1": 2,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Ramos",
+              "minute": 61,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group H"
+        },
+        {
+          "date": "2017-09-13",
+          "team1": {
+            "key": "tottenham",
+            "name": "Tottenham Hotspur",
+            "code": "TOT"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Son Heung-min",
+              "minute": 4,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Kane",
+              "minute": 15,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Kane",
+              "minute": 60,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Yarmolenko",
+              "minute": 11,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group H"
         }
       ]
     },
@@ -87,6 +679,42 @@
           },
           "score1": 5,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Lang",
+              "minute": 2,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Oberlin",
+              "minute": 20,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Van Wolfswinkel",
+              "minute": 60,
+              "score1": 3,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Oberlin",
+              "minute": 69,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Riveros",
+              "minute": 76,
+              "score1": 5,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
         },
         {
@@ -103,6 +731,41 @@
           },
           "score1": 1,
           "score2": 4,
+          "goals1": [
+            {
+              "name": "Kuchayev",
+              "minute": 90,
+              "score1": 1,
+              "score2": 4
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Lukaku",
+              "minute": 4,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Martial",
+              "minute": 19,
+              "score1": 0,
+              "score2": 2,
+              "penalty": true
+            },
+            {
+              "name": "Lukaku",
+              "minute": 27,
+              "score1": 0,
+              "score2": 3
+            },
+            {
+              "name": "Mkhitaryan",
+              "minute": 57,
+              "score1": 0,
+              "score2": 4
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -119,6 +782,29 @@
           },
           "score1": 3,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Dani Alves",
+              "minute": 2,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Cavani",
+              "minute": 31,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Neymar",
+              "minute": 63,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
         },
         {
@@ -135,7 +821,475 @@
           },
           "score1": 0,
           "score2": 3,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Griffiths",
+              "minute": 38,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Roberts",
+              "minute": 50,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Sinclair",
+              "minute": 90,
+              "offset": 3,
+              "score1": 0,
+              "score2": 3
+            }
+          ],
           "group": "Group B"
+        },
+        {
+          "date": "2017-09-27",
+          "team1": {
+            "key": "qarabag",
+            "name": "Qarabağ FK",
+            "code": null
+          },
+          "team2": {
+            "key": "roma",
+            "name": "Roma",
+            "code": "ROM"
+          },
+          "score1": 1,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Pedro Henrique",
+              "minute": 28,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Manolas",
+              "minute": 7,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Džeko",
+              "minute": 15,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-09-27",
+          "team1": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "team2": {
+            "key": "chelsea",
+            "name": "Chelsea",
+            "code": "CHE"
+          },
+          "score1": 1,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Griezmann",
+              "minute": 40,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Morata",
+              "minute": 60,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Batshuayi",
+              "minute": 90,
+              "offset": 3,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-09-27",
+          "team1": {
+            "key": "sportinglisboa",
+            "name": "Sporting Lisboa",
+            "code": null
+          },
+          "team2": {
+            "key": "barcelonaguayaquil",
+            "name": "Barcelona",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 1,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Coates",
+              "minute": 49,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-09-27",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "olympiacos",
+            "name": "Olympiakos Piräus",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Higuaín",
+              "minute": 69,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Mandžukić",
+              "minute": 80,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "team2": {
+            "key": "maribor",
+            "name": "Maribor",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Ben Yedder",
+              "minute": 27,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Ben Yedder",
+              "minute": 38,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Ben Yedder",
+              "minute": 83,
+              "score1": 3,
+              "score2": 0,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "spartak",
+            "name": "Spartak",
+            "code": null
+          },
+          "team2": {
+            "key": "liverpoolmontevideo",
+            "name": "Liverpool",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Fernando",
+              "minute": 23,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Coutinho",
+              "minute": 31,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "feyenoord",
+            "name": "Feyenoord",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Insigne",
+              "minute": 7,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Mertens",
+              "minute": 49,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Callejón",
+              "minute": 70,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Amrabat",
+              "minute": 90,
+              "offset": 3,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "mancity",
+            "name": "Manchester City",
+            "code": "MCI"
+          },
+          "team2": {
+            "key": "donezk",
+            "name": "Shakhtar Donetsk",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "De Bruyne",
+              "minute": 48,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Sterling",
+              "minute": 90,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "besiktas",
+            "name": "Beşiktaş JK",
+            "code": null
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 2,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Babel",
+              "minute": 11,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Talisca",
+              "minute": 43,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "monaco",
+            "name": "AS Monaco",
+            "code": "ASM"
+          },
+          "team2": {
+            "key": "porto",
+            "name": "Porto",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 3,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Aboubakar",
+              "minute": 31,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Aboubakar",
+              "minute": 69,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Layún",
+              "minute": 89,
+              "score1": 0,
+              "score2": 3
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "score1": 1,
+          "score2": 3,
+          "goals1": [
+            {
+              "name": "Aubameyang",
+              "minute": 54,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Bale",
+              "minute": 18,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 50,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 79,
+              "score1": 1,
+              "score2": 3
+            }
+          ],
+          "group": "Group H"
+        },
+        {
+          "date": "2017-09-26",
+          "team1": {
+            "key": "apoel",
+            "name": "APOEL",
+            "code": null
+          },
+          "team2": {
+            "key": "tottenham",
+            "name": "Tottenham Hotspur",
+            "code": "TOT"
+          },
+          "score1": 0,
+          "score2": 3,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Kane",
+              "minute": 39,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Kane",
+              "minute": 62,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Kane",
+              "minute": 67,
+              "score1": 0,
+              "score2": 3
+            }
+          ],
+          "group": "Group H"
         }
       ]
     },
@@ -156,6 +1310,23 @@
           },
           "score1": 0,
           "score2": 2,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Xhaka",
+              "minute": 29,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Oberlin",
+              "minute": 90,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -172,6 +1343,17 @@
           },
           "score1": 0,
           "score2": 1,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Rashford",
+              "minute": 64,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -188,6 +1370,35 @@
           },
           "score1": 0,
           "score2": 4,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Mbappé",
+              "minute": 3,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Cavani",
+              "minute": 44,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Neymar",
+              "minute": 66,
+              "score1": 0,
+              "score2": 3
+            },
+            {
+              "name": "Di María",
+              "minute": 88,
+              "score1": 0,
+              "score2": 4
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -204,7 +1415,536 @@
           },
           "score1": 3,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Müller",
+              "minute": 17,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Kimmich",
+              "minute": 29,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Hummels",
+              "minute": 51,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
+        },
+        {
+          "date": "2017-10-18",
+          "team1": {
+            "key": "qarabag",
+            "name": "Qarabağ FK",
+            "code": null
+          },
+          "team2": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "score1": 0,
+          "score2": 0,
+          "group": "Group C"
+        },
+        {
+          "date": "2017-10-18",
+          "team1": {
+            "key": "chelsea",
+            "name": "Chelsea",
+            "code": "CHE"
+          },
+          "team2": {
+            "key": "roma",
+            "name": "Roma",
+            "code": "ROM"
+          },
+          "score1": 3,
+          "score2": 3,
+          "goals1": [
+            {
+              "name": "David Luiz",
+              "minute": 11,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Hazard",
+              "minute": 37,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Hazard",
+              "minute": 75,
+              "score1": 3,
+              "score2": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kolarov",
+              "minute": 40,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Džeko",
+              "minute": 64,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "Džeko",
+              "minute": 70,
+              "score1": 2,
+              "score2": 3
+            }
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-10-18",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "sportinglisboa",
+            "name": "Sporting Lisboa",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Pjanić",
+              "minute": 29,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Mandžukić",
+              "minute": 84,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Alex Sandro",
+              "minute": 12,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-10-18",
+          "team1": {
+            "key": "barcelonaguayaquil",
+            "name": "Barcelona",
+            "code": null
+          },
+          "team2": {
+            "key": "olympiacos",
+            "name": "Olympiakos Piräus",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Nikolaou",
+              "minute": 18,
+              "score1": 1,
+              "score2": 0,
+              "owngoal": true
+            },
+            {
+              "name": "Messi",
+              "minute": 61,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Digne",
+              "minute": 64,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Nikolaou",
+              "minute": 90,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "spartak",
+            "name": "Spartak",
+            "code": null
+          },
+          "team2": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "score1": 5,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Promes",
+              "minute": 18,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Melgarejo",
+              "minute": 58,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Glushakov",
+              "minute": 67,
+              "score1": 3,
+              "score2": 1
+            },
+            {
+              "name": "Luiz Adriano",
+              "minute": 74,
+              "score1": 4,
+              "score2": 1
+            },
+            {
+              "name": "Promes",
+              "minute": 90,
+              "score1": 5,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kjær",
+              "minute": 30,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "maribor",
+            "name": "Maribor",
+            "code": null
+          },
+          "team2": {
+            "key": "liverpoolmontevideo",
+            "name": "Liverpool",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 7,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Firmino",
+              "minute": 4,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Coutinho",
+              "minute": 13,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Salah",
+              "minute": 19,
+              "score1": 0,
+              "score2": 3
+            },
+            {
+              "name": "Salah",
+              "minute": 40,
+              "score1": 0,
+              "score2": 4
+            },
+            {
+              "name": "Firmino",
+              "minute": 54,
+              "score1": 0,
+              "score2": 5
+            },
+            {
+              "name": "Oxlade-Chamberlain",
+              "minute": 86,
+              "score1": 0,
+              "score2": 6
+            },
+            {
+              "name": "Alexander-Arnold",
+              "minute": 90,
+              "score1": 0,
+              "score2": 7
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "mancity",
+            "name": "Manchester City",
+            "code": "MCI"
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Sterling",
+              "minute": 9,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Gabriel Jesus",
+              "minute": 13,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Diawara",
+              "minute": 73,
+              "score1": 2,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "feyenoord",
+            "name": "Feyenoord",
+            "code": null
+          },
+          "team2": {
+            "key": "donezk",
+            "name": "Shakhtar Donetsk",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Berghuis",
+              "minute": 8,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Bernardeschi",
+              "minute": 24,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Bernardeschi",
+              "minute": 54,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "monaco",
+            "name": "AS Monaco",
+            "code": "ASM"
+          },
+          "team2": {
+            "key": "besiktas",
+            "name": "Beşiktaş JK",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Falcao",
+              "minute": 30,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Tosun",
+              "minute": 34,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Tosun",
+              "minute": 54,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "porto",
+            "name": "Porto",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Orban",
+              "minute": 8,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Forsberg",
+              "minute": 38,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Augustin",
+              "minute": 41,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Aboubakar",
+              "minute": 18,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Marcano",
+              "minute": 44,
+              "score1": 3,
+              "score2": 2
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "apoel",
+            "name": "APOEL",
+            "code": null
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Poté",
+              "minute": 62,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Papastathopoulos",
+              "minute": 67,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group H"
+        },
+        {
+          "date": "2017-10-17",
+          "team1": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "team2": {
+            "key": "tottenham",
+            "name": "Tottenham Hotspur",
+            "code": "TOT"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Ronaldo",
+              "minute": 43,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Varane",
+              "minute": 28,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
+          "group": "Group H"
         }
       ]
     },
@@ -225,6 +1965,28 @@
           },
           "score1": 1,
           "score2": 2,
+          "goals1": [
+            {
+              "name": "Zuffi",
+              "minute": 32,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Dzagoev",
+              "minute": 65,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Wernbloom",
+              "minute": 79,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -241,6 +2003,25 @@
           },
           "score1": 2,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Svilar",
+              "minute": 45,
+              "score1": 1,
+              "score2": 0,
+              "owngoal": true
+            },
+            {
+              "name": "Blind",
+              "minute": 78,
+              "score1": 2,
+              "score2": 0,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
         },
         {
@@ -257,6 +2038,42 @@
           },
           "score1": 5,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Verratti",
+              "minute": 30,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Neymar",
+              "minute": 45,
+              "offset": 4,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Kurzawa",
+              "minute": 52,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Kurzawa",
+              "minute": 72,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Kurzawa",
+              "minute": 78,
+              "score1": 5,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
         },
         {
@@ -273,7 +2090,482 @@
           },
           "score1": 1,
           "score2": 2,
+          "goals1": [
+            {
+              "name": "McGregor",
+              "minute": 74,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Coman",
+              "minute": 22,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Martínez",
+              "minute": 77,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group B"
+        },
+        {
+          "date": "2017-10-31",
+          "team1": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "team2": {
+            "key": "qarabag",
+            "name": "Qarabağ FK",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Partey",
+              "minute": 56,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Míchel",
+              "minute": 40,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-10-31",
+          "team1": {
+            "key": "roma",
+            "name": "Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "chelsea",
+            "name": "Chelsea",
+            "code": "CHE"
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "El Shaarawy",
+              "minute": 1,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "El Shaarawy",
+              "minute": 36,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Perotti",
+              "minute": 63,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-10-31",
+          "team1": {
+            "key": "sportinglisboa",
+            "name": "Sporting Lisboa",
+            "code": null
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Bruno César",
+              "minute": 20,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Higuaín",
+              "minute": 79,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-10-31",
+          "team1": {
+            "key": "olympiacos",
+            "name": "Olympiakos Piräus",
+            "code": null
+          },
+          "team2": {
+            "key": "barcelonaguayaquil",
+            "name": "Barcelona",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0,
+          "group": "Group D"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "team2": {
+            "key": "spartak",
+            "name": "Spartak",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Lenglet",
+              "minute": 30,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Banega",
+              "minute": 59,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Zé Luís",
+              "minute": 78,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "liverpoolmontevideo",
+            "name": "Liverpool",
+            "code": null
+          },
+          "team2": {
+            "key": "maribor",
+            "name": "Maribor",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Salah",
+              "minute": 49,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Can",
+              "minute": 64,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Sturridge",
+              "minute": 90,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "mancity",
+            "name": "Manchester City",
+            "code": "MCI"
+          },
+          "score1": 2,
+          "score2": 4,
+          "goals1": [
+            {
+              "name": "Insigne",
+              "minute": 21,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Jorginho",
+              "minute": 62,
+              "score1": 2,
+              "score2": 2,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Otamendi",
+              "minute": 34,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Stones",
+              "minute": 48,
+              "score1": 1,
+              "score2": 2
+            },
+            {
+              "name": "Agüero",
+              "minute": 69,
+              "score1": 2,
+              "score2": 3
+            },
+            {
+              "name": "Sterling",
+              "minute": 90,
+              "offset": 2,
+              "score1": 2,
+              "score2": 4
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "donezk",
+            "name": "Shakhtar Donetsk",
+            "code": null
+          },
+          "team2": {
+            "key": "feyenoord",
+            "name": "Feyenoord",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Ferreyra",
+              "minute": 14,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Marlos",
+              "minute": 17,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Marlos",
+              "minute": 68,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Jørgensen",
+              "minute": 12,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "besiktas",
+            "name": "Beşiktaş JK",
+            "code": null
+          },
+          "team2": {
+            "key": "monaco",
+            "name": "AS Monaco",
+            "code": "ASM"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Tosun",
+              "minute": 54,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Lopes",
+              "minute": 45,
+              "offset": 1,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "porto",
+            "name": "Porto",
+            "code": null
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Herrera",
+              "minute": 13,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Danilo",
+              "minute": 61,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Pereira",
+              "minute": 90,
+              "offset": 3,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Werner",
+              "minute": 48,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "apoel",
+            "name": "APOEL",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Guerreiro",
+              "minute": 29,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Poté",
+              "minute": 51,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group H"
+        },
+        {
+          "date": "2017-11-01",
+          "team1": {
+            "key": "tottenham",
+            "name": "Tottenham Hotspur",
+            "code": "TOT"
+          },
+          "team2": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Alli",
+              "minute": 27,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Alli",
+              "minute": 56,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Eriksen",
+              "minute": 65,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Ronaldo",
+              "minute": 80,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "group": "Group H"
         }
       ]
     },
@@ -294,6 +2586,24 @@
           },
           "score1": 2,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Shchennikov",
+              "minute": 13,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Jardel",
+              "minute": 56,
+              "score1": 2,
+              "score2": 0,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
         },
         {
@@ -310,6 +2620,17 @@
           },
           "score1": 1,
           "score2": 0,
+          "goals1": [
+            {
+              "name": "Lang",
+              "minute": 89,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
         },
         {
@@ -326,6 +2647,28 @@
           },
           "score1": 1,
           "score2": 2,
+          "goals1": [
+            {
+              "name": "Hanni",
+              "minute": 63,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Lewandowski",
+              "minute": 51,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Tolisso",
+              "minute": 77,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -342,7 +2685,536 @@
           },
           "score1": 7,
           "score2": 1,
+          "goals1": [
+            {
+              "name": "Neymar",
+              "minute": 9,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Neymar",
+              "minute": 22,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Cavani",
+              "minute": 28,
+              "score1": 3,
+              "score2": 1
+            },
+            {
+              "name": "Mbappé",
+              "minute": 35,
+              "score1": 4,
+              "score2": 1
+            },
+            {
+              "name": "Verratti",
+              "minute": 75,
+              "score1": 5,
+              "score2": 1
+            },
+            {
+              "name": "Cavani",
+              "minute": 79,
+              "score1": 6,
+              "score2": 1
+            },
+            {
+              "name": "Dani Alves",
+              "minute": 80,
+              "score1": 7,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Dembélé",
+              "minute": 1,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group B"
+        },
+        {
+          "date": "2017-11-22",
+          "team1": {
+            "key": "qarabag",
+            "name": "Qarabağ FK",
+            "code": null
+          },
+          "team2": {
+            "key": "chelsea",
+            "name": "Chelsea",
+            "code": "CHE"
+          },
+          "score1": 0,
+          "score2": 4,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Hazard",
+              "minute": 21,
+              "score1": 0,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "Willian",
+              "minute": 36,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Fàbregas",
+              "minute": 73,
+              "score1": 0,
+              "score2": 3,
+              "penalty": true
+            },
+            {
+              "name": "Willian",
+              "minute": 85,
+              "score1": 0,
+              "score2": 4
+            }
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-11-22",
+          "team1": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "team2": {
+            "key": "roma",
+            "name": "Roma",
+            "code": "ROM"
+          },
+          "score1": 2,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Griezmann",
+              "minute": 69,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Gameiro",
+              "minute": 85,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-11-22",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "barcelonaguayaquil",
+            "name": "Barcelona",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0,
+          "group": "Group D"
+        },
+        {
+          "date": "2017-11-22",
+          "team1": {
+            "key": "sportinglisboa",
+            "name": "Sporting Lisboa",
+            "code": null
+          },
+          "team2": {
+            "key": "olympiacos",
+            "name": "Olympiakos Piräus",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Dost",
+              "minute": 40,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Bruno César",
+              "minute": 43,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Dost",
+              "minute": 66,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Odjidja-Ofoe",
+              "minute": 86,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "spartak",
+            "name": "Spartak",
+            "code": null
+          },
+          "team2": {
+            "key": "maribor",
+            "name": "Maribor",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Zé Luís",
+              "minute": 82,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Mešanović",
+              "minute": 90,
+              "offset": 2,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "team2": {
+            "key": "liverpoolmontevideo",
+            "name": "Liverpool",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 3,
+          "goals1": [
+            {
+              "name": "Ben Yedder",
+              "minute": 51,
+              "score1": 1,
+              "score2": 3
+            },
+            {
+              "name": "Ben Yedder",
+              "minute": 60,
+              "score1": 2,
+              "score2": 3,
+              "penalty": true
+            },
+            {
+              "name": "Pizarro",
+              "minute": 90,
+              "offset": 3,
+              "score1": 3,
+              "score2": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Firmino",
+              "minute": 2,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Mané",
+              "minute": 22,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Firmino",
+              "minute": 30,
+              "score1": 0,
+              "score2": 3
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "mancity",
+            "name": "Manchester City",
+            "code": "MCI"
+          },
+          "team2": {
+            "key": "feyenoord",
+            "name": "Feyenoord",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Sterling",
+              "minute": 88,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "donezk",
+            "name": "Shakhtar Donetsk",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Insigne",
+              "minute": 56,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Zieliński",
+              "minute": 81,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Mertens",
+              "minute": 83,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "besiktas",
+            "name": "Beşiktaş JK",
+            "code": null
+          },
+          "team2": {
+            "key": "porto",
+            "name": "Porto",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Talisca",
+              "minute": 41,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Felipe",
+              "minute": 29,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "monaco",
+            "name": "AS Monaco",
+            "code": "ASM"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 1,
+          "score2": 4,
+          "goals1": [
+            {
+              "name": "Falcao",
+              "minute": 43,
+              "score1": 1,
+              "score2": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Jemerson",
+              "minute": 6,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            },
+            {
+              "name": "Werner",
+              "minute": 9,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Werner",
+              "minute": 31,
+              "score1": 0,
+              "score2": 3,
+              "penalty": true
+            },
+            {
+              "name": "Keïta",
+              "minute": 45,
+              "score1": 1,
+              "score2": 4
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "apoel",
+            "name": "APOEL",
+            "code": null
+          },
+          "team2": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "score1": 0,
+          "score2": 6,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Modrić",
+              "minute": 23,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Benzema",
+              "minute": 39,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Nacho",
+              "minute": 41,
+              "score1": 0,
+              "score2": 3
+            },
+            {
+              "name": "Benzema",
+              "minute": 45,
+              "offset": 1,
+              "score1": 0,
+              "score2": 4
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 49,
+              "score1": 0,
+              "score2": 5
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 54,
+              "score1": 0,
+              "score2": 6
+            }
+          ],
+          "group": "Group H"
+        },
+        {
+          "date": "2017-11-21",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "tottenham",
+            "name": "Tottenham Hotspur",
+            "code": "TOT"
+          },
+          "score1": 1,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Aubameyang",
+              "minute": 31,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kane",
+              "minute": 49,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Son Heung-min",
+              "minute": 76,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "group": "Group H"
         }
       ]
     },
@@ -363,6 +3235,23 @@
           },
           "score1": 0,
           "score2": 2,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Elyounoussi",
+              "minute": 5,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Oberlin",
+              "minute": 65,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -379,6 +3268,28 @@
           },
           "score1": 2,
           "score2": 1,
+          "goals1": [
+            {
+              "name": "Lukaku",
+              "minute": 64,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Rashford",
+              "minute": 66,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Vitinho",
+              "minute": 45,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -395,6 +3306,34 @@
           },
           "score1": 3,
           "score2": 1,
+          "goals1": [
+            {
+              "name": "Lewandowski",
+              "minute": 8,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Tolisso",
+              "minute": 37,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Tolisso",
+              "minute": 69,
+              "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Mbappé",
+              "minute": 50,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -411,7 +3350,513 @@
           },
           "score1": 0,
           "score2": 1,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Šimunović",
+              "minute": 62,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
           "group": "Group B"
+        },
+        {
+          "date": "2017-12-05",
+          "team1": {
+            "key": "chelsea",
+            "name": "Chelsea",
+            "code": "CHE"
+          },
+          "team2": {
+            "key": "atletico",
+            "name": "Atlético",
+            "code": "ATL"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Savić",
+              "minute": 75,
+              "score1": 1,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Saúl",
+              "minute": 56,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-12-05",
+          "team1": {
+            "key": "roma",
+            "name": "Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "qarabag",
+            "name": "Qarabağ FK",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Perotti",
+              "minute": 53,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group C"
+        },
+        {
+          "date": "2017-12-05",
+          "team1": {
+            "key": "barcelonaguayaquil",
+            "name": "Barcelona",
+            "code": null
+          },
+          "team2": {
+            "key": "sportinglisboa",
+            "name": "Sporting Lisboa",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Alcácer",
+              "minute": 59,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Mathieu",
+              "minute": 90,
+              "offset": 1,
+              "score1": 2,
+              "score2": 0,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-12-05",
+          "team1": {
+            "key": "olympiacos",
+            "name": "Olympiakos Piräus",
+            "code": null
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": 0,
+          "score2": 2,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Cuadrado",
+              "minute": 15,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Bernardeschi",
+              "minute": 90,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
+          "group": "Group D"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "maribor",
+            "name": "Maribor",
+            "code": null
+          },
+          "team2": {
+            "key": "sevilla",
+            "name": "Sevilla",
+            "code": "SEV"
+          },
+          "score1": 1,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Tavares",
+              "minute": 10,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Ganso",
+              "minute": 75,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "liverpoolmontevideo",
+            "name": "Liverpool",
+            "code": null
+          },
+          "team2": {
+            "key": "spartak",
+            "name": "Spartak",
+            "code": null
+          },
+          "score1": 7,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Coutinho",
+              "minute": 4,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Coutinho",
+              "minute": 15,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Firmino",
+              "minute": 19,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Mané",
+              "minute": 47,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Coutinho",
+              "minute": 50,
+              "score1": 5,
+              "score2": 0
+            },
+            {
+              "name": "Mané",
+              "minute": 76,
+              "score1": 6,
+              "score2": 0
+            },
+            {
+              "name": "Salah",
+              "minute": 86,
+              "score1": 7,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group E"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "feyenoord",
+            "name": "Feyenoord",
+            "code": null
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "Napoli",
+            "code": "NAP"
+          },
+          "score1": 2,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Jørgensen",
+              "minute": 33,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "St. Juste",
+              "minute": 90,
+              "offset": 1,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Zieliński",
+              "minute": 2,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "donezk",
+            "name": "Shakhtar Donetsk",
+            "code": null
+          },
+          "team2": {
+            "key": "mancity",
+            "name": "Manchester City",
+            "code": "MCI"
+          },
+          "score1": 2,
+          "score2": 1,
+          "goals1": [
+            {
+              "name": "Bernardeschi",
+              "minute": 26,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Ismaily",
+              "minute": 32,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Agüero",
+              "minute": 90,
+              "offset": 2,
+              "score1": 2,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "group": "Group F"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "besiktas",
+            "name": "Beşiktaş JK",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Keïta",
+              "minute": 87,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Negredo",
+              "minute": 10,
+              "score1": 0,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "Talisca",
+              "minute": 90,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "porto",
+            "name": "Porto",
+            "code": null
+          },
+          "team2": {
+            "key": "monaco",
+            "name": "AS Monaco",
+            "code": "ASM"
+          },
+          "score1": 5,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Aboubakar",
+              "minute": 9,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Aboubakar",
+              "minute": 33,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Brahimi",
+              "minute": 45,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Alex Telles",
+              "minute": 65,
+              "score1": 4,
+              "score2": 1
+            },
+            {
+              "name": "Soares",
+              "minute": 88,
+              "score1": 5,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Glik",
+              "minute": 61,
+              "score1": 3,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "Falcao",
+              "minute": 78,
+              "score1": 4,
+              "score2": 2
+            }
+          ],
+          "group": "Group G"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "madrid",
+            "name": "R. Madrid",
+            "code": "RMD"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 3,
+          "score2": 2,
+          "goals1": [
+            {
+              "name": "Mayoral",
+              "minute": 8,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 12,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Vázquez",
+              "minute": 81,
+              "score1": 3,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Aubameyang",
+              "minute": 43,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Aubameyang",
+              "minute": 49,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "group": "Group H"
+        },
+        {
+          "date": "2017-12-06",
+          "team1": {
+            "key": "tottenham",
+            "name": "Tottenham Hotspur",
+            "code": "TOT"
+          },
+          "team2": {
+            "key": "apoel",
+            "name": "APOEL",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0,
+          "goals1": [
+            {
+              "name": "Llorente",
+              "minute": 20,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Son Heung-min",
+              "minute": 37,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "N'Koudou",
+              "minute": 80,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
+          "group": "Group H"
         }
       ]
     }
