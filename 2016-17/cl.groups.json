@@ -1,0 +1,324 @@
+{
+  "name": "Champions League (Europe) 2016/17",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "key": "ludogorets",
+          "name": "Ludogorets",
+          "code": null,
+          "country": {
+            "key": "bg",
+            "name": "Bulgaria"
+          }
+        },
+        {
+          "key": "arsenaltula",
+          "name": "Arsenal",
+          "code": null,
+          "country": {
+            "key": "ru",
+            "name": "Russia"
+          }
+        },
+        {
+          "key": "paris",
+          "name": "Paris SG",
+          "code": "PSG",
+          "country": {
+            "key": "fr",
+            "name": "France"
+          }
+        },
+        {
+          "key": "basel",
+          "name": "FC Basel 1893",
+          "code": "BAS",
+          "country": {
+            "key": "ch",
+            "name": "Switzerland"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "key": "benfica",
+          "name": "Benfica",
+          "code": null,
+          "country": {
+            "key": "pt",
+            "name": "Portugal"
+          }
+        },
+        {
+          "key": "besiktas",
+          "name": "Beşiktaş JK",
+          "code": null,
+          "country": {
+            "key": "tr",
+            "name": "Turkey"
+          }
+        },
+        {
+          "key": "kiew",
+          "name": "Dynamo Kiew",
+          "code": null,
+          "country": {
+            "key": "ua",
+            "name": "Ukraine"
+          }
+        },
+        {
+          "key": "napoli",
+          "name": "Napoli",
+          "code": "NAP",
+          "country": {
+            "key": "it",
+            "name": "Italy"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "key": "celtic",
+          "name": "Celtic",
+          "code": "CEL",
+          "country": {
+            "key": "sco",
+            "name": "Scotland"
+          }
+        },
+        {
+          "key": "barcelonaguayaquil",
+          "name": "Barcelona",
+          "code": null,
+          "country": {
+            "key": "ec",
+            "name": "Ecuador"
+          }
+        },
+        {
+          "key": "mgladbach",
+          "name": "Borussia M'gladbach",
+          "code": "BMG",
+          "country": {
+            "key": "de",
+            "name": "Germany"
+          }
+        },
+        {
+          "key": "mancity",
+          "name": "Manchester City",
+          "code": "MCI",
+          "country": {
+            "key": "eng",
+            "name": "England"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "key": "psv",
+          "name": "PSV Eindhoven",
+          "code": null,
+          "country": {
+            "key": "nl",
+            "name": "Netherlands"
+          }
+        },
+        {
+          "key": "rostov",
+          "name": "Rostov",
+          "code": null,
+          "country": {
+            "key": "ru",
+            "name": "Russia"
+          }
+        },
+        {
+          "key": "bayern",
+          "name": "FC Bayern München",
+          "code": "FCB",
+          "country": {
+            "key": "de",
+            "name": "Germany"
+          }
+        },
+        {
+          "key": "atletico",
+          "name": "Atlético",
+          "code": "ATL",
+          "country": {
+            "key": "es",
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "key": "cskamoskva",
+          "name": "CSKA Moskva",
+          "code": null,
+          "country": {
+            "key": "ru",
+            "name": "Russia"
+          }
+        },
+        {
+          "key": "leverkusen",
+          "name": "Bayer 04 Leverkusen",
+          "code": "B04",
+          "country": {
+            "key": "de",
+            "name": "Germany"
+          }
+        },
+        {
+          "key": "tottenham",
+          "name": "Tottenham Hotspur",
+          "code": "TOT",
+          "country": {
+            "key": "eng",
+            "name": "England"
+          }
+        },
+        {
+          "key": "monaco",
+          "name": "AS Monaco",
+          "code": "ASM",
+          "country": {
+            "key": "mc",
+            "name": "Monaco"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "key": "sportinglisboa",
+          "name": "Sporting Lisboa",
+          "code": null,
+          "country": {
+            "key": "pt",
+            "name": "Portugal"
+          }
+        },
+        {
+          "key": "legiawarszawa",
+          "name": "Legia",
+          "code": null,
+          "country": {
+            "key": "pl",
+            "name": "Poland"
+          }
+        },
+        {
+          "key": "dortmund",
+          "name": "Borussia Dortmund",
+          "code": "BVB",
+          "country": {
+            "key": "de",
+            "name": "Germany"
+          }
+        },
+        {
+          "key": "madrid",
+          "name": "R. Madrid",
+          "code": "RMD",
+          "country": {
+            "key": "es",
+            "name": "Spain"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "key": "brugge",
+          "name": "Club Brugge",
+          "code": null,
+          "country": {
+            "key": "be",
+            "name": "Belgium"
+          }
+        },
+        {
+          "key": "porto",
+          "name": "Porto",
+          "code": null,
+          "country": {
+            "key": "pt",
+            "name": "Portugal"
+          }
+        },
+        {
+          "key": "leicester",
+          "name": "Leicester City",
+          "code": "LEI",
+          "country": {
+            "key": "eng",
+            "name": "England"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "key": "zagreb",
+          "name": "Dinamo Zagreb",
+          "code": null,
+          "country": {
+            "key": "hr",
+            "name": "Croatia"
+          }
+        },
+        {
+          "key": "sevilla",
+          "name": "Sevilla",
+          "code": "SEV",
+          "country": {
+            "key": "es",
+            "name": "Spain"
+          }
+        },
+        {
+          "key": "juventus",
+          "name": "Juventus",
+          "code": "JUV",
+          "country": {
+            "key": "it",
+            "name": "Italy"
+          }
+        },
+        {
+          "key": "lyon",
+          "name": "Lyon",
+          "code": "OL",
+          "country": {
+            "key": "fr",
+            "name": "France"
+          }
+        }
+      ]
+    }
+  ]
+}
