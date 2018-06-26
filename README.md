@@ -107,12 +107,16 @@ edit the JSON files but the source text files in the country repos** e.g.:
 
 
 
+<!--
 ## Automate, Automate, Automate
 
 
 If all works weekly updates get pushed by yorobot.
 See the [`yorobot/football.db`](https://github.com/yorobot/football.db) build scripts for
 the (auto-)update machinery.
+
+  todo: add how to build your own json files from the source datsets - why? why not?
+-->
 
 
 ## Contributions Welcome - Add Your Leagues and Tournaments!
