@@ -5,11 +5,11 @@ data interchange format.
 
 Leagues include:
 
-- English Premier League
-- Deutsche Bundesliga
-- Spanish Primera División ("La Liga")
-- Italian Serie A
-- and more
+  - English Premier League
+  - Deutsche Bundesliga
+  - Spanish Primera División ("La Liga")
+  - Italian Serie A
+  - and more
 
 Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json):
 
