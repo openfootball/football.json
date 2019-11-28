@@ -122,7 +122,7 @@ the (auto-)update machinery.
 ## Contributions Welcome - Add Your Leagues and Tournaments!
 
 Any leagues or tournaments missing? Contributions welcome!
-For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/your-league-starter).
+For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/league-starter).
 
 
 
