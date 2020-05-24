@@ -97,13 +97,16 @@ $ curl https://raw.githubusercontent.com/openfootball/football.json/master/2015-
 ## Updates / Contributions Welcome - Please Update the Source Text Files
 
 Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
-edit the JSON files but the source text files in the country repos** e.g.:
+edit the (auto-) generated JSON files but the source text files in the country repos** e.g.:
 
 - English Premier League in [`/england`](https://github.com/openfootball/england)
 - Deutsche Bundesliga in [`/deutschland`](https://github.com/openfootball/deutschland)
 - Spanish Primera División ("La Liga") in [`/espana`](https://github.com/openfootball/espana)
 - Italian Serie A  in [`/italy`](https://github.com/openfootball/italy)
 - and so on
+
+and than (auto-)generate the football.json updates. If you only edit / patch the (auto-)generated JSON files without updating 
+the sources than your changes will get lost / overwritten with the next update.
 
 
 ## How To (Auto)-Generate and Update the football.json Datasets
