@@ -2,33 +2,18 @@
   "name": "Serie A 2015/16",
   "clubs": [
     {
+      "key": "hellasverona",
+      "name": "Hellas Verona FC",
+      "code": "HEL"
+    },
+    {
       "key": "milan",
-      "name": "Milan",
+      "name": "AC Milan",
       "code": "MIL"
     },
     {
-      "key": "inter",
-      "name": "Inter",
-      "code": "INT"
-    },
-    {
-      "key": "lazio",
-      "name": "Lazio",
-      "code": "LAZ"
-    },
-    {
-      "key": "roma",
-      "name": "Roma",
-      "code": "ROM"
-    },
-    {
-      "key": "genoa",
-      "name": "Genoa",
-      "code": "GEN"
-    },
-    {
       "key": "sampdoria",
-      "name": "Sampdoria",
+      "name": "UC Sampdoria",
       "code": "SAM"
     },
     {
@@ -37,39 +22,64 @@
       "code": "JUV"
     },
     {
-      "key": "torino",
-      "name": "Torino",
-      "code": "TOR"
+      "key": "inter",
+      "name": "FC Internazionale Milano",
+      "code": "INT"
     },
     {
-      "key": "napoli",
-      "name": "Napoli",
-      "code": "NAP"
+      "key": "genoa",
+      "name": "Genoa CFC",
+      "code": "GEN"
     },
     {
       "key": "atalanta",
-      "name": "Atalanta",
+      "name": "Atalanta BC",
       "code": "ATA"
     },
     {
-      "key": "chievoverona",
-      "name": "Chievo",
-      "code": "CHI"
-    },
-    {
-      "key": "fiorentina",
-      "name": "Fiorentina",
-      "code": "FIO"
+      "key": "lazio",
+      "name": "SS Lazio",
+      "code": "LAZ"
     },
     {
       "key": "udinese",
-      "name": "Udinese",
+      "name": "Udinese Calcio",
       "code": "UDI"
     },
     {
+      "key": "roma",
+      "name": "AS Roma",
+      "code": "ROM"
+    },
+    {
+      "key": "napoli",
+      "name": "SSC Napoli",
+      "code": "NAP"
+    },
+    {
+      "key": "bologna",
+      "name": "Bologna FC",
+      "code": "BOL"
+    },
+    {
+      "key": "chievoverona",
+      "name": "AC Chievo Verona",
+      "code": "CHI"
+    },
+    {
+      "key": "torino",
+      "name": "Torino FC",
+      "code": "TOR"
+    },
+    {
       "key": "sassuolo",
-      "name": "Sassuolo",
+      "name": "US Sassuolo Calcio",
       "code": "SAS"
+    },
+    {
+      "key": "fiorentina",
+      "name": "ACF Fiorentina",
+      "code": "FIO"
     },
     {
       "key": "palermo",
@@ -82,24 +92,14 @@
       "code": "EMP"
     },
     {
-      "key": "bologna",
-      "name": "Bologna",
-      "code": "BOL"
-    },
-    {
-      "key": "carpi",
-      "name": "Carpi",
-      "code": null
-    },
-    {
       "key": "frosinone",
       "name": "Frosinone",
       "code": null
     },
     {
-      "key": "hellasverona",
-      "name": "Verona",
-      "code": "HEL"
+      "key": "carpi",
+      "name": "Carpi",
+      "code": null
     }
   ]
 }
