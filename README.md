@@ -111,17 +111,15 @@ the sources than your changes will get lost / overwritten with the next update.
 
 ## How To (Auto)-Generate and Update the football.json Datasets
 
-If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome -, see
-the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts for a start 
+If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome. See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts for a start 
 or use your very own.
-
 
 
 <!--
 ## Automate, Automate, Automate
 
 If all works weekly updates get pushed by yorobot.
-See the [`yorobot/football.db`](https://github.com/yorobot/football.db) build scripts for
+See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts for
 the (auto-)update machinery.
 -->
 
