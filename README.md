@@ -106,16 +106,20 @@ edit the JSON files but the source text files in the country repos** e.g.:
 - and so on
 
 
+## How To (Auto)-Generate and Update the football.json Datasets
+
+If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome -, see
+the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts for a start 
+or use your very own.
+
+
 
 <!--
 ## Automate, Automate, Automate
 
-
 If all works weekly updates get pushed by yorobot.
 See the [`yorobot/football.db`](https://github.com/yorobot/football.db) build scripts for
 the (auto-)update machinery.
-
-  todo: add how to build your own json files from the source datsets - why? why not?
 -->
 
 
@@ -123,7 +127,6 @@ the (auto-)update machinery.
 
 Any leagues or tournaments missing? Contributions welcome!
 For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/league-starter).
-
 
 
 ## More
@@ -141,6 +144,7 @@ Enrique Lopez Magallon (@enadol) writes:
 > It's still not perfect, but that's Github is for! 😄
 >
 > Have fun! ⚽️ ⚽️
+
 
 ## License
 
