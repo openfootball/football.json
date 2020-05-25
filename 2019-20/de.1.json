@@ -2,3350 +2,3351 @@
   "name": "Bundesliga 2019/20",
   "rounds": [
     {
+      "name": "Spieltag 1",
       "matches": [
         {
-          "date": "8-16-2019",
-          "score2": 2,
+          "date": "2019-08-16",
           "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "8-17-2019",
-          "score2": 1,
+          "date": "2019-08-17",
           "team1": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "score1": 5
-        },
-        {
-          "date": "8-17-2019",
-          "score2": 0,
-          "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 3
-        },
-        {
-          "date": "8-17-2019",
-          "score2": 2,
-          "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "team2": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "score1": 3
-        },
-        {
-          "date": "8-17-2019",
-          "score2": 3,
-          "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "8-17-2019",
-          "score2": 1,
+          "date": "2019-08-17",
           "team1": {
-            "code": "WOB",
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2019-08-17",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-17",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 5,
+          "score2": 1
+        },
+        {
+          "date": "2019-08-17",
+          "team1": {
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "8-17-2019",
-          "score2": 0,
+          "date": "2019-08-17",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 0
         },
         {
-          "date": "8-18-2019",
-          "score2": 0,
+          "date": "2019-08-18",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         },
         {
-          "date": "8-18-2019",
-          "score2": 4,
+          "date": "2019-08-18",
           "team1": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 4
         }
-      ],
-      "name": "Matchday 1"
+      ]
     },
     {
+      "name": "Spieltag 2",
       "matches": [
         {
-          "date": "8-23-2019",
-          "score2": 3,
+          "date": "2019-08-23",
           "team1": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "8-24-2019",
-          "score2": 1,
+          "date": "2019-08-24",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "score1": 1
-        },
-        {
-          "date": "8-24-2019",
-          "score2": 3,
-          "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "8-24-2019",
-          "score2": 2,
+          "date": "2019-08-24",
           "team1": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "score1": 3
-        },
-        {
-          "date": "8-24-2019",
-          "score2": 3,
-          "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "8-24-2019",
-          "score2": 3,
+          "date": "2019-08-24",
           "team1": {
-            "code": "SCP",
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-08-24",
+          "team1": {
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "8-24-2019",
-          "score2": 3,
+          "date": "2019-08-24",
           "team1": {
-            "code": "S04",
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-24",
+          "team1": {
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 3
         },
         {
-          "date": "8-25-2019",
-          "score2": 1,
+          "date": "2019-08-25",
           "team1": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "8-25-2019",
-          "score2": 3,
+          "date": "2019-08-25",
           "team1": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 3
         }
-      ],
-      "name": "Matchday 2"
+      ]
     },
     {
+      "name": "Spieltag 3",
       "matches": [
         {
-          "date": "8-30-2019",
-          "score2": 3,
+          "date": "2019-08-30",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "8-31-2019",
-          "score2": 1,
+          "date": "2019-08-31",
           "team1": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 6
-        },
-        {
-          "date": "8-31-2019",
-          "score2": 2,
-          "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "score1": 1
-        },
-        {
-          "date": "8-31-2019",
-          "score2": 0,
-          "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "team2": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "score1": 0
-        },
-        {
-          "date": "8-31-2019",
-          "score2": 0,
-          "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 0
         },
         {
-          "date": "8-31-2019",
-          "score2": 1,
+          "date": "2019-08-31",
           "team1": {
-            "code": "WOB",
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-31",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2019-08-31",
+          "team1": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 6,
+          "score2": 1
+        },
+        {
+          "date": "2019-08-31",
+          "team1": {
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "8-31-2019",
-          "score2": 1,
+          "date": "2019-08-31",
           "team1": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 1
         },
         {
-          "date": "9-1-2019",
-          "score2": 2,
+          "date": "2019-09-01",
           "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 2
         },
         {
-          "date": "9-1-2019",
-          "score2": 1,
+          "date": "2019-09-01",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 3"
+      ]
     },
     {
+      "name": "Spieltag 4",
       "matches": [
         {
-          "date": "9-13-2019",
-          "score2": 1,
+          "date": "2019-09-13",
           "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "9-14-2019",
-          "score2": 1,
+          "date": "2019-09-14",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
-          },
-          "score1": 2
-        },
-        {
-          "date": "9-14-2019",
-          "score2": 0,
-          "team1": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "score1": 4
-        },
-        {
-          "date": "9-14-2019",
-          "score2": 1,
-          "team1": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "9-14-2019",
-          "score2": 1,
+          "date": "2019-09-14",
           "team1": {
-            "code": "M05",
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2019-09-14",
+          "team1": {
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "9-14-2019",
-          "score2": 2,
+          "date": "2019-09-14",
           "team1": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "9-14-2019",
-          "score2": 1,
+          "date": "2019-09-14",
           "team1": {
-            "code": "RBL",
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-09-14",
+          "team1": {
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "9-15-2019",
-          "score2": 3,
+          "date": "2019-09-15",
           "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 3
         },
         {
-          "date": "9-15-2019",
-          "score2": 5,
+          "date": "2019-09-15",
           "team1": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 5
         }
-      ],
-      "name": "Matchday 4"
+      ]
     },
     {
+      "name": "Spieltag 5",
       "matches": [
         {
-          "date": "9-20-2019",
-          "score2": 1,
+          "date": "2019-09-20",
           "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "9-21-2019",
-          "score2": 0,
+          "date": "2019-09-21",
           "team1": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "team2": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "score1": 4
-        },
-        {
-          "date": "9-21-2019",
-          "score2": 1,
-          "team1": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
           "team2": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "9-21-2019",
-          "score2": 1,
+          "date": "2019-09-21",
           "team1": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "team2": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "score1": 2
-        },
-        {
-          "date": "9-21-2019",
-          "score2": 0,
-          "team1": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "9-21-2019",
-          "score2": 3,
+          "date": "2019-09-21",
           "team1": {
-            "code": "BRE",
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2019-09-21",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-09-21",
+          "team1": {
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 3
         },
         {
-          "date": "9-22-2019",
-          "score2": 1,
+          "date": "2019-09-22",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "9-22-2019",
-          "score2": 2,
+          "date": "2019-09-22",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "9-23-2019",
-          "score2": 1,
+          "date": "2019-09-23",
           "team1": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 5"
+      ]
     },
     {
+      "name": "Spieltag 6",
       "matches": [
         {
-          "date": "9-27-2019",
-          "score2": 2,
+          "date": "2019-09-27",
           "team1": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "9-28-2019",
-          "score2": 3,
+          "date": "2019-09-28",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "score1": 0
-        },
-        {
-          "date": "9-28-2019",
-          "score2": 3,
-          "team1": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "team2": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "score1": 0
-        },
-        {
-          "date": "9-28-2019",
-          "score2": 1,
-          "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "9-28-2019",
-          "score2": 3,
+          "date": "2019-09-28",
           "team1": {
-            "code": "SCP",
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 0,
+          "score2": 3
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 3
         },
         {
-          "date": "9-28-2019",
-          "score2": 3,
+          "date": "2019-09-28",
           "team1": {
-            "code": "RBL",
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": 0,
+          "score2": 3
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "9-28-2019",
-          "score2": 2,
+          "date": "2019-09-28",
           "team1": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "9-29-2019",
-          "score2": 2,
+          "date": "2019-09-29",
           "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "9-29-2019",
-          "score2": 4,
+          "date": "2019-09-29",
           "team1": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 4
         }
-      ],
-      "name": "Matchday 6"
+      ]
     },
     {
+      "name": "Spieltag 7",
       "matches": [
         {
-          "date": "10-4-2019",
-          "score2": 1,
+          "date": "2019-10-04",
           "team1": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 1
         },
         {
-          "date": "10-5-2019",
-          "score2": 2,
+          "date": "2019-10-05",
           "team1": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "team2": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "score1": 1
-        },
-        {
-          "date": "10-5-2019",
-          "score2": 2,
-          "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "score1": 2
-        },
-        {
-          "date": "10-5-2019",
-          "score2": 1,
-          "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "team2": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "score1": 1
-        },
-        {
-          "date": "10-5-2019",
-          "score2": 2,
-          "team1": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 1
-        },
-        {
-          "date": "10-5-2019",
-          "score2": 1,
-          "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "10-6-2019",
-          "score2": 1,
+          "date": "2019-10-05",
           "team1": {
-            "code": "BMG",
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-05",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-10-05",
+          "team1": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-05",
+          "team1": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-06",
+          "team1": {
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
-          "score1": 5
+          "score1": 5,
+          "score2": 1
         },
         {
-          "date": "10-6-2019",
-          "score2": 0,
+          "date": "2019-10-06",
           "team1": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         },
         {
-          "date": "10-6-2019",
-          "score2": 2,
+          "date": "2019-10-06",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         }
-      ],
-      "name": "Matchday 7"
+      ]
     },
     {
+      "name": "Spieltag 8",
       "matches": [
         {
-          "date": "10-18-2019",
-          "score2": 0,
+          "date": "2019-10-18",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 0
         },
         {
-          "date": "10-19-2019",
-          "score2": 2,
+          "date": "2019-10-19",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "score1": 2
-        },
-        {
-          "date": "10-19-2019",
-          "score2": 0,
-          "team1": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 1
-        },
-        {
-          "date": "10-19-2019",
-          "score2": 1,
-          "team1": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 1
-        },
-        {
-          "date": "10-19-2019",
-          "score2": 0,
-          "team1": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "team2": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "score1": 2
-        },
-        {
-          "date": "10-19-2019",
-          "score2": 1,
-          "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "10-19-2019",
-          "score2": 0,
+          "date": "2019-10-19",
           "team1": {
-            "code": "BVB",
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2019-10-19",
+          "team1": {
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         },
         {
-          "date": "10-20-2019",
-          "score2": 0,
+          "date": "2019-10-19",
           "team1": {
-            "code": "KOE",
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-10-19",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-10-19",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-20",
+          "team1": {
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 0
         },
         {
-          "date": "10-20-2019",
-          "score2": 0,
+          "date": "2019-10-20",
           "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         }
-      ],
-      "name": "Matchday 8"
+      ]
     },
     {
+      "name": "Spieltag 9",
       "matches": [
         {
-          "date": "10-25-2019",
-          "score2": 1,
+          "date": "2019-10-25",
           "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 1
         },
         {
-          "date": "10-26-2019",
-          "score2": 1,
+          "date": "2019-10-26",
           "team1": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "team2": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "score1": 2
-        },
-        {
-          "date": "10-26-2019",
-          "score2": 1,
-          "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "score1": 2
-        },
-        {
-          "date": "10-26-2019",
-          "score2": 3,
-          "team1": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 3
         },
         {
-          "date": "10-26-2019",
-          "score2": 0,
+          "date": "2019-10-26",
           "team1": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "10-26-2019",
-          "score2": 0,
+          "date": "2019-10-26",
           "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 0
         },
         {
-          "date": "10-26-2019",
-          "score2": 2,
+          "date": "2019-10-26",
           "team1": {
-            "code": "B04",
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-10-26",
+          "team1": {
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
           "team2": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "10-27-2019",
-          "score2": 0,
+          "date": "2019-10-26",
           "team1": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
           },
           "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
           },
-          "score1": 0
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "10-27-2019",
-          "score2": 2,
+          "date": "2019-10-27",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-27",
+          "team1": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 0,
+          "score2": 0
         }
-      ],
-      "name": "Matchday 9"
+      ]
     },
     {
+      "name": "Spieltag 10",
       "matches": [
         {
-          "date": "11-1-2019",
-          "score2": 0,
+          "date": "2019-11-01",
           "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 0
         },
         {
-          "date": "11-2-2019",
-          "score2": 0,
+          "date": "2019-11-02",
           "team1": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 3
-        },
-        {
-          "date": "11-2-2019",
-          "score2": 1,
-          "team1": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
-          },
-          "team2": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "score1": 5
-        },
-        {
-          "date": "11-2-2019",
-          "score2": 2,
-          "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "team2": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "score1": 1
-        },
-        {
-          "date": "11-2-2019",
-          "score2": 0,
-          "team1": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
-          "score1": 8
+          "score1": 8,
+          "score2": 0
         },
         {
-          "date": "11-2-2019",
-          "score2": 2,
+          "date": "2019-11-02",
           "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "11-2-2019",
-          "score2": 0,
+          "date": "2019-11-02",
           "team1": {
-            "code": "FCU",
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-02",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2019-11-02",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": 5,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-02",
+          "team1": {
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         },
         {
-          "date": "11-3-2019",
-          "score2": 0,
+          "date": "2019-11-03",
           "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "11-3-2019",
-          "score2": 3,
+          "date": "2019-11-03",
           "team1": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 3
         }
-      ],
-      "name": "Matchday 10"
+      ]
     },
     {
+      "name": "Spieltag 11",
       "matches": [
         {
-          "date": "11-8-2019",
-          "score2": 2,
+          "date": "2019-11-08",
           "team1": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "11-9-2019",
-          "score2": 4,
+          "date": "2019-11-09",
           "team1": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "team2": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "score1": 2
-        },
-        {
-          "date": "11-9-2019",
-          "score2": 3,
-          "team1": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "team2": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "score1": 2
-        },
-        {
-          "date": "11-9-2019",
-          "score2": 1,
-          "team1": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "score1": 0
-        },
-        {
-          "date": "11-9-2019",
-          "score2": 3,
-          "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 3
         },
         {
-          "date": "11-9-2019",
-          "score2": 0,
+          "date": "2019-11-09",
           "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 0
         },
         {
-          "date": "11-10-2019",
-          "score2": 1,
+          "date": "2019-11-09",
           "team1": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
           },
           "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
           },
-          "score1": 3
+          "score1": 2,
+          "score2": 4
         },
         {
-          "date": "11-10-2019",
-          "score2": 2,
+          "date": "2019-11-09",
           "team1": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
           },
           "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
           },
-          "score1": 0
+          "score1": 2,
+          "score2": 3
         },
         {
-          "date": "11-10-2019",
-          "score2": 0,
+          "date": "2019-11-09",
           "team1": {
-            "code": "SCF",
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-10",
+          "team1": {
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2019-11-10",
+          "team1": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-10",
+          "team1": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 3,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 11"
+      ]
     },
     {
+      "name": "Spieltag 12",
       "matches": [
         {
-          "date": "11-22-2019",
-          "score2": 3,
+          "date": "2019-11-22",
           "team1": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 3
         },
         {
-          "date": "11-23-2019",
-          "score2": 2,
+          "date": "2019-11-23",
           "team1": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 0
-        },
-        {
-          "date": "11-23-2019",
-          "score2": 4,
-          "team1": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
-          },
-          "team2": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "score1": 0
-        },
-        {
-          "date": "11-23-2019",
-          "score2": 1,
-          "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "team2": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "score1": 1
-        },
-        {
-          "date": "11-23-2019",
-          "score2": 0,
-          "team1": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "team2": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "score1": 2
-        },
-        {
-          "date": "11-23-2019",
-          "score2": 2,
-          "team1": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "team2": {
-            "code": "S04",
-            "name": "FC Schalke 04",
-            "key": "schalke"
-          },
-          "score1": 1
-        },
-        {
-          "date": "11-23-2019",
-          "score2": 1,
-          "team1": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 1
         },
         {
-          "date": "11-24-2019",
-          "score2": 0,
+          "date": "2019-11-23",
           "team1": {
-            "code": "FCA",
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "team2": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-23",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-23",
+          "team1": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": 0,
+          "score2": 4
+        },
+        {
+          "date": "2019-11-23",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-23",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-11-24",
+          "team1": {
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 0
         },
         {
-          "date": "11-24-2019",
-          "score2": 5,
+          "date": "2019-11-24",
           "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 5
         }
-      ],
-      "name": "Matchday 12"
+      ]
     },
     {
+      "name": "Spieltag 13",
       "matches": [
         {
-          "date": "11-29-2019",
-          "score2": 1,
+          "date": "2019-11-29",
           "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "11-30-2019",
-          "score2": 1,
+          "date": "2019-11-30",
           "team1": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "score1": 1
-        },
-        {
-          "date": "11-30-2019",
-          "score2": 2,
-          "team1": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "team2": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "score1": 1
-        },
-        {
-          "date": "11-30-2019",
-          "score2": 1,
-          "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "11-30-2019",
-          "score2": 3,
+          "date": "2019-11-30",
           "team1": {
-            "code": "SCP",
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-30",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-30",
+          "team1": {
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 3
         },
         {
-          "date": "11-30-2019",
-          "score2": 2,
+          "date": "2019-11-30",
           "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "12-1-2019",
-          "score2": 2,
+          "date": "2019-12-01",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 2
         },
         {
-          "date": "12-1-2019",
-          "score2": 3,
+          "date": "2019-12-01",
           "team1": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 3
         },
         {
-          "date": "12-2-2019",
-          "score2": 1,
+          "date": "2019-12-02",
           "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 13"
+      ]
     },
     {
+      "name": "Spieltag 14",
       "matches": [
         {
-          "date": "12-6-2019",
-          "score2": 2,
+          "date": "2019-12-06",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "12-7-2019",
-          "score2": 1,
+          "date": "2019-12-07",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 2
-        },
-        {
-          "date": "12-7-2019",
-          "score2": 0,
-          "team1": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 5
+          "score1": 5,
+          "score2": 0
         },
         {
-          "date": "12-7-2019",
-          "score2": 0,
+          "date": "2019-12-07",
           "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 1
-        },
-        {
-          "date": "12-7-2019",
-          "score2": 1,
-          "team1": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "team2": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "score1": 2
-        },
-        {
-          "date": "12-7-2019",
-          "score2": 1,
-          "team1": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 1
         },
         {
-          "date": "12-7-2019",
-          "score2": 1,
+          "date": "2019-12-07",
           "team1": {
-            "code": "B04",
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-12-07",
+          "team1": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2019-12-07",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-12-07",
+          "team1": {
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "12-8-2019",
-          "score2": 0,
+          "date": "2019-12-08",
           "team1": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "12-8-2019",
-          "score2": 1,
+          "date": "2019-12-08",
           "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 14"
+      ]
     },
     {
+      "name": "Spieltag 15",
       "matches": [
         {
-          "date": "12-13-2019",
-          "score2": 4,
+          "date": "2019-12-13",
           "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 4
         },
         {
-          "date": "12-14-2019",
-          "score2": 1,
+          "date": "2019-12-14",
           "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
-          "score1": 6
+          "score1": 6,
+          "score2": 1
         },
         {
-          "date": "12-14-2019",
-          "score2": 0,
+          "date": "2019-12-14",
           "team1": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "score1": 2
-        },
-        {
-          "date": "12-14-2019",
-          "score2": 0,
-          "team1": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         },
         {
-          "date": "12-14-2019",
-          "score2": 4,
+          "date": "2019-12-14",
           "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 4
         },
         {
-          "date": "12-14-2019",
-          "score2": 1,
+          "date": "2019-12-14",
           "team1": {
-            "code": "SCP",
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-12-14",
+          "team1": {
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "12-14-2019",
-          "score2": 3,
+          "date": "2019-12-14",
           "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 3
         },
         {
-          "date": "12-15-2019",
-          "score2": 1,
+          "date": "2019-12-15",
           "team1": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "12-15-2019",
-          "score2": 0,
+          "date": "2019-12-15",
           "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         }
-      ],
-      "name": "Matchday 15"
+      ]
     },
     {
+      "name": "Spieltag 16",
       "matches": [
         {
-          "date": "12-17-2019",
-          "score2": 5,
+          "date": "2019-12-17",
           "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 5
         },
         {
-          "date": "12-17-2019",
-          "score2": 0,
+          "date": "2019-12-17",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
-          },
-          "score1": 3
-        },
-        {
-          "date": "12-17-2019",
-          "score2": 3,
-          "team1": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 3
         },
         {
-          "date": "12-17-2019",
-          "score2": 2,
+          "date": "2019-12-17",
           "team1": {
-            "code": "FCU",
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2019-12-17",
+          "team1": {
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "12-18-2019",
-          "score2": 1,
+          "date": "2019-12-18",
           "team1": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "12-18-2019",
-          "score2": 4,
+          "date": "2019-12-18",
           "team1": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
-          },
-          "team2": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "score1": 2
-        },
-        {
-          "date": "12-18-2019",
-          "score2": 3,
-          "team1": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "12-18-2019",
-          "score2": 0,
+          "date": "2019-12-18",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "12-18-2019",
-          "score2": 1,
+          "date": "2019-12-18",
           "team1": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-12-18",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "score1": 2,
+          "score2": 4
         }
-      ],
-      "name": "Matchday 16"
+      ]
     },
     {
+      "name": "Spieltag 17",
       "matches": [
         {
-          "date": "12-20-2019",
-          "score2": 1,
+          "date": "2019-12-20",
           "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "12-21-2019",
-          "score2": 0,
+          "date": "2019-12-21",
           "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "12-21-2019",
-          "score2": 0,
+          "date": "2019-12-21",
           "team1": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "score1": 1
-        },
-        {
-          "date": "12-21-2019",
-          "score2": 1,
-          "team1": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "score1": 0
-        },
-        {
-          "date": "12-21-2019",
-          "score2": 1,
-          "team1": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 1
         },
         {
-          "date": "12-21-2019",
-          "score2": 2,
+          "date": "2019-12-21",
           "team1": {
-            "code": "S04",
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2019-12-21",
+          "team1": {
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "12-21-2019",
-          "score2": 0,
+          "date": "2019-12-21",
           "team1": {
-            "code": "BSC",
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2019-12-21",
+          "team1": {
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 0
         },
         {
-          "date": "12-22-2019",
-          "score2": 1,
+          "date": "2019-12-22",
           "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "12-22-2019",
-          "score2": 1,
+          "date": "2019-12-22",
           "team1": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 17"
+      ]
     },
     {
+      "name": "Spieltag 18",
       "matches": [
         {
-          "date": "1-17-2020",
-          "score2": 0,
+          "date": "2020-01-17",
           "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "1-18-2020",
-          "score2": 5,
+          "date": "2020-01-18",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "score1": 3
-        },
-        {
-          "date": "1-18-2020",
-          "score2": 1,
-          "team1": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 3
-        },
-        {
-          "date": "1-18-2020",
-          "score2": 1,
-          "team1": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
-          },
-          "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "score1": 0
-        },
-        {
-          "date": "1-18-2020",
-          "score2": 2,
-          "team1": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "1-18-2020",
-          "score2": 2,
+          "date": "2020-01-18",
           "team1": {
-            "code": "M05",
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-01-18",
+          "team1": {
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "1-18-2020",
-          "score2": 1,
+          "date": "2020-01-18",
           "team1": {
-            "code": "RBL",
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 3,
+          "score2": 5
+        },
+        {
+          "date": "2020-01-18",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2020-01-18",
+          "team1": {
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 1
         },
         {
-          "date": "1-19-2020",
-          "score2": 4,
+          "date": "2020-01-19",
           "team1": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 4
         },
         {
-          "date": "1-19-2020",
-          "score2": 4,
+          "date": "2020-01-19",
           "team1": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 4
         }
-      ],
-      "name": "Matchday 18"
+      ]
     },
     {
+      "name": "Spieltag 19",
       "matches": [
         {
-          "date": "1-24-2020",
-          "score2": 1,
+          "date": "2020-01-24",
           "team1": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 5
+          "score1": 5,
+          "score2": 1
         },
         {
-          "date": "1-25-2020",
-          "score2": 0,
+          "date": "2020-01-25",
           "team1": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
-          },
-          "team2": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "score1": 2
-        },
-        {
-          "date": "1-25-2020",
-          "score2": 2,
-          "team1": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "1-25-2020",
-          "score2": 1,
+          "date": "2020-01-25",
           "team1": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 3
-        },
-        {
-          "date": "1-25-2020",
-          "score2": 0,
-          "team1": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "score1": 2
-        },
-        {
-          "date": "1-25-2020",
-          "score2": 2,
-          "team1": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "team2": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "score1": 1
-        },
-        {
-          "date": "1-25-2020",
-          "score2": 0,
-          "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 5
+          "score1": 5,
+          "score2": 0
         },
         {
-          "date": "1-26-2020",
-          "score2": 3,
+          "date": "2020-01-25",
           "team1": {
-            "code": "BRE",
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2020-01-25",
+          "team1": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "team2": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-01-25",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-01-25",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-01-26",
+          "team1": {
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "HOF",
+            "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "code": "HOF"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 3
         },
         {
-          "date": "1-26-2020",
-          "score2": 0,
+          "date": "2020-01-26",
           "team1": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
           "team2": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 0
         }
-      ],
-      "name": "Matchday 19"
+      ]
     },
     {
+      "name": "Spieltag 20",
       "matches": [
         {
-          "date": "1-31-2020",
-          "score2": 0,
+          "date": "2020-01-31",
           "team1": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 0
         },
         {
-          "date": "2-1-2020",
-          "score2": 1,
+          "date": "2020-02-01",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "score1": 2
-        },
-        {
-          "date": "2-1-2020",
-          "score2": 0,
-          "team1": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "team2": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "score1": 5
-        },
-        {
-          "date": "2-1-2020",
-          "score2": 1,
-          "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2-1-2020",
-          "score2": 1,
+          "date": "2020-02-01",
           "team1": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
           },
           "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
           },
-          "score1": 2
+          "score1": 5,
+          "score2": 0
         },
         {
-          "date": "2-1-2020",
-          "score2": 3,
+          "date": "2020-02-01",
           "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "2-1-2020",
-          "score2": 2,
+          "date": "2020-02-01",
           "team1": {
-            "code": "RBL",
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-01",
+          "team1": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-01",
+          "team1": {
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "2-2-2020",
-          "score2": 0,
+          "date": "2020-02-02",
           "team1": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "SCF",
+            "key": "freiburg",
             "name": "SC Freiburg",
-            "key": "freiburg"
+            "code": "SCF"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 0
         },
         {
-          "date": "2-2-2020",
-          "score2": 4,
+          "date": "2020-02-02",
           "team1": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
           "team2": {
-            "code": "WOB",
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 4
         }
-      ],
-      "name": "Matchday 20"
+      ]
     },
     {
+      "name": "Spieltag 21",
       "matches": [
         {
-          "date": "2-7-2020",
-          "score2": 0,
+          "date": "2020-02-07",
           "team1": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
           "team2": {
-            "code": "FCA",
+            "key": "augsburg",
             "name": "FC Augsburg",
-            "key": "augsburg"
+            "code": "FCA"
           },
-          "score1": 5
+          "score1": 5,
+          "score2": 0
         },
         {
-          "date": "2-8-2020",
-          "score2": 0,
+          "date": "2020-02-08",
           "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "score1": 1
-        },
-        {
-          "date": "2-8-2020",
-          "score2": 3,
-          "team1": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "team2": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "score1": 1
-        },
-        {
-          "date": "2-8-2020",
-          "score2": 1,
-          "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2-8-2020",
-          "score2": 2,
+          "date": "2020-02-08",
           "team1": {
-            "code": "BRE",
+            "key": "bremen",
             "name": "Werder Bremen",
-            "key": "bremen"
+            "code": "BRE"
           },
           "team2": {
-            "code": "FCU",
+            "key": "unionberlin",
             "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "code": "FCU"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "2-8-2020",
-          "score2": 1,
+          "date": "2020-02-08",
           "team1": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
           },
           "team2": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 0
         },
         {
-          "date": "2-8-2020",
-          "score2": 3,
+          "date": "2020-02-08",
           "team1": {
-            "code": "B04",
+            "key": "leverkusen",
             "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "code": "B04"
           },
           "team2": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 3
         },
         {
-          "date": "2-9-2020",
-          "score2": 0,
+          "date": "2020-02-08",
           "team1": {
-            "code": "FCB",
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "team2": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-08",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2020-02-09",
+          "team1": {
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 0
         },
         {
-          "date": "3-11-2020",
-          "score2": 1,
+          "date": "2020-03-11",
           "team1": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
           "team2": {
-            "code": "KOE",
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
-          "score1": 2
+          "score1": 2,
+          "score2": 1
         }
-      ],
-      "name": "Matchday 21"
+      ]
     },
     {
+      "name": "Spieltag 22",
       "matches": [
         {
-          "date": "2-14-2020",
-          "score2": 0,
+          "date": "2020-02-14",
           "team1": {
-            "code": "BVB",
+            "key": "dortmund",
             "name": "Borussia Dortmund",
-            "key": "dortmund"
+            "code": "BVB"
           },
           "team2": {
-            "code": "FFM",
+            "key": "frankfurt",
             "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "code": "FFM"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 0
         },
         {
-          "date": "2-15-2020",
-          "score2": 1,
+          "date": "2020-02-15",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "score1": 1
-        },
-        {
-          "date": "2-15-2020",
-          "score2": 3,
-          "team1": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 2
-        },
-        {
-          "date": "2-15-2020",
-          "score2": 2,
-          "team1": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "team2": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "score1": 1
-        },
-        {
-          "date": "2-15-2020",
-          "score2": 0,
-          "team1": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "score1": 3
-        },
-        {
-          "date": "2-15-2020",
-          "score2": 3,
-          "team1": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "score1": 2
-        },
-        {
-          "date": "2-15-2020",
-          "score2": 4,
-          "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "BMG",
+            "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
+            "code": "BMG"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 4
         },
         {
-          "date": "2-16-2020",
-          "score2": 4,
+          "date": "2020-02-15",
           "team1": {
-            "code": "KOE",
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 2,
+          "score2": 3
+        },
+        {
+          "date": "2020-02-15",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-15",
+          "team1": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "team2": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-02-15",
+          "team1": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 2,
+          "score2": 3
+        },
+        {
+          "date": "2020-02-15",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-16",
+          "team1": {
+            "key": "koeln",
             "name": "1. FC Köln",
-            "key": "koeln"
+            "code": "KOE"
           },
           "team2": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
-          "score1": 1
+          "score1": 1,
+          "score2": 4
         },
         {
-          "date": "2-16-2020",
-          "score2": 0,
+          "date": "2020-02-16",
           "team1": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
           "team2": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 0
         }
-      ],
-      "name": "Matchday 22"
+      ]
     },
     {
+      "name": "Spieltag 23",
       "matches": [
         {
-          "date": "2-21-2020",
-          "score2": 2,
+          "date": "2020-02-21",
           "team1": {
-            "code": "FCB",
+            "key": "bayern",
             "name": "Bayern München",
-            "key": "bayern"
+            "code": "FCB"
           },
           "team2": {
-            "code": "SCP",
+            "key": "paderborn",
             "name": "SC Paderborn 07",
-            "key": "paderborn"
+            "code": "SCP"
           },
-          "score1": 3
+          "score1": 3,
+          "score2": 2
         },
         {
-          "date": "2-22-2020",
-          "score2": 2,
+          "date": "2020-02-22",
           "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
-          },
-          "score1": 0
-        },
-        {
-          "date": "2-22-2020",
-          "score2": 5,
-          "team1": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "team2": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "score1": 0
-        },
-        {
-          "date": "2-22-2020",
-          "score2": 1,
-          "team1": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "team2": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "score1": 1
-        },
-        {
-          "date": "2-22-2020",
-          "score2": 2,
-          "team1": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "team2": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "score1": 0
-        },
-        {
-          "date": "2-22-2020",
-          "score2": 5,
-          "team1": {
-            "code": "S04",
+            "key": "schalke",
             "name": "FC Schalke 04",
-            "key": "schalke"
+            "code": "S04"
           },
           "team2": {
-            "code": "RBL",
+            "key": "leipzig",
             "name": "RB Leipzig",
-            "key": "leipzig"
+            "code": "RBL"
           },
-          "score1": 0
+          "score1": 0,
+          "score2": 5
         },
         {
-          "date": "2-23-2020",
-          "score2": 0,
+          "date": "2020-02-22",
           "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
           },
           "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
           },
-          "score1": 2
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "2-23-2020",
-          "score2": 0,
+          "date": "2020-02-22",
           "team1": {
-            "code": "WOB",
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2020-02-22",
+          "team1": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-22",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "score1": 0,
+          "score2": 5
+        },
+        {
+          "date": "2020-02-23",
+          "team1": {
+            "key": "wolfsburg",
             "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
+            "code": "WOB"
           },
           "team2": {
-            "code": "M05",
+            "key": "mainz",
             "name": "1. FSV Mainz 05",
-            "key": "mainz"
+            "code": "M05"
           },
-          "score1": 4
+          "score1": 4,
+          "score2": 0
         },
         {
-          "date": "2-24-2020",
-          "score2": 2,
+          "date": "2020-02-23",
           "team1": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
           },
           "team2": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
           },
-          "score1": 1
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-24",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "score1": 1,
+          "score2": 2
         }
-      ],
-      "name": "Matchday 23"
+      ]
     },
     {
+      "name": "Spieltag 24",
       "matches": [
         {
-          "date": "2-29-2020",
-          "score2": 3,
+          "date": "2020-02-28",
           "team1": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "team2": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "score1": 2
-        },
-        {
-          "date": "2-28-2020",
-          "score2": 3,
-          "team1": {
-            "code": "F95",
+            "key": "duesseldorf",
             "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
+            "code": "F95"
           },
           "team2": {
-            "code": "BSC",
+            "key": "herthabsc",
             "name": "Hertha BSC",
-            "key": "herthabsc"
+            "code": "BSC"
           },
-          "score1": 3
-        },
-        {
-          "date": "2-29-2020",
-          "score2": 0,
-          "team1": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "team2": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "score1": 1
-        },
-        {
-          "date": "2-29-2020",
-          "score2": 6,
-          "team1": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "team2": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "score1": 0
-        },
-        {
-          "date": "2-29-2020",
-          "score2": 0,
-          "team1": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "team2": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "score1": 2
-        },
-        {
-          "date": "2-29-2020",
-          "score2": 0,
-          "team1": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "team2": {
-            "code": "S04",
-            "name": "FC Schalke 04",
-            "key": "schalke"
-          },
-          "score1": 3
-        },
-        {
-          "date": "3-1-2020",
-          "score2": 2,
-          "team1": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "team2": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "score1": 2
-        },
-        {
-          "date": "3-1-2020",
-          "score2": 1,
-          "team1": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "team2": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "score1": 1
+          "score1": 3,
+          "score2": 3
         },
         {
           "date": "2020-02-29",
           "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-29",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-29",
+          "team1": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-29",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": 2,
+          "score2": 3
+        },
+        {
+          "date": "2020-02-29",
+          "team1": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": 0,
+          "score2": 6
+        },
+        {
+          "date": "2020-03-01",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2020-03-01",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-03-01",
+          "team1": {
             "key": "bremen",
             "name": "Werder Bremen",
             "code": "BRE"
@@ -3358,200 +3359,153 @@
           "score1": null,
           "score2": null
         }
-      ],
-      "name": "Matchday 24"
+      ]
     },
     {
+      "name": "Spieltag 25",
       "matches": [
         {
-          "date": "3-7-2020",
-          "score2": 1,
+          "date": "2020-03-06",
           "team1": {
-            "code": "SCF",
-            "name": "SC Freiburg",
-            "key": "freiburg"
-          },
-          "team2": {
-            "code": "FCU",
-            "name": "1. FC Union Berlin",
-            "key": "unionberlin"
-          },
-          "score1": 3
-        },
-
-        {
-          "date": "3-7-2020",
-          "score2": 2,
-          "team1": {
-            "code": "BSC",
-            "name": "Hertha BSC",
-            "key": "herthabsc"
-          },
-          "team2": {
-            "code": "BRE",
-            "name": "Werder Bremen",
-            "key": "bremen"
-          },
-          "score1": 2
-        },
-        {
-          "date": "3-6-2020",
-          "score2": 2,
-          "team1": {
-            "code": "SCP",
-            "name": "SC Paderborn 07",
-            "key": "paderborn"
-          },
-          "team2": {
-            "code": "KOE",
-            "name": "1. FC Köln",
-            "key": "koeln"
-          },
-          "score1": 1
-        },
-        {
-          "date": "3-7-2020",
-          "score2": 0,
-          "team1": {
-            "code": "B04",
-            "name": "Bayer 04 Leverkusen",
-            "key": "leverkusen"
-          },
-          "team2": {
-            "code": "FFM",
-            "name": "Eintracht Frankfurt",
-            "key": "frankfurt"
-          },
-          "score1": 4
-        },
-        {
-          "date": "3-7-2020",
-          "score2": 1,
-          "team1": {
-            "code": "S04",
-            "name": "FC Schalke 04",
-            "key": "schalke"
-          },
-          "team2": {
-            "code": "HOF",
-            "name": "TSG 1899 Hoffenheim",
-            "key": "hoffenheim"
-          },
-          "score1": 1
-        },
-        {
-          "date": "3-7-2020",
-          "score2": 0,
-          "team1": {
-            "code": "WOB",
-            "name": "VfL Wolfsburg",
-            "key": "wolfsburg"
-          },
-          "team2": {
-            "code": "RBL",
-            "name": "RB Leipzig",
-            "key": "leipzig"
-          },
-          "score1": 0
-        },
-        {
-          "date": "3-7-2020",
-          "score2": 2,
-          "team1": {
-            "code": "BMG",
-            "name": "Bor. Mönchengladbach",
-            "key": "mgladbach"
-          },
-          "team2": {
-            "code": "BVB",
-            "name": "Borussia Dortmund",
-            "key": "dortmund"
-          },
-          "score1": 1
-        },
-        {
-          "date": "3-8-2020",
-          "score2": 0,
-          "team1": {
-            "code": "FCB",
-            "name": "Bayern München",
-            "key": "bayern"
-          },
-          "team2": {
-            "code": "FCA",
-            "name": "FC Augsburg",
-            "key": "augsburg"
-          },
-          "score1": 2
-        },
-        {
-          "date": "3-8-2020",
-          "score2": 1,
-          "team1": {
-            "code": "M05",
-            "name": "1. FSV Mainz 05",
-            "key": "mainz"
-          },
-          "team2": {
-            "code": "F95",
-            "name": "Fortuna Düsseldorf",
-            "key": "duesseldorf"
-          },
-          "score1": 1
-        }
-      ],
-      "name": "Matchday 25"
-    },
-    {
-      "name": "Matchday 26",
-      "matches": [
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "team2": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
             "key": "paderborn",
             "name": "SC Paderborn 07",
             "code": "SCP"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
+          "team2": {
             "key": "koeln",
             "name": "1. FC Köln",
             "code": "KOE"
           },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
           "team2": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2020-03-08",
+          "team1": {
             "key": "mainz",
             "name": "1. FSV Mainz 05",
             "code": "M05"
           },
-          "score1": null,
-          "score2": null
+          "team2": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2020-03-14",
+          "date": "2020-03-08",
+          "team1": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 2,
+          "score2": 0
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 26",
+      "matches": [
+        {
+          "date": "2020-05-16",
           "team1": {
             "key": "dortmund",
             "name": "Borussia Dortmund",
@@ -3562,71 +3516,11 @@
             "name": "FC Schalke 04",
             "code": "S04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 4,
+          "score2": 0
         },
         {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "team2": {
-            "key": "mgladbach",
-            "name": "Bor. Mönchengladbach",
-            "code": "BMG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "bayern",
-            "name": "Bayern München",
-            "code": "FCB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
-          },
-          "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "hoffenheim",
-            "name": "TSG 1899 Hoffenheim",
-            "code": "HOF"
-          },
-          "team2": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
+          "date": "2020-05-16",
           "team1": {
             "key": "leipzig",
             "name": "RB Leipzig",
@@ -3637,61 +3531,136 @@
             "name": "SC Freiburg",
             "code": "SCF"
           },
-          "score1": null,
-          "score2": null
-        }
-      ]
-    },
-    {
-      "name": "Matchday 27",
-      "matches": [
+          "score1": 1,
+          "score2": 1
+        },
         {
-          "date": "2020-03-21",
+          "date": "2020-05-16",
           "team1": {
-            "key": "schalke",
-            "name": "FC Schalke 04",
-            "code": "S04"
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
           },
           "team2": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "score1": 0,
+          "score2": 3
+        },
+        {
+          "date": "2020-05-16",
+          "team1": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-05-16",
+          "team1": {
             "key": "augsburg",
             "name": "FC Augsburg",
             "code": "FCA"
           },
-          "score1": null,
-          "score2": null
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "2020-03-21",
+          "date": "2020-05-16",
           "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
-          },
-          "team2": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "bayern",
-            "name": "Bayern München",
-            "code": "FCB"
-          },
-          "team2": {
             "key": "frankfurt",
             "name": "Eintracht Frankfurt",
             "code": "FFM"
           },
-          "score1": null,
-          "score2": null
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "2020-03-21",
+          "date": "2020-05-17",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-17",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-18",
+          "team1": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": 1,
+          "score2": 4
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 27",
+      "matches": [
+        {
+          "date": "2020-05-22",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2020-05-23",
           "team1": {
             "key": "mgladbach",
             "name": "Bor. Mönchengladbach",
@@ -3702,26 +3671,11 @@
             "name": "Bayer 04 Leverkusen",
             "code": "B04"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 3
         },
         {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
+          "date": "2020-05-23",
           "team1": {
             "key": "wolfsburg",
             "name": "VfL Wolfsburg",
@@ -3732,41 +3686,26 @@
             "name": "Borussia Dortmund",
             "code": "BVB"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "2020-03-21",
+          "date": "2020-05-23",
           "team1": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
           },
           "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
+          "date": "2020-05-23",
           "team1": {
             "key": "paderborn",
             "name": "SC Paderborn 07",
@@ -3777,61 +3716,76 @@
             "name": "TSG 1899 Hoffenheim",
             "code": "HOF"
           },
-          "score1": null,
-          "score2": null
-        }
-      ]
-    },
-    {
-      "name": "Matchday 28",
-      "matches": [
-        {
-          "date": "2020-04-04",
-          "team1": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "team2": {
-            "key": "mgladbach",
-            "name": "Bor. Mönchengladbach",
-            "code": "BMG"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-23",
           "team1": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
           },
           "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
           },
-          "score1": null,
-          "score2": null
+          "score1": 5,
+          "score2": 2
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-24",
           "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
             "key": "schalke",
             "name": "FC Schalke 04",
             "code": "S04"
           },
-          "score1": null,
-          "score2": null
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": 0,
+          "score2": 3
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-24",
+          "team1": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": 0,
+          "score2": 5
+        },
+        {
+          "date": "2020-05-24",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "score1": 2,
+          "score2": 2
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 28",
+      "matches": [
+        {
+          "date": "2020-05-26",
           "team1": {
             "key": "dortmund",
             "name": "Borussia Dortmund",
@@ -3846,7 +3800,22 @@
           "score2": null
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-26",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-26",
           "team1": {
             "key": "frankfurt",
             "name": "Eintracht Frankfurt",
@@ -3861,37 +3830,37 @@
           "score2": null
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-26",
           "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
           },
           "team2": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-27",
           "team1": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
           },
           "team2": {
-            "key": "paderborn",
-            "name": "SC Paderborn 07",
-            "code": "SCP"
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-27",
           "team1": {
             "key": "hoffenheim",
             "name": "TSG 1899 Hoffenheim",
@@ -3906,16 +3875,46 @@
           "score2": null
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-05-27",
           "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
           },
           "team2": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-27",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-27",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
           },
           "score1": null,
           "score2": null
@@ -3923,7 +3922,7 @@
       ]
     },
     {
-      "name": "Matchday 29",
+      "name": "Spieltag 29",
       "matches": [
         {
           "date": "2020-04-11",
@@ -4051,566 +4050,6 @@
             "key": "paderborn",
             "name": "SC Paderborn 07",
             "code": "SCP"
-          },
-          "team2": {
-            "key": "dortmund",
-            "name": "Borussia Dortmund",
-            "code": "BVB"
-          },
-          "score1": null,
-          "score2": null
-        }
-      ]
-    },
-    {
-      "name": "Matchday 30",
-      "matches": [
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
-          },
-          "team2": {
-            "key": "mgladbach",
-            "name": "Bor. Mönchengladbach",
-            "code": "BMG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
-          },
-          "team2": {
-            "key": "bayern",
-            "name": "Bayern München",
-            "code": "FCB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "hoffenheim",
-            "name": "TSG 1899 Hoffenheim",
-            "code": "HOF"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "dortmund",
-            "name": "Borussia Dortmund",
-            "code": "BVB"
-          },
-          "team2": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "team2": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "schalke",
-            "name": "FC Schalke 04",
-            "code": "S04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
-          },
-          "team2": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "paderborn",
-            "name": "SC Paderborn 07",
-            "code": "SCP"
-          },
-          "score1": null,
-          "score2": null
-        }
-      ]
-    },
-    {
-      "name": "Matchday 31",
-      "matches": [
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "schalke",
-            "name": "FC Schalke 04",
-            "code": "S04"
-          },
-          "team2": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "dortmund",
-            "name": "Borussia Dortmund",
-            "code": "BVB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "bayern",
-            "name": "Bayern München",
-            "code": "FCB"
-          },
-          "team2": {
-            "key": "mgladbach",
-            "name": "Bor. Mönchengladbach",
-            "code": "BMG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "team2": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "team2": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
-          },
-          "team2": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "paderborn",
-            "name": "SC Paderborn 07",
-            "code": "SCP"
-          },
-          "team2": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "hoffenheim",
-            "name": "TSG 1899 Hoffenheim",
-            "code": "HOF"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": null,
-          "score2": null
-        }
-      ]
-    },
-    {
-      "name": "Matchday 32",
-      "matches": [
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "team2": {
-            "key": "bayern",
-            "name": "Bayern München",
-            "code": "FCB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
-          },
-          "team2": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
-          },
-          "team2": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "mgladbach",
-            "name": "Bor. Mönchengladbach",
-            "code": "BMG"
-          },
-          "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "dortmund",
-            "name": "Borussia Dortmund",
-            "code": "BVB"
-          },
-          "team2": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "team2": {
-            "key": "schalke",
-            "name": "FC Schalke 04",
-            "code": "S04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "paderborn",
-            "name": "SC Paderborn 07",
-            "code": "SCP"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
-          },
-          "team2": {
-            "key": "hoffenheim",
-            "name": "TSG 1899 Hoffenheim",
-            "code": "HOF"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": null,
-          "score2": null
-        }
-      ]
-    },
-    {
-      "name": "Matchday 33",
-      "matches": [
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "schalke",
-            "name": "FC Schalke 04",
-            "code": "S04"
-          },
-          "team2": {
-            "key": "wolfsburg",
-            "name": "VfL Wolfsburg",
-            "code": "WOB"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "augsburg",
-            "name": "FC Augsburg",
-            "code": "FCA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "bayern",
-            "name": "Bayern München",
-            "code": "FCB"
-          },
-          "team2": {
-            "key": "freiburg",
-            "name": "SC Freiburg",
-            "code": "SCF"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "koeln",
-            "name": "1. FC Köln",
-            "code": "KOE"
-          },
-          "team2": {
-            "key": "frankfurt",
-            "name": "Eintracht Frankfurt",
-            "code": "FFM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "herthabsc",
-            "name": "Hertha BSC",
-            "code": "BSC"
-          },
-          "team2": {
-            "key": "leverkusen",
-            "name": "Bayer 04 Leverkusen",
-            "code": "B04"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "mainz",
-            "name": "1. FSV Mainz 05",
-            "code": "M05"
-          },
-          "team2": {
-            "key": "bremen",
-            "name": "Werder Bremen",
-            "code": "BRE"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "paderborn",
-            "name": "SC Paderborn 07",
-            "code": "SCP"
-          },
-          "team2": {
-            "key": "mgladbach",
-            "name": "Bor. Mönchengladbach",
-            "code": "BMG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "hoffenheim",
-            "name": "TSG 1899 Hoffenheim",
-            "code": "HOF"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
           },
           "team2": {
             "key": "dortmund",
@@ -4623,7 +4062,582 @@
       ]
     },
     {
-      "name": "Matchday 34",
+      "name": "Spieltag 30",
+      "matches": [
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-18",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": null,
+          "score2": null
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 31",
+      "matches": [
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "team2": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-04-25",
+          "team1": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "score1": null,
+          "score2": null
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 32",
+      "matches": [
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "team2": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "team2": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "team2": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "team2": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "team2": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "team2": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "team2": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-02",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "score1": null,
+          "score2": null
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 33",
+      "matches": [
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "schalke",
+            "name": "FC Schalke 04",
+            "code": "S04"
+          },
+          "team2": {
+            "key": "wolfsburg",
+            "name": "VfL Wolfsburg",
+            "code": "WOB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "duesseldorf",
+            "name": "Fortuna Düsseldorf",
+            "code": "F95"
+          },
+          "team2": {
+            "key": "augsburg",
+            "name": "FC Augsburg",
+            "code": "FCA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "bayern",
+            "name": "Bayern München",
+            "code": "FCB"
+          },
+          "team2": {
+            "key": "freiburg",
+            "name": "SC Freiburg",
+            "code": "SCF"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "koeln",
+            "name": "1. FC Köln",
+            "code": "KOE"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "herthabsc",
+            "name": "Hertha BSC",
+            "code": "BSC"
+          },
+          "team2": {
+            "key": "leverkusen",
+            "name": "Bayer 04 Leverkusen",
+            "code": "B04"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "mainz",
+            "name": "1. FSV Mainz 05",
+            "code": "M05"
+          },
+          "team2": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "paderborn",
+            "name": "SC Paderborn 07",
+            "code": "SCP"
+          },
+          "team2": {
+            "key": "mgladbach",
+            "name": "Bor. Mönchengladbach",
+            "code": "BMG"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "hoffenheim",
+            "name": "TSG 1899 Hoffenheim",
+            "code": "HOF"
+          },
+          "team2": {
+            "key": "unionberlin",
+            "name": "1. FC Union Berlin",
+            "code": "FCU"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-09",
+          "team1": {
+            "key": "leipzig",
+            "name": "RB Leipzig",
+            "code": "RBL"
+          },
+          "team2": {
+            "key": "dortmund",
+            "name": "Borussia Dortmund",
+            "code": "BVB"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-05-13",
+          "team1": {
+            "key": "bremen",
+            "name": "Werder Bremen",
+            "code": "BRE"
+          },
+          "team2": {
+            "key": "frankfurt",
+            "name": "Eintracht Frankfurt",
+            "code": "FFM"
+          },
+          "score1": null,
+          "score2": null
+        }
+      ]
+    },
+    {
+      "name": "Spieltag 34",
       "matches": [
         {
           "date": "2020-05-16",
