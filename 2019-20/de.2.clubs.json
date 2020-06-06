@@ -2,6 +2,21 @@
   "name": "2. Bundesliga 2019/20",
   "clubs": [
     {
+      "key": "hsv",
+      "name": "Hamburger SV",
+      "code": "HSV"
+    },
+    {
+      "key": "nuernberg",
+      "name": "1. FC Nürnberg",
+      "code": "FCN"
+    },
+    {
+      "key": "fuerth",
+      "name": "SpVgg Greuther Fürth",
+      "code": "SGF"
+    },
+    {
       "key": "stuttgart",
       "name": "VfB Stuttgart",
       "code": "VFB"
@@ -12,69 +27,9 @@
       "code": "H96"
     },
     {
-      "key": "dresden",
-      "name": "Dynamo Dresden",
-      "code": "SGD"
-    },
-    {
-      "key": "nuernberg",
-      "name": "1. FC Nürnberg",
-      "code": "FCN"
-    },
-    {
-      "key": "osnabrueck",
-      "name": "VfL Osnabrück",
-      "code": null
-    },
-    {
-      "key": "heidenheim",
-      "name": "1. FC Heidenheim",
-      "code": "HDH"
-    },
-    {
-      "key": "kiel",
-      "name": "Holstein Kiel",
-      "code": null
-    },
-    {
-      "key": "sandhausen",
-      "name": "SV Sandhausen",
-      "code": "SAN"
-    },
-    {
-      "key": "hsv",
-      "name": "Hamburger SV",
-      "code": "HSV"
-    },
-    {
-      "key": "darmstadt",
-      "name": "SV Darmstadt 98",
-      "code": "D98"
-    },
-    {
-      "key": "fuerth",
-      "name": "SpVgg Greuther Fürth",
-      "code": "SGF"
-    },
-    {
-      "key": "aue",
-      "name": "FC Erzgebirge Aue",
-      "code": "AUE"
-    },
-    {
-      "key": "wiesbaden",
-      "name": "SV Wehen Wiesbaden",
-      "code": null
-    },
-    {
       "key": "karlsruhe",
       "name": "Karlsruher SC",
       "code": "KSC"
-    },
-    {
-      "key": "regensburg",
-      "name": "SSV Jahn Regensburg",
-      "code": "REG"
     },
     {
       "key": "bochum",
@@ -82,14 +37,59 @@
       "code": "BOC"
     },
     {
-      "key": "bielefeld",
-      "name": "Arminia Bielefeld",
-      "code": "DSC"
+      "key": "sandhausen",
+      "name": "SV Sandhausen",
+      "code": "SAN"
+    },
+    {
+      "key": "aue",
+      "name": "FC Erzgebirge Aue",
+      "code": "AUE"
     },
     {
       "key": "stpauli",
       "name": "FC St. Pauli",
       "code": "STP"
+    },
+    {
+      "key": "dresden",
+      "name": "Dynamo Dresden",
+      "code": "SGD"
+    },
+    {
+      "key": "bielefeld",
+      "name": "Arminia Bielefeld",
+      "code": "DSC"
+    },
+    {
+      "key": "heidenheim",
+      "name": "1. FC Heidenheim",
+      "code": "HDH"
+    },
+    {
+      "key": "darmstadt",
+      "name": "SV Darmstadt 98",
+      "code": "D98"
+    },
+    {
+      "key": "osnabrueck",
+      "name": "VfL Osnabrück",
+      "code": null
+    },
+    {
+      "key": "wiesbaden",
+      "name": "SV Wehen Wiesbaden",
+      "code": null
+    },
+    {
+      "key": "kiel",
+      "name": "Holstein Kiel",
+      "code": null
+    },
+    {
+      "key": "regensburg",
+      "name": "SSV Jahn Regensburg",
+      "code": "REG"
     }
   ]
 }

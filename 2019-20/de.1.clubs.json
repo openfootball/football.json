@@ -2,14 +2,9 @@
   "name": "Bundesliga 2019/20",
   "clubs": [
     {
-      "key": "bayern",
-      "name": "Bayern München",
-      "code": "FCB"
-    },
-    {
-      "key": "herthabsc",
-      "name": "Hertha BSC",
-      "code": "BSC"
+      "key": "dortmund",
+      "name": "Borussia Dortmund",
+      "code": "BVB"
     },
     {
       "key": "bremen",
@@ -17,9 +12,14 @@
       "code": "BRE"
     },
     {
-      "key": "duesseldorf",
-      "name": "Fortuna Düsseldorf",
-      "code": "F95"
+      "key": "mgladbach",
+      "name": "Bor. Mönchengladbach",
+      "code": "BMG"
+    },
+    {
+      "key": "hoffenheim",
+      "name": "TSG 1899 Hoffenheim",
+      "code": "HOF"
     },
     {
       "key": "freiburg",
@@ -32,44 +32,19 @@
       "code": "M05"
     },
     {
-      "key": "leverkusen",
-      "name": "Bayer 04 Leverkusen",
-      "code": "B04"
-    },
-    {
-      "key": "paderborn",
-      "name": "SC Paderborn 07",
-      "code": "SCP"
-    },
-    {
-      "key": "dortmund",
-      "name": "Borussia Dortmund",
-      "code": "BVB"
-    },
-    {
       "key": "augsburg",
       "name": "FC Augsburg",
       "code": "FCA"
     },
     {
-      "key": "wolfsburg",
-      "name": "VfL Wolfsburg",
-      "code": "WOB"
+      "key": "duesseldorf",
+      "name": "Fortuna Düsseldorf",
+      "code": "F95"
     },
     {
-      "key": "koeln",
-      "name": "1. FC Köln",
-      "code": "KOE"
-    },
-    {
-      "key": "mgladbach",
-      "name": "Bor. Mönchengladbach",
-      "code": "BMG"
-    },
-    {
-      "key": "schalke",
-      "name": "FC Schalke 04",
-      "code": "S04"
+      "key": "bayern",
+      "name": "Bayern München",
+      "code": "FCB"
     },
     {
       "key": "frankfurt",
@@ -77,9 +52,34 @@
       "code": "FFM"
     },
     {
-      "key": "hoffenheim",
-      "name": "TSG 1899 Hoffenheim",
-      "code": "HOF"
+      "key": "leverkusen",
+      "name": "Bayer 04 Leverkusen",
+      "code": "B04"
+    },
+    {
+      "key": "wolfsburg",
+      "name": "VfL Wolfsburg",
+      "code": "WOB"
+    },
+    {
+      "key": "schalke",
+      "name": "FC Schalke 04",
+      "code": "S04"
+    },
+    {
+      "key": "koeln",
+      "name": "1. FC Köln",
+      "code": "KOE"
+    },
+    {
+      "key": "herthabsc",
+      "name": "Hertha BSC",
+      "code": "BSC"
+    },
+    {
+      "key": "paderborn",
+      "name": "SC Paderborn 07",
+      "code": "SCP"
     },
     {
       "key": "unionberlin",

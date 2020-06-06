@@ -1,21 +1,6 @@
 {
-  "name": "Deutsche 2. Bundesliga 2013/14",
+  "name": "2. Bundesliga 2013/14",
   "clubs": [
-    {
-      "key": "koeln",
-      "name": "1. FC Köln",
-      "code": "KOE"
-    },
-    {
-      "key": "ingolstadt",
-      "name": "FC Ingolstadt 04",
-      "code": "FCI"
-    },
-    {
-      "key": "paderborn",
-      "name": "SC Paderborn 07",
-      "code": "SCP"
-    },
     {
       "key": "duesseldorf",
       "name": "Fortuna Düsseldorf",
@@ -23,28 +8,13 @@
     },
     {
       "key": "fuerth",
-      "name": "Greuther Fürth",
+      "name": "SpVgg Greuther Fürth",
       "code": "SGF"
     },
     {
-      "key": "klautern",
-      "name": "1. FC Kaiserslautern",
-      "code": "FCK"
-    },
-    {
-      "key": "fsvfrankfurt",
-      "name": "FSV Frankfurt",
-      "code": "FSV"
-    },
-    {
-      "key": "tsvmuenchen",
-      "name": "1860 München",
-      "code": "M60"
-    },
-    {
-      "key": "unionberlin",
-      "name": "Union Berlin",
-      "code": "FCU"
+      "key": "karlsruhe",
+      "name": "Karlsruher SC",
+      "code": "KSC"
     },
     {
       "key": "bochum",
@@ -52,9 +22,14 @@
       "code": "BOC"
     },
     {
-      "key": "stpauli",
-      "name": "FC St. Pauli",
-      "code": "STP"
+      "key": "tsvmuenchen",
+      "name": "TSV 1860 München",
+      "code": "M60"
+    },
+    {
+      "key": "koeln",
+      "name": "1. FC Köln",
+      "code": "KOE"
     },
     {
       "key": "sandhausen",
@@ -62,34 +37,59 @@
       "code": "SAN"
     },
     {
-      "key": "karlsruhe",
-      "name": "Karlsruhe",
-      "code": "KSC"
-    },
-    {
-      "key": "bielefeld",
-      "name": "Bielefeld",
-      "code": "DSC"
-    },
-    {
-      "key": "cottbus",
-      "name": "Energie Cottbus",
-      "code": "FCE"
-    },
-    {
       "key": "aalen",
       "name": "VfR Aalen",
       "code": "AAL"
     },
     {
+      "key": "ingolstadt",
+      "name": "FC Ingolstadt 04",
+      "code": "FCI"
+    },
+    {
       "key": "aue",
-      "name": "Erzgebirge Aue",
+      "name": "FC Erzgebirge Aue",
       "code": "AUE"
+    },
+    {
+      "key": "stpauli",
+      "name": "FC St. Pauli",
+      "code": "STP"
+    },
+    {
+      "key": "paderborn",
+      "name": "SC Paderborn 07",
+      "code": "SCP"
+    },
+    {
+      "key": "klautern",
+      "name": "1. FC Kaiserslautern",
+      "code": "FCK"
     },
     {
       "key": "dresden",
       "name": "Dynamo Dresden",
       "code": "SGD"
+    },
+    {
+      "key": "bielefeld",
+      "name": "Arminia Bielefeld",
+      "code": "DSC"
+    },
+    {
+      "key": "fsvfrankfurt",
+      "name": "FSV Frankfurt",
+      "code": "FSV"
+    },
+    {
+      "key": "unionberlin",
+      "name": "1. FC Union Berlin",
+      "code": "FCU"
+    },
+    {
+      "key": "cottbus",
+      "name": "Energie Cottbus",
+      "code": "FCE"
     }
   ]
 }

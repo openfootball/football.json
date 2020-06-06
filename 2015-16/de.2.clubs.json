@@ -1,25 +1,10 @@
 {
-  "name": "Deutsche 2. Bundesliga 2015/16",
+  "name": "2. Bundesliga 2015/16",
   "clubs": [
-    {
-      "key": "paderborn",
-      "name": "SC Paderborn 07",
-      "code": "SCP"
-    },
     {
       "key": "freiburg",
       "name": "SC Freiburg",
       "code": "SCF"
-    },
-    {
-      "key": "braunschweig",
-      "name": "Eintr. Braunschweig",
-      "code": "EBS"
-    },
-    {
-      "key": "nuernberg",
-      "name": "1. FC Nürnberg",
-      "code": "FCN"
     },
     {
       "key": "duesseldorf",
@@ -27,29 +12,19 @@
       "code": "F95"
     },
     {
+      "key": "nuernberg",
+      "name": "1. FC Nürnberg",
+      "code": "FCN"
+    },
+    {
       "key": "fuerth",
-      "name": "Greuther Fürth",
+      "name": "SpVgg Greuther Fürth",
       "code": "SGF"
     },
     {
-      "key": "klautern",
-      "name": "1. FC Kaiserslautern",
-      "code": "FCK"
-    },
-    {
-      "key": "fsvfrankfurt",
-      "name": "FSV Frankfurt",
-      "code": "FSV"
-    },
-    {
-      "key": "tsvmuenchen",
-      "name": "1860 München",
-      "code": "M60"
-    },
-    {
-      "key": "unionberlin",
-      "name": "Union Berlin",
-      "code": "FCU"
+      "key": "karlsruhe",
+      "name": "Karlsruher SC",
+      "code": "KSC"
     },
     {
       "key": "bochum",
@@ -57,9 +32,14 @@
       "code": "BOC"
     },
     {
-      "key": "stpauli",
-      "name": "FC St. Pauli",
-      "code": "STP"
+      "key": "tsvmuenchen",
+      "name": "TSV 1860 München",
+      "code": "M60"
+    },
+    {
+      "key": "braunschweig",
+      "name": "Eintracht Braunschweig",
+      "code": "EBS"
     },
     {
       "key": "sandhausen",
@@ -67,14 +47,34 @@
       "code": "SAN"
     },
     {
-      "key": "karlsruhe",
-      "name": "Karlsruhe",
-      "code": "KSC"
+      "key": "stpauli",
+      "name": "FC St. Pauli",
+      "code": "STP"
     },
     {
-      "key": "heidenheim",
-      "name": "1. FC Heidenheim",
-      "code": "HDH"
+      "key": "paderborn",
+      "name": "SC Paderborn 07",
+      "code": "SCP"
+    },
+    {
+      "key": "klautern",
+      "name": "1. FC Kaiserslautern",
+      "code": "FCK"
+    },
+    {
+      "key": "bielefeld",
+      "name": "Arminia Bielefeld",
+      "code": "DSC"
+    },
+    {
+      "key": "fsvfrankfurt",
+      "name": "FSV Frankfurt",
+      "code": "FSV"
+    },
+    {
+      "key": "unionberlin",
+      "name": "1. FC Union Berlin",
+      "code": "FCU"
     },
     {
       "key": "leipzig",
@@ -82,14 +82,14 @@
       "code": "RBL"
     },
     {
+      "key": "heidenheim",
+      "name": "1. FC Heidenheim",
+      "code": "HDH"
+    },
+    {
       "key": "duisburg",
       "name": "MSV Duisburg",
       "code": "MSV"
-    },
-    {
-      "key": "bielefeld",
-      "name": "Bielefeld",
-      "code": "DSC"
     }
   ]
 }
