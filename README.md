@@ -114,9 +114,7 @@ Any leagues or tournaments missing? Contributions welcome!
 For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/league-starter).
 
 
-## More
-
-_Add Your Scripts Here_
+## More - Add Your Scripts Here
 
 Enrique Lopez Magallon (@enadol) writes:
 
