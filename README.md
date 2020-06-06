@@ -11,42 +11,26 @@ Leagues include:
 - Italian Serie A
 - and more
 
-Example - Premier League 2015/16 Match Schedule (Fixtures and Result) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json):
+Example - Premier League 2015/16 Match Schedule (Fixtures and Results) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json):
 
 ``` json
 {
-  "name": "English Premier League 2015/16",
+  "name": "Premier League 2015/16",
   "rounds": [
     {
       "name": "Matchday 1",
       "matches": [
         {
           "date": "2015-08-08",
-          "team1": {
-            "key": "manutd",
-            "name": "Manchester United",
-            "code": "MUN"
-          },
-          "team2": {
-            "key": "tottenham",
-            "name": "Tottenham Hotspur",
-            "code": "TOT"
-          },
+          "team1": "Manchester United",
+          "team2": "Tottenham Hotspur",
           "score1": 1,
           "score2": 0
         },
         {
           "date": "2015-08-09",
-          "team1": {
-            "key": "arsenal",
-            "name": "Arsenal",
-            "code": "ARS"
-          },
-          "team2": {
-            "key": "westham",
-            "name": "West Ham United",
-            "code": "WHU"
-          },
+          "team1": "Arsenal",
+          "team2": "West Ham United",
           "score1": 0,
           "score2": 2
         },
@@ -62,7 +46,7 @@ Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw
 
 ``` json
 {
-  "name": "English Premier League 2015/16",
+  "name": "Premier League 2015/16",
   "clubs": [
     {
       "key": "chelsea",
@@ -109,7 +93,7 @@ and than (auto-)generate the football.json updates. If you only edit / patch the
 the sources than your changes will get lost / overwritten with the next update.
 
 
-## How To (Auto)-Generate and Update the football.json Datasets
+## Do-It-Yourself (DIY) - How To (Auto)-Generate and Update the football.json Datasets
 
 If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome. See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts for a start 
 or use your very own.
@@ -124,13 +108,15 @@ the (auto-)update machinery.
 -->
 
 
-## Contributions Welcome - Add Your Leagues and Tournaments!
+## Add Your Leagues and Tournaments!
 
 Any leagues or tournaments missing? Contributions welcome!
 For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/league-starter).
 
 
 ## More
+
+_Add Your Scripts Here_
 
 Enrique Lopez Magallon (@enadol) writes:
 
