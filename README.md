@@ -78,10 +78,10 @@ $ curl https://raw.githubusercontent.com/openfootball/football.json/master/2015-
 ```
 
 
-## Updates / Contributions Welcome - Please Update the Source Text Files
+## Updates / Contributions Welcome - Please Update the Football.TXT Sources
 
-Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
-edit the (auto-) generated JSON files but the source text files in the country repos** e.g.:
+Note: The Football.JSON files get (auto-)generated using the datasets in the Football.TXT format, thus, **please do NOT
+edit the (auto-)generated JSON files but the Football.TXT sources in the country repos** e.g.:
 
 - English Premier League in [`/england`](https://github.com/openfootball/england)
 - Deutsche Bundesliga in [`/deutschland`](https://github.com/openfootball/deutschland)
@@ -95,7 +95,7 @@ the sources than your changes will get lost / overwritten with the next update.
 
 ## Do-It-Yourself (DIY) - How To (Auto)-Generate and Update the football.json Datasets
 
-If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome. See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts for a start 
+If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome. See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts to get started 
 or use your very own.
 
 
