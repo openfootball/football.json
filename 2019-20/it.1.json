@@ -7,21 +7,6 @@
         {
           "date": "2019-08-24",
           "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "score1": 3,
-          "score2": 4
-        },
-        {
-          "date": "2019-08-24",
-          "team1": {
             "key": "parma",
             "name": "Parma",
             "code": "PAR"
@@ -33,6 +18,21 @@
           },
           "score1": 0,
           "score2": 1
+        },
+        {
+          "date": "2019-08-24",
+          "team1": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "score1": 3,
+          "score2": 4
         },
         {
           "date": "2019-08-25",
@@ -97,21 +97,6 @@
         {
           "date": "2019-08-25",
           "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2019-08-25",
-          "team1": {
             "key": "torino",
             "name": "Torino FC",
             "code": "TOR"
@@ -122,6 +107,21 @@
             "code": "SAS"
           },
           "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-08-25",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": 1,
           "score2": 1
         },
         {
@@ -177,21 +177,6 @@
         {
           "date": "2019-08-31",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "score1": 4,
-          "score2": 3
-        },
-        {
-          "date": "2019-08-31",
-          "team1": {
             "key": "milan",
             "name": "AC Milan",
             "code": "MIL"
@@ -205,34 +190,19 @@
           "score2": 0
         },
         {
-          "date": "2019-09-01",
+          "date": "2019-08-31",
           "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
           "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
-          "score1": 2,
+          "score1": 4,
           "score2": 3
-        },
-        {
-          "date": "2019-09-01",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "score1": 1,
-          "score2": 1
         },
         {
           "date": "2019-09-01",
@@ -252,16 +222,31 @@
         {
           "date": "2019-09-01",
           "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
           },
           "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-09-01",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "score1": 2,
           "score2": 3
         },
         {
@@ -308,27 +293,27 @@
           },
           "score1": 4,
           "score2": 1
+        },
+        {
+          "date": "2019-09-01",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 3
         }
       ]
     },
     {
       "name": "3^ Giornata",
       "matches": [
-        {
-          "date": "2019-09-14",
-          "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": 1,
-          "score2": 0
-        },
         {
           "date": "2019-09-14",
           "team1": {
@@ -360,49 +345,19 @@
           "score2": 0
         },
         {
-          "date": "2019-09-15",
+          "date": "2019-09-14",
           "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
           },
           "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "score1": 3,
-          "score2": 4
-        },
-        {
-          "date": "2019-09-15",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
           "score1": 1,
-          "score2": 3
-        },
-        {
-          "date": "2019-09-15",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": 4,
-          "score2": 2
+          "score2": 0
         },
         {
           "date": "2019-09-15",
@@ -437,6 +392,21 @@
         {
           "date": "2019-09-15",
           "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": 3,
+          "score2": 4
+        },
+        {
+          "date": "2019-09-15",
+          "team1": {
             "key": "spal",
             "name": "SPAL",
             "code": null
@@ -448,6 +418,36 @@
           },
           "score1": 2,
           "score2": 1
+        },
+        {
+          "date": "2019-09-15",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "score1": 4,
+          "score2": 2
+        },
+        {
+          "date": "2019-09-15",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "score1": 1,
+          "score2": 3
         },
         {
           "date": "2019-09-16",
@@ -487,21 +487,6 @@
         {
           "date": "2019-09-21",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2019-09-21",
-          "team1": {
             "key": "udinese",
             "name": "Udinese Calcio",
             "code": "UDI"
@@ -512,6 +497,21 @@
             "code": null
           },
           "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2019-09-21",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": 2,
           "score2": 1
         },
         {
@@ -532,17 +532,17 @@
         {
           "date": "2019-09-22",
           "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
           },
-          "score1": 2,
-          "score2": 2
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2019-09-22",
@@ -577,21 +577,6 @@
         {
           "date": "2019-09-22",
           "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2019-09-22",
-          "team1": {
             "key": "uslecce",
             "name": "US Lecce",
             "code": null
@@ -607,38 +592,38 @@
         {
           "date": "2019-09-22",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
           },
-          "score1": 3,
+          "score1": 2,
           "score2": 0
+        },
+        {
+          "date": "2019-09-22",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "score1": 2,
+          "score2": 2
         }
       ]
     },
     {
       "name": "5^ Giornata",
       "matches": [
-        {
-          "date": "2019-09-24",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "score1": 1,
-          "score2": 2
-        },
         {
           "date": "2019-09-24",
           "team1": {
@@ -655,6 +640,21 @@
           "score2": 0
         },
         {
+          "date": "2019-09-24",
+          "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
           "date": "2019-09-25",
           "team1": {
             "key": "inter",
@@ -668,6 +668,36 @@
           },
           "score1": 1,
           "score2": 0
+        },
+        {
+          "date": "2019-09-25",
+          "team1": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2019-09-25",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "score1": 0,
+          "score2": 2
         },
         {
           "date": "2019-09-25",
@@ -698,36 +728,6 @@
           },
           "score1": 1,
           "score2": 0
-        },
-        {
-          "date": "2019-09-25",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "score1": 0,
-          "score2": 2
-        },
-        {
-          "date": "2019-09-25",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": 0,
-          "score2": 1
         },
         {
           "date": "2019-09-25",
@@ -797,6 +797,21 @@
         {
           "date": "2019-09-28",
           "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
             "key": "sassuolo",
             "name": "US Sassuolo Calcio",
             "code": "SAS"
@@ -810,19 +825,19 @@
           "score2": 4
         },
         {
-          "date": "2019-09-28",
+          "date": "2019-09-29",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
           "team2": {
-            "key": "spal",
-            "name": "SPAL",
+            "key": "brescia",
+            "name": "Brescia",
             "code": null
           },
           "score1": 2,
-          "score2": 0
+          "score2": 1
         },
         {
           "date": "2019-09-29",
@@ -837,6 +852,21 @@
             "code": "GEN"
           },
           "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2019-09-29",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": 1,
           "score2": 0
         },
         {
@@ -857,17 +887,17 @@
         {
           "date": "2019-09-29",
           "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
           },
           "score1": 1,
-          "score2": 0
+          "score2": 1
         },
         {
           "date": "2019-09-29",
@@ -883,36 +913,6 @@
           },
           "score1": 1,
           "score2": 3
-        },
-        {
-          "date": "2019-09-29",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2019-09-29",
-          "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": 1,
-          "score2": 1
         },
         {
           "date": "2019-09-30",
@@ -935,21 +935,6 @@
       "name": "7^ Giornata",
       "matches": [
         {
-          "date": "2019-10-04",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": 0,
-          "score2": 2
-        },
-        {
           "date": "2019-10-05",
           "team1": {
             "key": "hellasverona",
@@ -962,6 +947,21 @@
             "code": "SAM"
           },
           "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-10-05",
+          "team1": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 1,
           "score2": 0
         },
         {
@@ -980,19 +980,34 @@
           "score2": 2
         },
         {
-          "date": "2019-10-05",
+          "date": "2019-10-06",
           "team1": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
           },
           "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
           "score1": 1,
-          "score2": 0
+          "score2": 2
+        },
+        {
+          "date": "2019-10-06",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2019-10-06",
@@ -1027,17 +1042,17 @@
         {
           "date": "2019-10-06",
           "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
           "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
-          "score1": 1,
-          "score2": 2
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2019-10-06",
@@ -1055,34 +1070,19 @@
           "score2": 0
         },
         {
-          "date": "2019-10-06",
+          "date": "2019-12-18",
           "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
           },
           "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2019-10-06",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": 1,
-          "score2": 1
+          "score2": 2
         }
       ]
     },
@@ -1107,6 +1107,21 @@
         {
           "date": "2019-10-19",
           "team1": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-10-19",
+          "team1": {
             "key": "juventus",
             "name": "Juventus",
             "code": "JUV"
@@ -1120,19 +1135,34 @@
           "score2": 1
         },
         {
-          "date": "2019-10-19",
+          "date": "2019-10-20",
           "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
           "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "score1": 2,
-          "score2": 0
+          "score2": 2
+        },
+        {
+          "date": "2019-10-20",
+          "team1": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "score1": 3,
+          "score2": 4
         },
         {
           "date": "2019-10-20",
@@ -1147,6 +1177,21 @@
             "code": "ROM"
           },
           "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2019-10-20",
+          "team1": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": 2,
           "score2": 0
         },
         {
@@ -1178,51 +1223,6 @@
           },
           "score1": 1,
           "score2": 0
-        },
-        {
-          "date": "2019-10-20",
-          "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2019-10-20",
-          "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2019-10-20",
-          "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "score1": 3,
-          "score2": 4
         },
         {
           "date": "2019-10-21",
@@ -1262,21 +1262,6 @@
         {
           "date": "2019-10-26",
           "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2019-10-26",
-          "team1": {
             "key": "uslecce",
             "name": "US Lecce",
             "code": null
@@ -1292,6 +1277,21 @@
         {
           "date": "2019-10-26",
           "team1": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-26",
+          "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
             "code": "GEN"
@@ -1302,21 +1302,6 @@
             "code": null
           },
           "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2019-10-27",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": 7,
           "score2": 1
         },
         {
@@ -1337,31 +1322,16 @@
         {
           "date": "2019-10-27",
           "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
           "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-10-27",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "score1": 2,
+          "score1": 7,
           "score2": 1
         },
         {
@@ -1393,27 +1363,42 @@
           },
           "score1": 1,
           "score2": 1
+        },
+        {
+          "date": "2019-10-27",
+          "team1": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-27",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "score1": 2,
+          "score2": 1
         }
       ]
     },
     {
       "name": "10^ Giornata",
       "matches": [
-        {
-          "date": "2019-10-29",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "score1": 1,
-          "score2": 2
-        },
         {
           "date": "2019-10-29",
           "team1": {
@@ -1430,19 +1415,19 @@
           "score2": 1
         },
         {
-          "date": "2019-10-30",
+          "date": "2019-10-29",
           "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "team2": {
-            "key": "uslecce",
-            "name": "US Lecce",
+            "key": "brescia",
+            "name": "Brescia",
             "code": null
           },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
           "score1": 1,
-          "score2": 1
+          "score2": 2
         },
         {
           "date": "2019-10-30",
@@ -1477,6 +1462,21 @@
         {
           "date": "2019-10-30",
           "team1": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2019-10-30",
+          "team1": {
             "key": "udinese",
             "name": "Udinese Calcio",
             "code": "UDI"
@@ -1492,16 +1492,16 @@
         {
           "date": "2019-10-30",
           "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
-          "score1": 2,
+          "score1": 1,
           "score2": 2
         },
         {
@@ -1522,17 +1522,17 @@
         {
           "date": "2019-10-30",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
           },
           "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "score1": 1,
-          "score2": 2
+          "score2": 1
         },
         {
           "date": "2019-10-31",
@@ -1572,21 +1572,6 @@
         {
           "date": "2019-11-02",
           "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2019-11-02",
-          "team1": {
             "key": "roma",
             "name": "AS Roma",
             "code": "ROM"
@@ -1597,6 +1582,21 @@
             "code": "NAP"
           },
           "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-02",
+          "team1": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": 0,
           "score2": 1
         },
         {
@@ -1612,6 +1612,51 @@
             "code": "CAG"
           },
           "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-03",
+          "team1": {
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
+          },
+          "team2": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2019-11-03",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-03",
+          "team1": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": 1,
           "score2": 2
         },
         {
@@ -1643,51 +1688,6 @@
           },
           "score1": 2,
           "score2": 2
-        },
-        {
-          "date": "2019-11-03",
-          "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-11-03",
-          "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2019-11-03",
-          "team1": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": 1,
-          "score2": 3
         },
         {
           "date": "2019-11-04",
@@ -1727,6 +1727,21 @@
         {
           "date": "2019-11-09",
           "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "score1": 0,
+          "score2": 4
+        },
+        {
+          "date": "2019-11-09",
+          "team1": {
             "key": "inter",
             "name": "FC Internazionale Milano",
             "code": "INT"
@@ -1755,34 +1770,19 @@
           "score2": 0
         },
         {
-          "date": "2019-11-09",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "score1": 0,
-          "score2": 4
-        },
-        {
           "date": "2019-11-10",
           "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
-          "score1": 0,
-          "score2": 0
+          "score1": 5,
+          "score2": 2
         },
         {
           "date": "2019-11-10",
@@ -1802,6 +1802,36 @@
         {
           "date": "2019-11-10",
           "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2019-11-10",
+          "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2019-11-10",
+          "team1": {
             "key": "juventus",
             "name": "Juventus",
             "code": "JUV"
@@ -1828,36 +1858,6 @@
           },
           "score1": 2,
           "score2": 0
-        },
-        {
-          "date": "2019-11-10",
-          "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2019-11-10",
-          "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": 5,
-          "score2": 2
         }
       ]
     },
@@ -1867,16 +1867,16 @@
         {
           "date": "2019-11-23",
           "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
           "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
           },
-          "score1": 1,
+          "score1": 0,
           "score2": 3
         },
         {
@@ -1897,32 +1897,17 @@
         {
           "date": "2019-11-23",
           "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
           "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2019-11-24",
-          "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
           "score1": 1,
-          "score2": 2
+          "score2": 3
         },
         {
           "date": "2019-11-24",
@@ -1942,17 +1927,17 @@
         {
           "date": "2019-11-24",
           "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
           },
           "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
-          "score1": 3,
-          "score2": 0
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2019-11-24",
@@ -1985,19 +1970,19 @@
           "score2": 2
         },
         {
-          "date": "2019-11-25",
+          "date": "2019-11-24",
           "team1": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
           },
           "team2": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
           },
-          "score1": 1,
-          "score2": 1
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2019-11-25",
@@ -2013,6 +1998,21 @@
           },
           "score1": 2,
           "score2": 2
+        },
+        {
+          "date": "2019-11-25",
+          "team1": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "team2": {
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
+          },
+          "score1": 1,
+          "score2": 1
         }
       ]
     },
@@ -2022,17 +2022,17 @@
         {
           "date": "2019-11-30",
           "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "uslecce",
-            "name": "US Lecce",
+            "key": "brescia",
+            "name": "Brescia",
             "code": null
           },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
           "score1": 0,
-          "score2": 1
+          "score2": 3
         },
         {
           "date": "2019-11-30",
@@ -2052,32 +2052,32 @@
         {
           "date": "2019-11-30",
           "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "score1": 0,
-          "score2": 3
+          "score2": 1
         },
         {
           "date": "2019-12-01",
           "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
           "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
-          "score1": 3,
-          "score2": 0
+          "score1": 2,
+          "score2": 2
         },
         {
           "date": "2019-12-01",
@@ -2097,17 +2097,17 @@
         {
           "date": "2019-12-01",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
-          "score1": 2,
-          "score2": 2
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2019-12-01",
@@ -2237,17 +2237,17 @@
         {
           "date": "2019-12-08",
           "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
           },
-          "score1": 0,
-          "score2": 1
+          "score1": 2,
+          "score2": 2
         },
         {
           "date": "2019-12-08",
@@ -2267,32 +2267,17 @@
         {
           "date": "2019-12-08",
           "team1": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "team2": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "score1": 2,
           "score2": 2
-        },
-        {
-          "date": "2019-12-08",
-          "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": 2,
-          "score2": 1
         },
         {
           "date": "2019-12-08",
@@ -2312,17 +2297,32 @@
         {
           "date": "2019-12-08",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
           },
           "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2019-12-08",
+          "team1": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "score1": 2,
-          "score2": 2
+          "score2": 1
         }
       ]
     },
@@ -2377,17 +2377,32 @@
         {
           "date": "2019-12-15",
           "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
-          "score1": 2,
+          "score1": 3,
           "score2": 1
+        },
+        {
+          "date": "2019-12-15",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "score1": 3,
+          "score2": 3
         },
         {
           "date": "2019-12-15",
@@ -2407,16 +2422,16 @@
         {
           "date": "2019-12-15",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
           "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
-          "score1": 3,
+          "score1": 2,
           "score2": 1
         },
         {
@@ -2450,21 +2465,6 @@
           "score2": 0
         },
         {
-          "date": "2019-12-15",
-          "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "score1": 3,
-          "score2": 3
-        },
-        {
           "date": "2019-12-16",
           "team1": {
             "key": "cagliari",
@@ -2477,21 +2477,6 @@
             "code": "LAZ"
           },
           "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-12-18",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": 0,
           "score2": 2
         }
       ]
@@ -2547,21 +2532,6 @@
         {
           "date": "2019-12-21",
           "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-12-21",
-          "team1": {
             "key": "inter",
             "name": "FC Internazionale Milano",
             "code": "INT"
@@ -2573,6 +2543,21 @@
           },
           "score1": 4,
           "score2": 0
+        },
+        {
+          "date": "2019-12-21",
+          "team1": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2019-12-22",
@@ -2592,32 +2577,17 @@
         {
           "date": "2019-12-22",
           "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2019-12-22",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
           "score1": 1,
-          "score2": 1
+          "score2": 2
         },
         {
           "date": "2019-12-22",
@@ -2637,17 +2607,32 @@
         {
           "date": "2019-12-22",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
           },
           "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
           },
           "score1": 1,
-          "score2": 2
+          "score2": 1
+        },
+        {
+          "date": "2020-02-05",
+          "team1": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": 0,
+          "score2": 0
         }
       ]
     },
@@ -2717,66 +2702,6 @@
         {
           "date": "2020-01-06",
           "team1": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2020-01-06",
-          "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2020-01-06",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "score1": 1,
-          "score2": 3
-        },
-        {
-          "date": "2020-01-06",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": 5,
-          "score2": 0
-        },
-        {
-          "date": "2020-01-06",
-          "team1": {
             "key": "bologna",
             "name": "Bologna FC",
             "code": "BOL"
@@ -2803,6 +2728,66 @@
           },
           "score1": 4,
           "score2": 0
+        },
+        {
+          "date": "2020-01-06",
+          "team1": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-01-06",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 5,
+          "score2": 0
+        },
+        {
+          "date": "2020-01-06",
+          "team1": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2020-01-06",
+          "team1": {
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
+          },
+          "team2": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "score1": 0,
+          "score2": 1
         }
       ]
     },
@@ -2812,17 +2797,17 @@
         {
           "date": "2020-01-11",
           "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
-          "score1": 1,
-          "score2": 0
+          "score1": 0,
+          "score2": 2
         },
         {
           "date": "2020-01-11",
@@ -2842,44 +2827,14 @@
         {
           "date": "2020-01-11",
           "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "score1": 0,
-          "score2": 2
-        },
-        {
-          "date": "2020-01-12",
-          "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "score1": 5,
-          "score2": 1
-        },
-        {
-          "date": "2020-01-12",
-          "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
           "score1": 1,
           "score2": 0
@@ -2902,16 +2857,46 @@
         {
           "date": "2020-01-12",
           "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
           },
-          "score1": 3,
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-01-12",
+          "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "score1": 5,
+          "score2": 1
+        },
+        {
+          "date": "2020-01-12",
+          "team1": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": 1,
           "score2": 0
         },
         {
@@ -2932,16 +2917,16 @@
         {
           "date": "2020-01-12",
           "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
           "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
-          "score1": 1,
+          "score1": 3,
           "score2": 0
         },
         {
@@ -2967,6 +2952,21 @@
         {
           "date": "2020-01-18",
           "team1": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": 5,
+          "score2": 1
+        },
+        {
+          "date": "2020-01-18",
+          "team1": {
             "key": "napoli",
             "name": "SSC Napoli",
             "code": "NAP"
@@ -2995,19 +2995,19 @@
           "score2": 1
         },
         {
-          "date": "2020-01-18",
+          "date": "2020-01-19",
           "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
           "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
-          "score1": 5,
-          "score2": 1
+          "score1": 3,
+          "score2": 2
         },
         {
           "date": "2020-01-19",
@@ -3022,21 +3022,6 @@
             "code": "HEL"
           },
           "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-01-19",
-          "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": 2,
           "score2": 1
         },
         {
@@ -3072,21 +3057,6 @@
         {
           "date": "2020-01-19",
           "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": 3,
-          "score2": 2
-        },
-        {
-          "date": "2020-01-19",
-          "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
             "code": "GEN"
@@ -3098,6 +3068,21 @@
           },
           "score1": 1,
           "score2": 3
+        },
+        {
+          "date": "2020-01-19",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2020-01-20",
@@ -3152,21 +3137,6 @@
         {
           "date": "2020-01-25",
           "team1": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "score1": 1,
-          "score2": 3
-        },
-        {
-          "date": "2020-01-25",
-          "team1": {
             "key": "fiorentina",
             "name": "ACF Fiorentina",
             "code": "FIO"
@@ -3180,19 +3150,19 @@
           "score2": 0
         },
         {
-          "date": "2020-01-26",
+          "date": "2020-01-25",
           "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
           },
           "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
-          "score1": 0,
-          "score2": 0
+          "score1": 1,
+          "score2": 3
         },
         {
           "date": "2020-01-26",
@@ -3205,36 +3175,6 @@
             "key": "cagliari",
             "name": "Cagliari Calcio",
             "code": "CAG"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-01-26",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2020-01-26",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
           },
           "score1": 1,
           "score2": 1
@@ -3257,6 +3197,21 @@
         {
           "date": "2020-01-26",
           "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-01-26",
+          "team1": {
             "key": "hellasverona",
             "name": "Hellas Verona FC",
             "code": "HEL"
@@ -3268,12 +3223,57 @@
           },
           "score1": 3,
           "score2": 0
+        },
+        {
+          "date": "2020-01-26",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-01-26",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "score1": 2,
+          "score2": 0
         }
       ]
     },
     {
       "name": "22^ Giornata",
       "matches": [
+        {
+          "date": "2020-02-01",
+          "team1": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "team2": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
         {
           "date": "2020-02-01",
           "team1": {
@@ -3302,36 +3302,6 @@
             "code": "ROM"
           },
           "score1": 4,
-          "score2": 2
-        },
-        {
-          "date": "2020-02-01",
-          "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-02",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
-          },
-          "score1": 2,
           "score2": 2
         },
         {
@@ -3367,17 +3337,17 @@
         {
           "date": "2020-02-02",
           "team1": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
           "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
           },
-          "score1": 4,
-          "score2": 0
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2020-02-02",
@@ -3397,17 +3367,32 @@
         {
           "date": "2020-02-02",
           "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
-          "score1": 1,
-          "score2": 1
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-02",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
+          },
+          "score1": 2,
+          "score2": 2
         },
         {
           "date": "2020-02-03",
@@ -3423,21 +3408,6 @@
           },
           "score1": 2,
           "score2": 4
-        },
-        {
-          "date": "2020-02-05",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": 0,
-          "score2": 0
         }
       ]
     },
@@ -3462,17 +3432,17 @@
         {
           "date": "2020-02-08",
           "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
-          "score1": 2,
-          "score2": 1
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2020-02-08",
@@ -3492,62 +3462,32 @@
         {
           "date": "2020-02-08",
           "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
-          "score1": 1,
-          "score2": 2
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2020-02-09",
           "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "score1": 4,
-          "score2": 2
-        },
-        {
-          "date": "2020-02-09",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
+            "key": "spal",
+            "name": "SPAL",
             "code": null
           },
           "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-09",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "score1": 0,
-          "score2": 1
+          "score2": 2
         },
         {
           "date": "2020-02-09",
@@ -3582,38 +3522,53 @@
         {
           "date": "2020-02-09",
           "team1": {
-            "key": "spal",
-            "name": "SPAL",
+            "key": "brescia",
+            "name": "Brescia",
             "code": null
           },
           "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
           "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-09",
+          "team1": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "team2": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "score1": 4,
           "score2": 2
+        },
+        {
+          "date": "2020-02-09",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": 0,
+          "score2": 1
         }
       ]
     },
     {
       "name": "24^ Giornata",
       "matches": [
-        {
-          "date": "2020-02-15",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "score1": 2,
-          "score2": 1
-        },
         {
           "date": "2020-02-15",
           "team1": {
@@ -3645,31 +3600,16 @@
           "score2": 3
         },
         {
-          "date": "2020-02-16",
+          "date": "2020-02-15",
           "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
           "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": 1,
-          "score2": 5
-        },
-        {
-          "date": "2020-02-16",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
           },
           "score1": 2,
           "score2": 1
@@ -3707,6 +3647,36 @@
         {
           "date": "2020-02-16",
           "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "score1": 1,
+          "score2": 5
+        },
+        {
+          "date": "2020-02-16",
+          "team1": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-16",
+          "team1": {
             "key": "cagliari",
             "name": "Cagliari Calcio",
             "code": "CAG"
@@ -3722,16 +3692,16 @@
         {
           "date": "2020-02-16",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
           },
-          "score1": 0,
+          "score1": 2,
           "score2": 1
         },
         {
@@ -3772,14 +3742,14 @@
         {
           "date": "2020-02-22",
           "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
           "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
           "score1": 1,
           "score2": 1
@@ -3802,14 +3772,14 @@
         {
           "date": "2020-02-22",
           "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
           "score1": 1,
           "score2": 1
@@ -3817,32 +3787,17 @@
         {
           "date": "2020-02-23",
           "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
           },
           "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-02-23",
-          "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 3
         },
         {
           "date": "2020-02-23",
@@ -3860,22 +3815,7 @@
           "score2": 0
         },
         {
-          "date": "2020-02-23",
-          "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-02-23",
+          "date": "2020-06-20",
           "team1": {
             "key": "torino",
             "name": "Torino FC",
@@ -3886,59 +3826,59 @@
             "name": "Parma",
             "code": "PAR"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2020-02-23",
+          "date": "2020-06-20",
           "team1": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
           },
           "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "score1": 2,
-          "score2": 3
+          "score2": 1
+        },
+        {
+          "date": "2020-06-21",
+          "team1": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-21",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "score1": 4,
+          "score2": 1
         }
       ]
     },
     {
       "name": "26^ Giornata",
       "matches": [
-        {
-          "date": "2020-02-29",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-29",
-          "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": 0,
-          "score2": 0
-        },
         {
           "date": "2020-02-29",
           "team1": {
@@ -3955,33 +3895,18 @@
           "score2": 0
         },
         {
-          "date": "2020-03-01",
+          "date": "2020-02-29",
           "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
           "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
           "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2020-03-01",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": 0,
           "score2": 1
         },
         {
@@ -4002,21 +3927,6 @@
         {
           "date": "2020-03-01",
           "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2020-03-01",
-          "team1": {
             "key": "cagliari",
             "name": "Cagliari Calcio",
             "code": "CAG"
@@ -4030,22 +3940,37 @@
           "score2": 4
         },
         {
-          "date": "2020-03-01",
+          "date": "2020-03-08",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
           "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
           },
-          "score1": 3,
-          "score2": 0
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "2020-03-02",
+          "date": "2020-03-08",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-03-08",
           "team1": {
             "key": "sampdoria",
             "name": "UC Sampdoria",
@@ -4058,6 +3983,51 @@
           },
           "score1": 2,
           "score2": 1
+        },
+        {
+          "date": "2020-03-08",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-03-08",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-03-09",
+          "team1": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "team2": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0
         }
       ]
     },
@@ -4065,52 +4035,7 @@
       "name": "27^ Giornata",
       "matches": [
         {
-          "date": "2020-03-07",
-          "team1": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-07",
-          "team1": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-07",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-08",
+          "date": "2020-06-22",
           "team1": {
             "key": "bologna",
             "name": "Bologna FC",
@@ -4121,71 +4046,11 @@
             "name": "Juventus",
             "code": "JUV"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 2
         },
         {
-          "date": "2020-03-08",
-          "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-08",
-          "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-08",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-08",
-          "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-09",
+          "date": "2020-06-22",
           "team1": {
             "key": "uslecce",
             "name": "US Lecce",
@@ -4196,11 +4061,56 @@
             "name": "AC Milan",
             "code": "MIL"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 4
         },
         {
-          "date": "2020-03-09",
+          "date": "2020-06-22",
+          "team1": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "team2": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-23",
+          "team1": {
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": 1,
+          "score2": 4
+        },
+        {
+          "date": "2020-06-23",
+          "team1": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-23",
           "team1": {
             "key": "torino",
             "name": "Torino FC",
@@ -4211,8 +4121,68 @@
             "name": "Udinese Calcio",
             "code": "UDI"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-23",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "team2": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "score1": 3,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": 3,
+          "score2": 2
         }
       ]
     },
@@ -4220,7 +4190,7 @@
       "name": "28^ Giornata",
       "matches": [
         {
-          "date": "2020-03-13",
+          "date": "2020-06-26",
           "team1": {
             "key": "juventus",
             "name": "Juventus",
@@ -4235,67 +4205,7 @@
           "score2": null
         },
         {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-15",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-15",
+          "date": "2020-06-27",
           "team1": {
             "key": "brescia",
             "name": "Brescia",
@@ -4310,37 +4220,37 @@
           "score2": null
         },
         {
-          "date": "2020-03-15",
+          "date": "2020-06-27",
           "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-03-15",
+          "date": "2020-06-27",
           "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-03-15",
+          "date": "2020-06-28",
           "team1": {
             "key": "milan",
             "name": "AC Milan",
@@ -4355,16 +4265,76 @@
           "score2": null
         },
         {
-          "date": "2020-03-15",
+          "date": "2020-06-28",
           "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
           "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-06-28",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-06-28",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-06-28",
+          "team1": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2020-06-28",
+          "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
           "score1": null,
           "score2": null
@@ -4375,22 +4345,7 @@
       "name": "29^ Giornata",
       "matches": [
         {
-          "date": "2020-03-20",
-          "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
+          "date": "2020-06-30",
           "team1": {
             "key": "torino",
             "name": "Torino FC",
@@ -4405,7 +4360,7 @@
           "score2": null
         },
         {
-          "date": "2020-03-21",
+          "date": "2020-06-30",
           "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
@@ -4420,37 +4375,7 @@
           "score2": null
         },
         {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-22",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-22",
+          "date": "2019-07-01",
           "team1": {
             "key": "bologna",
             "name": "Bologna FC",
@@ -4465,7 +4390,7 @@
           "score2": null
         },
         {
-          "date": "2020-03-22",
+          "date": "2019-07-01",
           "team1": {
             "key": "inter",
             "name": "FC Internazionale Milano",
@@ -4480,22 +4405,37 @@
           "score2": null
         },
         {
-          "date": "2020-03-22",
+          "date": "2019-07-01",
           "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
           },
           "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-03-22",
+          "date": "2019-07-01",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
           "team1": {
             "key": "uslecce",
             "name": "US Lecce",
@@ -4510,16 +4450,46 @@
           "score2": null
         },
         {
-          "date": "2020-03-22",
+          "date": "2019-07-01",
           "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
           },
           "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-02",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-02",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
           },
           "score1": null,
           "score2": null
@@ -4530,37 +4500,7 @@
       "name": "30^ Giornata",
       "matches": [
         {
-          "date": "2020-04-04",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-04",
-          "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-04",
+          "date": "2019-07-04",
           "team1": {
             "key": "juventus",
             "name": "Juventus",
@@ -4575,82 +4515,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-05",
-          "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-05",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-05",
-          "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-05",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-05",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-05",
+          "date": "2019-07-04",
           "team1": {
             "key": "sassuolo",
             "name": "US Sassuolo Calcio",
@@ -4665,7 +4530,52 @@
           "score2": null
         },
         {
-          "date": "2020-04-06",
+          "date": "2019-07-04",
+          "team1": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "team2": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
+          "team1": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
           "team1": {
             "key": "udinese",
             "name": "Udinese Calcio",
@@ -4675,6 +4585,66 @@
             "key": "genoa",
             "name": "Genoa CFC",
             "code": "GEN"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
+          "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
+          "team1": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
+          "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-05",
+          "team1": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
           "score1": null,
           "score2": null
@@ -4685,67 +4655,7 @@
       "name": "31^ Giornata",
       "matches": [
         {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
+          "date": "2019-07-07",
           "team1": {
             "key": "uslecce",
             "name": "US Lecce",
@@ -4760,7 +4670,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-11",
+          "date": "2019-07-07",
           "team1": {
             "key": "milan",
             "name": "AC Milan",
@@ -4775,22 +4685,67 @@
           "score2": null
         },
         {
-          "date": "2020-04-11",
+          "date": "2019-07-08",
           "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
           "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-04-11",
+          "date": "2019-07-08",
+          "team1": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-08",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-08",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-08",
           "team1": {
             "key": "torino",
             "name": "Torino FC",
@@ -4805,7 +4760,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-11",
+          "date": "2019-07-08",
           "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
@@ -4820,7 +4775,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-11",
+          "date": "2019-07-09",
           "team1": {
             "key": "spal",
             "name": "SPAL",
@@ -4830,6 +4785,21 @@
             "key": "udinese",
             "name": "Udinese Calcio",
             "code": "UDI"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-09",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
           },
           "score1": null,
           "score2": null
@@ -4840,7 +4810,7 @@
       "name": "32^ Giornata",
       "matches": [
         {
-          "date": "2020-04-19",
+          "date": "2019-07-11",
           "team1": {
             "key": "lazio",
             "name": "SS Lazio",
@@ -4855,52 +4825,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-19",
-          "team1": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-19",
-          "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-19",
-          "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-19",
+          "date": "2019-07-11",
           "team1": {
             "key": "brescia",
             "name": "Brescia",
@@ -4915,37 +4840,22 @@
           "score2": null
         },
         {
-          "date": "2020-04-19",
+          "date": "2019-07-11",
           "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
           },
           "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-04-19",
-          "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-19",
+          "date": "2019-07-12",
           "team1": {
             "key": "napoli",
             "name": "SSC Napoli",
@@ -4960,7 +4870,52 @@
           "score2": null
         },
         {
-          "date": "2020-04-19",
+          "date": "2019-07-12",
+          "team1": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-12",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-12",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-12",
           "team1": {
             "key": "cagliari",
             "name": "Cagliari Calcio",
@@ -4975,7 +4930,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-19",
+          "date": "2019-07-12",
           "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
@@ -4985,6 +4940,21 @@
             "key": "spal",
             "name": "SPAL",
             "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-13",
+          "team1": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "team2": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
           "score1": null,
           "score2": null
@@ -4995,7 +4965,7 @@
       "name": "33^ Giornata",
       "matches": [
         {
-          "date": "2020-04-22",
+          "date": "2019-07-14",
           "team1": {
             "key": "atalanta",
             "name": "Atalanta BC",
@@ -5010,7 +4980,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-22",
+          "date": "2019-07-15",
           "team1": {
             "key": "sampdoria",
             "name": "UC Sampdoria",
@@ -5025,67 +4995,7 @@
           "score2": null
         },
         {
-          "date": "2020-04-22",
-          "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "team2": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-22",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-22",
-          "team1": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-22",
-          "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-22",
+          "date": "2019-07-15",
           "team1": {
             "key": "milan",
             "name": "AC Milan",
@@ -5100,22 +5010,82 @@
           "score2": null
         },
         {
-          "date": "2020-04-22",
+          "date": "2019-07-15",
           "team1": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
           "team2": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-04-22",
+          "date": "2019-07-15",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-15",
+          "team1": {
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-15",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-15",
+          "team1": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-16",
           "team1": {
             "key": "spal",
             "name": "SPAL",
@@ -5130,16 +5100,16 @@
           "score2": null
         },
         {
-          "date": "2020-04-22",
+          "date": "2019-07-16",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
           },
           "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
           },
           "score1": null,
           "score2": null
@@ -5150,127 +5120,7 @@
       "name": "34^ Giornata",
       "matches": [
         {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "napoli",
-            "name": "SSC Napoli",
-            "code": "NAP"
-          },
-          "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
-          "team1": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "team2": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-26",
+          "date": "2019-07-18",
           "team1": {
             "key": "hellasverona",
             "name": "Hellas Verona FC",
@@ -5285,7 +5135,82 @@
           "score2": null
         },
         {
-          "date": "2020-04-26",
+          "date": "2019-07-18",
+          "team1": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "team2": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-18",
+          "team1": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "team2": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-19",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-19",
+          "team1": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-19",
+          "team1": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "team2": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-19",
           "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
@@ -5295,6 +5220,51 @@
             "key": "uslecce",
             "name": "US Lecce",
             "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-19",
+          "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-19",
+          "team1": {
+            "key": "napoli",
+            "name": "SSC Napoli",
+            "code": "NAP"
+          },
+          "team2": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-20",
+          "team1": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
           },
           "score1": null,
           "score2": null
@@ -5305,7 +5275,7 @@
       "name": "35^ Giornata",
       "matches": [
         {
-          "date": "2020-05-03",
+          "date": "2019-07-21",
           "team1": {
             "key": "atalanta",
             "name": "Atalanta BC",
@@ -5320,37 +5290,22 @@
           "score2": null
         },
         {
-          "date": "2020-05-03",
+          "date": "2019-07-21",
           "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
           },
           "team2": {
-            "key": "genoa",
-            "name": "Genoa CFC",
-            "code": "GEN"
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-05-03",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-03",
+          "date": "2019-07-22",
           "team1": {
             "key": "inter",
             "name": "FC Internazionale Milano",
@@ -5365,7 +5320,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-03",
+          "date": "2019-07-22",
           "team1": {
             "key": "parma",
             "name": "Parma",
@@ -5380,7 +5335,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-03",
+          "date": "2019-07-22",
           "team1": {
             "key": "uslecce",
             "name": "US Lecce",
@@ -5395,22 +5350,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-03",
-          "team1": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
-          },
-          "team2": {
-            "key": "juventus",
-            "name": "Juventus",
-            "code": "JUV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-03",
+          "date": "2019-07-22",
           "team1": {
             "key": "torino",
             "name": "Torino FC",
@@ -5425,7 +5365,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-03",
+          "date": "2019-07-22",
           "team1": {
             "key": "spal",
             "name": "SPAL",
@@ -5440,16 +5380,46 @@
           "score2": null
         },
         {
-          "date": "2020-05-03",
+          "date": "2019-07-22",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
           },
           "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
+            "key": "genoa",
+            "name": "Genoa CFC",
+            "code": "GEN"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-23",
+          "team1": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "team2": {
+            "key": "juventus",
+            "name": "Juventus",
+            "code": "JUV"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-23",
+          "team1": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
           },
           "score1": null,
           "score2": null
@@ -5460,22 +5430,7 @@
       "name": "36^ Giornata",
       "matches": [
         {
-          "date": "2020-05-10",
-          "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "team2": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-10",
+          "date": "2019-07-26",
           "team1": {
             "key": "juventus",
             "name": "Juventus",
@@ -5490,52 +5445,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-10",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-10",
-          "team1": {
-            "key": "roma",
-            "name": "AS Roma",
-            "code": "ROM"
-          },
-          "team2": {
-            "key": "fiorentina",
-            "name": "ACF Fiorentina",
-            "code": "FIO"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-10",
-          "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-10",
+          "date": "2019-07-26",
           "team1": {
             "key": "napoli",
             "name": "SSC Napoli",
@@ -5550,7 +5460,37 @@
           "score2": null
         },
         {
-          "date": "2020-05-10",
+          "date": "2019-07-26",
+          "team1": {
+            "key": "roma",
+            "name": "AS Roma",
+            "code": "ROM"
+          },
+          "team2": {
+            "key": "fiorentina",
+            "name": "ACF Fiorentina",
+            "code": "FIO"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-26",
+          "team1": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "team2": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-26",
           "team1": {
             "key": "cagliari",
             "name": "Cagliari Calcio",
@@ -5565,22 +5505,22 @@
           "score2": null
         },
         {
-          "date": "2020-05-10",
+          "date": "2019-07-26",
           "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
           },
           "team2": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-05-10",
+          "date": "2019-07-26",
           "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
@@ -5595,7 +5535,37 @@
           "score2": null
         },
         {
-          "date": "2020-05-10",
+          "date": "2019-07-26",
+          "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-26",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-26",
           "team1": {
             "key": "spal",
             "name": "SPAL",
@@ -5615,37 +5585,7 @@
       "name": "37^ Giornata",
       "matches": [
         {
-          "date": "2020-05-17",
-          "team1": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "team2": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-17",
-          "team1": {
-            "key": "lazio",
-            "name": "SS Lazio",
-            "code": "LAZ"
-          },
-          "team2": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
           "team1": {
             "key": "inter",
             "name": "FC Internazionale Milano",
@@ -5660,7 +5600,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
           "team1": {
             "key": "fiorentina",
             "name": "ACF Fiorentina",
@@ -5675,7 +5615,22 @@
           "score2": null
         },
         {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
+          "team1": {
+            "key": "lazio",
+            "name": "SS Lazio",
+            "code": "LAZ"
+          },
+          "team2": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-29",
           "team1": {
             "key": "parma",
             "name": "Parma",
@@ -5690,7 +5645,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
           "team1": {
             "key": "udinese",
             "name": "Udinese Calcio",
@@ -5705,7 +5660,22 @@
           "score2": null
         },
         {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
+          "team1": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "team2": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-29",
           "team1": {
             "key": "cagliari",
             "name": "Cagliari Calcio",
@@ -5720,22 +5690,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-17",
-          "team1": {
-            "key": "hellasverona",
-            "name": "Hellas Verona FC",
-            "code": "HEL"
-          },
-          "team2": {
-            "key": "spal",
-            "name": "SPAL",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
           "team1": {
             "key": "torino",
             "name": "Torino FC",
@@ -5750,7 +5705,22 @@
           "score2": null
         },
         {
-          "date": "2020-05-17",
+          "date": "2019-07-29",
+          "team1": {
+            "key": "hellasverona",
+            "name": "Hellas Verona FC",
+            "code": "HEL"
+          },
+          "team2": {
+            "key": "spal",
+            "name": "SPAL",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-29",
           "team1": {
             "key": "sassuolo",
             "name": "US Sassuolo Calcio",
@@ -5770,37 +5740,7 @@
       "name": "38^ Giornata",
       "matches": [
         {
-          "date": "2020-05-24",
-          "team1": {
-            "key": "atalanta",
-            "name": "Atalanta BC",
-            "code": "ATA"
-          },
-          "team2": {
-            "key": "inter",
-            "name": "FC Internazionale Milano",
-            "code": "INT"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-24",
-          "team1": {
-            "key": "bologna",
-            "name": "Bologna FC",
-            "code": "BOL"
-          },
-          "team2": {
-            "key": "torino",
-            "name": "Torino FC",
-            "code": "TOR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-24",
+          "date": "2019-08-02",
           "team1": {
             "key": "juventus",
             "name": "Juventus",
@@ -5815,52 +5755,7 @@
           "score2": null
         },
         {
-          "date": "2020-05-24",
-          "team1": {
-            "key": "brescia",
-            "name": "Brescia",
-            "code": null
-          },
-          "team2": {
-            "key": "sampdoria",
-            "name": "UC Sampdoria",
-            "code": "SAM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-24",
-          "team1": {
-            "key": "uslecce",
-            "name": "US Lecce",
-            "code": null
-          },
-          "team2": {
-            "key": "parma",
-            "name": "Parma",
-            "code": "PAR"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-24",
-          "team1": {
-            "key": "milan",
-            "name": "AC Milan",
-            "code": "MIL"
-          },
-          "team2": {
-            "key": "cagliari",
-            "name": "Cagliari Calcio",
-            "code": "CAG"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-24",
+          "date": "2019-08-02",
           "team1": {
             "key": "napoli",
             "name": "SSC Napoli",
@@ -5875,7 +5770,52 @@
           "score2": null
         },
         {
-          "date": "2020-05-24",
+          "date": "2019-08-02",
+          "team1": {
+            "key": "milan",
+            "name": "AC Milan",
+            "code": "MIL"
+          },
+          "team2": {
+            "key": "cagliari",
+            "name": "Cagliari Calcio",
+            "code": "CAG"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-08-02",
+          "team1": {
+            "key": "atalanta",
+            "name": "Atalanta BC",
+            "code": "ATA"
+          },
+          "team2": {
+            "key": "inter",
+            "name": "FC Internazionale Milano",
+            "code": "INT"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-08-02",
+          "team1": {
+            "key": "bologna",
+            "name": "Bologna FC",
+            "code": "BOL"
+          },
+          "team2": {
+            "key": "torino",
+            "name": "Torino FC",
+            "code": "TOR"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-08-02",
           "team1": {
             "key": "genoa",
             "name": "Genoa CFC",
@@ -5890,7 +5830,37 @@
           "score2": null
         },
         {
-          "date": "2020-05-24",
+          "date": "2019-08-02",
+          "team1": {
+            "key": "brescia",
+            "name": "Brescia",
+            "code": null
+          },
+          "team2": {
+            "key": "sampdoria",
+            "name": "UC Sampdoria",
+            "code": "SAM"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-08-02",
+          "team1": {
+            "key": "sassuolo",
+            "name": "US Sassuolo Calcio",
+            "code": "SAS"
+          },
+          "team2": {
+            "key": "udinese",
+            "name": "Udinese Calcio",
+            "code": "UDI"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-08-02",
           "team1": {
             "key": "spal",
             "name": "SPAL",
@@ -5905,16 +5875,16 @@
           "score2": null
         },
         {
-          "date": "2020-05-24",
+          "date": "2019-08-02",
           "team1": {
-            "key": "sassuolo",
-            "name": "US Sassuolo Calcio",
-            "code": "SAS"
+            "key": "uslecce",
+            "name": "US Lecce",
+            "code": null
           },
           "team2": {
-            "key": "udinese",
-            "name": "Udinese Calcio",
-            "code": "UDI"
+            "key": "parma",
+            "name": "Parma",
+            "code": "PAR"
           },
           "score1": null,
           "score2": null

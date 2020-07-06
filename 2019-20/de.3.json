@@ -22,21 +22,6 @@
         {
           "date": "2019-07-20",
           "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": 4,
-          "score2": 1
-        },
-        {
-          "date": "2019-07-20",
-          "team1": {
             "key": "rostock",
             "name": "Hansa Rostock",
             "code": null
@@ -82,6 +67,21 @@
         {
           "date": "2019-07-20",
           "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 1
+        },
+        {
+          "date": "2019-07-20",
+          "team1": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
             "code": null
@@ -91,8 +91,8 @@
             "name": "Bayern München II",
             "code": null
           },
-          "score1": 2,
-          "score2": 0
+          "score1": 3,
+          "score2": 1
         },
         {
           "date": "2019-07-20",
@@ -207,17 +207,17 @@
         {
           "date": "2019-07-27",
           "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
           },
           "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
           },
-          "score1": 2,
-          "score2": 1
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2019-07-27",
@@ -237,17 +237,17 @@
         {
           "date": "2019-07-27",
           "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
           },
           "team2": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
           },
-          "score1": 1,
-          "score2": 0
+          "score1": 3,
+          "score2": 2
         },
         {
           "date": "2019-07-27",
@@ -267,17 +267,17 @@
         {
           "date": "2019-07-27",
           "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
           },
           "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
-          "score1": 3,
-          "score2": 2
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2019-07-28",
@@ -306,7 +306,7 @@
             "name": "1. FC Magdeburg",
             "code": null
           },
-          "score1": 2,
+          "score1": 0,
           "score2": 0
         }
       ]
@@ -317,17 +317,32 @@
         {
           "date": "2019-07-30",
           "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
             "code": null
           },
           "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2019-07-30",
+          "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
             "code": null
           },
-          "score1": 2,
-          "score2": 1
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 3
         },
         {
           "date": "2019-07-30",
@@ -347,17 +362,17 @@
         {
           "date": "2019-07-30",
           "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
           "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
           },
-          "score1": 0,
-          "score2": 2
+          "score1": 2,
+          "score2": 1
         },
         {
           "date": "2019-07-30",
@@ -372,36 +387,6 @@
             "code": "FCI"
           },
           "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2019-07-30",
-          "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2019-07-31",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": 2,
           "score2": 0
         },
         {
@@ -422,6 +407,21 @@
         {
           "date": "2019-07-31",
           "team1": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2019-07-31",
+          "team1": {
             "key": "chemnitz",
             "name": "Chemnitzer FC",
             "code": null
@@ -437,6 +437,21 @@
         {
           "date": "2019-07-31",
           "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2019-07-31",
+          "team1": {
             "key": "magdeburg",
             "name": "1. FC Magdeburg",
             "code": null
@@ -448,21 +463,6 @@
           },
           "score1": 1,
           "score2": 1
-        },
-        {
-          "date": "2019-07-31",
-          "team1": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 2
         }
       ]
     },
@@ -487,17 +487,17 @@
         {
           "date": "2019-08-03",
           "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
+            "key": "muenster",
+            "name": "Preußen Münster",
             "code": null
           },
           "team2": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
           },
-          "score1": 1,
-          "score2": 3
+          "score1": 3,
+          "score2": 2
         },
         {
           "date": "2019-08-03",
@@ -517,6 +517,36 @@
         {
           "date": "2019-08-03",
           "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-03",
+          "team1": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "team2": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2019-08-03",
+          "team1": {
             "key": "bayernmnchenii",
             "name": "Bayern München II",
             "code": null
@@ -532,21 +562,6 @@
         {
           "date": "2019-08-03",
           "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 3,
-          "score2": 2
-        },
-        {
-          "date": "2019-08-03",
-          "team1": {
             "key": "halle",
             "name": "Hallescher FC",
             "code": null
@@ -558,21 +573,6 @@
           },
           "score1": 3,
           "score2": 1
-        },
-        {
-          "date": "2019-08-03",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 2
         },
         {
           "date": "2019-08-04",
@@ -642,36 +642,6 @@
         {
           "date": "2019-08-17",
           "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2019-08-17",
-          "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2019-08-17",
-          "team1": {
             "key": "tsvmuenchen",
             "name": "TSV 1860 München",
             "code": "M60"
@@ -683,6 +653,21 @@
           },
           "score1": 0,
           "score2": 0
+        },
+        {
+          "date": "2019-08-17",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1
         },
         {
           "date": "2019-08-17",
@@ -702,6 +687,21 @@
         {
           "date": "2019-08-17",
           "team1": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-17",
+          "team1": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
             "code": null
@@ -717,17 +717,17 @@
         {
           "date": "2019-08-17",
           "team1": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
           "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "score1": 0,
-          "score2": 2
+          "score2": 1
         },
         {
           "date": "2019-08-18",
@@ -812,21 +812,6 @@
         {
           "date": "2019-08-24",
           "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "score1": 5,
-          "score2": 2
-        },
-        {
-          "date": "2019-08-24",
-          "team1": {
             "key": "bayernmnchenii",
             "name": "Bayern München II",
             "code": null
@@ -838,6 +823,21 @@
           },
           "score1": 2,
           "score2": 2
+        },
+        {
+          "date": "2019-08-24",
+          "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 3
         },
         {
           "date": "2019-08-24",
@@ -872,16 +872,31 @@
         {
           "date": "2019-08-24",
           "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": 5,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-25",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
             "code": null
           },
           "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
           },
-          "score1": 0,
+          "score1": 4,
           "score2": 3
         },
         {
@@ -897,21 +912,6 @@
             "code": null
           },
           "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2019-08-25",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": 4,
           "score2": 3
         },
         {
@@ -952,36 +952,6 @@
         {
           "date": "2019-08-31",
           "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2019-08-31",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-08-31",
-          "team1": {
             "key": "halle",
             "name": "Hallescher FC",
             "code": null
@@ -1012,6 +982,36 @@
         {
           "date": "2019-08-31",
           "team1": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2019-08-31",
+          "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-08-31",
+          "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
             "code": null
@@ -1023,21 +1023,6 @@
           },
           "score1": 3,
           "score2": 0
-        },
-        {
-          "date": "2019-09-01",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 3
         },
         {
           "date": "2019-09-01",
@@ -1083,6 +1068,21 @@
           },
           "score1": 1,
           "score2": 1
+        },
+        {
+          "date": "2019-10-02",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 3
         }
       ]
     },
@@ -1107,16 +1107,16 @@
         {
           "date": "2019-09-14",
           "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
+            "key": "meppen",
+            "name": "SV Meppen",
             "code": null
           },
-          "score1": 3,
+          "team2": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "score1": 6,
           "score2": 1
         },
         {
@@ -1137,31 +1137,31 @@
         {
           "date": "2019-09-14",
           "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
             "code": null
           },
-          "score1": 1,
+          "score1": 2,
           "score2": 2
         },
         {
           "date": "2019-09-14",
           "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
           "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
           },
-          "score1": 6,
+          "score1": 3,
           "score2": 1
         },
         {
@@ -1182,16 +1182,16 @@
         {
           "date": "2019-09-14",
           "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
             "code": null
           },
           "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
             "code": null
           },
-          "score1": 2,
+          "score1": 1,
           "score2": 2
         },
         {
@@ -1262,6 +1262,21 @@
         {
           "date": "2019-09-21",
           "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2019-09-21",
+          "team1": {
             "key": "duisburg",
             "name": "MSV Duisburg",
             "code": "MSV"
@@ -1273,6 +1288,21 @@
           },
           "score1": 2,
           "score2": 1
+        },
+        {
+          "date": "2019-09-21",
+          "team1": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "team2": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2019-09-21",
@@ -1292,21 +1322,6 @@
         {
           "date": "2019-09-21",
           "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2019-09-21",
-          "team1": {
             "key": "chemnitz",
             "name": "Chemnitzer FC",
             "code": null
@@ -1322,31 +1337,16 @@
         {
           "date": "2019-09-21",
           "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
             "code": null
           },
           "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2019-09-21",
-          "team1": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 0,
           "score2": 0
         },
         {
@@ -1417,66 +1417,6 @@
         {
           "date": "2019-09-28",
           "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2019-09-28",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "score1": 4,
-          "score2": 0
-        },
-        {
-          "date": "2019-09-28",
-          "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-09-28",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2019-09-28",
-          "team1": {
             "key": "muenster",
             "name": "Preußen Münster",
             "code": null
@@ -1503,6 +1443,66 @@
           },
           "score1": 2,
           "score2": 0
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2019-09-28",
+          "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2019-09-29",
@@ -1548,21 +1548,6 @@
           },
           "score1": 0,
           "score2": 0
-        },
-        {
-          "date": "2019-10-02",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 3
         }
       ]
     },
@@ -1602,36 +1587,6 @@
         {
           "date": "2019-10-05",
           "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2019-10-05",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2019-10-05",
-          "team1": {
             "key": "halle",
             "name": "Hallescher FC",
             "code": null
@@ -1662,6 +1617,21 @@
         {
           "date": "2019-10-05",
           "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2019-10-05",
+          "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
             "code": null
@@ -1675,19 +1645,19 @@
           "score2": 2
         },
         {
-          "date": "2019-10-06",
+          "date": "2019-10-05",
           "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
             "code": null
           },
           "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
           },
-          "score1": 3,
-          "score2": 1
+          "score1": 2,
+          "score2": 2
         },
         {
           "date": "2019-10-06",
@@ -1703,6 +1673,21 @@
           },
           "score1": 2,
           "score2": 0
+        },
+        {
+          "date": "2019-10-06",
+          "team1": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 3,
+          "score2": 1
         },
         {
           "date": "2019-10-07",
@@ -1742,21 +1727,6 @@
         {
           "date": "2019-10-19",
           "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2019-10-19",
-          "team1": {
             "key": "waldhofmannheim",
             "name": "SV Waldhof Mannheim",
             "code": null
@@ -1772,17 +1742,17 @@
         {
           "date": "2019-10-19",
           "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
           "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
             "code": null
           },
           "score1": 0,
-          "score2": 0
+          "score2": 1
         },
         {
           "date": "2019-10-19",
@@ -1798,6 +1768,21 @@
           },
           "score1": 1,
           "score2": 1
+        },
+        {
+          "date": "2019-10-19",
+          "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2019-10-19",
@@ -1832,21 +1817,6 @@
         {
           "date": "2019-10-20",
           "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2019-10-20",
-          "team1": {
             "key": "zwickau",
             "name": "FSV Zwickau",
             "code": null
@@ -1858,6 +1828,21 @@
           },
           "score1": 3,
           "score2": 0
+        },
+        {
+          "date": "2019-10-20",
+          "team1": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2019-10-21",
@@ -1897,32 +1882,17 @@
         {
           "date": "2019-10-26",
           "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
+            "key": "halle",
+            "name": "Hallescher FC",
             "code": null
           },
           "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2019-10-26",
-          "team1": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
+            "key": "meppen",
+            "name": "SV Meppen",
             "code": null
           },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 0
+          "score1": 3,
+          "score2": 3
         },
         {
           "date": "2019-10-26",
@@ -1942,32 +1912,17 @@
         {
           "date": "2019-10-26",
           "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
             "code": null
           },
           "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
             "code": null
           },
-          "score1": 3,
-          "score2": 3
-        },
-        {
-          "date": "2019-10-26",
-          "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": 0,
-          "score2": 2
+          "score1": 2,
+          "score2": 0
         },
         {
           "date": "2019-10-26",
@@ -1985,19 +1940,34 @@
           "score2": 2
         },
         {
-          "date": "2019-10-27",
+          "date": "2019-10-26",
           "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
           "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
-          "score1": 1,
-          "score2": 3
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2019-10-26",
+          "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 0,
+          "score2": 2
         },
         {
           "date": "2019-10-27",
@@ -2013,6 +1983,21 @@
           },
           "score1": 3,
           "score2": 1
+        },
+        {
+          "date": "2019-10-27",
+          "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "score1": 1,
+          "score2": 3
         },
         {
           "date": "2019-10-28",
@@ -2052,6 +2037,21 @@
         {
           "date": "2019-11-02",
           "team1": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2019-11-02",
+          "team1": {
             "key": "tsvmuenchen",
             "name": "TSV 1860 München",
             "code": "M60"
@@ -2067,14 +2067,14 @@
         {
           "date": "2019-11-02",
           "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
           },
           "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
           },
           "score1": 0,
           "score2": 3
@@ -2097,21 +2097,6 @@
         {
           "date": "2019-11-02",
           "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2019-11-02",
-          "team1": {
             "key": "muenster",
             "name": "Preußen Münster",
             "code": null
@@ -2127,17 +2112,17 @@
         {
           "date": "2019-11-02",
           "team1": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
             "code": null
           },
           "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
             "code": null
           },
-          "score1": 1,
-          "score2": 0
+          "score1": 0,
+          "score2": 3
         },
         {
           "date": "2019-11-03",
@@ -2207,17 +2192,17 @@
         {
           "date": "2019-11-09",
           "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
           },
-          "score1": 1,
-          "score2": 2
+          "score1": 0,
+          "score2": 3
         },
         {
           "date": "2019-11-09",
@@ -2252,32 +2237,17 @@
         {
           "date": "2019-11-09",
           "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
           "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
           },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2019-11-09",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 3
+          "score1": 1,
+          "score2": 2
         },
         {
           "date": "2019-11-09",
@@ -2295,19 +2265,19 @@
           "score2": 2
         },
         {
-          "date": "2019-11-10",
+          "date": "2019-11-09",
           "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
+            "key": "halle",
+            "name": "Hallescher FC",
             "code": null
           },
           "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
           "score1": 0,
-          "score2": 0
+          "score2": 1
         },
         {
           "date": "2019-11-10",
@@ -2323,6 +2293,21 @@
           },
           "score1": 2,
           "score2": 1
+        },
+        {
+          "date": "2019-11-10",
+          "team1": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2019-11-11",
@@ -2358,51 +2343,6 @@
           },
           "score1": 0,
           "score2": 3
-        },
-        {
-          "date": "2019-11-23",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": 4,
-          "score2": 2
-        },
-        {
-          "date": "2019-11-23",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2019-11-23",
-          "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 1
         },
         {
           "date": "2019-11-23",
@@ -2450,19 +2390,49 @@
           "score2": 2
         },
         {
-          "date": "2019-11-24",
+          "date": "2019-11-23",
           "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
+            "key": "meppen",
+            "name": "SV Meppen",
             "code": null
           },
-          "score1": 1,
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 2,
           "score2": 1
+        },
+        {
+          "date": "2019-11-23",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 2
+        },
+        {
+          "date": "2019-11-23",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": 0,
+          "score2": 0
         },
         {
           "date": "2019-11-24",
@@ -2478,6 +2448,21 @@
           },
           "score1": 2,
           "score2": 0
+        },
+        {
+          "date": "2019-11-24",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2019-11-25",
@@ -2517,47 +2502,17 @@
         {
           "date": "2019-11-30",
           "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
             "code": null
           },
           "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
           },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2019-11-30",
-          "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2019-11-30",
-          "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 3
+          "score1": 2,
+          "score2": 4
         },
         {
           "date": "2019-11-30",
@@ -2577,6 +2532,21 @@
         {
           "date": "2019-11-30",
           "team1": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2019-11-30",
+          "team1": {
             "key": "grossaspach",
             "name": "SG Großaspach",
             "code": null
@@ -2592,17 +2562,32 @@
         {
           "date": "2019-11-30",
           "team1": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
             "code": null
           },
           "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
           },
-          "score1": 2,
-          "score2": 4
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2019-11-30",
+          "team1": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2019-12-01",
@@ -2672,16 +2657,31 @@
         {
           "date": "2019-12-07",
           "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
             "code": null
           },
-          "score1": 1,
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 3
+        },
+        {
+          "date": "2019-12-07",
+          "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 3,
           "score2": 1
         },
         {
@@ -2702,32 +2702,17 @@
         {
           "date": "2019-12-07",
           "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
           "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2019-12-07",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "score1": 1,
-          "score2": 0
+          "score2": 1
         },
         {
           "date": "2019-12-07",
@@ -2747,17 +2732,17 @@
         {
           "date": "2019-12-07",
           "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
           },
           "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
+            "key": "halle",
+            "name": "Hallescher FC",
             "code": null
           },
-          "score1": 3,
-          "score2": 1
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2019-12-08",
@@ -2842,36 +2827,6 @@
         {
           "date": "2019-12-14",
           "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2019-12-14",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2019-12-14",
-          "team1": {
             "key": "bayernmnchenii",
             "name": "Bayern München II",
             "code": null
@@ -2883,6 +2838,21 @@
           },
           "score1": 1,
           "score2": 3
+        },
+        {
+          "date": "2019-12-14",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 1
         },
         {
           "date": "2019-12-14",
@@ -2902,6 +2872,21 @@
         {
           "date": "2019-12-14",
           "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-12-14",
+          "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
             "code": null
@@ -2917,21 +2902,6 @@
         {
           "date": "2019-12-15",
           "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2019-12-15",
-          "team1": {
             "key": "grossaspach",
             "name": "SG Großaspach",
             "code": null
@@ -2942,6 +2912,21 @@
             "code": null
           },
           "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2019-12-15",
+          "team1": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 2,
           "score2": 2
         },
         {
@@ -2982,6 +2967,21 @@
         {
           "date": "2019-12-21",
           "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 3
+        },
+        {
+          "date": "2019-12-21",
+          "team1": {
             "key": "zwickau",
             "name": "FSV Zwickau",
             "code": null
@@ -2997,17 +2997,17 @@
         {
           "date": "2019-12-21",
           "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "team2": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
           },
-          "score1": 4,
-          "score2": 3
+          "score1": 1,
+          "score2": 1
         },
         {
           "date": "2019-12-21",
@@ -3055,16 +3055,16 @@
           "score2": 1
         },
         {
-          "date": "2019-12-21",
+          "date": "2019-12-22",
           "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "halle",
+            "name": "Hallescher FC",
             "code": null
           },
           "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
           },
           "score1": 1,
           "score2": 1
@@ -3094,21 +3094,6 @@
           "team2": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2019-12-22",
-          "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
             "code": null
           },
           "score1": 1,
@@ -3167,6 +3152,36 @@
         {
           "date": "2020-01-25",
           "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-01-25",
+          "team1": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "team2": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-01-25",
+          "team1": {
             "key": "carlzeissjena",
             "name": "FC Carl Zeiss Jena",
             "code": null
@@ -3192,36 +3207,6 @@
             "code": null
           },
           "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2020-01-25",
-          "team1": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "team2": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2020-01-25",
-          "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": 1,
           "score2": 2
         },
         {
@@ -3292,17 +3277,17 @@
         {
           "date": "2020-02-01",
           "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
           },
           "team2": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
             "code": null
           },
           "score1": 1,
-          "score2": 2
+          "score2": 1
         },
         {
           "date": "2020-02-01",
@@ -3322,32 +3307,17 @@
         {
           "date": "2020-02-01",
           "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-01",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
+            "key": "meppen",
+            "name": "SV Meppen",
             "code": null
           },
           "team2": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
             "code": null
           },
           "score1": 1,
-          "score2": 0
+          "score2": 2
         },
         {
           "date": "2020-02-01",
@@ -3367,6 +3337,21 @@
         {
           "date": "2020-02-01",
           "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-01",
+          "team1": {
             "key": "ingolstadt",
             "name": "FC Ingolstadt 04",
             "code": "FCI"
@@ -3377,6 +3362,21 @@
             "code": "FCK"
           },
           "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-02",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "score1": 1,
           "score2": 1
         },
         {
@@ -3393,21 +3393,6 @@
           },
           "score1": 2,
           "score2": 2
-        },
-        {
-          "date": "2020-02-02",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
         },
         {
           "date": "2020-02-03",
@@ -3447,36 +3432,6 @@
         {
           "date": "2020-02-08",
           "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-08",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-08",
-          "team1": {
             "key": "uerdingen",
             "name": "KFC Uerdingen",
             "code": null
@@ -3492,13 +3447,13 @@
         {
           "date": "2020-02-08",
           "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
           },
           "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
             "code": null
           },
           "score1": 1,
@@ -3522,6 +3477,36 @@
         {
           "date": "2020-02-08",
           "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-08",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-08",
+          "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
             "code": null
@@ -3537,21 +3522,6 @@
         {
           "date": "2020-02-09",
           "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": 3,
-          "score2": 0
-        },
-        {
-          "date": "2020-02-09",
-          "team1": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
             "code": null
@@ -3563,6 +3533,21 @@
           },
           "score1": 3,
           "score2": 1
+        },
+        {
+          "date": "2020-02-09",
+          "team1": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0
         },
         {
           "date": "2020-02-10",
@@ -3602,28 +3587,13 @@
         {
           "date": "2020-02-15",
           "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
             "code": null
           },
           "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2020-02-15",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
             "code": null
           },
           "score1": 1,
@@ -3647,16 +3617,16 @@
         {
           "date": "2020-02-15",
           "team1": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
           },
           "team2": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
             "code": null
           },
-          "score1": 1,
+          "score1": 0,
           "score2": 1
         },
         {
@@ -3677,16 +3647,31 @@
         {
           "date": "2020-02-15",
           "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
             "code": null
           },
-          "score1": 0,
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-02-15",
+          "team1": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "team2": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "score1": 1,
           "score2": 1
         },
         {
@@ -3757,21 +3742,6 @@
         {
           "date": "2020-02-22",
           "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": 2,
-          "score2": 3
-        },
-        {
-          "date": "2020-02-22",
-          "team1": {
             "key": "rostock",
             "name": "Hansa Rostock",
             "code": null
@@ -3783,21 +3753,6 @@
           },
           "score1": 3,
           "score2": 0
-        },
-        {
-          "date": "2020-02-22",
-          "team1": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": 0,
-          "score2": 2
         },
         {
           "date": "2020-02-22",
@@ -3845,19 +3800,34 @@
           "score2": 1
         },
         {
-          "date": "2020-02-23",
+          "date": "2020-02-22",
           "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
             "code": null
           },
           "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
+            "key": "muenster",
+            "name": "Preußen Münster",
             "code": null
           },
-          "score1": 3,
-          "score2": 5
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2020-02-22",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 3
         },
         {
           "date": "2020-02-23",
@@ -3873,6 +3843,21 @@
           },
           "score1": 1,
           "score2": 1
+        },
+        {
+          "date": "2020-02-23",
+          "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 5
         },
         {
           "date": "2020-02-24",
@@ -3912,21 +3897,6 @@
         {
           "date": "2020-02-29",
           "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "score1": 4,
-          "score2": 3
-        },
-        {
-          "date": "2020-02-29",
-          "team1": {
             "key": "zwickau",
             "name": "FSV Zwickau",
             "code": null
@@ -3957,6 +3927,21 @@
         {
           "date": "2020-02-29",
           "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-02-29",
+          "team1": {
             "key": "braunschweig",
             "name": "Eintracht Braunschweig",
             "code": "EBS"
@@ -3972,6 +3957,21 @@
         {
           "date": "2020-02-29",
           "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 3
+        },
+        {
+          "date": "2020-02-29",
+          "team1": {
             "key": "magdeburg",
             "name": "1. FC Magdeburg",
             "code": null
@@ -3983,21 +3983,6 @@
           },
           "score1": 6,
           "score2": 2
-        },
-        {
-          "date": "2020-02-29",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 0
         },
         {
           "date": "2020-03-01",
@@ -4067,17 +4052,17 @@
         {
           "date": "2020-03-07",
           "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
             "code": null
           },
           "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
           },
-          "score1": 0,
-          "score2": 3
+          "score1": 1,
+          "score2": 0
         },
         {
           "date": "2020-03-07",
@@ -4097,32 +4082,17 @@
         {
           "date": "2020-03-07",
           "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
             "code": null
           },
           "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2020-03-07",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "muenster",
+            "name": "Preußen Münster",
             "code": null
           },
           "score1": 2,
-          "score2": 0
+          "score2": 1
         },
         {
           "date": "2020-03-07",
@@ -4142,17 +4112,32 @@
         {
           "date": "2020-03-07",
           "team1": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
             "code": null
           },
           "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "score1": 0,
+          "score2": 3
+        },
+        {
+          "date": "2020-03-07",
+          "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
             "code": null
           },
           "score1": 2,
-          "score2": 1
+          "score2": 0
         },
         {
           "date": "2020-03-08",
@@ -4205,7 +4190,7 @@
       "name": "Spieltag 28",
       "matches": [
         {
-          "date": "2020-03-13",
+          "date": "2020-05-30",
           "team1": {
             "key": "waldhofmannheim",
             "name": "SV Waldhof Mannheim",
@@ -4216,71 +4201,11 @@
             "name": "KFC Uerdingen",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
+          "date": "2020-05-30",
           "team1": {
             "key": "magdeburg",
             "name": "1. FC Magdeburg",
@@ -4291,41 +4216,11 @@
             "name": "1. FC Kaiserslautern",
             "code": "FCK"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-14",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-15",
+          "date": "2020-05-30",
           "team1": {
             "key": "zwickau",
             "name": "FSV Zwickau",
@@ -4336,11 +4231,101 @@
             "name": "Hansa Rostock",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 2
         },
         {
-          "date": "2020-03-15",
+          "date": "2020-05-30",
+          "team1": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2020-05-30",
+          "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-30",
+          "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-30",
+          "team1": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "team2": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-31",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-31",
+          "team1": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 2
+        },
+        {
+          "date": "2020-05-31",
           "team1": {
             "key": "carlzeissjena",
             "name": "FC Carl Zeiss Jena",
@@ -4351,8 +4336,8 @@
             "name": "Chemnitzer FC",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         }
       ]
     },
@@ -4360,127 +4345,7 @@
       "name": "Spieltag 29",
       "matches": [
         {
-          "date": "2020-03-17",
-          "team1": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-17",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-17",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-17",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-17",
-          "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-18",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-18",
-          "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-18",
-          "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-18",
+          "date": "2020-06-02",
           "team1": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
@@ -4491,11 +4356,26 @@
             "name": "1. FC Magdeburg",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "2020-03-18",
+          "date": "2020-06-02",
+          "team1": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "team2": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-02",
           "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
@@ -4506,8 +4386,113 @@
             "name": "FSV Zwickau",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-02",
+          "team1": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-02",
+          "team1": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-03",
+          "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-03",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-03",
+          "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-03",
+          "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-03",
+          "team1": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 1
         }
       ]
     },
@@ -4515,142 +4500,7 @@
       "name": "Spieltag 30",
       "matches": [
         {
-          "date": "2020-03-20",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-21",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-22",
-          "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "team2": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-22",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-23",
+          "date": "2020-06-05",
           "team1": {
             "key": "magdeburg",
             "name": "1. FC Magdeburg",
@@ -4661,8 +4511,143 @@
             "name": "KFC Uerdingen",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-06",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-06",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 5,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-06",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-06",
+          "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-06",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-06",
+          "team1": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "team2": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-07",
+          "team1": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-07",
+          "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-07",
+          "team1": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
         }
       ]
     },
@@ -4670,142 +4655,7 @@
       "name": "Spieltag 31",
       "matches": [
         {
-          "date": "2020-03-27",
-          "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-28",
-          "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-28",
-          "team1": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-28",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-28",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-28",
-          "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-28",
-          "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-29",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-29",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "team2": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-03-30",
+          "date": "2020-06-09",
           "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
@@ -4816,8 +4666,143 @@
             "name": "SV Meppen",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-09",
+          "team1": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "team2": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-09",
+          "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-09",
+          "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-09",
+          "team1": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "team2": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-10",
+          "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-10",
+          "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-10",
+          "team1": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": 0,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-10",
+          "team1": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "team2": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "score1": 1,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-10",
+          "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 1,
+          "score2": 3
         }
       ]
     },
@@ -4825,52 +4810,7 @@
       "name": "Spieltag 32",
       "matches": [
         {
-          "date": "2020-04-03",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-04",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-04",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-04",
+          "date": "2020-06-12",
           "team1": {
             "key": "meppen",
             "name": "SV Meppen",
@@ -4881,26 +4821,26 @@
             "name": "Hallescher FC",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 3
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-06-13",
           "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
           },
           "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 1
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-06-13",
           "team1": {
             "key": "klautern",
             "name": "1. FC Kaiserslautern",
@@ -4911,11 +4851,11 @@
             "name": "Chemnitzer FC",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "2020-04-04",
+          "date": "2020-06-13",
           "team1": {
             "key": "braunschweig",
             "name": "Eintracht Braunschweig",
@@ -4926,26 +4866,11 @@
             "name": "SG Großaspach",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 1
         },
         {
-          "date": "2020-04-05",
-          "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-05",
+          "date": "2020-06-13",
           "team1": {
             "key": "magdeburg",
             "name": "1. FC Magdeburg",
@@ -4956,11 +4881,11 @@
             "name": "FC Viktoria Köln",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
         },
         {
-          "date": "2020-04-06",
+          "date": "2020-06-13",
           "team1": {
             "key": "duisburg",
             "name": "MSV Duisburg",
@@ -4971,8 +4896,68 @@
             "name": "Würzburger Kickers",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-13",
+          "team1": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-14",
+          "team1": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "team2": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-14",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-14",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 3
         }
       ]
     },
@@ -4980,127 +4965,7 @@
       "name": "Spieltag 33",
       "matches": [
         {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "team2": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
-          "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
-            "code": null
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-11",
+          "date": "2020-06-16",
           "team1": {
             "key": "ingolstadt",
             "name": "FC Ingolstadt 04",
@@ -5111,11 +4976,56 @@
             "name": "Eintracht Braunschweig",
             "code": "EBS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 0,
+          "score2": 0
         },
         {
-          "date": "2020-04-11",
+          "date": "2020-06-16",
+          "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "team2": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-16",
+          "team1": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-16",
+          "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-16",
           "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
@@ -5126,8 +5036,83 @@
             "name": "TSV 1860 München",
             "code": "M60"
           },
-          "score1": null,
-          "score2": null
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-17",
+          "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-17",
+          "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "score1": 5,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-17",
+          "team1": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-17",
+          "team1": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "team2": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": 1,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-17",
+          "team1": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 0
         }
       ]
     },
@@ -5135,142 +5120,7 @@
       "name": "Spieltag 34",
       "matches": [
         {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
-          "team1": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-18",
+          "date": "2020-06-19",
           "team1": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
@@ -5281,8 +5131,143 @@
             "name": "Chemnitzer FC",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-20",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-20",
+          "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "score1": 4,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-20",
+          "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-20",
+          "team1": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "team2": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-20",
+          "team1": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 3
+        },
+        {
+          "date": "2020-06-20",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-21",
+          "team1": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-21",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-21",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": 0,
+          "score2": 3
         }
       ]
     },
@@ -5290,22 +5275,7 @@
       "name": "Spieltag 35",
       "matches": [
         {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
+          "date": "2020-06-23",
           "team1": {
             "key": "uerdingen",
             "name": "KFC Uerdingen",
@@ -5316,26 +5286,11 @@
             "name": "Würzburger Kickers",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
+          "date": "2020-06-23",
           "team1": {
             "key": "chemnitz",
             "name": "Chemnitzer FC",
@@ -5346,86 +5301,26 @@
             "name": "Eintracht Braunschweig",
             "code": "EBS"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 2
         },
         {
-          "date": "2020-04-25",
+          "date": "2020-06-23",
           "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
           "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-04-25",
+          "date": "2020-06-23",
           "team1": {
             "key": "viktoriakoeln",
             "name": "FC Viktoria Köln",
@@ -5436,8 +5331,98 @@
             "name": "MSV Duisburg",
             "code": "MSV"
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "team2": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "team2": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "team2": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "team2": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "score1": 2,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-24",
+          "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": 5,
+          "score2": 3
         }
       ]
     },
@@ -5445,67 +5430,7 @@
       "name": "Spieltag 36",
       "matches": [
         {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
+          "date": "2020-06-26",
           "team1": {
             "key": "uerdingen",
             "name": "KFC Uerdingen",
@@ -5516,71 +5441,11 @@
             "name": "Chemnitzer FC",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 1,
+          "score2": 1
         },
         {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "team2": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
-          "team1": {
-            "key": "magdeburg",
-            "name": "1. FC Magdeburg",
-            "code": null
-          },
-          "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-02",
+          "date": "2020-06-27",
           "team1": {
             "key": "wuerzburg",
             "name": "Würzburger Kickers",
@@ -5591,8 +5456,128 @@
             "name": "Hansa Rostock",
             "code": null
           },
-          "score1": null,
-          "score2": null
+          "score1": 3,
+          "score2": 1
+        },
+        {
+          "date": "2020-06-27",
+          "team1": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-27",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": 3,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-27",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": 2,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-27",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "score1": 3,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-27",
+          "team1": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "team2": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 0
+        },
+        {
+          "date": "2020-06-27",
+          "team1": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "team2": {
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
+            "code": null
+          },
+          "score1": 1,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-28",
+          "team1": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": 0,
+          "score2": 2
+        },
+        {
+          "date": "2020-06-28",
+          "team1": {
+            "key": "magdeburg",
+            "name": "1. FC Magdeburg",
+            "code": null
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": 0,
+          "score2": 1
         }
       ]
     },
@@ -5600,112 +5585,7 @@
       "name": "Spieltag 37",
       "matches": [
         {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "team2": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "team2": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "team2": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "bayernmnchenii",
-            "name": "Bayern München II",
-            "code": null
-          },
-          "team2": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "muenster",
-            "name": "Preußen Münster",
-            "code": null
-          },
-          "team2": {
-            "key": "meppen",
-            "name": "SV Meppen",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
-          "team1": {
-            "key": "halle",
-            "name": "Hallescher FC",
-            "code": null
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-09",
+          "date": "2019-07-01",
           "team1": {
             "key": "grossaspach",
             "name": "SG Großaspach",
@@ -5720,7 +5600,67 @@
           "score2": null
         },
         {
-          "date": "2020-05-09",
+          "date": "2019-07-01",
+          "team1": {
+            "key": "zwickau",
+            "name": "FSV Zwickau",
+            "code": null
+          },
+          "team2": {
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
+          "team1": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "team2": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
+          "team1": {
+            "key": "muenster",
+            "name": "Preußen Münster",
+            "code": null
+          },
+          "team2": {
+            "key": "meppen",
+            "name": "SV Meppen",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
+          "team1": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "team2": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
           "team1": {
             "key": "ingolstadt",
             "name": "FC Ingolstadt 04",
@@ -5735,15 +5675,60 @@
           "score2": null
         },
         {
-          "date": "2020-05-09",
+          "date": "2019-07-01",
           "team1": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
+            "key": "bayernmnchenii",
+            "name": "Bayern München II",
             "code": null
           },
           "team2": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
+          "team1": {
+            "key": "braunschweig",
+            "name": "Eintracht Braunschweig",
+            "code": "EBS"
+          },
+          "team2": {
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
+          "team1": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "team2": {
+            "key": "klautern",
+            "name": "1. FC Kaiserslautern",
+            "code": "FCK"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-01",
+          "team1": {
+            "key": "rostock",
+            "name": "Hansa Rostock",
+            "code": null
+          },
+          "team2": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
             "code": null
           },
           "score1": null,
@@ -5755,82 +5740,7 @@
       "name": "Spieltag 38",
       "matches": [
         {
-          "date": "2020-05-16",
-          "team1": {
-            "key": "chemnitz",
-            "name": "Chemnitzer FC",
-            "code": null
-          },
-          "team2": {
-            "key": "rostock",
-            "name": "Hansa Rostock",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-16",
-          "team1": {
-            "key": "duisburg",
-            "name": "MSV Duisburg",
-            "code": "MSV"
-          },
-          "team2": {
-            "key": "uhaching",
-            "name": "SpVgg Unterhaching",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-16",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-16",
-          "team1": {
-            "key": "waldhofmannheim",
-            "name": "SV Waldhof Mannheim",
-            "code": null
-          },
-          "team2": {
-            "key": "zwickau",
-            "name": "FSV Zwickau",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-16",
-          "team1": {
-            "key": "uerdingen",
-            "name": "KFC Uerdingen",
-            "code": null
-          },
-          "team2": {
-            "key": "viktoriakoeln",
-            "name": "FC Viktoria Köln",
-            "code": null
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2020-05-16",
+          "date": "2019-07-04",
           "team1": {
             "key": "meppen",
             "name": "SV Meppen",
@@ -5845,22 +5755,22 @@
           "score2": null
         },
         {
-          "date": "2020-05-16",
+          "date": "2019-07-04",
           "team1": {
-            "key": "carlzeissjena",
-            "name": "FC Carl Zeiss Jena",
+            "key": "chemnitz",
+            "name": "Chemnitzer FC",
             "code": null
           },
           "team2": {
-            "key": "grossaspach",
-            "name": "SG Großaspach",
+            "key": "rostock",
+            "name": "Hansa Rostock",
             "code": null
           },
           "score1": null,
           "score2": null
         },
         {
-          "date": "2020-05-16",
+          "date": "2019-07-04",
           "team1": {
             "key": "klautern",
             "name": "1. FC Kaiserslautern",
@@ -5875,7 +5785,82 @@
           "score2": null
         },
         {
-          "date": "2020-05-16",
+          "date": "2019-07-04",
+          "team1": {
+            "key": "tsvmuenchen",
+            "name": "TSV 1860 München",
+            "code": "M60"
+          },
+          "team2": {
+            "key": "ingolstadt",
+            "name": "FC Ingolstadt 04",
+            "code": "FCI"
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-04",
+          "team1": {
+            "key": "carlzeissjena",
+            "name": "FC Carl Zeiss Jena",
+            "code": null
+          },
+          "team2": {
+            "key": "grossaspach",
+            "name": "SG Großaspach",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-04",
+          "team1": {
+            "key": "duisburg",
+            "name": "MSV Duisburg",
+            "code": "MSV"
+          },
+          "team2": {
+            "key": "uhaching",
+            "name": "SpVgg Unterhaching",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-04",
+          "team1": {
+            "key": "wuerzburg",
+            "name": "Würzburger Kickers",
+            "code": null
+          },
+          "team2": {
+            "key": "halle",
+            "name": "Hallescher FC",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-04",
+          "team1": {
+            "key": "uerdingen",
+            "name": "KFC Uerdingen",
+            "code": null
+          },
+          "team2": {
+            "key": "viktoriakoeln",
+            "name": "FC Viktoria Köln",
+            "code": null
+          },
+          "score1": null,
+          "score2": null
+        },
+        {
+          "date": "2019-07-04",
           "team1": {
             "key": "magdeburg",
             "name": "1. FC Magdeburg",
@@ -5890,15 +5875,15 @@
           "score2": null
         },
         {
-          "date": "2020-05-16",
+          "date": "2019-07-04",
           "team1": {
-            "key": "wuerzburg",
-            "name": "Würzburger Kickers",
+            "key": "waldhofmannheim",
+            "name": "SV Waldhof Mannheim",
             "code": null
           },
           "team2": {
-            "key": "halle",
-            "name": "Hallescher FC",
+            "key": "zwickau",
+            "name": "FSV Zwickau",
             "code": null
           },
           "score1": null,
