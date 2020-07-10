@@ -50,17 +50,14 @@ Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw
   "name": "Premier League 2015/16",
   "clubs": [
     {
-      "key": "chelsea",
       "name": "Chelsea",
       "code": "CHE"
     },
     {
-      "key": "arsenal",
       "name": "Arsenal",
       "code": "ARS"
     },
     {
-      "key": "manutd",
       "name": "Manchester United",
       "code": "MUN"
     },
