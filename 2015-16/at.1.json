@@ -1,83 +1,63 @@
 {
-  "name": "Österr. Bundesliga 2015/16",
+  "name": "Bundesliga 2015/16",
   "rounds": [
     {
       "name": "1. Runde",
       "matches": [
         {
           "date": "2015-07-25",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SV Mattersburg",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-07-25",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-07-25",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SK Rapid Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2015-07-25",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SV Grödig",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-07-26",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -86,78 +66,58 @@
       "matches": [
         {
           "date": "2015-08-01",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "FC RB Salzburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-01",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2015-08-01",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-02",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-02",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FK Austria Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-08-02",
+          "team1": "SK Sturm Graz",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -166,78 +126,58 @@
       "matches": [
         {
           "date": "2015-08-08",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SV Grödig",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-08",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "SV Mattersburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-08",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2015-08-08",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-09",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SCR Altach",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-08-09",
+          "team1": "SK Rapid Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
@@ -246,78 +186,58 @@
       "matches": [
         {
           "date": "2015-08-11",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 4
+          "team1": "SV Ried",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
           "date": "2015-08-12",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-12",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SCR Altach",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-12",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "SV Grödig",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2015-08-12",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 5
+          "team1": "FK Austria Wien",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              5
+            ]
+          }
         }
       ]
     },
@@ -326,78 +246,58 @@
       "matches": [
         {
           "date": "2015-08-15",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 5,
-          "score2": 1
+          "team1": "FK Austria Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-15",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-15",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-15",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-16",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SK Sturm Graz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         }
       ]
     },
@@ -406,78 +306,58 @@
       "matches": [
         {
           "date": "2015-08-22",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SK Rapid Wien",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-22",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Ried",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-22",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2015-08-22",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Mattersburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-23",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC RB Salzburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-08-23",
+          "team1": "SCR Altach",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -486,78 +366,58 @@
       "matches": [
         {
           "date": "2015-08-29",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-29",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SK Rapid Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         },
         {
           "date": "2015-08-29",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 4,
-          "score2": 1
-        },
-        {
-          "date": "2015-08-29",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SV Grödig",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-30",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 4
+          "team1": "SK Sturm Graz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2015-08-30",
+          "team1": "Wolfsberger AC",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -566,78 +426,58 @@
       "matches": [
         {
           "date": "2015-09-12",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "SCR Altach",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-12",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-12",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FK Austria Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-09-12",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-13",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Mattersburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     },
@@ -646,78 +486,58 @@
       "matches": [
         {
           "date": "2015-09-19",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SK Sturm Graz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-19",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "Wolfsberger AC",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-09-19",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-19",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Grödig",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-09-19",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-09-20",
+          "team1": "SK Rapid Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     },
@@ -726,78 +546,58 @@
       "matches": [
         {
           "date": "2015-09-26",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "SV Ried",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-09-26",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FC RB Salzburg",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-26",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SCR Altach",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-26",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-09-26",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2015-09-27",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
@@ -806,78 +606,58 @@
       "matches": [
         {
           "date": "2015-10-03",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Grödig",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2015-10-03",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Wolfsberger AC",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-03",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 0,
-          "score2": 4
+          "team1": "SV Mattersburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
         },
         {
           "date": "2015-10-03",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SCR Altach",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-10-03",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 3,
-          "score2": 0
+          "date": "2015-10-04",
+          "team1": "SK Rapid Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -886,78 +666,58 @@
       "matches": [
         {
           "date": "2015-10-17",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC RB Salzburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              8,
+              0
+            ]
+          }
         },
         {
           "date": "2015-10-17",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FK Austria Wien",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-17",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-17",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 8,
-          "score2": 0
+          "team1": "SK Sturm Graz",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-10-17",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 3,
-          "score2": 1
+          "date": "2015-10-18",
+          "team1": "Wolfsberger AC",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
@@ -966,78 +726,58 @@
       "matches": [
         {
           "date": "2015-10-24",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SV Mattersburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-24",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-24",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-10-24",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-10-24",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 2
+          "date": "2015-10-25",
+          "team1": "SK Rapid Wien",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1046,78 +786,58 @@
       "matches": [
         {
           "date": "2015-10-31",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SK Rapid Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-31",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-31",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Grödig",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-10-31",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-10-31",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-11-01",
+          "team1": "SV Mattersburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1126,78 +846,58 @@
       "matches": [
         {
           "date": "2015-11-07",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FK Austria Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-07",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-07",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2015-11-07",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-11-07",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-11-08",
+          "team1": "SV Grödig",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1206,78 +906,58 @@
       "matches": [
         {
           "date": "2015-11-21",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 1,
-          "score2": 6
+          "team1": "FK Austria Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-21",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SV Mattersburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              6
+            ]
+          }
         },
         {
           "date": "2015-11-21",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SCR Altach",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-21",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Ried",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-11-21",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-11-22",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1286,78 +966,58 @@
       "matches": [
         {
           "date": "2015-11-28",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-11-28",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SV Grödig",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-28",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-11-28",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 4,
-          "score2": 0
+          "date": "2015-11-29",
+          "team1": "SV Ried",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-11-28",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2015-11-29",
+          "team1": "SK Rapid Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1366,78 +1026,58 @@
       "matches": [
         {
           "date": "2015-12-01",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC RB Salzburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-12-01",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-12-02",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-12-01",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-12-02",
+          "team1": "SCR Altach",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
-          "date": "2015-12-01",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 1,
-          "score2": 3
+          "date": "2015-12-02",
+          "team1": "SV Mattersburg",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-12-01",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 0,
-          "score2": 2
+          "date": "2015-12-02",
+          "team1": "FK Austria Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1446,78 +1086,58 @@
       "matches": [
         {
           "date": "2015-12-05",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Wolfsberger AC",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-12-05",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Rapid Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-12-05",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SK Sturm Graz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-12-05",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "SV Grödig",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
-          "date": "2015-12-05",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2015-12-06",
+          "team1": "SV Mattersburg",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -1526,78 +1146,58 @@
       "matches": [
         {
           "date": "2015-12-12",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-12-12",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SK Sturm Graz",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-12-12",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Ried",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-12-12",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-12-12",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-12-13",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     },
@@ -1606,78 +1206,58 @@
       "matches": [
         {
           "date": "2016-02-06",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-02-06",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SK Rapid Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-02-06",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SV Grödig",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-02-06",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Mattersburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
         },
         {
-          "date": "2016-02-06",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 3,
-          "score2": 3
+          "date": "2016-02-07",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1686,78 +1266,58 @@
       "matches": [
         {
           "date": "2016-02-13",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Ried",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-02-13",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-02-13",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Wolfsberger AC",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2016-02-13",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "SV Grödig",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2016-02-13",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 2,
-          "score2": 2
+          "date": "2016-02-14",
+          "team1": "FK Austria Wien",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         }
       ]
     },
@@ -1766,78 +1326,58 @@
       "matches": [
         {
           "date": "2016-02-20",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-02-20",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FC RB Salzburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2016-02-20",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "Wolfsberger AC",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2016-02-20",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-02-20",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2016-02-21",
+          "team1": "SK Sturm Graz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1846,78 +1386,58 @@
       "matches": [
         {
           "date": "2016-02-27",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-02-27",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "SCR Altach",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-02-27",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Mattersburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2016-02-27",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 1
+          "date": "2016-02-28",
+          "team1": "SK Rapid Wien",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
-          "date": "2016-02-27",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2016-02-28",
+          "team1": "FC RB Salzburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1926,78 +1446,58 @@
       "matches": [
         {
           "date": "2016-03-01",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "Wolfsberger AC",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-03-01",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2016-03-02",
+          "team1": "SK Rapid Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-03-01",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2016-03-02",
+          "team1": "SV Grödig",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2016-03-01",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 2,
-          "score2": 2
+          "date": "2016-03-02",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
-          "date": "2016-03-01",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 3
+          "date": "2016-03-02",
+          "team1": "SK Sturm Graz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2006,78 +1506,58 @@
       "matches": [
         {
           "date": "2016-03-05",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-05",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-05",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-05",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SV Mattersburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-03-05",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2016-03-06",
+          "team1": "SCR Altach",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2086,78 +1566,58 @@
       "matches": [
         {
           "date": "2016-03-12",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 0,
-          "score2": 4
+          "team1": "Wolfsberger AC",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-12",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Rapid Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
         },
         {
           "date": "2016-03-12",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-12",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SV Grödig",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
-          "date": "2016-03-12",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 0,
-          "score2": 1
+          "date": "2016-03-13",
+          "team1": "SK Sturm Graz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2166,78 +1626,58 @@
       "matches": [
         {
           "date": "2016-03-19",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-19",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-19",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-19",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2016-03-19",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2016-03-20",
+          "team1": "SV Ried",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2246,78 +1686,58 @@
       "matches": [
         {
           "date": "2016-04-02",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Grödig",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2016-04-02",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Wolfsberger AC",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-02",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-02",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Mattersburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
-          "date": "2016-04-02",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 0,
-          "score2": 3
+          "date": "2016-04-03",
+          "team1": "SK Rapid Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2326,78 +1746,58 @@
       "matches": [
         {
           "date": "2016-04-09",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SK Sturm Graz",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-09",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "Wolfsberger AC",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-09",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FK Austria Wien",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-09",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Ried",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-04-09",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2016-04-10",
+          "team1": "FC RB Salzburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2406,78 +1806,58 @@
       "matches": [
         {
           "date": "2016-04-16",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-16",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Mattersburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-16",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-16",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2016-04-16",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2016-04-17",
+          "team1": "SK Rapid Wien",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2486,78 +1866,58 @@
       "matches": [
         {
           "date": "2016-04-23",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "SV Mattersburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              9
+            ]
+          }
         },
         {
           "date": "2016-04-23",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2016-04-23",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SV Grödig",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-23",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 9
+          "team1": "SV Ried",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-04-23",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2016-04-24",
+          "team1": "SK Rapid Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2566,78 +1926,58 @@
       "matches": [
         {
           "date": "2016-04-30",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SV Grödig",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-30",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-30",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-30",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Wolfsberger AC",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-04-30",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 0
+          "date": "2016-05-01",
+          "team1": "FK Austria Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -2646,78 +1986,58 @@
       "matches": [
         {
           "date": "2016-05-07",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FK Austria Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-07",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC RB Salzburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-07",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SCR Altach",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-07",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Ried",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2016-05-07",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 3,
-          "score2": 1
+          "date": "2016-05-08",
+          "team1": "SV Mattersburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -2726,78 +2046,58 @@
       "matches": [
         {
           "date": "2016-05-11",
-          "team1": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Grödig",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-11",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Rapid Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-11",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 5
+          "team1": "SV Ried",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
         },
         {
           "date": "2016-05-11",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-11",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2806,78 +2106,58 @@
       "matches": [
         {
           "date": "2016-05-15",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2016-05-15",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-05-15",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-05-15",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2016-05-15",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "groedig",
-            "name": "SV Grödig",
-            "code": "SVG"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "SV Mattersburg",
+          "team2": "SV Grödig",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         }
       ]
     }

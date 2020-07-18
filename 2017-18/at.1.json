@@ -1,2883 +1,2163 @@
 {
-  "name": "Österr. Bundesliga 2017/18",
+  "name": "Bundesliga 2017/18",
   "rounds": [
     {
-      "name": "Runde 1",
+      "name": "1. Runde",
       "matches": [
         {
           "date": "2017-07-22",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SK Rapid Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-07-22",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Wolfsberger AC",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2017-07-22",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2017-07-23",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SCR Altach",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2017-07-23",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "SK Sturm Graz",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 2",
+      "name": "2. Runde",
       "matches": [
         {
           "date": "2017-07-29",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC RB Salzburg",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2017-07-29",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 1,
-          "score2": 4
+          "team1": "SKN St. Pölten",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
           "date": "2017-07-29",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Mattersburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-07-30",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "FK Austria Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2017-07-30",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 3",
+      "name": "3. Runde",
       "matches": [
         {
           "date": "2017-08-05",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2017-08-05",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC RB Salzburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         },
         {
           "date": "2017-08-06",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-08-06",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-08-06",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 4",
+      "name": "4. Runde",
       "matches": [
         {
           "date": "2017-08-12",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2017-08-12",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2017-08-12",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2017-08-12",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2017-08-13",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 5",
+      "name": "5. Runde",
       "matches": [
         {
           "date": "2017-08-19",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2017-08-19",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2017-08-19",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
-        },
-        {
-          "date": "2017-08-19",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2017-08-20",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC RB Salzburg",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2017-08-20",
+          "team1": "LASK Linz",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2017-08-20",
+          "team1": "SV Mattersburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 6",
+      "name": "6. Runde",
       "matches": [
         {
           "date": "2017-08-26",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2017-08-26",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-08-26",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-08-27",
+          "team1": "SK Sturm Graz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-08-26",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-08-27",
+          "team1": "SCR Altach",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-08-26",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-08-27",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 7",
+      "name": "7. Runde",
       "matches": [
         {
           "date": "2017-09-09",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2017-09-09",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-09-09",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
         },
         {
           "date": "2017-09-09",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-09-09",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-09-10",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 8",
+      "name": "8. Runde",
       "matches": [
         {
           "date": "2017-09-16",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-09-16",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2017-09-16",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-09-16",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-09-17",
+          "team1": "SV Mattersburg",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-09-16",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-09-17",
+          "team1": "FK Austria Wien",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 9",
+      "name": "9. Runde",
       "matches": [
         {
           "date": "2017-09-23",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2017-09-23",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2017-09-23",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2017-09-23",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-09-23",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-09-24",
+          "team1": "FC RB Salzburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 10",
+      "name": "10. Runde",
       "matches": [
         {
           "date": "2017-09-30",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2017-09-30",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2017-09-30",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-09-30",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-10-01",
+          "team1": "FK Austria Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-09-30",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-10-01",
+          "team1": "FC RB Salzburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 11",
+      "name": "11. Runde",
       "matches": [
         {
           "date": "2017-10-14",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2017-10-14",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-10-14",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-10-14",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-10-14",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-10-15",
+          "team1": "SK Sturm Graz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 12",
+      "name": "12. Runde",
       "matches": [
         {
           "date": "2017-10-21",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2017-10-21",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2017-10-21",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-10-21",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-10-22",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2017-10-21",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-10-22",
+          "team1": "FK Austria Wien",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 13",
+      "name": "13. Runde",
       "matches": [
         {
           "date": "2017-10-28",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-10-28",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-10-28",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC RB Salzburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2017-10-28",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2017-10-28",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-10-29",
+          "team1": "Wolfsberger AC",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 14",
+      "name": "14. Runde",
       "matches": [
         {
           "date": "2017-11-04",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2017-11-04",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2017-11-04",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         },
         {
-          "date": "2017-11-04",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-05",
+          "team1": "FK Austria Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
-          "date": "2017-11-04",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-05",
+          "team1": "SKN St. Pölten",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 15",
+      "name": "15. Runde",
       "matches": [
         {
           "date": "2017-11-18",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2017-11-18",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-11-18",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2017-11-18",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-11-18",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-19",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 16",
+      "name": "16. Runde",
       "matches": [
         {
           "date": "2017-11-25",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-11-25",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2017-11-25",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-11-25",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-26",
+          "team1": "Wolfsberger AC",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
-          "date": "2017-11-25",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-26",
+          "team1": "SK Rapid Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 17",
+      "name": "17. Runde",
       "matches": [
         {
           "date": "2017-11-28",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              6,
+              1
+            ]
+          }
         },
         {
-          "date": "2017-11-28",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-29",
+          "team1": "SKN St. Pölten",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-11-28",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-29",
+          "team1": "FC RB Salzburg",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-11-28",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-29",
+          "team1": "LASK Linz",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-11-28",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-11-29",
+          "team1": "SK Rapid Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 18",
+      "name": "18. Runde",
       "matches": [
         {
           "date": "2017-12-02",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2017-12-02",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2017-12-02",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2017-12-02",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-12-02",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-12-03",
+          "team1": "FK Austria Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 19",
+      "name": "19. Runde",
       "matches": [
         {
           "date": "2017-12-09",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2017-12-09",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2017-12-09",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2017-12-09",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-12-10",
+          "team1": "SCR Altach",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2017-12-09",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-12-10",
+          "team1": "Wolfsberger AC",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 20",
+      "name": "20. Runde",
       "matches": [
         {
           "date": "2017-12-16",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC RB Salzburg",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2017-12-16",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2017-12-16",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         },
         {
           "date": "2017-12-16",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
         },
         {
-          "date": "2017-12-16",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2017-12-17",
+          "team1": "FK Austria Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 21",
+      "name": "21. Runde",
       "matches": [
         {
           "date": "2018-02-03",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2018-02-03",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC RB Salzburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-03",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2018-02-03",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-02-03",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-02-04",
+          "team1": "SK Rapid Wien",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 22",
+      "name": "22. Runde",
       "matches": [
         {
           "date": "2018-02-10",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-10",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2018-02-10",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-10",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
-          "date": "2018-02-10",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-02-11",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 23",
+      "name": "23. Runde",
       "matches": [
         {
           "date": "2018-02-17",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-17",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-17",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2018-02-17",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-02-17",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-02-18",
+          "team1": "FC RB Salzburg",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 24",
+      "name": "24. Runde",
       "matches": [
         {
           "date": "2018-02-24",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-24",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2018-02-24",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2018-02-24",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-02-24",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-02-25",
+          "team1": "SK Sturm Graz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 25",
+      "name": "25. Runde",
       "matches": [
         {
           "date": "2018-03-03",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2018-03-03",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2018-03-03",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2018-03-03",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
-          "date": "2018-03-03",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-03-04",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 26",
+      "name": "26. Runde",
       "matches": [
         {
           "date": "2018-03-10",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2018-03-10",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
           "date": "2018-03-10",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         },
         {
           "date": "2018-03-10",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
-          "date": "2018-03-10",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-03-11",
+          "team1": "SV Mattersburg",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 27",
+      "name": "27. Runde",
       "matches": [
         {
           "date": "2018-03-17",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         },
         {
           "date": "2018-03-17",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2018-03-17",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2018-03-17",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-03-17",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-03-18",
+          "team1": "FC RB Salzburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 28",
+      "name": "28. Runde",
       "matches": [
         {
           "date": "2018-03-31",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2018-03-31",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2018-03-31",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2018-03-31",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC RB Salzburg",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-03-31",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-01",
+          "team1": "SV Mattersburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 29",
+      "name": "29. Runde",
       "matches": [
         {
           "date": "2018-04-07",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2018-04-07",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2018-04-07",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2018-04-07",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Rapid Wien",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-04-07",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-08",
+          "team1": "LASK Linz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 30",
+      "name": "30. Runde",
       "matches": [
         {
           "date": "2018-04-14",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SK Sturm Graz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2018-04-14",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2018-04-14",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
-          "date": "2018-04-14",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-15",
+          "team1": "FK Austria Wien",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
         },
         {
-          "date": "2018-04-14",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-15",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              6
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 31",
+      "name": "31. Runde",
       "matches": [
         {
           "date": "2018-04-21",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "Wolfsberger AC",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2018-04-21",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2018-04-21",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-04-21",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-22",
+          "team1": "FC RB Salzburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-04-21",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-22",
+          "team1": "SK Rapid Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 32",
+      "name": "32. Runde",
       "matches": [
         {
           "date": "2018-04-28",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2018-04-28",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2018-04-28",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SCR Altach",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
-          "date": "2018-04-28",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-29",
+          "team1": "SK Sturm Graz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
-          "date": "2018-04-28",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-04-29",
+          "team1": "SKN St. Pölten",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 33",
+      "name": "33. Runde",
       "matches": [
         {
           "date": "2018-05-05",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "LASK Linz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2018-05-05",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SV Mattersburg",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2018-05-05",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "FK Austria Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2018-05-05",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "team1": "SKN St. Pölten",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-05-05",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-06",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 34",
+      "name": "34. Runde",
       "matches": [
         {
-          "date": "2018-05-08",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-12",
+          "team1": "SK Sturm Graz",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-05-08",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-12",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-05-08",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-12",
+          "team1": "SCR Altach",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
-          "date": "2018-05-08",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-13",
+          "team1": "SK Rapid Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
-          "date": "2018-05-08",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-15",
+          "team1": "Wolfsberger AC",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 35",
+      "name": "35. Runde",
       "matches": [
         {
-          "date": "2018-05-13",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-20",
+          "team1": "SKN St. Pölten",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-05-13",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-20",
+          "team1": "SK Rapid Wien",
+          "team2": "SCR Altach",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
-          "date": "2018-05-13",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-20",
+          "team1": "SK Sturm Graz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-05-13",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-20",
+          "team1": "FC RB Salzburg",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-05-13",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-20",
+          "team1": "LASK Linz",
+          "team2": "Wolfsberger AC",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "Runde 36",
+      "name": "36. Runde",
       "matches": [
         {
-          "date": "2018-05-20",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-27",
+          "team1": "FK Austria Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-05-20",
-          "team1": {
-            "key": "altach",
-            "name": "SCR Altach",
-            "code": "ALT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-27",
+          "team1": "SCR Altach",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-05-20",
-          "team1": {
-            "key": "wac",
-            "name": "Wolfsberger AC",
-            "code": "WAC"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-27",
+          "team1": "Wolfsberger AC",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2018-05-20",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-27",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
-          "date": "2018-05-20",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": null,
-          "score2": null
+          "date": "2018-05-27",
+          "team1": "SV Mattersburg",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     }

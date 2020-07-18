@@ -2,144 +2,104 @@
   "name": "Champions League 2019/20",
   "clubs": [
     {
-      "name": "Club Brugge",
-      "code": null,
-      "country": "Belgium"
+      "name": "FC RB Salzburg",
+      "code": "RBS",
+      "country": "Austria"
     },
     {
-      "name": "Borussia Dortmund",
-      "code": null,
+      "name": "Bayern München",
+      "code": "FCB",
       "country": "Germany"
     },
     {
-      "name": "Atlético Madrid",
-      "code": null,
-      "country": "Spain"
+      "name": "Borussia Dortmund",
+      "code": "BVB",
+      "country": "Germany"
     },
     {
-      "name": "FC Barcelona",
-      "code": null,
-      "country": "Spain"
+      "name": "Bayer 04 Leverkusen",
+      "code": "B04",
+      "country": "Germany"
     },
     {
-      "name": "FC Internazionale Milano",
-      "code": null,
-      "country": "Italy"
+      "name": "RB Leipzig",
+      "code": "RBL",
+      "country": "Germany"
     },
     {
       "name": "Tottenham Hotspur FC",
-      "code": null,
+      "code": "TOT",
+      "country": "England"
+    },
+    {
+      "name": "Manchester City FC",
+      "code": "MCI",
+      "country": "England"
+    },
+    {
+      "name": "Chelsea FC",
+      "code": "CHE",
       "country": "England"
     },
     {
       "name": "Liverpool FC",
-      "code": null,
+      "code": "LIV",
       "country": "England"
     },
     {
-      "name": "Paris Saint-Germain",
-      "code": null,
-      "country": "France"
-    },
-    {
-      "name": "Red Star Belgrade",
-      "code": null,
-      "country": "Serbia"
-    },
-    {
-      "name": "SSC Napoli",
-      "code": null,
-      "country": "Italy"
-    },
-    {
-      "name": "Galatasaray İstanbul AŞ",
-      "code": null,
-      "country": "Turkey"
-    },
-    {
-      "name": "Lokomotiv Moskva",
-      "code": null,
-      "country": "Russia"
-    },
-    {
-      "name": "SL Benfica",
-      "code": null,
-      "country": "Portugal"
-    },
-    {
-      "name": "Bayern München",
-      "code": null,
-      "country": "Germany"
-    },
-    {
-      "name": "Ajax Amsterdam",
-      "code": null,
-      "country": "Netherlands"
-    },
-    {
-      "name": "Manchester City FC",
-      "code": null,
-      "country": "England"
-    },
-    {
-      "name": "Olympique Lyonnais",
-      "code": null,
-      "country": "France"
-    },
-    {
-      "name": "FC Shakhtar Donetsk",
-      "code": null,
-      "country": "Ukraine"
+      "name": "Atlético Madrid",
+      "code": "ATL",
+      "country": "Spain"
     },
     {
       "name": "Real Madrid",
-      "code": null,
+      "code": "RMD",
       "country": "Spain"
     },
     {
       "name": "Valencia CF",
-      "code": null,
+      "code": "VAL",
+      "country": "Spain"
+    },
+    {
+      "name": "FC Barcelona",
+      "code": "BAR",
       "country": "Spain"
     },
     {
       "name": "Juventus",
-      "code": null,
+      "code": "JUV",
       "country": "Italy"
     },
     {
-      "name": "GNK Dinamo Zagreb",
-      "code": null,
-      "country": "Croatia"
-    },
-    {
-      "name": "SK Slavia Praha",
-      "code": null,
-      "country": "Czech Republic"
-    },
-    {
-      "name": "FC RB Salzburg",
-      "code": null,
-      "country": "Austria"
-    },
-    {
-      "name": "Olympiacos Piraeus FC",
-      "code": null,
-      "country": "Greece"
+      "name": "SSC Napoli",
+      "code": "NAP",
+      "country": "Italy"
     },
     {
       "name": "Atalanta BC",
-      "code": null,
+      "code": "ATA",
       "country": "Italy"
     },
     {
-      "name": "Bayer 04 Leverkusen",
-      "code": null,
-      "country": "Germany"
+      "name": "FC Internazionale Milano",
+      "code": "INT",
+      "country": "Italy"
     },
     {
-      "name": "KRC Genk",
-      "code": null,
-      "country": "Belgium"
+      "name": "Paris Saint-Germain",
+      "code": "PSG",
+      "country": "France"
+    },
+    {
+      "name": "Lille OSC",
+      "code": "LOSC",
+      "country": "France"
+    },
+    {
+      "name": "Olympique Lyonnais",
+      "code": "OL",
+      "country": "France"
     },
     {
       "name": "Zenit St. Petersburg",
@@ -147,19 +107,59 @@
       "country": "Russia"
     },
     {
-      "name": "RB Leipzig",
+      "name": "Lokomotiv Moskva",
       "code": null,
-      "country": "Germany"
+      "country": "Russia"
     },
     {
-      "name": "Lille OSC",
+      "name": "Ajax Amsterdam",
       "code": null,
-      "country": "France"
+      "country": "Netherlands"
     },
     {
-      "name": "Chelsea FC",
+      "name": "SL Benfica",
       "code": null,
-      "country": "England"
+      "country": "Portugal"
+    },
+    {
+      "name": "Galatasaray İstanbul AŞ",
+      "code": null,
+      "country": "Turkey"
+    },
+    {
+      "name": "GNK Dinamo Zagreb",
+      "code": null,
+      "country": "Croatia"
+    },
+    {
+      "name": "Olympiacos Piraeus FC",
+      "code": null,
+      "country": "Greece"
+    },
+    {
+      "name": "FC Shakhtar Donetsk",
+      "code": null,
+      "country": "Ukraine"
+    },
+    {
+      "name": "KRC Genk",
+      "code": null,
+      "country": "Belgium"
+    },
+    {
+      "name": "Club Brugge",
+      "code": null,
+      "country": "Belgium"
+    },
+    {
+      "name": "Red Star Belgrade",
+      "code": null,
+      "country": "Serbia"
+    },
+    {
+      "name": "SK Slavia Praha",
+      "code": null,
+      "country": "Czech Republic"
     }
   ]
 }

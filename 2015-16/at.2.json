@@ -1,83 +1,63 @@
 {
-  "name": "Österr. Erste Liga 2015/16",
+  "name": "2. Liga 2015/16",
   "rounds": [
     {
       "name": "1. Runde",
       "matches": [
         {
           "date": "2015-07-24",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-07-24",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-07-24",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "Austria Lustenau",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-07-24",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 4,
-          "score2": 0
+          "team1": "Austria Klagenfurt",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
           "date": "2015-07-24",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SKN St. Pölten",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         }
       ]
     },
@@ -86,78 +66,58 @@
       "matches": [
         {
           "date": "2015-07-31",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-07-31",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Kapfenberger SV",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-07-31",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "Floridsdorfer AC",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2015-07-31",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Salzburg",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-07-31",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -166,78 +126,58 @@
       "matches": [
         {
           "date": "2015-08-03",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-04",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 5,
-          "score2": 2
+          "team1": "Kapfenberger SV",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              5,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-04",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-04",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "Austria Salzburg",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-04",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Austria Klagenfurt",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
@@ -246,78 +186,58 @@
       "matches": [
         {
           "date": "2015-08-07",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SC Wiener Neustadt",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-07",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-07",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "SKN St. Pölten",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2015-08-07",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Floridsdorfer AC",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-08-07",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 5,
-          "score2": 3
+          "team1": "FC Liefering",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              5,
+              3
+            ]
+          }
         }
       ]
     },
@@ -326,78 +246,58 @@
       "matches": [
         {
           "date": "2015-08-14",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Kapfenberger SV",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-08-14",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-14",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-14",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Austria Salzburg",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-14",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Austria Klagenfurt",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
@@ -406,78 +306,58 @@
       "matches": [
         {
           "date": "2015-08-21",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-21",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SKN St. Pölten",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-08-21",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-21",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "Floridsdorfer AC",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2015-08-21",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     },
@@ -486,78 +366,58 @@
       "matches": [
         {
           "date": "2015-08-28",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-28",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-08-28",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Austria Lustenau",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-08-28",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 3,
-          "score2": 4
+          "team1": "Austria Salzburg",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              3,
+              4
+            ]
+          }
         },
         {
           "date": "2015-08-28",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 5,
-          "score2": 1
+          "team1": "Austria Klagenfurt",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         }
       ]
     },
@@ -566,78 +426,58 @@
       "matches": [
         {
           "date": "2015-09-11",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
           "date": "2015-09-11",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "Kapfenberger SV",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2015-09-11",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-11",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-11",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Lustenau",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -646,78 +486,58 @@
       "matches": [
         {
           "date": "2015-09-15",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-15",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "LASK Linz",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-15",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Floridsdorfer AC",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-09-15",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Salzburg",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-15",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Klagenfurt",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -726,78 +546,58 @@
       "matches": [
         {
           "date": "2015-09-18",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Floridsdorfer AC",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-18",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "Austria Salzburg",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2015-09-18",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 4
+          "team1": "Kapfenberger SV",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
           "date": "2015-09-18",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "SC Wiener Neustadt",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-09-18",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
@@ -806,78 +606,58 @@
       "matches": [
         {
           "date": "2015-09-25",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-25",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-09-25",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Austria Lustenau",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-09-25",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-09-25",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Klagenfurt",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -886,78 +666,58 @@
       "matches": [
         {
           "date": "2015-10-02",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 5,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-02",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-02",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SKN St. Pölten",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-02",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-10-02",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Floridsdorfer AC",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         }
       ]
     },
@@ -966,78 +726,58 @@
       "matches": [
         {
           "date": "2015-10-16",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Kapfenberger SV",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-16",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Austria Salzburg",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-10-16",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-10-16",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-10-16",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Austria Lustenau",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
@@ -1046,78 +786,58 @@
       "matches": [
         {
           "date": "2015-10-20",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SKN St. Pölten",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-10-20",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-20",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-20",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Floridsdorfer AC",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-10-20",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SC Wiener Neustadt",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1126,78 +846,58 @@
       "matches": [
         {
           "date": "2015-10-23",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-10-23",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Salzburg",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-10-23",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-10-23",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-10-23",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Kapfenberger SV",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1206,78 +906,58 @@
       "matches": [
         {
           "date": "2015-11-03",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Floridsdorfer AC",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-11-03",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-11-03",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-03",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-03",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Kapfenberger SV",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1286,78 +966,58 @@
       "matches": [
         {
           "date": "2015-11-06",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "Floridsdorfer AC",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2015-11-06",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "LASK Linz",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2015-11-06",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "SC Wiener Neustadt",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2015-11-06",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-11-06",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Austria Salzburg",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         }
       ]
     },
@@ -1366,78 +1026,58 @@
       "matches": [
         {
           "date": "2015-11-20",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 3,
-          "score2": 3
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
         },
         {
           "date": "2015-11-20",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 4,
-          "score2": 0
+          "team1": "FC Liefering",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
           "date": "2015-11-20",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-11-20",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "Kapfenberger SV",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2015-11-20",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "Austria Lustenau",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         }
       ]
     },
@@ -1446,78 +1086,58 @@
       "matches": [
         {
           "date": "2015-11-27",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 4,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
           "date": "2015-11-27",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 6,
-          "score2": 2
+          "team1": "SKN St. Pölten",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              6,
+              2
+            ]
+          }
         },
         {
           "date": "2015-11-27",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-11-27",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-11-27",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Austria Klagenfurt",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -1526,78 +1146,58 @@
       "matches": [
         {
           "date": "2016-02-26",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SC Wiener Neustadt",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-02-26",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "FC Liefering",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-02-26",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 2,
-          "score2": 4
+          "team1": "Kapfenberger SV",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         },
         {
           "date": "2016-02-26",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Floridsdorfer AC",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-02-26",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Austria Salzburg",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1606,78 +1206,58 @@
       "matches": [
         {
           "date": "2016-03-04",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Kapfenberger SV",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-04",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Wacker Innsbruck",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-04",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "Austria Lustenau",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-04",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Austria Salzburg",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-04",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1686,78 +1266,58 @@
       "matches": [
         {
           "date": "2016-03-11",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "SC Wiener Neustadt",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2016-03-11",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 4,
-          "score2": 0
+          "team1": "FC Liefering",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-11",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-11",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-11",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Floridsdorfer AC",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1766,78 +1326,58 @@
       "matches": [
         {
           "date": "2016-03-15",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Kapfenberger SV",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-15",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-15",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Lustenau",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-03-15",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Austria Salzburg",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-15",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -1846,78 +1386,58 @@
       "matches": [
         {
           "date": "2016-03-18",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-18",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-03-18",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-18",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-03-18",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Floridsdorfer AC",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
@@ -1926,78 +1446,58 @@
       "matches": [
         {
           "date": "2016-04-01",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-01",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-01",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-01",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Austria Salzburg",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-01",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 1,
-          "score2": 4
+          "team1": "Austria Klagenfurt",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         }
       ]
     },
@@ -2006,78 +1506,58 @@
       "matches": [
         {
           "date": "2016-04-08",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-08",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Kapfenberger SV",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-08",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "SKN St. Pölten",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-08",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-08",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2086,78 +1566,58 @@
       "matches": [
         {
           "date": "2016-04-12",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-12",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-12",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "Floridsdorfer AC",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2016-04-12",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 4
+          "team1": "Austria Salzburg",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
         },
         {
           "date": "2016-04-12",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -2166,78 +1626,58 @@
       "matches": [
         {
           "date": "2016-04-15",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Floridsdorfer AC",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-15",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Austria Salzburg",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-15",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Kapfenberger SV",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-15",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SC Wiener Neustadt",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-15",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2246,78 +1686,58 @@
       "matches": [
         {
           "date": "2016-04-22",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-04-22",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SKN St. Pölten",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-22",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Austria Lustenau",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-22",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-22",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -2326,78 +1746,58 @@
       "matches": [
         {
           "date": "2016-04-26",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Liefering",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-26",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "LASK Linz",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-26",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-26",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SC Wiener Neustadt",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-26",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Floridsdorfer AC",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -2406,78 +1806,58 @@
       "matches": [
         {
           "date": "2016-04-29",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 4,
-          "score2": 2
+          "team1": "Kapfenberger SV",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-29",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Austria Salzburg",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2016-04-29",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 0,
-          "score2": 5
+          "team1": "Austria Klagenfurt",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
         },
         {
           "date": "2016-04-29",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-04-29",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Lustenau",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2486,78 +1866,58 @@
       "matches": [
         {
           "date": "2016-05-06",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SKN St. Pölten",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-06",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FC Liefering",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-06",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "LASK Linz",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-06",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Floridsdorfer AC",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-06",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -2566,78 +1926,58 @@
       "matches": [
         {
           "date": "2016-05-10",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2016-05-10",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Austria Salzburg",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2016-05-10",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-10",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "Austria Lustenau",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-05-10",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "Kapfenberger SV",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2646,78 +1986,58 @@
       "matches": [
         {
           "date": "2016-05-13",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "Floridsdorfer AC",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2016-05-13",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "SKN St. Pölten",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-13",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Liefering",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-13",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-13",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Kapfenberger SV",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         }
       ]
     },
@@ -2726,78 +2046,58 @@
       "matches": [
         {
           "date": "2016-05-20",
-          "team1": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "team2": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "Floridsdorfer AC",
+          "team2": "FC Liefering",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2016-05-20",
-          "team1": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "LASK Linz",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-20",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "SC Wiener Neustadt",
+          "team2": "SKN St. Pölten",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2016-05-20",
-          "team1": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 5,
-          "score2": 2
+          "team1": "Austria Klagenfurt",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              5,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-20",
-          "team1": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Austria Salzburg",
+          "team2": "Austria Lustenau",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -2806,78 +2106,58 @@
       "matches": [
         {
           "date": "2016-05-25",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2016-05-25",
-          "team1": {
-            "key": "liefering",
-            "name": "FC Liefering",
-            "code": "FCL"
-          },
-          "team2": {
-            "key": "lask",
-            "name": "LASK Linz",
-            "code": "ASK"
-          },
-          "score1": 1,
-          "score2": 4
+          "team1": "FC Liefering",
+          "team2": "LASK Linz",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
           "date": "2016-05-25",
-          "team1": {
-            "key": "stpoelten",
-            "name": "SKN St. Pölten",
-            "code": "SKN"
-          },
-          "team2": {
-            "key": "fac",
-            "name": "Floridsdorfer AC",
-            "code": "FAC"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SKN St. Pölten",
+          "team2": "Floridsdorfer AC",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2016-05-25",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "asalzburg",
-            "name": "SV Austria Salzburg",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Kapfenberger SV",
+          "team2": "Austria Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2016-05-25",
-          "team1": {
-            "key": "alustenau",
-            "name": "SC Austria Lustenau",
-            "code": "ALU"
-          },
-          "team2": {
-            "key": "aklagenfurt",
-            "name": "SK Austria Klagenfurt",
-            "code": "KLA"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "Austria Lustenau",
+          "team2": "Austria Klagenfurt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     }

@@ -1,293 +1,165 @@
 {
-  "name": "Champions League (Europe) 2016/17",
+  "name": "Champions League 2016/17",
   "clubs": [
     {
-      "key": "brugge",
-      "name": "Club Brugge",
-      "code": null,
-      "country": {
-        "key": "be",
-        "name": "Belgium"
-      }
-    },
-    {
-      "key": "ludogorets",
-      "name": "Ludogorets",
-      "code": null,
-      "country": {
-        "key": "bg",
-        "name": "Bulgaria"
-      }
-    },
-    {
-      "key": "kobenhavn",
-      "name": "København",
-      "code": null,
-      "country": {
-        "key": "dk",
-        "name": "Denmark"
-      }
-    },
-    {
-      "key": "psv",
-      "name": "PSV Eindhoven",
-      "code": null,
-      "country": {
-        "key": "nl",
-        "name": "Netherlands"
-      }
-    },
-    {
-      "key": "porto",
-      "name": "Porto",
-      "code": null,
-      "country": {
-        "key": "pt",
-        "name": "Portugal"
-      }
-    },
-    {
-      "key": "benfica",
-      "name": "Benfica",
-      "code": null,
-      "country": {
-        "key": "pt",
-        "name": "Portugal"
-      }
-    },
-    {
-      "key": "sportinglisboa",
-      "name": "Sporting Lisboa",
-      "code": null,
-      "country": {
-        "key": "pt",
-        "name": "Portugal"
-      }
-    },
-    {
-      "key": "cskamoskva",
-      "name": "CSKA Moskva",
-      "code": null,
-      "country": {
-        "key": "ru",
-        "name": "Russia"
-      }
-    },
-    {
-      "key": "arsenaltula",
-      "name": "Arsenal",
-      "code": null,
-      "country": {
-        "key": "ru",
-        "name": "Russia"
-      }
-    },
-    {
-      "key": "rostov",
-      "name": "Rostov",
-      "code": null,
-      "country": {
-        "key": "ru",
-        "name": "Russia"
-      }
-    },
-    {
-      "key": "celtic",
-      "name": "Celtic",
-      "code": "CEL",
-      "country": {
-        "key": "sco",
-        "name": "Scotland"
-      }
-    },
-    {
-      "key": "besiktas",
-      "name": "Beşiktaş JK",
-      "code": null,
-      "country": {
-        "key": "tr",
-        "name": "Turkey"
-      }
-    },
-    {
-      "key": "kiew",
-      "name": "Dynamo Kiew",
-      "code": null,
-      "country": {
-        "key": "ua",
-        "name": "Ukraine"
-      }
-    },
-    {
-      "key": "legiawarszawa",
-      "name": "Legia",
-      "code": null,
-      "country": {
-        "key": "pl",
-        "name": "Poland"
-      }
-    },
-    {
-      "key": "zagreb",
-      "name": "Dinamo Zagreb",
-      "code": null,
-      "country": {
-        "key": "hr",
-        "name": "Croatia"
-      }
-    },
-    {
-      "key": "barcelonaguayaquil",
-      "name": "Barcelona",
-      "code": null,
-      "country": {
-        "key": "ec",
-        "name": "Ecuador"
-      }
-    },
-    {
-      "key": "bayern",
-      "name": "FC Bayern München",
+      "name": "Bayern München",
       "code": "FCB",
-      "country": {
-        "key": "de",
-        "name": "Germany"
-      }
+      "country": "Germany"
     },
     {
-      "key": "dortmund",
+      "name": "Bor. Mönchengladbach",
+      "code": "BMG",
+      "country": "Germany"
+    },
+    {
       "name": "Borussia Dortmund",
       "code": "BVB",
-      "country": {
-        "key": "de",
-        "name": "Germany"
-      }
+      "country": "Germany"
     },
     {
-      "key": "leverkusen",
       "name": "Bayer 04 Leverkusen",
       "code": "B04",
-      "country": {
-        "key": "de",
-        "name": "Germany"
-      }
+      "country": "Germany"
     },
     {
-      "key": "mgladbach",
-      "name": "Borussia M'gladbach",
-      "code": "BMG",
-      "country": {
-        "key": "de",
-        "name": "Germany"
-      }
-    },
-    {
-      "key": "tottenham",
-      "name": "Tottenham Hotspur",
+      "name": "Tottenham Hotspur FC",
       "code": "TOT",
-      "country": {
-        "key": "eng",
-        "name": "England"
-      }
+      "country": "England"
     },
     {
-      "key": "mancity",
-      "name": "Manchester City",
+      "name": "Manchester City FC",
       "code": "MCI",
-      "country": {
-        "key": "eng",
-        "name": "England"
-      }
+      "country": "England"
     },
     {
-      "key": "leicester",
-      "name": "Leicester City",
+      "name": "Arsenal FC",
+      "code": "ARS",
+      "country": "England"
+    },
+    {
+      "name": "Leicester City FC",
       "code": "LEI",
-      "country": {
-        "key": "eng",
-        "name": "England"
-      }
+      "country": "England"
     },
     {
-      "key": "madrid",
-      "name": "R. Madrid",
-      "code": "RMD",
-      "country": {
-        "key": "es",
-        "name": "Spain"
-      }
-    },
-    {
-      "key": "atletico",
-      "name": "Atlético",
-      "code": "ATL",
-      "country": {
-        "key": "es",
-        "name": "Spain"
-      }
-    },
-    {
-      "key": "sevilla",
-      "name": "Sevilla",
+      "name": "Sevilla FC",
       "code": "SEV",
-      "country": {
-        "key": "es",
-        "name": "Spain"
-      }
+      "country": "Spain"
     },
     {
-      "key": "juventus",
+      "name": "Atlético Madrid",
+      "code": "ATL",
+      "country": "Spain"
+    },
+    {
+      "name": "Real Madrid",
+      "code": "RMD",
+      "country": "Spain"
+    },
+    {
+      "name": "FC Barcelona",
+      "code": "BAR",
+      "country": "Spain"
+    },
+    {
       "name": "Juventus",
       "code": "JUV",
-      "country": {
-        "key": "it",
-        "name": "Italy"
-      }
+      "country": "Italy"
     },
     {
-      "key": "napoli",
-      "name": "Napoli",
+      "name": "SSC Napoli",
       "code": "NAP",
-      "country": {
-        "key": "it",
-        "name": "Italy"
-      }
+      "country": "Italy"
     },
     {
-      "key": "paris",
-      "name": "Paris SG",
+      "name": "Paris Saint-Germain",
       "code": "PSG",
-      "country": {
-        "key": "fr",
-        "name": "France"
-      }
+      "country": "France"
     },
     {
-      "key": "lyon",
-      "name": "Lyon",
+      "name": "Olympique Lyonnais",
       "code": "OL",
-      "country": {
-        "key": "fr",
-        "name": "France"
-      }
+      "country": "France"
     },
     {
-      "key": "monaco",
       "name": "AS Monaco",
       "code": "ASM",
-      "country": {
-        "key": "mc",
-        "name": "Monaco"
-      }
+      "country": "Monaco"
     },
     {
-      "key": "basel",
-      "name": "FC Basel 1893",
+      "name": "FC Rostov",
+      "code": null,
+      "country": "Russia"
+    },
+    {
+      "name": "PFC CSKA Moskva",
+      "code": null,
+      "country": "Russia"
+    },
+    {
+      "name": "PSV Eindhoven",
+      "code": null,
+      "country": "Netherlands"
+    },
+    {
+      "name": "SL Benfica",
+      "code": null,
+      "country": "Portugal"
+    },
+    {
+      "name": "FC Porto",
+      "code": null,
+      "country": "Portugal"
+    },
+    {
+      "name": "Sporting CP",
+      "code": null,
+      "country": "Portugal"
+    },
+    {
+      "name": "FC Basel",
       "code": "BAS",
-      "country": {
-        "key": "ch",
-        "name": "Switzerland"
-      }
+      "country": "Switzerland"
+    },
+    {
+      "name": "Beşiktaş İstanbul JK",
+      "code": null,
+      "country": "Turkey"
+    },
+    {
+      "name": "GNK Dinamo Zagreb",
+      "code": null,
+      "country": "Croatia"
+    },
+    {
+      "name": "FC Dynamo Kyiv",
+      "code": null,
+      "country": "Ukraine"
+    },
+    {
+      "name": "Celtic FC",
+      "code": null,
+      "country": "Scotland"
+    },
+    {
+      "name": "FC København",
+      "code": null,
+      "country": "Denmark"
+    },
+    {
+      "name": "PFC Ludogorets Razgrad",
+      "code": null,
+      "country": "Bulgaria"
+    },
+    {
+      "name": "Legia Warszawa",
+      "code": null,
+      "country": "Poland"
+    },
+    {
+      "name": "Club Brugge",
+      "code": null,
+      "country": "Belgium"
     }
   ]
 }

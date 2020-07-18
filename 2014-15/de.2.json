@@ -2,4762 +2,3538 @@
   "name": "2. Bundesliga 2014/15",
   "rounds": [
     {
-      "name": "1. Spieltag",
+      "name": "Spieltag 1",
       "matches": [
         {
           "date": "2014-08-01",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Fortuna Düsseldorf",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-08-02",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "RB Leipzig",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-02",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC St. Pauli",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-02",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "VfL Bochum",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-03",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "1. FC Heidenheim",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-03",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Karlsruher SC",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-03",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "1. FC Nürnberg",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-03",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-04",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "1. FC Kaiserslautern",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "2. Spieltag",
+      "name": "Spieltag 2",
       "matches": [
         {
           "date": "2014-08-08",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FSV Frankfurt",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2014-08-08",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "VfR Aalen",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-08",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Union Berlin",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-09",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FC Erzgebirge Aue",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2014-08-09",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "Eintracht Braunschweig",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-10",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Ingolstadt 04",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-08-10",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "SV Sandhausen",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-10",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "TSV 1860 München",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-08-11",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 5,
-          "score2": 1
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "3. Spieltag",
+      "name": "Spieltag 3",
       "matches": [
         {
           "date": "2014-08-22",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC St. Pauli",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-22",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "1. FC Heidenheim",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-08-22",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "RB Leipzig",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-23",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "1. FC Nürnberg",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-23",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Fortuna Düsseldorf",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2014-08-24",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC Ingolstadt 04",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-24",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-24",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "1. FC Kaiserslautern",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-25",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "VfL Bochum",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "4. Spieltag",
+      "name": "Spieltag 4",
       "matches": [
         {
           "date": "2014-08-29",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 0,
-          "score2": 4
+          "team1": "VfR Aalen",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-08-29",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "1. FC Union Berlin",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
         },
         {
           "date": "2014-08-29",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FSV Frankfurt",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2014-08-30",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Karlsruher SC",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-08-30",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "FC Erzgebirge Aue",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-08-31",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "Eintracht Braunschweig",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2014-08-31",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Sandhausen",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-08-31",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "TSV 1860 München",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-01",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "5. Spieltag",
+      "name": "Spieltag 5",
       "matches": [
         {
           "date": "2014-09-12",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Ingolstadt 04",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-12",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 4,
-          "score2": 1
+          "team1": "VfL Bochum",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-12",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Kaiserslautern",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-13",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SV Darmstadt 98",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-13",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "RB Leipzig",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-14",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Sandhausen",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-14",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "1. FC Heidenheim",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-14",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "FC St. Pauli",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2014-09-15",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "1. FC Nürnberg",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "6. Spieltag",
+      "name": "Spieltag 6",
       "matches": [
         {
           "date": "2014-09-19",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC Erzgebirge Aue",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-19",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Eintracht Braunschweig",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-19",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "VfR Aalen",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-20",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "TSV 1860 München",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-20",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-20",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "FSV Frankfurt",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2014-09-21",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "Fortuna Düsseldorf",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2014-09-21",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "Karlsruher SC",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-21",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "1. FC Union Berlin",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "7. Spieltag",
+      "name": "Spieltag 7",
       "matches": [
         {
-          "date": "2014-09-24",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2014-09-23",
+          "team1": "SV Sandhausen",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-09-24",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2014-09-23",
+          "team1": "FC Ingolstadt 04",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-09-24",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2014-09-23",
+          "team1": "FC St. Pauli",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-09-23",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-24",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Kaiserslautern",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-24",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "RB Leipzig",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-24",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Heidenheim",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2014-09-24",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-09-24",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2014-09-24",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 4,
-          "score2": 0
+          "date": "2014-09-25",
+          "team1": "VfL Bochum",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "8. Spieltag",
+      "name": "Spieltag 8",
       "matches": [
         {
-          "date": "2014-09-28",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 3,
-          "score2": 2
+          "date": "2014-09-26",
+          "team1": "TSV 1860 München",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-09-28",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2014-09-26",
+          "team1": "Eintracht Braunschweig",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-09-28",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 1
+          "date": "2014-09-26",
+          "team1": "FC Erzgebirge Aue",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-09-27",
+          "team1": "Karlsruher SC",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-09-27",
+          "team1": "1. FC Union Berlin",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-09-28",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "Fortuna Düsseldorf",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-09-28",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FSV Frankfurt",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
         },
         {
           "date": "2014-09-28",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Heidenheim",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-09-28",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 3,
-          "score2": 3
-        },
-        {
-          "date": "2014-09-28",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2014-09-28",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 5,
-          "score2": 0
+          "date": "2014-09-29",
+          "team1": "1. FC Nürnberg",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "9. Spieltag",
+      "name": "Spieltag 9",
       "matches": [
         {
-          "date": "2014-10-05",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 2,
-          "score2": 0
+          "date": "2014-10-03",
+          "team1": "VfR Aalen",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-10-05",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 2,
-          "score2": 0
+          "date": "2014-10-03",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-10-03",
+          "team1": "VfL Bochum",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-10-04",
+          "team1": "FC St. Pauli",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-10-04",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-10-05",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FC Ingolstadt 04",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-10-05",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Sandhausen",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-10-05",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
-          "date": "2014-10-05",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2014-10-05",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-05",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-05",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 1,
-          "score2": 4
+          "date": "2014-10-06",
+          "team1": "RB Leipzig",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "10. Spieltag",
+      "name": "Spieltag 10",
       "matches": [
         {
-          "date": "2014-10-19",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2014-10-17",
+          "team1": "VfL Bochum",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-10-17",
+          "team1": "1. FC Heidenheim",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-10-17",
+          "team1": "1. FC Nürnberg",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-10-18",
+          "team1": "Eintracht Braunschweig",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2014-10-18",
+          "team1": "1. FC Union Berlin",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2014-10-19",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FSV Frankfurt",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2014-10-19",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Karlsruher SC",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2014-10-19",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Erzgebirge Aue",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-10-19",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-19",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-19",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 4,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-19",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-19",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2014-10-20",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "11. Spieltag",
+      "name": "Spieltag 11",
       "matches": [
         {
-          "date": "2014-10-26",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 2,
-          "score2": 5
+          "date": "2014-10-24",
+          "team1": "RB Leipzig",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-10-24",
+          "team1": "VfR Aalen",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2014-10-24",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              2,
+              5
+            ]
+          }
+        },
+        {
+          "date": "2014-10-25",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-10-25",
+          "team1": "FC St. Pauli",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
         },
         {
           "date": "2014-10-26",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "TSV 1860 München",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2014-10-26",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Sandhausen",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-10-26",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 4
+          "team1": "FC Ingolstadt 04",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-10-26",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2014-10-26",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2014-10-26",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2014-10-26",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2014-10-26",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 3,
-          "score2": 0
+          "date": "2014-10-27",
+          "team1": "SV Darmstadt 98",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "12. Spieltag",
+      "name": "Spieltag 12",
       "matches": [
         {
-          "date": "2014-11-02",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 2,
-          "score2": 2
+          "date": "2014-10-31",
+          "team1": "Karlsruher SC",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-10-31",
+          "team1": "1. FC Union Berlin",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-10-31",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-01",
+          "team1": "1. FC Heidenheim",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-11-01",
+          "team1": "1. FC Nürnberg",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-11-02",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FSV Frankfurt",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-11-02",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "VfL Bochum",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-11-02",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Eintracht Braunschweig",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-11-02",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2014-11-02",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2014-11-02",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2014-11-02",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2014-11-02",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2014-11-03",
+          "team1": "RB Leipzig",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "13. Spieltag",
+      "name": "Spieltag 13",
       "matches": [
         {
-          "date": "2014-11-09",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 3
+          "date": "2014-11-07",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2014-11-07",
+          "team1": "VfR Aalen",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-11-07",
+          "team1": "SV Sandhausen",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-11-08",
+          "team1": "SV Darmstadt 98",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-08",
+          "team1": "FC St. Pauli",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-11-09",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Ingolstadt 04",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
         },
         {
           "date": "2014-11-09",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-11-09",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "FC Erzgebirge Aue",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
-          "date": "2014-11-09",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 3,
-          "score2": 3
-        },
-        {
-          "date": "2014-11-09",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2014-11-09",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2014-11-09",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2014-11-09",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2014-11-10",
+          "team1": "TSV 1860 München",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "14. Spieltag",
+      "name": "Spieltag 14",
       "matches": [
         {
-          "date": "2014-11-23",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2014-11-21",
+          "team1": "1. FC Heidenheim",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-21",
+          "team1": "VfL Bochum",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-21",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-22",
+          "team1": "1. FC Union Berlin",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2014-11-22",
+          "team1": "FSV Frankfurt",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2014-11-23",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Karlsruher SC",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2014-11-23",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "1. FC Nürnberg",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2014-11-23",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 3,
-          "score2": 3
+          "team1": "RB Leipzig",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-11-23",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 4
-        },
-        {
-          "date": "2014-11-23",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2014-11-23",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 4,
-          "score2": 0
-        },
-        {
-          "date": "2014-11-23",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 3,
-          "score2": 0
-        },
-        {
-          "date": "2014-11-23",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 4,
-          "score2": 1
+          "date": "2014-11-24",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
         }
       ]
     },
     {
-      "name": "15. Spieltag",
+      "name": "Spieltag 15",
       "matches": [
         {
-          "date": "2014-11-30",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2014-11-28",
+          "team1": "FC Erzgebirge Aue",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2014-11-28",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-28",
+          "team1": "SV Darmstadt 98",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-29",
+          "team1": "FC Ingolstadt 04",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-11-29",
+          "team1": "VfR Aalen",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-11-30",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "TSV 1860 München",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2014-11-30",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FC St. Pauli",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2014-11-30",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "SV Sandhausen",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-11-30",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 3,
-          "score2": 0
-        },
-        {
-          "date": "2014-11-30",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2014-11-30",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2014-11-30",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2014-11-30",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2014-12-01",
+          "team1": "Eintracht Braunschweig",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "16. Spieltag",
+      "name": "Spieltag 16",
       "matches": [
         {
-          "date": "2014-12-07",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2014-12-05",
+          "team1": "VfL Bochum",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2014-12-05",
+          "team1": "1. FC Heidenheim",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-12-05",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2014-12-06",
+          "team1": "SV Darmstadt 98",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-12-06",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2014-12-07",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "1. FC Union Berlin",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-07",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "RB Leipzig",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-07",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "Karlsruher SC",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-12-07",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2014-12-07",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 3,
-          "score2": 3
-        },
-        {
-          "date": "2014-12-07",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2014-12-07",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2014-12-07",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2014-12-08",
+          "team1": "1. FC Nürnberg",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "17. Spieltag",
+      "name": "Spieltag 17",
       "matches": [
         {
-          "date": "2014-12-13",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2014-12-12",
+          "team1": "FC Erzgebirge Aue",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-12-12",
+          "team1": "SV Sandhausen",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-12-12",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-13",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "TSV 1860 München",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2014-12-13",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "FSV Frankfurt",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2014-12-13",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Eintracht Braunschweig",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-12-13",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 2,
-          "score2": 0
+          "date": "2014-12-14",
+          "team1": "FC St. Pauli",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
-          "date": "2014-12-13",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 1,
-          "score2": 2
+          "date": "2014-12-14",
+          "team1": "FC Ingolstadt 04",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-12-13",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2014-12-13",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 0,
-          "score2": 2
-        },
-        {
-          "date": "2014-12-13",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2014-12-14",
+          "team1": "VfR Aalen",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "18. Spieltag",
+      "name": "Spieltag 18",
       "matches": [
         {
-          "date": "2014-12-17",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2014-12-16",
+          "team1": "Eintracht Braunschweig",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-12-16",
+          "team1": "1. FC Union Berlin",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-12-16",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-12-16",
+          "team1": "FSV Frankfurt",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2014-12-17",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "TSV 1860 München",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-17",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SV Sandhausen",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2014-12-17",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "VfR Aalen",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2014-12-17",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC Erzgebirge Aue",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-17",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2014-12-17",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2014-12-17",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2014-12-17",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Ingolstadt 04",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "19. Spieltag",
+      "name": "Spieltag 19",
       "matches": [
         {
-          "date": "2014-12-21",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 0,
-          "score2": 1
+          "date": "2014-12-19",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-12-19",
+          "team1": "1. FC Heidenheim",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-12-19",
+          "team1": "Karlsruher SC",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2014-12-20",
+          "team1": "1. FC Nürnberg",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2014-12-20",
+          "team1": "FC St. Pauli",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-21",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "VfL Bochum",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2014-12-21",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Darmstadt 98",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2014-12-21",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "1. FC Kaiserslautern",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2014-12-21",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2014-12-21",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2014-12-21",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2014-12-21",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 4,
-          "score2": 1
-        },
-        {
-          "date": "2014-12-21",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2014-12-22",
+          "team1": "RB Leipzig",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "20. Spieltag",
+      "name": "Spieltag 20",
       "matches": [
         {
-          "date": "2015-02-08",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 0,
-          "score2": 2
+          "date": "2015-02-06",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-06",
+          "team1": "VfR Aalen",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-02-06",
+          "team1": "FC Erzgebirge Aue",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-02-07",
+          "team1": "1. FC Union Berlin",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-07",
+          "team1": "SV Sandhausen",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-02-08",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Karlsruher SC",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-02-08",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FSV Frankfurt",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-02-08",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "Eintracht Braunschweig",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-02-08",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2015-02-08",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2015-02-08",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2015-02-08",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2015-02-08",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-02-09",
+          "team1": "TSV 1860 München",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "21. Spieltag",
+      "name": "Spieltag 21",
       "matches": [
         {
-          "date": "2015-02-15",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 3,
-          "score2": 2
+          "date": "2015-02-13",
+          "team1": "1. FC Heidenheim",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-13",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2015-02-13",
+          "team1": "VfL Bochum",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-02-14",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-02-14",
+          "team1": "FC Ingolstadt 04",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-02-15",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "RB Leipzig",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-02-15",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "1. FC Nürnberg",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-02-15",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Darmstadt 98",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-02-15",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2015-02-15",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2015-02-15",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 1,
-          "score2": 3
-        },
-        {
-          "date": "2015-02-15",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2015-02-15",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 2,
-          "score2": 3
+          "date": "2015-02-16",
+          "team1": "FC St. Pauli",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "22. Spieltag",
+      "name": "Spieltag 22",
       "matches": [
         {
-          "date": "2015-02-22",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 1,
-          "score2": 3
+          "date": "2015-02-20",
+          "team1": "VfR Aalen",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-20",
+          "team1": "FC Erzgebirge Aue",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-20",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-02-21",
+          "team1": "TSV 1860 München",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-21",
+          "team1": "Karlsruher SC",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-02-22",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FSV Frankfurt",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-02-22",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "1. FC Union Berlin",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-02-22",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "Fortuna Düsseldorf",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
-          "date": "2015-02-22",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2015-02-22",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2015-02-22",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2015-02-22",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-02-22",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 0,
-          "score2": 1
+          "date": "2015-02-23",
+          "team1": "Eintracht Braunschweig",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "23. Spieltag",
+      "name": "Spieltag 23",
       "matches": [
         {
-          "date": "2015-03-01",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2015-02-27",
+          "team1": "SV Darmstadt 98",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-02-27",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-02-27",
+          "team1": "VfL Bochum",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2015-02-28",
+          "team1": "SV Sandhausen",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-02-28",
+          "team1": "1. FC Nürnberg",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-03-01",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC St. Pauli",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-03-01",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Heidenheim",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-03-01",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "RB Leipzig",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-03-01",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-03-01",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 3,
-          "score2": 2
-        },
-        {
-          "date": "2015-03-01",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2015-03-01",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 3,
-          "score2": 3
-        },
-        {
-          "date": "2015-03-01",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2015-03-02",
+          "team1": "FC Ingolstadt 04",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "24. Spieltag",
+      "name": "Spieltag 24",
       "matches": [
         {
-          "date": "2015-03-08",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-03-06",
+          "team1": "1. FC Nürnberg",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-03-06",
+          "team1": "FC Erzgebirge Aue",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2015-03-06",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-03-07",
+          "team1": "Eintracht Braunschweig",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-03-07",
+          "team1": "VfR Aalen",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-03-08",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "TSV 1860 München",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2015-03-08",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FSV Frankfurt",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-03-08",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "1. FC Union Berlin",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-03-08",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 2,
-          "score2": 3
-        },
-        {
-          "date": "2015-03-08",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2015-03-08",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2015-03-08",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 0,
-          "score2": 0
-        },
-        {
-          "date": "2015-03-08",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-03-09",
+          "team1": "Karlsruher SC",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "25. Spieltag",
+      "name": "Spieltag 25",
       "matches": [
         {
-          "date": "2015-03-15",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-03-13",
+          "team1": "SV Darmstadt 98",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-03-13",
+          "team1": "VfL Bochum",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-03-13",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2015-03-14",
+          "team1": "FC St. Pauli",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-03-14",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-03-15",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FC Ingolstadt 04",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-03-15",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "SV Sandhausen",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-03-15",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "VfR Aalen",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-03-15",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 0,
-          "score2": 3
-        },
-        {
-          "date": "2015-03-15",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 5,
-          "score2": 0
-        },
-        {
-          "date": "2015-03-15",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-03-15",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 3,
-          "score2": 0
-        },
-        {
-          "date": "2015-03-15",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 4,
-          "score2": 1
+          "date": "2015-03-16",
+          "team1": "RB Leipzig",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "26. Spieltag",
+      "name": "Spieltag 26",
       "matches": [
         {
-          "date": "2015-03-22",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 0,
-          "score2": 0
+          "date": "2015-03-20",
+          "team1": "FSV Frankfurt",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-03-20",
+          "team1": "TSV 1860 München",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-03-20",
+          "team1": "1. FC Union Berlin",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-03-21",
+          "team1": "Eintracht Braunschweig",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-03-21",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-03-22",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Karlsruher SC",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-03-22",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC Erzgebirge Aue",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-03-22",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "1. FC Heidenheim",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-03-22",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-03-22",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-03-22",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2015-03-22",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2015-03-22",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 2,
-          "score2": 0
+          "date": "2015-03-23",
+          "team1": "1. FC Nürnberg",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "27. Spieltag",
+      "name": "Spieltag 27",
       "matches": [
         {
-          "date": "2015-04-05",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-04-04",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-04-04",
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-04-05",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Sandhausen",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-05",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "FC Ingolstadt 04",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-04-05",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 4,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-04-05",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "TSV 1860 München",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-05",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "VfR Aalen",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2015-04-05",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "RB Leipzig",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-04-05",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2015-04-05",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 4,
-          "score2": 0
+          "date": "2015-04-06",
+          "team1": "FC St. Pauli",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              4,
+              0
+            ]
+          }
         }
       ]
     },
     {
-      "name": "28. Spieltag",
+      "name": "Spieltag 28",
       "matches": [
         {
-          "date": "2015-04-12",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-04-10",
+          "team1": "Karlsruher SC",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-04-10",
+          "team1": "1. FC Nürnberg",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-04-10",
+          "team1": "1. FC Heidenheim",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-04-11",
+          "team1": "Eintracht Braunschweig",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-04-11",
+          "team1": "FSV Frankfurt",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-12",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "VfL Bochum",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2015-04-12",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "1. FC Union Berlin",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-12",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FC Erzgebirge Aue",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
-          "date": "2015-04-12",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2015-04-12",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-04-12",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 0,
-          "score2": 1
-        },
-        {
-          "date": "2015-04-12",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2015-04-12",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-04-13",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "29. Spieltag",
+      "name": "Spieltag 29",
       "matches": [
         {
-          "date": "2015-04-19",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2015-04-17",
+          "team1": "FC Ingolstadt 04",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-04-17",
+          "team1": "FC St. Pauli",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-04-17",
+          "team1": "SV Sandhausen",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-04-18",
+          "team1": "VfR Aalen",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-04-18",
+          "team1": "TSV 1860 München",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-19",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "FC Erzgebirge Aue",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-04-19",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-19",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-04-19",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2015-04-19",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 1,
-          "score2": 0
-        },
-        {
-          "date": "2015-04-19",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 1
-        },
-        {
-          "date": "2015-04-19",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-04-19",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-04-20",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "30. Spieltag",
+      "name": "Spieltag 30",
       "matches": [
         {
-          "date": "2015-04-26",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-04-24",
+          "team1": "VfL Bochum",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-04-24",
+          "team1": "1. FC Nürnberg",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2015-04-24",
+          "team1": "RB Leipzig",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-04-25",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-04-25",
+          "team1": "Karlsruher SC",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-26",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FSV Frankfurt",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-26",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "1. FC Heidenheim",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-04-26",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "1. FC Union Berlin",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-04-26",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2015-04-26",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 1,
-          "score2": 1
-        },
-        {
-          "date": "2015-04-26",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 2,
-          "score2": 0
-        },
-        {
-          "date": "2015-04-26",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 4,
-          "score2": 2
-        },
-        {
-          "date": "2015-04-26",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 2,
-          "score2": 1
+          "date": "2015-04-27",
+          "team1": "Eintracht Braunschweig",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
         }
       ]
     },
     {
-      "name": "31. Spieltag",
+      "name": "Spieltag 31",
       "matches": [
         {
-          "date": "2015-05-03",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 1,
-          "score2": 1
+          "date": "2015-05-02",
+          "team1": "SV Darmstadt 98",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-05-02",
+          "team1": "Eintracht Braunschweig",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-03",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "FC Erzgebirge Aue",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-03",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "VfR Aalen",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         },
         {
           "date": "2015-05-03",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-03",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "TSV 1860 München",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2015-05-03",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC St. Pauli",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-03",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 2,
-          "score2": 4
+          "team1": "SV Sandhausen",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
-          "date": "2015-05-03",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 2,
-          "score2": 2
-        },
-        {
-          "date": "2015-05-03",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 1,
-          "score2": 0
+          "date": "2015-05-04",
+          "team1": "FC Ingolstadt 04",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "32. Spieltag",
+      "name": "Spieltag 32",
       "matches": [
         {
-          "date": "2015-05-10",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 3,
-          "score2": 1
+          "date": "2015-05-08",
+          "team1": "FSV Frankfurt",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2015-05-08",
+          "team1": "RB Leipzig",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2015-05-08",
+          "team1": "Fortuna Düsseldorf",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-05-09",
+          "team1": "1. FC Union Berlin",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2015-05-09",
+          "team1": "1. FC Kaiserslautern",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-05-10",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "VfL Bochum",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-10",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "1. FC Nürnberg",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-10",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "1. FC Heidenheim",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
-          "date": "2015-05-10",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 3,
-          "score2": 1
-        },
-        {
-          "date": "2015-05-10",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 0,
-          "score2": 2
-        },
-        {
-          "date": "2015-05-10",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 0,
-          "score2": 4
-        },
-        {
-          "date": "2015-05-10",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 1,
-          "score2": 2
-        },
-        {
-          "date": "2015-05-10",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 0,
-          "score2": 1
+          "date": "2015-05-11",
+          "team1": "Karlsruher SC",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "33. Spieltag",
+      "name": "Spieltag 33",
       "matches": [
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "team2": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SpVgg Greuther Fürth",
+          "team2": "SV Darmstadt 98",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "team2": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FSV Frankfurt",
+          "team2": "1. FC Union Berlin",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "team2": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "TSV 1860 München",
+          "team2": "1. FC Nürnberg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "team2": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "Eintracht Braunschweig",
+          "team2": "Karlsruher SC",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "team2": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "score1": 1,
-          "score2": 3
+          "team1": "SV Sandhausen",
+          "team2": "Fortuna Düsseldorf",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "team2": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "score1": 5,
-          "score2": 1
+          "team1": "FC Ingolstadt 04",
+          "team2": "RB Leipzig",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "team2": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "score1": 2,
-          "score2": 4
+          "team1": "FC Erzgebirge Aue",
+          "team2": "1. FC Kaiserslautern",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "team2": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "VfR Aalen",
+          "team2": "1. FC Heidenheim",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
         },
         {
           "date": "2015-05-17",
-          "team1": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "team2": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "FC St. Pauli",
+          "team2": "VfL Bochum",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
         }
       ]
     },
     {
-      "name": "34. Spieltag",
+      "name": "Spieltag 34",
       "matches": [
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "unionberlin",
-            "name": "1. FC Union Berlin",
-            "code": "FCU"
-          },
-          "team2": {
-            "key": "braunschweig",
-            "name": "Eintracht Braunschweig",
-            "code": "EBS"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "1. FC Kaiserslautern",
+          "team2": "FC Ingolstadt 04",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "leipzig",
-            "name": "RB Leipzig",
-            "code": "RBL"
-          },
-          "team2": {
-            "key": "fuerth",
-            "name": "SpVgg Greuther Fürth",
-            "code": "SGF"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "RB Leipzig",
+          "team2": "SpVgg Greuther Fürth",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "karlsruhe",
-            "name": "Karlsruher SC",
-            "code": "KSC"
-          },
-          "team2": {
-            "key": "tsvmuenchen",
-            "name": "TSV 1860 München",
-            "code": "M60"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "1. FC Nürnberg",
+          "team2": "VfR Aalen",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "darmstadt",
-            "name": "SV Darmstadt 98",
-            "code": "D98"
-          },
-          "team2": {
-            "key": "stpauli",
-            "name": "FC St. Pauli",
-            "code": "STP"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "SV Darmstadt 98",
+          "team2": "FC St. Pauli",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "klautern",
-            "name": "1. FC Kaiserslautern",
-            "code": "FCK"
-          },
-          "team2": {
-            "key": "ingolstadt",
-            "name": "FC Ingolstadt 04",
-            "code": "FCI"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "VfL Bochum",
+          "team2": "SV Sandhausen",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "nuernberg",
-            "name": "1. FC Nürnberg",
-            "code": "FCN"
-          },
-          "team2": {
-            "key": "aalen",
-            "name": "VfR Aalen",
-            "code": "AAL"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "Fortuna Düsseldorf",
+          "team2": "FSV Frankfurt",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "bochum",
-            "name": "VfL Bochum",
-            "code": "BOC"
-          },
-          "team2": {
-            "key": "sandhausen",
-            "name": "SV Sandhausen",
-            "code": "SAN"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "1. FC Union Berlin",
+          "team2": "Eintracht Braunschweig",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "duesseldorf",
-            "name": "Fortuna Düsseldorf",
-            "code": "F95"
-          },
-          "team2": {
-            "key": "fsvfrankfurt",
-            "name": "FSV Frankfurt",
-            "code": "FSV"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "Karlsruher SC",
+          "team2": "TSV 1860 München",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2015-05-24",
-          "team1": {
-            "key": "heidenheim",
-            "name": "1. FC Heidenheim",
-            "code": "HDH"
-          },
-          "team2": {
-            "key": "aue",
-            "name": "FC Erzgebirge Aue",
-            "code": "AUE"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "1. FC Heidenheim",
+          "team2": "FC Erzgebirge Aue",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         }
       ]
     }

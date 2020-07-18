@@ -1,83 +1,1743 @@
 {
-  "name": "Österr. Bundesliga 2011/12",
+  "name": "Bundesliga 2011/12",
   "rounds": [
+    {
+      "name": "1. Runde",
+      "matches": [
+        {
+          "date": "2011-07-16",
+          "team1": "SV Mattersburg",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-07-16",
+          "team1": "SK Rapid Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-07-16",
+          "team1": "SV Ried",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-07-16",
+          "team1": "Kapfenberger SV",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-07-17",
+          "team1": "FC RB Salzburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "2. Runde",
+      "matches": [
+        {
+          "date": "2011-07-23",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-07-23",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-07-23",
+          "team1": "SK Sturm Graz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-07-24",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-07-24",
+          "team1": "FK Austria Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "3. Runde",
+      "matches": [
+        {
+          "date": "2011-07-30",
+          "team1": "Kapfenberger SV",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-07-30",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-07-31",
+          "team1": "SK Rapid Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-07-31",
+          "team1": "FC RB Salzburg",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-07-31",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "4. Runde",
+      "matches": [
+        {
+          "date": "2011-08-13",
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-08-13",
+          "team1": "FK Austria Wien",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-08-13",
+          "team1": "SK Sturm Graz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-08-13",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-08-14",
+          "team1": "SV Ried",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "5. Runde",
+      "matches": [
+        {
+          "date": "2011-08-20",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-08-20",
+          "team1": "Kapfenberger SV",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-08-21",
+          "team1": "SV Mattersburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-08-21",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-08-21",
+          "team1": "SK Rapid Wien",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "6. Runde",
+      "matches": [
+        {
+          "date": "2011-08-27",
+          "team1": "SK Sturm Graz",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-08-27",
+          "team1": "SV Mattersburg",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-08-28",
+          "team1": "SV Ried",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-08-28",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-08-28",
+          "team1": "FK Austria Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "7. Runde",
+      "matches": [
+        {
+          "date": "2011-09-10",
+          "team1": "Kapfenberger SV",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-09-10",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-09-10",
+          "team1": "SK Rapid Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-09-10",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              5
+            ]
+          }
+        },
+        {
+          "date": "2011-09-11",
+          "team1": "SC Wiener Neustadt",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "8. Runde",
+      "matches": [
+        {
+          "date": "2011-09-17",
+          "team1": "SV Ried",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-09-17",
+          "team1": "SK Rapid Wien",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-09-18",
+          "team1": "SK Sturm Graz",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-09-18",
+          "team1": "FC RB Salzburg",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-09-18",
+          "team1": "SV Mattersburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "9. Runde",
+      "matches": [
+        {
+          "date": "2011-09-24",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-09-24",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-09-24",
+          "team1": "Kapfenberger SV",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-09-24",
+          "team1": "FK Austria Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-09-25",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "10. Runde",
+      "matches": [
+        {
+          "date": "2011-10-01",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-10-01",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-10-01",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              4,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-10-02",
+          "team1": "FK Austria Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-10-02",
+          "team1": "SK Sturm Graz",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "11. Runde",
+      "matches": [
+        {
+          "date": "2011-10-15",
+          "team1": "Kapfenberger SV",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-10-15",
+          "team1": "SK Rapid Wien",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-10-15",
+          "team1": "FC RB Salzburg",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-10-15",
+          "team1": "SV Ried",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-10-16",
+          "team1": "SV Mattersburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "12. Runde",
+      "matches": [
+        {
+          "date": "2011-10-22",
+          "team1": "SC Wiener Neustadt",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-10-22",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-10-22",
+          "team1": "SV Ried",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-10-23",
+          "team1": "FK Austria Wien",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-10-23",
+          "team1": "SK Sturm Graz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "13. Runde",
+      "matches": [
+        {
+          "date": "2011-10-29",
+          "team1": "SV Mattersburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-10-29",
+          "team1": "SK Rapid Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-10-29",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-10-29",
+          "team1": "FC RB Salzburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-10-30",
+          "team1": "Kapfenberger SV",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "14. Runde",
+      "matches": [
+        {
+          "date": "2011-11-05",
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-11-05",
+          "team1": "SV Ried",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-11-06",
+          "team1": "SK Sturm Graz",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-11-06",
+          "team1": "FK Austria Wien",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-11-06",
+          "team1": "SV Mattersburg",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "15. Runde",
+      "matches": [
+        {
+          "date": "2011-11-19",
+          "team1": "Kapfenberger SV",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-11-19",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-11-19",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2011-11-19",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-11-20",
+          "team1": "SK Rapid Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              4,
+              2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "16. Runde",
+      "matches": [
+        {
+          "date": "2011-11-26",
+          "team1": "FK Austria Wien",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-11-26",
+          "team1": "SV Ried",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-11-26",
+          "team1": "FC RB Salzburg",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              6,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-11-26",
+          "team1": "SV Mattersburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2011-11-27",
+          "team1": "SK Sturm Graz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "17. Runde",
+      "matches": [
+        {
+          "date": "2011-12-03",
+          "team1": "FK Austria Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-12-03",
+          "team1": "Kapfenberger SV",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-12-03",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-12-04",
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-12-04",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "18. Runde",
+      "matches": [
+        {
+          "date": "2011-12-10",
+          "team1": "SK Rapid Wien",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-12-10",
+          "team1": "SV Ried",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-12-10",
+          "team1": "SV Mattersburg",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2011-12-10",
+          "team1": "SK Sturm Graz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              5,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-12-11",
+          "team1": "FC RB Salzburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "19. Runde",
+      "matches": [
+        {
+          "date": "2011-12-17",
+          "team1": "SV Mattersburg",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-12-17",
+          "team1": "SK Rapid Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-12-17",
+          "team1": "Kapfenberger SV",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-12-17",
+          "team1": "SV Ried",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2011-12-18",
+          "team1": "FC RB Salzburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "20. Runde",
+      "matches": [
+        {
+          "date": "2012-02-11",
+          "team1": "FK Austria Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-02-11",
+          "team1": "SK Sturm Graz",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-02-12",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-07",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-07",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "21. Runde",
+      "matches": [
+        {
+          "date": "2012-02-18",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-02-18",
+          "team1": "SK Rapid Wien",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-02-18",
+          "team1": "SV Mattersburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-02-19",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-14",
+          "team1": "Kapfenberger SV",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "22. Runde",
+      "matches": [
+        {
+          "date": "2012-02-25",
+          "team1": "FK Austria Wien",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-02-25",
+          "team1": "SK Sturm Graz",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-02-25",
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-02-25",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-02-26",
+          "team1": "SV Ried",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "23. Runde",
+      "matches": [
+        {
+          "date": "2012-03-03",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-03",
+          "team1": "FC RB Salzburg",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-03",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-03",
+          "team1": "SK Rapid Wien",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-04",
+          "team1": "Kapfenberger SV",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "24. Runde",
+      "matches": [
+        {
+          "date": "2012-03-10",
+          "team1": "SV Ried",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-10",
+          "team1": "SK Sturm Graz",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-10",
+          "team1": "FC RB Salzburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-10",
+          "team1": "SV Mattersburg",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-11",
+          "team1": "FK Austria Wien",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "25. Runde",
+      "matches": [
+        {
+          "date": "2012-03-17",
+          "team1": "Kapfenberger SV",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-17",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-17",
+          "team1": "SK Rapid Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-17",
+          "team1": "SC Wiener Neustadt",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-18",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "26. Runde",
+      "matches": [
+        {
+          "date": "2012-03-20",
+          "team1": "SV Mattersburg",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-21",
+          "team1": "SV Ried",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-21",
+          "team1": "SK Rapid Wien",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-21",
+          "team1": "FC RB Salzburg",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-21",
+          "team1": "SK Sturm Graz",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "27. Runde",
+      "matches": [
+        {
+          "date": "2012-03-24",
+          "team1": "Kapfenberger SV",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-24",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-24",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
+        },
+        {
+          "date": "2012-03-24",
+          "team1": "FK Austria Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2012-03-25",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "28. Runde",
+      "matches": [
+        {
+          "date": "2012-03-31",
+          "team1": "SK Sturm Graz",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-31",
+          "team1": "SC Wiener Neustadt",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-31",
+          "team1": "FC Wacker Innsbruck",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2012-03-31",
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              4
+            ]
+          }
+        },
+        {
+          "date": "2012-04-01",
+          "team1": "FK Austria Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    },
     {
       "name": "29. Runde",
       "matches": [
         {
           "date": "2012-04-07",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Ried",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2012-04-07",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "FC RB Salzburg",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-07",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "Kapfenberger SV",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         },
         {
           "date": "2012-04-07",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SK Rapid Wien",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2012-04-08",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "SV Mattersburg",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -86,78 +1746,58 @@
       "matches": [
         {
           "date": "2012-04-14",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-14",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-14",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SK Sturm Graz",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2012-04-14",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2012-04-15",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         }
       ]
     },
@@ -166,78 +1806,58 @@
       "matches": [
         {
           "date": "2012-04-21",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-21",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Kapfenberger SV",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-21",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 2
+          "team1": "SV Mattersburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              2
+            ]
+          }
         },
         {
           "date": "2012-04-21",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-22",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "SK Rapid Wien",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         }
       ]
     },
@@ -246,78 +1866,58 @@
       "matches": [
         {
           "date": "2012-04-28",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 3,
-          "score2": 0
+          "team1": "FK Austria Wien",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              3,
+              0
+            ]
+          }
         },
         {
           "date": "2012-04-28",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 1,
-          "score2": 4
+          "team1": "SK Sturm Graz",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              1
+            ]
+          }
         },
         {
           "date": "2012-04-28",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SV Mattersburg",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         },
         {
           "date": "2012-04-28",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 2,
-          "score2": 1
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              1,
+              4
+            ]
+          }
         },
         {
           "date": "2012-04-29",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 2,
-          "score2": 3
+          "team1": "SV Ried",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              2,
+              3
+            ]
+          }
         }
       ]
     },
@@ -326,78 +1926,58 @@
       "matches": [
         {
           "date": "2012-05-05",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "SC Wiener Neustadt",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2012-05-05",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 3,
-          "score2": 2
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              3,
+              2
+            ]
+          }
         },
         {
           "date": "2012-05-05",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 0,
-          "score2": 0
+          "team1": "Kapfenberger SV",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              0,
+              0
+            ]
+          }
         },
         {
           "date": "2012-05-05",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 3,
-          "score2": 6
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              3,
+              6
+            ]
+          }
         },
         {
           "date": "2012-05-06",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SK Rapid Wien",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
@@ -406,78 +1986,58 @@
       "matches": [
         {
           "date": "2012-05-10",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-05-10",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SK Sturm Graz",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              0,
+              3
+            ]
+          }
         },
         {
           "date": "2012-05-10",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FK Austria Wien",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2012-05-10",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2012-05-10",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 0,
-          "score2": 3
+          "team1": "SV Mattersburg",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              1
+            ]
+          }
         }
       ]
     },
@@ -486,78 +2046,58 @@
       "matches": [
         {
           "date": "2012-05-13",
-          "team1": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "team2": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "score1": 0,
-          "score2": 2
+          "team1": "FK Austria Wien",
+          "team2": "SV Mattersburg",
+          "score": {
+            "ft": [
+              1,
+              0
+            ]
+          }
         },
         {
           "date": "2012-05-13",
-          "team1": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "team2": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Wacker Innsbruck",
+          "team2": "SK Sturm Graz",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2012-05-13",
-          "team1": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "team2": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "score1": 1,
-          "score2": 5
+          "team1": "SC Wiener Neustadt",
+          "team2": "FC RB Salzburg",
+          "score": {
+            "ft": [
+              1,
+              5
+            ]
+          }
         },
         {
           "date": "2012-05-13",
-          "team1": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "team2": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "score1": 1,
-          "score2": 1
+          "team1": "FC Admira Wacker Mödling",
+          "team2": "SV Ried",
+          "score": {
+            "ft": [
+              1,
+              1
+            ]
+          }
         },
         {
           "date": "2012-05-13",
-          "team1": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "team2": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "score1": 1,
-          "score2": 0
+          "team1": "Kapfenberger SV",
+          "team2": "SK Rapid Wien",
+          "score": {
+            "ft": [
+              0,
+              2
+            ]
+          }
         }
       ]
     },
@@ -566,78 +2106,58 @@
       "matches": [
         {
           "date": "2012-05-17",
-          "team1": {
-            "key": "rapid",
-            "name": "SK Rapid Wien",
-            "code": "RAP"
-          },
-          "team2": {
-            "key": "innsbruck",
-            "name": "FC Wacker Innsbruck",
-            "code": "FCW"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "FC RB Salzburg",
+          "team2": "FC Admira Wacker Mödling",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-05-17",
-          "team1": {
-            "key": "ried",
-            "name": "SV Ried",
-            "code": "RIE"
-          },
-          "team2": {
-            "key": "wrneustadt",
-            "name": "SC Wiener Neustadt",
-            "code": "WRN"
-          },
-          "score1": 2,
-          "score2": 2
+          "team1": "SK Sturm Graz",
+          "team2": "FK Austria Wien",
+          "score": {
+            "ft": [
+              3,
+              1
+            ]
+          }
         },
         {
           "date": "2012-05-17",
-          "team1": {
-            "key": "mattersburg",
-            "name": "SV Mattersburg",
-            "code": "MAT"
-          },
-          "team2": {
-            "key": "ksv",
-            "name": "Kapfenberger SV",
-            "code": "KSV"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SV Mattersburg",
+          "team2": "Kapfenberger SV",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         },
         {
           "date": "2012-05-17",
-          "team1": {
-            "key": "sturm",
-            "name": "SK Sturm Graz",
-            "code": "STU"
-          },
-          "team2": {
-            "key": "austria",
-            "name": "FK Austria Wien",
-            "code": "AUS"
-          },
-          "score1": 3,
-          "score2": 1
+          "team1": "SV Ried",
+          "team2": "SC Wiener Neustadt",
+          "score": {
+            "ft": [
+              2,
+              2
+            ]
+          }
         },
         {
           "date": "2012-05-17",
-          "team1": {
-            "key": "salzburg",
-            "name": "FC RB Salzburg",
-            "code": "RBS"
-          },
-          "team2": {
-            "key": "admira",
-            "name": "FC Admira Wacker",
-            "code": "ADM"
-          },
-          "score1": 2,
-          "score2": 0
+          "team1": "SK Rapid Wien",
+          "team2": "FC Wacker Innsbruck",
+          "score": {
+            "ft": [
+              2,
+              0
+            ]
+          }
         }
       ]
     }

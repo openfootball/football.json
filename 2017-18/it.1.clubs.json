@@ -2,104 +2,104 @@
   "name": "Serie A 2017/18",
   "clubs": [
     {
-      "key": "hellasverona",
-      "name": "Hellas Verona FC",
-      "code": "HEL"
-    },
-    {
-      "key": "milan",
-      "name": "AC Milan",
-      "code": "MIL"
-    },
-    {
-      "key": "sampdoria",
       "name": "UC Sampdoria",
-      "code": "SAM"
+      "code": "SAM",
+      "country": "Italy"
     },
     {
-      "key": "juventus",
       "name": "Juventus",
-      "code": "JUV"
+      "code": "JUV",
+      "country": "Italy"
     },
     {
-      "key": "inter",
-      "name": "FC Internazionale Milano",
-      "code": "INT"
+      "name": "Hellas Verona FC",
+      "code": "HEL",
+      "country": "Italy"
     },
     {
-      "key": "genoa",
-      "name": "Genoa CFC",
-      "code": "GEN"
+      "name": "AC Milan",
+      "code": "MIL",
+      "country": "Italy"
     },
     {
-      "key": "cagliari",
-      "name": "Cagliari Calcio",
-      "code": "CAG"
-    },
-    {
-      "key": "atalanta",
-      "name": "Atalanta BC",
-      "code": "ATA"
-    },
-    {
-      "key": "lazio",
-      "name": "SS Lazio",
-      "code": "LAZ"
-    },
-    {
-      "key": "udinese",
-      "name": "Udinese Calcio",
-      "code": "UDI"
-    },
-    {
-      "key": "roma",
-      "name": "AS Roma",
-      "code": "ROM"
-    },
-    {
-      "key": "napoli",
       "name": "SSC Napoli",
-      "code": "NAP"
+      "code": "NAP",
+      "country": "Italy"
     },
     {
-      "key": "bologna",
       "name": "Bologna FC",
-      "code": "BOL"
+      "code": "BOL",
+      "country": "Italy"
     },
     {
-      "key": "chievoverona",
       "name": "AC Chievo Verona",
-      "code": "CHI"
+      "code": "CHI",
+      "country": "Italy"
     },
     {
-      "key": "torino",
+      "name": "Cagliari Calcio",
+      "code": "CAG",
+      "country": "Italy"
+    },
+    {
+      "name": "Atalanta BC",
+      "code": "ATA",
+      "country": "Italy"
+    },
+    {
+      "name": "FC Internazionale Milano",
+      "code": "INT",
+      "country": "Italy"
+    },
+    {
+      "name": "Genoa CFC",
+      "code": "GEN",
+      "country": "Italy"
+    },
+    {
       "name": "Torino FC",
-      "code": "TOR"
+      "code": "TOR",
+      "country": "Italy"
     },
     {
-      "key": "sassuolo",
       "name": "US Sassuolo Calcio",
-      "code": "SAS"
+      "code": "SAS",
+      "country": "Italy"
     },
     {
-      "key": "fiorentina",
+      "name": "AS Roma",
+      "code": "ROM",
+      "country": "Italy"
+    },
+    {
+      "name": "SS Lazio",
+      "code": "LAZ",
+      "country": "Italy"
+    },
+    {
+      "name": "Udinese Calcio",
+      "code": "UDI",
+      "country": "Italy"
+    },
+    {
       "name": "ACF Fiorentina",
-      "code": "FIO"
+      "code": "FIO",
+      "country": "Italy"
     },
     {
-      "key": "crotone",
       "name": "FC Crotone",
-      "code": "CRO"
+      "code": "CRO",
+      "country": "Italy"
     },
     {
-      "key": "spal",
-      "name": "SPAL",
-      "code": null
-    },
-    {
-      "key": "benevento",
       "name": "Benevento",
-      "code": null
+      "code": null,
+      "country": "Italy"
+    },
+    {
+      "name": "SPAL Ferrara",
+      "code": null,
+      "country": "Italy"
     }
   ]
 }
