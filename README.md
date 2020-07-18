@@ -22,18 +22,20 @@ Example - Premier League 2015/16 Match Schedule (Fixtures and Results) - [`2015-
       "name": "Matchday 1",
       "matches": [
         {
-          "date": "2015-08-08",
+          "date":  "2015-08-08",
           "team1": "Manchester United",
           "team2": "Tottenham Hotspur",
-          "score1": 1,
-          "score2": 0
+          "score": { 
+                     "ft": [1, 0] 
+                   }
         },
         {
-          "date": "2015-08-09",
+          "date":  "2015-08-09",
           "team1": "Arsenal",
           "team2": "West Ham United",
-          "score1": 0,
-          "score2": 2
+          "score": { 
+                     "ft": [0, 2]
+                   }
         },
         ...
       ]
@@ -50,16 +52,16 @@ Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw
   "name": "Premier League 2015/16",
   "clubs": [
     {
-      "name": "Chelsea",
-      "code": "CHE"
+      "name":    "Chelsea",
+      "code":    "CHE"
     },
     {
-      "name": "Arsenal",
-      "code": "ARS"
+      "name":    "Arsenal",
+      "code":    "ARS"
     },
     {
-      "name": "Manchester United",
-      "code": "MUN"
+      "name":    "Manchester United",
+      "code":    "MUN"
     },
     ...
   ]
