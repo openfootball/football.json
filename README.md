@@ -17,29 +17,22 @@ Example - Premier League 2015/16 Match Schedule (Fixtures and Results) - [`2015-
 ``` json
 {
   "name": "Premier League 2015/16",
-  "rounds": [
-    {
-      "name": "Matchday 1",
-      "matches": [
+  "matches": [
         {
+          "round": "Matchday 1", 
           "date":  "2015-08-08",
           "team1": "Manchester United",
           "team2": "Tottenham Hotspur",
-          "score": { 
-                     "ft": [1, 0] 
-                   }
+          "score": { "ft": [1, 0] }
         },
         {
+          "round": "Matchday 1", 
           "date":  "2015-08-09",
           "team1": "Arsenal",
           "team2": "West Ham United",
-          "score": { 
-                     "ft": [0, 2]
-                   }
+          "score": { "ft": [0, 2] }
         },
         ...
-      ]
-    }
   ]
 }
 ```
