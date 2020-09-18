@@ -1,4255 +1,4445 @@
 {
   "name": "3. Liga 2019/20",
-  "rounds": [
+  "matches": [
     {
-      "name": "Spieltag 1",
-      "matches": [
-        {
-          "date": "2019-07-19",
-          "team1": "TSV 1860 München",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-20",
-          "team1": "Hansa Rostock",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-07-20",
-          "team1": "SV Meppen",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-07-20",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-20",
-          "team1": "MSV Duisburg",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-20",
-          "team1": "Würzburger Kickers",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-20",
-          "team1": "1. FC Magdeburg",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              2,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-07-21",
-          "team1": "Chemnitzer FC",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-21",
-          "team1": "KFC Uerdingen",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-22",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-19",
+      "team1": "TSV 1860 München",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 2",
-      "matches": [
-        {
-          "date": "2019-07-26",
-          "team1": "Bayern München II",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              5,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "Hallescher FC",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "Preußen Münster",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "FC Ingolstadt 04",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "SG Großaspach",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-07-27",
-          "team1": "Eintracht Braunschweig",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-28",
-          "team1": "FC Viktoria Köln",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-07-28",
-          "team1": "FSV Zwickau",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-20",
+      "team1": "Hansa Rostock",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "name": "Spieltag 3",
-      "matches": [
-        {
-          "date": "2019-07-30",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-07-30",
-          "team1": "Würzburger Kickers",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-07-30",
-          "team1": "KFC Uerdingen",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-07-30",
-          "team1": "Hansa Rostock",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-07-30",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-31",
-          "team1": "TSV 1860 München",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-31",
-          "team1": "FC Viktoria Köln",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-07-31",
-          "team1": "Chemnitzer FC",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              2,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-07-31",
-          "team1": "MSV Duisburg",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-07-31",
-          "team1": "1. FC Magdeburg",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-20",
+      "team1": "SV Meppen",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 4",
-      "matches": [
-        {
-          "date": "2019-08-02",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-03",
-          "team1": "Preußen Münster",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-03",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-03",
-          "team1": "SG Großaspach",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-03",
-          "team1": "SV Meppen",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-03",
-          "team1": "Bayern München II",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2019-08-03",
-          "team1": "Hallescher FC",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-04",
-          "team1": "Eintracht Braunschweig",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-04",
-          "team1": "FSV Zwickau",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-05",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-20",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 5",
-      "matches": [
-        {
-          "date": "2019-08-16",
-          "team1": "Chemnitzer FC",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-17",
-          "team1": "TSV 1860 München",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-17",
-          "team1": "MSV Duisburg",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-17",
-          "team1": "KFC Uerdingen",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-17",
-          "team1": "FC Viktoria Köln",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-17",
-          "team1": "Würzburger Kickers",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-17",
-          "team1": "Hansa Rostock",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-18",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-18",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-19",
-          "team1": "Hallescher FC",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-20",
+      "team1": "MSV Duisburg",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 6",
-      "matches": [
-        {
-          "date": "2019-08-23",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "SV Meppen",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Bayern München II",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "SG Großaspach",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Preußen Münster",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "1. FC Magdeburg",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Eintracht Braunschweig",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              5,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-25",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              4,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-25",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-26",
-          "team1": "FSV Zwickau",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              3,
-              5
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-20",
+      "team1": "Würzburger Kickers",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 7",
-      "matches": [
-        {
-          "date": "2019-08-30",
-          "team1": "Chemnitzer FC",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Hallescher FC",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Würzburger Kickers",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Hansa Rostock",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Bayern München II",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "FC Viktoria Köln",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-01",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-01",
-          "team1": "KFC Uerdingen",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-02",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-02",
-          "team1": "MSV Duisburg",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-20",
+      "team1": "1. FC Magdeburg",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
     },
     {
-      "name": "Spieltag 8",
-      "matches": [
-        {
-          "date": "2019-09-13",
-          "team1": "1. FC Magdeburg",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "SV Meppen",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              6,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "FSV Zwickau",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "SG Großaspach",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "TSV 1860 München",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "Preußen Münster",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-15",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-09-15",
-          "team1": "Eintracht Braunschweig",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-16",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-21",
+      "team1": "Chemnitzer FC",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 9",
-      "matches": [
-        {
-          "date": "2019-09-20",
-          "team1": "Würzburger Kickers",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Hallescher FC",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "MSV Duisburg",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "FC Viktoria Köln",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Chemnitzer FC",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "SpVgg Unterhaching",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-22",
-          "team1": "Hansa Rostock",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-22",
-          "team1": "Bayern München II",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-23",
-          "team1": "KFC Uerdingen",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-21",
+      "team1": "KFC Uerdingen",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 10",
-      "matches": [
-        {
-          "date": "2019-09-27",
-          "team1": "1. FC Magdeburg",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "Preußen Münster",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "SG Großaspach",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "TSV 1860 München",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "FSV Zwickau",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "Eintracht Braunschweig",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-29",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-29",
-          "team1": "SV Meppen",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-30",
-          "team1": "FC Ingolstadt 04",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 1",
+      "date": "2019-07-22",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 11",
-      "matches": [
-        {
-          "date": "2019-10-04",
-          "team1": "KFC Uerdingen",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "Hansa Rostock",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "Hallescher FC",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "SG Großaspach",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              1,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "FC Viktoria Köln",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-06",
-          "team1": "Bayern München II",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-06",
-          "team1": "Chemnitzer FC",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-07",
-          "team1": "Würzburger Kickers",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-26",
+      "team1": "Bayern München II",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 12",
-      "matches": [
-        {
-          "date": "2019-10-18",
-          "team1": "MSV Duisburg",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              0,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "TSV 1860 München",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "Preußen Münster",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "Eintracht Braunschweig",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "1. FC Magdeburg",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-20",
-          "team1": "FSV Zwickau",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-20",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-21",
-          "team1": "SV Meppen",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 13",
-      "matches": [
-        {
-          "date": "2019-10-25",
-          "team1": "FC Viktoria Köln",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Hallescher FC",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "SpVgg Unterhaching",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "KFC Uerdingen",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Hansa Rostock",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Würzburger Kickers",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-27",
-          "team1": "Chemnitzer FC",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-27",
-          "team1": "SG Großaspach",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-10-28",
-          "team1": "Bayern München II",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          5,
+          4
+        ]
+      }
     },
     {
-      "name": "Spieltag 14",
-      "matches": [
-        {
-          "date": "2019-11-01",
-          "team1": "FSV Zwickau",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "1. FC Magdeburg",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "TSV 1860 München",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "Eintracht Braunschweig",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "Preußen Münster",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-03",
-          "team1": "SV Meppen",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              5,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-03",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-04",
-          "team1": "MSV Duisburg",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "Hallescher FC",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 15",
-      "matches": [
-        {
-          "date": "2019-11-08",
-          "team1": "FC Viktoria Köln",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "SG Großaspach",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "KFC Uerdingen",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "SpVgg Unterhaching",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "Hansa Rostock",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "FC Ingolstadt 04",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "Hallescher FC",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-10",
-          "team1": "Bayern München II",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-10",
-          "team1": "Chemnitzer FC",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-11",
-          "team1": "Preußen Münster",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "Preußen Münster",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 16",
-      "matches": [
-        {
-          "date": "2019-11-22",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "Eintracht Braunschweig",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "1. FC Magdeburg",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "Würzburger Kickers",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "SV Meppen",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "FSV Zwickau",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-24",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-24",
-          "team1": "TSV 1860 München",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-25",
-          "team1": "MSV Duisburg",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "FC Ingolstadt 04",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 17",
-      "matches": [
-        {
-          "date": "2019-11-29",
-          "team1": "Bayern München II",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "FC Viktoria Köln",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              2,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Hallescher FC",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Preußen Münster",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "SG Großaspach",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Chemnitzer FC",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Hansa Rostock",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-01",
-          "team1": "FC Ingolstadt 04",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-01",
-          "team1": "SpVgg Unterhaching",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-02",
-          "team1": "Eintracht Braunschweig",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "SG Großaspach",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "name": "Spieltag 18",
-      "matches": [
-        {
-          "date": "2019-12-06",
-          "team1": "Chemnitzer FC",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "Würzburger Kickers",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "KFC Uerdingen",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "TSV 1860 München",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "1. FC Magdeburg",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-08",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-08",
-          "team1": "MSV Duisburg",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-09",
-          "team1": "SV Meppen",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-27",
+      "team1": "Eintracht Braunschweig",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 19",
-      "matches": [
-        {
-          "date": "2019-12-13",
-          "team1": "Preußen Münster",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Hansa Rostock",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Bayern München II",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "FSV Zwickau",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Hallescher FC",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              2,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Eintracht Braunschweig",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "FC Viktoria Köln",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-15",
-          "team1": "SG Großaspach",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-15",
-          "team1": "SpVgg Unterhaching",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-16",
-          "team1": "FC Ingolstadt 04",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-28",
+      "team1": "FC Viktoria Köln",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 20",
-      "matches": [
-        {
-          "date": "2019-12-20",
-          "team1": "FC Viktoria Köln",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              4,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "FSV Zwickau",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "SG Großaspach",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "SpVgg Unterhaching",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "Eintracht Braunschweig",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "Preußen Münster",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-22",
-          "team1": "Hallescher FC",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-22",
-          "team1": "FC Ingolstadt 04",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-22",
-          "team1": "Bayern München II",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 2",
+      "date": "2019-07-28",
+      "team1": "FSV Zwickau",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 21",
-      "matches": [
-        {
-          "date": "2020-01-24",
-          "team1": "Hansa Rostock",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "MSV Duisburg",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "SV Meppen",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "Würzburger Kickers",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "1. FC Magdeburg",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "Chemnitzer FC",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-26",
-          "team1": "TSV 1860 München",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-26",
-          "team1": "KFC Uerdingen",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-01-27",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-30",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 22",
-      "matches": [
-        {
-          "date": "2020-01-31",
-          "team1": "Hallescher FC",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              3,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Eintracht Braunschweig",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "SpVgg Unterhaching",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "SV Meppen",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Preußen Münster",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Bayern München II",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "FC Ingolstadt 04",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-02",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-02",
-          "team1": "FSV Zwickau",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-03",
-          "team1": "SG Großaspach",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              0,
-              6
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-30",
+      "team1": "Würzburger Kickers",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "name": "Spieltag 23",
-      "matches": [
-        {
-          "date": "2020-02-07",
-          "team1": "MSV Duisburg",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "KFC Uerdingen",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "Hansa Rostock",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "1. FC Magdeburg",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "TSV 1860 München",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "FC Viktoria Köln",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              2,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2020-02-09",
-          "team1": "Würzburger Kickers",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-09",
-          "team1": "Chemnitzer FC",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-10",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-30",
+      "team1": "KFC Uerdingen",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 24",
-      "matches": [
-        {
-          "date": "2020-02-14",
-          "team1": "Preußen Münster",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "1. FC Magdeburg",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "Eintracht Braunschweig",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "FC Ingolstadt 04",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "SG Großaspach",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "SpVgg Unterhaching",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "SV Meppen",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-16",
-          "team1": "FSV Zwickau",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-16",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-17",
-          "team1": "Bayern München II",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              6,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-30",
+      "team1": "Hansa Rostock",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 25",
-      "matches": [
-        {
-          "date": "2020-02-21",
-          "team1": "FC Viktoria Köln",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "Hansa Rostock",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "Würzburger Kickers",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "KFC Uerdingen",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "MSV Duisburg",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-23",
-          "team1": "TSV 1860 München",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-23",
-          "team1": "Hallescher FC",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              3,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2020-02-24",
-          "team1": "Chemnitzer FC",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-30",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 26",
-      "matches": [
-        {
-          "date": "2020-02-28",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "FSV Zwickau",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "SG Großaspach",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "Eintracht Braunschweig",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "TSV 1860 München",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              4,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "1. FC Magdeburg",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              6,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-01",
-          "team1": "FC Ingolstadt 04",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-01",
-          "team1": "SV Meppen",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-02",
-          "team1": "Preußen Münster",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-31",
+      "team1": "TSV 1860 München",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 27",
-      "matches": [
-        {
-          "date": "2020-03-06",
-          "team1": "MSV Duisburg",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "Chemnitzer FC",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "FC Viktoria Köln",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "Würzburger Kickers",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "Bayern München II",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-08",
-          "team1": "KFC Uerdingen",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-08",
-          "team1": "Hallescher FC",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-09",
-          "team1": "Hansa Rostock",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-31",
+      "team1": "FC Viktoria Köln",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 28",
-      "matches": [
-        {
-          "date": "2020-05-30",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-30",
-          "team1": "1. FC Magdeburg",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-05-30",
-          "team1": "FSV Zwickau",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-30",
-          "team1": "SV Meppen",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-05-30",
-          "team1": "Eintracht Braunschweig",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-30",
-          "team1": "SG Großaspach",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-30",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-31",
-          "team1": "TSV 1860 München",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-31",
-          "team1": "Preußen Münster",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-05-31",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-31",
+      "team1": "Chemnitzer FC",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
     },
     {
-      "name": "Spieltag 29",
-      "matches": [
-        {
-          "date": "2020-06-02",
-          "team1": "Würzburger Kickers",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-02",
-          "team1": "KFC Uerdingen",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-02",
-          "team1": "FC Viktoria Köln",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-02",
-          "team1": "SpVgg Unterhaching",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-02",
-          "team1": "Hansa Rostock",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-03",
-          "team1": "Bayern München II",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-03",
-          "team1": "MSV Duisburg",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-03",
-          "team1": "Hallescher FC",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-03",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-03",
-          "team1": "Chemnitzer FC",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-31",
+      "team1": "MSV Duisburg",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 30",
-      "matches": [
-        {
-          "date": "2020-06-05",
-          "team1": "1. FC Magdeburg",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-06",
-          "team1": "TSV 1860 München",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-06",
-          "team1": "FSV Zwickau",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-06",
-          "team1": "MSV Duisburg",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-06",
-          "team1": "Eintracht Braunschweig",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-06",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-06",
-          "team1": "SV Meppen",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-07",
-          "team1": "Preußen Münster",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-07",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-07",
-          "team1": "FC Ingolstadt 04",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 3",
+      "date": "2019-07-31",
+      "team1": "1. FC Magdeburg",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 31",
-      "matches": [
-        {
-          "date": "2020-06-09",
-          "team1": "FC Viktoria Köln",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-09",
-          "team1": "KFC Uerdingen",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-09",
-          "team1": "Bayern München II",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-09",
-          "team1": "Hallescher FC",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-09",
-          "team1": "Hansa Rostock",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-10",
-          "team1": "SG Großaspach",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-10",
-          "team1": "Würzburger Kickers",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-10",
-          "team1": "Chemnitzer FC",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-10",
-          "team1": "SpVgg Unterhaching",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-10",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-02",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 32",
-      "matches": [
-        {
-          "date": "2020-06-12",
-          "team1": "SV Meppen",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-13",
-          "team1": "TSV 1860 München",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-13",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-13",
-          "team1": "Eintracht Braunschweig",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-13",
-          "team1": "1. FC Magdeburg",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-13",
-          "team1": "MSV Duisburg",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-13",
-          "team1": "Preußen Münster",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-14",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-14",
-          "team1": "FSV Zwickau",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-14",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-03",
+      "team1": "Preußen Münster",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 33",
-      "matches": [
-        {
-          "date": "2020-06-16",
-          "team1": "FC Ingolstadt 04",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-16",
-          "team1": "Würzburger Kickers",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-16",
-          "team1": "Chemnitzer FC",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-16",
-          "team1": "Hallescher FC",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-16",
-          "team1": "FC Viktoria Köln",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-17",
-          "team1": "SG Großaspach",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-17",
-          "team1": "Bayern München II",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-17",
-          "team1": "SpVgg Unterhaching",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-17",
-          "team1": "KFC Uerdingen",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-17",
-          "team1": "Hansa Rostock",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-03",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "Spieltag 34",
-      "matches": [
-        {
-          "date": "2020-06-19",
-          "team1": "Würzburger Kickers",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "KFC Uerdingen",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "Eintracht Braunschweig",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "1. FC Magdeburg",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "MSV Duisburg",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-21",
-          "team1": "SV Meppen",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-21",
-          "team1": "TSV 1860 München",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-21",
-          "team1": "FSV Zwickau",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-03",
+      "team1": "SG Großaspach",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "name": "Spieltag 35",
-      "matches": [
-        {
-          "date": "2020-06-23",
-          "team1": "KFC Uerdingen",
-          "team2": "Würzburger Kickers",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-23",
-          "team1": "Chemnitzer FC",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-23",
-          "team1": "Hansa Rostock",
-          "team2": "1. FC Kaiserslautern",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-23",
-          "team1": "FC Viktoria Köln",
-          "team2": "MSV Duisburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-24",
-          "team1": "Preußen Münster",
-          "team2": "FSV Zwickau",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-24",
-          "team1": "SG Großaspach",
-          "team2": "SV Meppen",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-24",
-          "team1": "SpVgg Unterhaching",
-          "team2": "1. FC Magdeburg",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-24",
-          "team1": "Bayern München II",
-          "team2": "TSV 1860 München",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-24",
-          "team1": "FC Ingolstadt 04",
-          "team2": "SV Waldhof Mannheim",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-24",
-          "team1": "Hallescher FC",
-          "team2": "FC Carl Zeiss Jena",
-          "score": {
-            "ft": [
-              5,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-03",
+      "team1": "SV Meppen",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "name": "Spieltag 36",
-      "matches": [
-        {
-          "date": "2020-06-26",
-          "team1": "KFC Uerdingen",
-          "team2": "Chemnitzer FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "Würzburger Kickers",
-          "team2": "Hansa Rostock",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "FC Viktoria Köln",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "TSV 1860 München",
-          "team2": "SpVgg Unterhaching",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "MSV Duisburg",
-          "team2": "Hallescher FC",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "FSV Zwickau",
-          "team2": "Eintracht Braunschweig",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "Preußen Münster",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-27",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "Bayern München II",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-28",
-          "team1": "SV Meppen",
-          "team2": "FC Ingolstadt 04",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-28",
-          "team1": "1. FC Magdeburg",
-          "team2": "SG Großaspach",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-03",
+      "team1": "Bayern München II",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
-      "name": "Spieltag 37",
-      "matches": [
-        {
-          "date": "2020-07-01",
-          "team1": "SG Großaspach",
-          "team2": "TSV 1860 München"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "FSV Zwickau",
-          "team2": "Chemnitzer FC"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "SpVgg Unterhaching",
-          "team2": "FC Carl Zeiss Jena"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "Preußen Münster",
-          "team2": "SV Meppen"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "FC Viktoria Köln",
-          "team2": "Würzburger Kickers"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "FC Ingolstadt 04",
-          "team2": "1. FC Magdeburg"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "Bayern München II",
-          "team2": "MSV Duisburg"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "Eintracht Braunschweig",
-          "team2": "SV Waldhof Mannheim"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "Hallescher FC",
-          "team2": "1. FC Kaiserslautern"
-        },
-        {
-          "date": "2020-07-01",
-          "team1": "Hansa Rostock",
-          "team2": "KFC Uerdingen"
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-03",
+      "team1": "Hallescher FC",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "name": "Spieltag 38",
-      "matches": [
-        {
-          "date": "2020-07-04",
-          "team1": "SV Meppen",
-          "team2": "Eintracht Braunschweig"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "Chemnitzer FC",
-          "team2": "Hansa Rostock"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "1. FC Kaiserslautern",
-          "team2": "Bayern München II"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "TSV 1860 München",
-          "team2": "FC Ingolstadt 04"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "FC Carl Zeiss Jena",
-          "team2": "SG Großaspach"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "MSV Duisburg",
-          "team2": "SpVgg Unterhaching"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "Würzburger Kickers",
-          "team2": "Hallescher FC"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "KFC Uerdingen",
-          "team2": "FC Viktoria Köln"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "1. FC Magdeburg",
-          "team2": "Preußen Münster"
-        },
-        {
-          "date": "2020-07-04",
-          "team1": "SV Waldhof Mannheim",
-          "team2": "FSV Zwickau"
-        }
-      ]
+      "round": "Spieltag 4",
+      "date": "2019-08-04",
+      "team1": "Eintracht Braunschweig",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 4",
+      "date": "2019-08-04",
+      "team1": "FSV Zwickau",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 4",
+      "date": "2019-08-05",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-16",
+      "team1": "Chemnitzer FC",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-17",
+      "team1": "TSV 1860 München",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-17",
+      "team1": "MSV Duisburg",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-17",
+      "team1": "KFC Uerdingen",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-17",
+      "team1": "FC Viktoria Köln",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-17",
+      "team1": "Würzburger Kickers",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-17",
+      "team1": "Hansa Rostock",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-18",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-18",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 5",
+      "date": "2019-08-19",
+      "team1": "Hallescher FC",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-23",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-24",
+      "team1": "SV Meppen",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-24",
+      "team1": "Bayern München II",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-24",
+      "team1": "SG Großaspach",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-24",
+      "team1": "Preußen Münster",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-24",
+      "team1": "1. FC Magdeburg",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-24",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-25",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-25",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 6",
+      "date": "2019-08-26",
+      "team1": "FSV Zwickau",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-08-30",
+      "team1": "Chemnitzer FC",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-08-31",
+      "team1": "Hallescher FC",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-08-31",
+      "team1": "Würzburger Kickers",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-08-31",
+      "team1": "Hansa Rostock",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-08-31",
+      "team1": "Bayern München II",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-08-31",
+      "team1": "FC Viktoria Köln",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-09-01",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-09-01",
+      "team1": "KFC Uerdingen",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-09-02",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-13",
+      "team1": "1. FC Magdeburg",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-14",
+      "team1": "SV Meppen",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-14",
+      "team1": "FSV Zwickau",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-14",
+      "team1": "SG Großaspach",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-14",
+      "team1": "TSV 1860 München",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-14",
+      "team1": "Preußen Münster",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-14",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-15",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-15",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 8",
+      "date": "2019-09-16",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-20",
+      "team1": "Würzburger Kickers",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-21",
+      "team1": "Hallescher FC",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-21",
+      "team1": "MSV Duisburg",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-21",
+      "team1": "FC Viktoria Köln",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-21",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-21",
+      "team1": "Chemnitzer FC",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-21",
+      "team1": "SpVgg Unterhaching",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-22",
+      "team1": "Hansa Rostock",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-22",
+      "team1": "Bayern München II",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 9",
+      "date": "2019-09-23",
+      "team1": "KFC Uerdingen",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-27",
+      "team1": "1. FC Magdeburg",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-28",
+      "team1": "Preußen Münster",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-28",
+      "team1": "SG Großaspach",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-28",
+      "team1": "TSV 1860 München",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-28",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-28",
+      "team1": "FSV Zwickau",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-28",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-29",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-29",
+      "team1": "SV Meppen",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 10",
+      "date": "2019-09-30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 7",
+      "date": "2019-10-02",
+      "team1": "MSV Duisburg",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-04",
+      "team1": "KFC Uerdingen",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-05",
+      "team1": "Hansa Rostock",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-05",
+      "team1": "Hallescher FC",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-05",
+      "team1": "SG Großaspach",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-05",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-05",
+      "team1": "FC Viktoria Köln",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-05",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-06",
+      "team1": "Bayern München II",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-06",
+      "team1": "Chemnitzer FC",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 11",
+      "date": "2019-10-07",
+      "team1": "Würzburger Kickers",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-18",
+      "team1": "MSV Duisburg",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-19",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-19",
+      "team1": "TSV 1860 München",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-19",
+      "team1": "Preußen Münster",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-19",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-19",
+      "team1": "1. FC Magdeburg",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-19",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-20",
+      "team1": "FSV Zwickau",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-20",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 12",
+      "date": "2019-10-21",
+      "team1": "SV Meppen",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-25",
+      "team1": "FC Viktoria Köln",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-26",
+      "team1": "Hallescher FC",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-26",
+      "team1": "SpVgg Unterhaching",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-26",
+      "team1": "KFC Uerdingen",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-26",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-26",
+      "team1": "Hansa Rostock",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-26",
+      "team1": "Würzburger Kickers",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-27",
+      "team1": "Chemnitzer FC",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-27",
+      "team1": "SG Großaspach",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 13",
+      "date": "2019-10-28",
+      "team1": "Bayern München II",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-01",
+      "team1": "FSV Zwickau",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-02",
+      "team1": "1. FC Magdeburg",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-02",
+      "team1": "TSV 1860 München",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-02",
+      "team1": "Eintracht Braunschweig",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-02",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-02",
+      "team1": "Preußen Münster",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-02",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-03",
+      "team1": "SV Meppen",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-03",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 14",
+      "date": "2019-11-04",
+      "team1": "MSV Duisburg",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-08",
+      "team1": "FC Viktoria Köln",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-09",
+      "team1": "SG Großaspach",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-09",
+      "team1": "KFC Uerdingen",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-09",
+      "team1": "SpVgg Unterhaching",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-09",
+      "team1": "Hansa Rostock",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-09",
+      "team1": "FC Ingolstadt 04",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-09",
+      "team1": "Hallescher FC",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-10",
+      "team1": "Bayern München II",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-10",
+      "team1": "Chemnitzer FC",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 15",
+      "date": "2019-11-11",
+      "team1": "Preußen Münster",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-22",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-23",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-23",
+      "team1": "1. FC Magdeburg",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-23",
+      "team1": "Würzburger Kickers",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-23",
+      "team1": "SV Meppen",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-23",
+      "team1": "FSV Zwickau",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-23",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-24",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-24",
+      "team1": "TSV 1860 München",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 16",
+      "date": "2019-11-25",
+      "team1": "MSV Duisburg",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-29",
+      "team1": "Bayern München II",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-30",
+      "team1": "FC Viktoria Köln",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-30",
+      "team1": "Hallescher FC",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-30",
+      "team1": "Preußen Münster",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-30",
+      "team1": "SG Großaspach",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-30",
+      "team1": "Chemnitzer FC",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-11-30",
+      "team1": "Hansa Rostock",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-12-01",
+      "team1": "FC Ingolstadt 04",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-12-01",
+      "team1": "SpVgg Unterhaching",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 17",
+      "date": "2019-12-02",
+      "team1": "Eintracht Braunschweig",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-06",
+      "team1": "Chemnitzer FC",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-07",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-07",
+      "team1": "Würzburger Kickers",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-07",
+      "team1": "KFC Uerdingen",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-07",
+      "team1": "TSV 1860 München",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-07",
+      "team1": "1. FC Magdeburg",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-07",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-08",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-08",
+      "team1": "MSV Duisburg",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 18",
+      "date": "2019-12-09",
+      "team1": "SV Meppen",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-13",
+      "team1": "Preußen Münster",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-14",
+      "team1": "Hansa Rostock",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-14",
+      "team1": "Bayern München II",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-14",
+      "team1": "FSV Zwickau",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-14",
+      "team1": "Hallescher FC",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-14",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-14",
+      "team1": "FC Viktoria Köln",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-15",
+      "team1": "SG Großaspach",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-15",
+      "team1": "SpVgg Unterhaching",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 19",
+      "date": "2019-12-16",
+      "team1": "FC Ingolstadt 04",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-20",
+      "team1": "FC Viktoria Köln",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-21",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-21",
+      "team1": "FSV Zwickau",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-21",
+      "team1": "SG Großaspach",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-21",
+      "team1": "SpVgg Unterhaching",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-21",
+      "team1": "Eintracht Braunschweig",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-21",
+      "team1": "Preußen Münster",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-22",
+      "team1": "Hallescher FC",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-22",
+      "team1": "FC Ingolstadt 04",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 20",
+      "date": "2019-12-22",
+      "team1": "Bayern München II",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-24",
+      "team1": "Hansa Rostock",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-25",
+      "team1": "MSV Duisburg",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-25",
+      "team1": "SV Meppen",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-25",
+      "team1": "Würzburger Kickers",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-25",
+      "team1": "1. FC Magdeburg",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-25",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-25",
+      "team1": "Chemnitzer FC",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-26",
+      "team1": "TSV 1860 München",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-26",
+      "team1": "KFC Uerdingen",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 21",
+      "date": "2020-01-27",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-01-31",
+      "team1": "Hallescher FC",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-01",
+      "team1": "Eintracht Braunschweig",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-01",
+      "team1": "SpVgg Unterhaching",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-01",
+      "team1": "SV Meppen",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-01",
+      "team1": "Preußen Münster",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-01",
+      "team1": "Bayern München II",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-01",
+      "team1": "FC Ingolstadt 04",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-02",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-02",
+      "team1": "FSV Zwickau",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 22",
+      "date": "2020-02-03",
+      "team1": "SG Großaspach",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          0,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-07",
+      "team1": "MSV Duisburg",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-08",
+      "team1": "KFC Uerdingen",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-08",
+      "team1": "Hansa Rostock",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-08",
+      "team1": "1. FC Magdeburg",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-08",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-08",
+      "team1": "TSV 1860 München",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-08",
+      "team1": "FC Viktoria Köln",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-09",
+      "team1": "Würzburger Kickers",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-09",
+      "team1": "Chemnitzer FC",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 23",
+      "date": "2020-02-10",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-14",
+      "team1": "Preußen Münster",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-15",
+      "team1": "1. FC Magdeburg",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-15",
+      "team1": "Eintracht Braunschweig",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-15",
+      "team1": "FC Ingolstadt 04",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-15",
+      "team1": "SG Großaspach",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-15",
+      "team1": "SpVgg Unterhaching",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-15",
+      "team1": "SV Meppen",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-16",
+      "team1": "FSV Zwickau",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-16",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 24",
+      "date": "2020-02-17",
+      "team1": "Bayern München II",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-21",
+      "team1": "FC Viktoria Köln",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-22",
+      "team1": "Hansa Rostock",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-22",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-22",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-22",
+      "team1": "Würzburger Kickers",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-22",
+      "team1": "KFC Uerdingen",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-22",
+      "team1": "MSV Duisburg",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-23",
+      "team1": "TSV 1860 München",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-23",
+      "team1": "Hallescher FC",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 25",
+      "date": "2020-02-24",
+      "team1": "Chemnitzer FC",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-28",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-29",
+      "team1": "FSV Zwickau",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-29",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-29",
+      "team1": "SG Großaspach",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-29",
+      "team1": "Eintracht Braunschweig",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-29",
+      "team1": "TSV 1860 München",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-02-29",
+      "team1": "1. FC Magdeburg",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          6,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-03-01",
+      "team1": "FC Ingolstadt 04",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-03-01",
+      "team1": "SV Meppen",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 26",
+      "date": "2020-03-02",
+      "team1": "Preußen Münster",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-06",
+      "team1": "MSV Duisburg",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-07",
+      "team1": "Chemnitzer FC",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-07",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-07",
+      "team1": "FC Viktoria Köln",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-07",
+      "team1": "Würzburger Kickers",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-07",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-07",
+      "team1": "Bayern München II",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-08",
+      "team1": "KFC Uerdingen",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-08",
+      "team1": "Hallescher FC",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 27",
+      "date": "2020-03-09",
+      "team1": "Hansa Rostock",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "1. FC Magdeburg",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "FSV Zwickau",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "SV Meppen",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "Eintracht Braunschweig",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "SG Großaspach",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-31",
+      "team1": "TSV 1860 München",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-31",
+      "team1": "Preußen Münster",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 28",
+      "date": "2020-05-31",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-02",
+      "team1": "Würzburger Kickers",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-02",
+      "team1": "KFC Uerdingen",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-02",
+      "team1": "FC Viktoria Köln",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-02",
+      "team1": "SpVgg Unterhaching",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-02",
+      "team1": "Hansa Rostock",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-03",
+      "team1": "Bayern München II",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-03",
+      "team1": "MSV Duisburg",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-03",
+      "team1": "Hallescher FC",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-03",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 29",
+      "date": "2020-06-03",
+      "team1": "Chemnitzer FC",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-05",
+      "team1": "1. FC Magdeburg",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-06",
+      "team1": "TSV 1860 München",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-06",
+      "team1": "FSV Zwickau",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-06",
+      "team1": "MSV Duisburg",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-06",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-06",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-06",
+      "team1": "SV Meppen",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-07",
+      "team1": "Preußen Münster",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-07",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 30",
+      "date": "2020-06-07",
+      "team1": "FC Ingolstadt 04",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-09",
+      "team1": "FC Viktoria Köln",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-09",
+      "team1": "KFC Uerdingen",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-09",
+      "team1": "Bayern München II",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-09",
+      "team1": "Hallescher FC",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-09",
+      "team1": "Hansa Rostock",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-10",
+      "team1": "SG Großaspach",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-10",
+      "team1": "Würzburger Kickers",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-10",
+      "team1": "Chemnitzer FC",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-10",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 31",
+      "date": "2020-06-10",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-12",
+      "team1": "SV Meppen",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-13",
+      "team1": "TSV 1860 München",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-13",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-13",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-13",
+      "team1": "1. FC Magdeburg",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-13",
+      "team1": "MSV Duisburg",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-13",
+      "team1": "Preußen Münster",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-14",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-14",
+      "team1": "FSV Zwickau",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 32",
+      "date": "2020-06-14",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-16",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-16",
+      "team1": "Würzburger Kickers",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-16",
+      "team1": "Chemnitzer FC",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-16",
+      "team1": "Hallescher FC",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-16",
+      "team1": "FC Viktoria Köln",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-17",
+      "team1": "SG Großaspach",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-17",
+      "team1": "Bayern München II",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-17",
+      "team1": "SpVgg Unterhaching",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-17",
+      "team1": "KFC Uerdingen",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 33",
+      "date": "2020-06-17",
+      "team1": "Hansa Rostock",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-19",
+      "team1": "Würzburger Kickers",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-20",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-20",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "KFC Uerdingen",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-20",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-20",
+      "team1": "1. FC Magdeburg",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-20",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-20",
+      "team1": "MSV Duisburg",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-21",
+      "team1": "SV Meppen",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-21",
+      "team1": "TSV 1860 München",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 34",
+      "date": "2020-06-21",
+      "team1": "FSV Zwickau",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-23",
+      "team1": "KFC Uerdingen",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-23",
+      "team1": "Chemnitzer FC",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-23",
+      "team1": "Hansa Rostock",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-23",
+      "team1": "FC Viktoria Köln",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-24",
+      "team1": "Preußen Münster",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-24",
+      "team1": "SG Großaspach",
+      "team2": "SV Meppen",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-24",
+      "team1": "SpVgg Unterhaching",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-24",
+      "team1": "Bayern München II",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-24",
+      "team1": "FC Ingolstadt 04",
+      "team2": "SV Waldhof Mannheim",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 35",
+      "date": "2020-06-24",
+      "team1": "Hallescher FC",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-26",
+      "team1": "KFC Uerdingen",
+      "team2": "Chemnitzer FC",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "Würzburger Kickers",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FC Viktoria Köln",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "TSV 1860 München",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "MSV Duisburg",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "FSV Zwickau",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-27",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Bayern München II",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-28",
+      "team1": "SV Meppen",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 36",
+      "date": "2020-06-28",
+      "team1": "1. FC Magdeburg",
+      "team2": "SG Großaspach",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "SG Großaspach",
+      "team2": "TSV 1860 München"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "FSV Zwickau",
+      "team2": "Chemnitzer FC"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "SpVgg Unterhaching",
+      "team2": "FC Carl Zeiss Jena"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "Preußen Münster",
+      "team2": "SV Meppen"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "FC Viktoria Köln",
+      "team2": "Würzburger Kickers"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "FC Ingolstadt 04",
+      "team2": "1. FC Magdeburg"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "Bayern München II",
+      "team2": "MSV Duisburg"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SV Waldhof Mannheim"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "Hallescher FC",
+      "team2": "1. FC Kaiserslautern"
+    },
+    {
+      "round": "Spieltag 37",
+      "date": "2020-07-01",
+      "team1": "Hansa Rostock",
+      "team2": "KFC Uerdingen"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "SV Meppen",
+      "team2": "Eintracht Braunschweig"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "Chemnitzer FC",
+      "team2": "Hansa Rostock"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Bayern München II"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "TSV 1860 München",
+      "team2": "FC Ingolstadt 04"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "SG Großaspach"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "MSV Duisburg",
+      "team2": "SpVgg Unterhaching"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "Würzburger Kickers",
+      "team2": "Hallescher FC"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "KFC Uerdingen",
+      "team2": "FC Viktoria Köln"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "1. FC Magdeburg",
+      "team2": "Preußen Münster"
+    },
+    {
+      "round": "Spieltag 38",
+      "date": "2020-07-04",
+      "team1": "SV Waldhof Mannheim",
+      "team2": "FSV Zwickau"
     }
   ]
 }
