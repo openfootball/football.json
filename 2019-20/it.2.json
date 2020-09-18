@@ -1,4015 +1,4205 @@
 {
   "name": "Serie B 2019/20",
-  "rounds": [
+  "matches": [
     {
-      "name": "1^ Giornata",
-      "matches": [
-        {
-          "date": "2019-08-23",
-          "team1": "AC Pisa",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "FC Crotone",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Salernitana",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Ascoli",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Virtus Entella",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Venezia",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-08-24",
-          "team1": "Cittadella",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-08-25",
-          "team1": "Empoli",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-25",
-          "team1": "AC Perugia",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-26",
-          "team1": "Pordenone Calcio",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-23",
+      "team1": "AC Pisa",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "2^ Giornata",
-      "matches": [
-        {
-          "date": "2019-08-30",
-          "team1": "AC Chievo Verona",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Trapani Calcio",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Benevento",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Cosenza Calcio",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Cremonese",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "AS Livorno Calcio",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-08-31",
-          "team1": "Spezia",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-01",
-          "team1": "SS Juve Stabia",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-01",
-          "team1": "Pescara",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-01",
-          "team1": "Frosinone",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-24",
+      "team1": "FC Crotone",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "3^ Giornata",
-      "matches": [
-        {
-          "date": "2019-09-13",
-          "team1": "Pordenone Calcio",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "Ascoli",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "Cittadella",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "AC Perugia",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "Venezia",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-14",
-          "team1": "Virtus Entella",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-15",
-          "team1": "Cosenza Calcio",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-15",
-          "team1": "FC Crotone",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-15",
-          "team1": "AC Pisa",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-16",
-          "team1": "Salernitana",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-24",
+      "team1": "Salernitana",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "name": "4^ Giornata",
-      "matches": [
-        {
-          "date": "2019-09-20",
-          "team1": "Frosinone",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Cremonese",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Benevento",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Empoli",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "SS Juve Stabia",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              1,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "AS Livorno Calcio",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Pescara",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "AC Chievo Verona",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-21",
-          "team1": "Spezia",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-22",
-          "team1": "Trapani Calcio",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-24",
+      "team1": "Ascoli",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "name": "5^ Giornata",
-      "matches": [
-        {
-          "date": "2019-09-24",
-          "team1": "Ascoli",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "Cittadella",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "Cosenza Calcio",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "FC Crotone",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "Virtus Entella",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "AC Pisa",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "Pordenone Calcio",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-24",
-          "team1": "AC Perugia",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-25",
-          "team1": "Salernitana",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-25",
-          "team1": "Trapani Calcio",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-24",
+      "team1": "Virtus Entella",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "6^ Giornata",
-      "matches": [
-        {
-          "date": "2019-09-27",
-          "team1": "Pescara",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "Frosinone",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "SS Juve Stabia",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "Venezia",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-28",
-          "team1": "Empoli",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-09-29",
-          "team1": "Benevento",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-29",
-          "team1": "AC Chievo Verona",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-09-29",
-          "team1": "Spezia",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              2,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-09-29",
-          "team1": "AS Livorno Calcio",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-09-30",
-          "team1": "Cremonese",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-24",
+      "team1": "Venezia",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "name": "7^ Giornata",
-      "matches": [
-        {
-          "date": "2019-10-04",
-          "team1": "AC Perugia",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "Trapani Calcio",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "Cosenza Calcio",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "AS Livorno Calcio",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              3,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "Pordenone Calcio",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "Spezia",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-05",
-          "team1": "FC Crotone",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-06",
-          "team1": "Cremonese",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-06",
-          "team1": "Salernitana",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-06",
-          "team1": "Ascoli",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-24",
+      "team1": "Cittadella",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "name": "8^ Giornata",
-      "matches": [
-        {
-          "date": "2019-10-18",
-          "team1": "Cittadella",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "SS Juve Stabia",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "Pescara",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "Benevento",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "Virtus Entella",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-19",
-          "team1": "Venezia",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-20",
-          "team1": "AC Chievo Verona",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-20",
-          "team1": "AC Pisa",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-20",
-          "team1": "Empoli",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-21",
-          "team1": "Frosinone",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-25",
+      "team1": "Empoli",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "9^ Giornata",
-      "matches": [
-        {
-          "date": "2019-10-25",
-          "team1": "Ascoli",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "FC Crotone",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Cosenza Calcio",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Pescara",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Pordenone Calcio",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Salernitana",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "AS Livorno Calcio",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Trapani Calcio",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-26",
-          "team1": "Spezia",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-27",
-          "team1": "Cremonese",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-25",
+      "team1": "AC Perugia",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "10^ Giornata",
-      "matches": [
-        {
-          "date": "2019-10-29",
-          "team1": "SS Juve Stabia",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "Cittadella",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "Empoli",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "AC Chievo Verona",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "Virtus Entella",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "AC Pisa",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "Venezia",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-10-29",
-          "team1": "AC Perugia",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-10-30",
-          "team1": "Benevento",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-10-30",
-          "team1": "Frosinone",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "1^ Giornata",
+      "date": "2019-08-26",
+      "team1": "Pordenone Calcio",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "name": "11^ Giornata",
-      "matches": [
-        {
-          "date": "2019-11-01",
-          "team1": "Spezia",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "Ascoli",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "FC Crotone",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "Salernitana",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "Pescara",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-02",
-          "team1": "AS Livorno Calcio",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-03",
-          "team1": "Cittadella",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-03",
-          "team1": "Benevento",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-03",
-          "team1": "Pordenone Calcio",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-04",
-          "team1": "Cosenza Calcio",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-30",
+      "team1": "AC Chievo Verona",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "12^ Giornata",
-      "matches": [
-        {
-          "date": "2019-11-08",
-          "team1": "FC Crotone",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "AC Perugia",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "Empoli",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "AC Pisa",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "Venezia",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "Virtus Entella",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-09",
-          "team1": "SS Juve Stabia",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-10",
-          "team1": "Cremonese",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-10",
-          "team1": "Trapani Calcio",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-10",
-          "team1": "Frosinone",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-31",
+      "team1": "Trapani Calcio",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "name": "13^ Giornata",
-      "matches": [
-        {
-          "date": "2019-11-22",
-          "team1": "Pescara",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "Empoli",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "SS Juve Stabia",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "AS Livorno Calcio",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "Pordenone Calcio",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-23",
-          "team1": "Benevento",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-24",
-          "team1": "Ascoli",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-24",
-          "team1": "Cittadella",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-24",
-          "team1": "Spezia",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-25",
-          "team1": "AC Chievo Verona",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-31",
+      "team1": "Benevento",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "name": "14^ Giornata",
-      "matches": [
-        {
-          "date": "2019-11-29",
-          "team1": "Cosenza Calcio",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Cremonese",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "FC Crotone",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Frosinone",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Venezia",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-11-30",
-          "team1": "Salernitana",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-01",
-          "team1": "Trapani Calcio",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-01",
-          "team1": "Virtus Entella",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-01",
-          "team1": "AC Perugia",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-02",
-          "team1": "AC Pisa",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-31",
+      "team1": "Cosenza Calcio",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "name": "15^ Giornata",
-      "matches": [
-        {
-          "date": "2019-12-06",
-          "team1": "Benevento",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              5,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "Cittadella",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              4,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "Empoli",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "AC Chievo Verona",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "Spezia",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-07",
-          "team1": "Pescara",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-08",
-          "team1": "SS Juve Stabia",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-08",
-          "team1": "AC Pisa",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-08",
-          "team1": "Pordenone Calcio",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-09",
-          "team1": "AC Perugia",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-31",
+      "team1": "US Cremonese",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "name": "16^ Giornata",
-      "matches": [
-        {
-          "date": "2019-12-13",
-          "team1": "AC Chievo Verona",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Ascoli",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "AS Livorno Calcio",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Venezia",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Virtus Entella",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-14",
-          "team1": "Frosinone",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-15",
-          "team1": "Cosenza Calcio",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-15",
-          "team1": "Salernitana",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-15",
-          "team1": "Cremonese",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-16",
-          "team1": "Trapani Calcio",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-31",
+      "team1": "AS Livorno Calcio",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "name": "17^ Giornata",
-      "matches": [
-        {
-          "date": "2019-12-21",
-          "team1": "Cittadella",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "FC Crotone",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "Empoli",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "Benevento",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "AC Perugia",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-21",
-          "team1": "SS Juve Stabia",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-22",
-          "team1": "Pescara",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-22",
-          "team1": "Pordenone Calcio",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-22",
-          "team1": "AC Pisa",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-11",
-          "team1": "Spezia",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-08-31",
+      "team1": "Spezia",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "name": "18^ Giornata",
-      "matches": [
-        {
-          "date": "2019-12-26",
-          "team1": "Virtus Entella",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Cosenza Calcio",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "AC Chievo Verona",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Cremonese",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Frosinone",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "AS Livorno Calcio",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Salernitana",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Trapani Calcio",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Venezia",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2019-12-26",
-          "team1": "Ascoli",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-09-01",
+      "team1": "SS Juve Stabia",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "19^ Giornata",
-      "matches": [
-        {
-          "date": "2019-12-29",
-          "team1": "Empoli",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "Pescara",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "Cittadella",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "FC Crotone",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "SS Juve Stabia",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "AC Perugia",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "AC Pisa",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "Pordenone Calcio",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "Spezia",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2019-12-29",
-          "team1": "Benevento",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-09-01",
+      "team1": "Pescara",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
-      "name": "20^ Giornata",
-      "matches": [
-        {
-          "date": "2020-01-17",
-          "team1": "Frosinone",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-18",
-          "team1": "AS Livorno Calcio",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              4,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2020-01-18",
-          "team1": "Trapani Calcio",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-18",
-          "team1": "SS Juve Stabia",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-01-18",
-          "team1": "AC Chievo Verona",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-01-18",
-          "team1": "Cremonese",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-01-19",
-          "team1": "Pescara",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-19",
-          "team1": "Spezia",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-19",
-          "team1": "Benevento",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-20",
-          "team1": "Cosenza Calcio",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "2^ Giornata",
+      "date": "2019-09-01",
+      "team1": "Frosinone",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "21^ Giornata",
-      "matches": [
-        {
-          "date": "2020-01-24",
-          "team1": "Empoli",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "Pordenone Calcio",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "Cittadella",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "Virtus Entella",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "AC Pisa",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-25",
-          "team1": "Salernitana",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-26",
-          "team1": "Ascoli",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-26",
-          "team1": "FC Crotone",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-01-26",
-          "team1": "Venezia",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-01-27",
-          "team1": "AC Perugia",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-13",
+      "team1": "Pordenone Calcio",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "22^ Giornata",
-      "matches": [
-        {
-          "date": "2020-01-31",
-          "team1": "Cremonese",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              3,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Frosinone",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "AS Livorno Calcio",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Trapani Calcio",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Spezia",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-01",
-          "team1": "Empoli",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-02",
-          "team1": "Benevento",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-02",
-          "team1": "SS Juve Stabia",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-02",
-          "team1": "AC Chievo Verona",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-03",
-          "team1": "Pescara",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-14",
+      "team1": "Ascoli",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "23^ Giornata",
-      "matches": [
-        {
-          "date": "2020-02-07",
-          "team1": "Ascoli",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "Pordenone Calcio",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "FC Crotone",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "Cittadella",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "AC Perugia",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-08",
-          "team1": "Venezia",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-09",
-          "team1": "Virtus Entella",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-09",
-          "team1": "AC Pisa",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-09",
-          "team1": "Cosenza Calcio",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-10",
-          "team1": "Salernitana",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-14",
+      "team1": "Cittadella",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "24^ Giornata",
-      "matches": [
-        {
-          "date": "2020-02-14",
-          "team1": "Pescara",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "AS Livorno Calcio",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "SS Juve Stabia",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "Benevento",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "Spezia",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-15",
-          "team1": "Venezia",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-16",
-          "team1": "Frosinone",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-16",
-          "team1": "Cremonese",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              5,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-16",
-          "team1": "Empoli",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-17",
-          "team1": "AC Chievo Verona",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-14",
+      "team1": "AC Perugia",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "25^ Giornata",
-      "matches": [
-        {
-          "date": "2020-02-21",
-          "team1": "Cosenza Calcio",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "Virtus Entella",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "Cittadella",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "AC Pisa",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-22",
-          "team1": "Trapani Calcio",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-23",
-          "team1": "Pordenone Calcio",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-23",
-          "team1": "Salernitana",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-23",
-          "team1": "FC Crotone",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-24",
-          "team1": "AC Perugia",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-17",
-          "team1": "Ascoli",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-14",
+      "team1": "Venezia",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "26^ Giornata",
-      "matches": [
-        {
-          "date": "2020-02-28",
-          "team1": "Virtus Entella",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "AC Pisa",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "Venezia",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "AC Chievo Verona",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "Frosinone",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "Empoli",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "Benevento",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "SS Juve Stabia",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-02-29",
-          "team1": "Cittadella",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-01",
-          "team1": "Pescara",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-14",
+      "team1": "Virtus Entella",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "27^ Giornata",
-      "matches": [
-        {
-          "date": "2020-03-03",
-          "team1": "Cremonese",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "AC Perugia",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "Cosenza Calcio",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "Trapani Calcio",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "Salernitana",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "Pordenone Calcio",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "FC Crotone",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-03",
-          "team1": "AS Livorno Calcio",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-04",
-          "team1": "Ascoli",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-04",
-          "team1": "Spezia",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-15",
+      "team1": "Cosenza Calcio",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "name": "28^ Giornata",
-      "matches": [
-        {
-          "date": "2020-03-07",
-          "team1": "Frosinone",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "Cittadella",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "AC Perugia",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "Venezia",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "AC Pisa",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-07",
-          "team1": "Empoli",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-08",
-          "team1": "SS Juve Stabia",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-03-08",
-          "team1": "Virtus Entella",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-08",
-          "team1": "Benevento",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-03-09",
-          "team1": "AC Chievo Verona",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-15",
+      "team1": "FC Crotone",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "29^ Giornata",
-      "matches": [
-        {
-          "date": "2020-06-19",
-          "team1": "Spezia",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "Trapani Calcio",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "AS Livorno Calcio",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "FC Crotone",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "Pescara",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "Pordenone Calcio",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "Cosenza Calcio",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-20",
-          "team1": "Salernitana",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-21",
-          "team1": "Cremonese",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-21",
-          "team1": "Ascoli",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-15",
+      "team1": "AC Pisa",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "name": "30^ Giornata",
-      "matches": [
-        {
-          "date": "2020-06-26",
-          "team1": "Frosinone",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "Venezia",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "Empoli",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "Trapani Calcio",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "Cremonese",
-          "team2": "Cosenza Calcio",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "AC Perugia",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "SS Juve Stabia",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "AC Pisa",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "AC Chievo Verona",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-26",
-          "team1": "Virtus Entella",
-          "team2": "Salernitana",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "3^ Giornata",
+      "date": "2019-09-16",
+      "team1": "Salernitana",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "31^ Giornata",
-      "matches": [
-        {
-          "date": "2020-06-29",
-          "team1": "Salernitana",
-          "team2": "Cremonese",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Ascoli",
-          "team2": "FC Crotone",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Pescara",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Pordenone Calcio",
-          "team2": "Virtus Entella",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Benevento",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Cittadella",
-          "team2": "AC Perugia",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Spezia",
-          "team2": "AC Pisa",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "Cosenza Calcio",
-          "team2": "Trapani Calcio",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "AS Livorno Calcio",
-          "team2": "Venezia",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-06-29",
-          "team1": "AC Chievo Verona",
-          "team2": "Frosinone",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-20",
+      "team1": "Frosinone",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "32^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-03",
-          "team1": "AC Pisa",
-          "team2": "Cittadella",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Cosenza Calcio",
-          "team2": "Ascoli",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "FC Crotone",
-          "team2": "Benevento",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Frosinone",
-          "team2": "Spezia",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Venezia",
-          "team2": "Empoli",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Salernitana",
-          "team2": "SS Juve Stabia",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Trapani Calcio",
-          "team2": "AS Livorno Calcio",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Cremonese",
-          "team2": "Pescara",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "AC Perugia",
-          "team2": "Pordenone Calcio",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2020-07-03",
-          "team1": "Virtus Entella",
-          "team2": "AC Chievo Verona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "US Cremonese",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "33^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-10",
-          "team1": "SS Juve Stabia",
-          "team2": "Virtus Entella"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Spezia",
-          "team2": "Cosenza Calcio"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "AS Livorno Calcio",
-          "team2": "Cremonese"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Cittadella",
-          "team2": "FC Crotone"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Empoli",
-          "team2": "Frosinone"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Pescara",
-          "team2": "AC Perugia"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Pordenone Calcio",
-          "team2": "AC Pisa"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Ascoli",
-          "team2": "Salernitana"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "AC Chievo Verona",
-          "team2": "Trapani Calcio"
-        },
-        {
-          "date": "2020-07-10",
-          "team1": "Benevento",
-          "team2": "Venezia"
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "Benevento",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "34^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-13",
-          "team1": "Cosenza Calcio",
-          "team2": "AC Perugia"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Trapani Calcio",
-          "team2": "Benevento"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Cremonese",
-          "team2": "AC Chievo Verona"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Salernitana",
-          "team2": "Cittadella"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "AS Livorno Calcio",
-          "team2": "Spezia"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Frosinone",
-          "team2": "SS Juve Stabia"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Venezia",
-          "team2": "Pescara"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Virtus Entella",
-          "team2": "AC Pisa"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "FC Crotone",
-          "team2": "Pordenone Calcio"
-        },
-        {
-          "date": "2020-07-13",
-          "team1": "Ascoli",
-          "team2": "Empoli"
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "Empoli",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "35^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-17",
-          "team1": "Pescara",
-          "team2": "Frosinone"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "Cittadella",
-          "team2": "Ascoli"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "SS Juve Stabia",
-          "team2": "AC Chievo Verona"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "Pordenone Calcio",
-          "team2": "Cosenza Calcio"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "AC Perugia",
-          "team2": "Cremonese"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "Benevento",
-          "team2": "AS Livorno Calcio"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "FC Crotone",
-          "team2": "Salernitana"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "AC Pisa",
-          "team2": "Trapani Calcio"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "Spezia",
-          "team2": "Venezia"
-        },
-        {
-          "date": "2020-07-17",
-          "team1": "Empoli",
-          "team2": "Virtus Entella"
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "SS Juve Stabia",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
-      "name": "36^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-24",
-          "team1": "AS Livorno Calcio",
-          "team2": "FC Crotone"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Frosinone",
-          "team2": "Benevento"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "AC Chievo Verona",
-          "team2": "Cittadella"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Salernitana",
-          "team2": "Empoli"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Cremonese",
-          "team2": "Spezia"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Virtus Entella",
-          "team2": "AC Perugia"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Trapani Calcio",
-          "team2": "Pescara"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Cosenza Calcio",
-          "team2": "AC Pisa"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Ascoli",
-          "team2": "Pordenone Calcio"
-        },
-        {
-          "date": "2020-07-24",
-          "team1": "Venezia",
-          "team2": "SS Juve Stabia"
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "AS Livorno Calcio",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "37^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-27",
-          "team1": "Spezia",
-          "team2": "Virtus Entella"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "Benevento",
-          "team2": "AC Chievo Verona"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "Empoli",
-          "team2": "Cosenza Calcio"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "SS Juve Stabia",
-          "team2": "Cremonese"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "FC Crotone",
-          "team2": "Frosinone"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "Pescara",
-          "team2": "AS Livorno Calcio"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "Pordenone Calcio",
-          "team2": "Salernitana"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "AC Perugia",
-          "team2": "Trapani Calcio"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "Cittadella",
-          "team2": "Venezia"
-        },
-        {
-          "date": "2020-07-27",
-          "team1": "AC Pisa",
-          "team2": "Ascoli"
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "Pescara",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "38^ Giornata",
-      "matches": [
-        {
-          "date": "2020-07-31",
-          "team1": "Ascoli",
-          "team2": "Benevento"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Virtus Entella",
-          "team2": "Cittadella"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Trapani Calcio",
-          "team2": "FC Crotone"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "AS Livorno Calcio",
-          "team2": "Empoli"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Cosenza Calcio",
-          "team2": "SS Juve Stabia"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Venezia",
-          "team2": "AC Perugia"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "AC Chievo Verona",
-          "team2": "Pescara"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Frosinone",
-          "team2": "AC Pisa"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Cremonese",
-          "team2": "Pordenone Calcio"
-        },
-        {
-          "date": "2020-07-31",
-          "team1": "Salernitana",
-          "team2": "Spezia"
-        }
-      ]
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "AC Chievo Verona",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "4^ Giornata",
+      "date": "2019-09-21",
+      "team1": "Spezia",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "4^ Giornata",
+      "date": "2019-09-22",
+      "team1": "Trapani Calcio",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "Ascoli",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "Cittadella",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "Cosenza Calcio",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "FC Crotone",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "Virtus Entella",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "AC Pisa",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "Pordenone Calcio",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-24",
+      "team1": "AC Perugia",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-25",
+      "team1": "Salernitana",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "5^ Giornata",
+      "date": "2019-09-25",
+      "team1": "Trapani Calcio",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-27",
+      "team1": "Pescara",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-28",
+      "team1": "Frosinone",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-28",
+      "team1": "SS Juve Stabia",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-28",
+      "team1": "Venezia",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-28",
+      "team1": "Empoli",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-29",
+      "team1": "Benevento",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-29",
+      "team1": "AC Chievo Verona",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-29",
+      "team1": "Spezia",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-29",
+      "team1": "AS Livorno Calcio",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "6^ Giornata",
+      "date": "2019-09-30",
+      "team1": "US Cremonese",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-04",
+      "team1": "AC Perugia",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-05",
+      "team1": "Trapani Calcio",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-05",
+      "team1": "Cosenza Calcio",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-05",
+      "team1": "AS Livorno Calcio",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-05",
+      "team1": "Pordenone Calcio",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-05",
+      "team1": "Spezia",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-05",
+      "team1": "FC Crotone",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-06",
+      "team1": "US Cremonese",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-06",
+      "team1": "Salernitana",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "7^ Giornata",
+      "date": "2019-10-06",
+      "team1": "Ascoli",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-18",
+      "team1": "Cittadella",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-19",
+      "team1": "SS Juve Stabia",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-19",
+      "team1": "Pescara",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-19",
+      "team1": "Benevento",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-19",
+      "team1": "Virtus Entella",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-19",
+      "team1": "Venezia",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-20",
+      "team1": "AC Chievo Verona",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-20",
+      "team1": "AC Pisa",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-20",
+      "team1": "Empoli",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "8^ Giornata",
+      "date": "2019-10-21",
+      "team1": "Frosinone",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-25",
+      "team1": "Ascoli",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "FC Crotone",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "Cosenza Calcio",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "Pescara",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "Pordenone Calcio",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "Salernitana",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "AS Livorno Calcio",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "Trapani Calcio",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-26",
+      "team1": "Spezia",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "9^ Giornata",
+      "date": "2019-10-27",
+      "team1": "US Cremonese",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "SS Juve Stabia",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "Cittadella",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "Empoli",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "AC Chievo Verona",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "Virtus Entella",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "AC Pisa",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "Venezia",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-29",
+      "team1": "AC Perugia",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-30",
+      "team1": "Benevento",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "10^ Giornata",
+      "date": "2019-10-30",
+      "team1": "Frosinone",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-01",
+      "team1": "Spezia",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-02",
+      "team1": "Ascoli",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-02",
+      "team1": "FC Crotone",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-02",
+      "team1": "Salernitana",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-02",
+      "team1": "Pescara",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-02",
+      "team1": "AS Livorno Calcio",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-03",
+      "team1": "Cittadella",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-03",
+      "team1": "Benevento",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-03",
+      "team1": "Pordenone Calcio",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "11^ Giornata",
+      "date": "2019-11-04",
+      "team1": "Cosenza Calcio",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-08",
+      "team1": "FC Crotone",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-09",
+      "team1": "AC Perugia",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-09",
+      "team1": "Empoli",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-09",
+      "team1": "AC Pisa",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-09",
+      "team1": "Venezia",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-09",
+      "team1": "Virtus Entella",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-09",
+      "team1": "SS Juve Stabia",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-10",
+      "team1": "US Cremonese",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-10",
+      "team1": "Trapani Calcio",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "12^ Giornata",
+      "date": "2019-11-10",
+      "team1": "Frosinone",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-22",
+      "team1": "Pescara",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-23",
+      "team1": "Empoli",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-23",
+      "team1": "SS Juve Stabia",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-23",
+      "team1": "AS Livorno Calcio",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-23",
+      "team1": "Pordenone Calcio",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-23",
+      "team1": "Benevento",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-24",
+      "team1": "Ascoli",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-24",
+      "team1": "Cittadella",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-24",
+      "team1": "Spezia",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "13^ Giornata",
+      "date": "2019-11-25",
+      "team1": "AC Chievo Verona",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-11-29",
+      "team1": "Cosenza Calcio",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-11-30",
+      "team1": "US Cremonese",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-11-30",
+      "team1": "FC Crotone",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-11-30",
+      "team1": "Frosinone",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-11-30",
+      "team1": "Venezia",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-11-30",
+      "team1": "Salernitana",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-12-01",
+      "team1": "Trapani Calcio",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-12-01",
+      "team1": "Virtus Entella",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-12-01",
+      "team1": "AC Perugia",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "14^ Giornata",
+      "date": "2019-12-02",
+      "team1": "AC Pisa",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-06",
+      "team1": "Benevento",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-07",
+      "team1": "Cittadella",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-07",
+      "team1": "Empoli",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-07",
+      "team1": "AC Chievo Verona",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-07",
+      "team1": "Spezia",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-07",
+      "team1": "Pescara",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-08",
+      "team1": "SS Juve Stabia",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-08",
+      "team1": "AC Pisa",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-08",
+      "team1": "Pordenone Calcio",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "15^ Giornata",
+      "date": "2019-12-09",
+      "team1": "AC Perugia",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-13",
+      "team1": "AC Chievo Verona",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-14",
+      "team1": "Ascoli",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-14",
+      "team1": "AS Livorno Calcio",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-14",
+      "team1": "Venezia",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-14",
+      "team1": "Virtus Entella",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-14",
+      "team1": "Frosinone",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-15",
+      "team1": "Cosenza Calcio",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-15",
+      "team1": "Salernitana",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-15",
+      "team1": "US Cremonese",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "16^ Giornata",
+      "date": "2019-12-16",
+      "team1": "Trapani Calcio",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-21",
+      "team1": "Cittadella",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-21",
+      "team1": "FC Crotone",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-21",
+      "team1": "Empoli",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-21",
+      "team1": "Benevento",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-21",
+      "team1": "AC Perugia",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-21",
+      "team1": "SS Juve Stabia",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-22",
+      "team1": "Pescara",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-22",
+      "team1": "Pordenone Calcio",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2019-12-22",
+      "team1": "AC Pisa",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Virtus Entella",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Cosenza Calcio",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "AC Chievo Verona",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "US Cremonese",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Frosinone",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "AS Livorno Calcio",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Salernitana",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Trapani Calcio",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Venezia",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "18^ Giornata",
+      "date": "2019-12-26",
+      "team1": "Ascoli",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "Empoli",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "Pescara",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "Cittadella",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "FC Crotone",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "SS Juve Stabia",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "AC Perugia",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "AC Pisa",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "Pordenone Calcio",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "Spezia",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "19^ Giornata",
+      "date": "2019-12-29",
+      "team1": "Benevento",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-17",
+      "team1": "Frosinone",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-18",
+      "team1": "AS Livorno Calcio",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-18",
+      "team1": "Trapani Calcio",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-18",
+      "team1": "SS Juve Stabia",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-18",
+      "team1": "AC Chievo Verona",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-18",
+      "team1": "US Cremonese",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-19",
+      "team1": "Pescara",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-19",
+      "team1": "Spezia",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-19",
+      "team1": "Benevento",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "20^ Giornata",
+      "date": "2020-01-20",
+      "team1": "Cosenza Calcio",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-24",
+      "team1": "Empoli",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-25",
+      "team1": "Pordenone Calcio",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-25",
+      "team1": "Cittadella",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-25",
+      "team1": "Virtus Entella",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-25",
+      "team1": "AC Pisa",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-25",
+      "team1": "Salernitana",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-26",
+      "team1": "Ascoli",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-26",
+      "team1": "FC Crotone",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-26",
+      "team1": "Venezia",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "21^ Giornata",
+      "date": "2020-01-27",
+      "team1": "AC Perugia",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-01-31",
+      "team1": "US Cremonese",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-01",
+      "team1": "Frosinone",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-01",
+      "team1": "AS Livorno Calcio",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-01",
+      "team1": "Trapani Calcio",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-01",
+      "team1": "Spezia",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-01",
+      "team1": "Empoli",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-02",
+      "team1": "Benevento",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-02",
+      "team1": "SS Juve Stabia",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-02",
+      "team1": "AC Chievo Verona",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "22^ Giornata",
+      "date": "2020-02-03",
+      "team1": "Pescara",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-07",
+      "team1": "Ascoli",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-08",
+      "team1": "Pordenone Calcio",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-08",
+      "team1": "FC Crotone",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-08",
+      "team1": "Cittadella",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-08",
+      "team1": "AC Perugia",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-08",
+      "team1": "Venezia",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-09",
+      "team1": "Virtus Entella",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-09",
+      "team1": "AC Pisa",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-09",
+      "team1": "Cosenza Calcio",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "23^ Giornata",
+      "date": "2020-02-10",
+      "team1": "Salernitana",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "17^ Giornata",
+      "date": "2020-02-11",
+      "team1": "Spezia",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-14",
+      "team1": "Pescara",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-15",
+      "team1": "AS Livorno Calcio",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-15",
+      "team1": "SS Juve Stabia",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-15",
+      "team1": "Benevento",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-15",
+      "team1": "Spezia",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-15",
+      "team1": "Venezia",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-16",
+      "team1": "Frosinone",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-16",
+      "team1": "US Cremonese",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-16",
+      "team1": "Empoli",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "24^ Giornata",
+      "date": "2020-02-17",
+      "team1": "AC Chievo Verona",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-21",
+      "team1": "Cosenza Calcio",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-22",
+      "team1": "Virtus Entella",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-22",
+      "team1": "Cittadella",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-22",
+      "team1": "AC Pisa",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-22",
+      "team1": "Trapani Calcio",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-23",
+      "team1": "Pordenone Calcio",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-23",
+      "team1": "Salernitana",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-23",
+      "team1": "FC Crotone",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-02-24",
+      "team1": "AC Perugia",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-28",
+      "team1": "Virtus Entella",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "AC Pisa",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "Venezia",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "AC Chievo Verona",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "Frosinone",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "Empoli",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "Benevento",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "SS Juve Stabia",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-02-29",
+      "team1": "Cittadella",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "26^ Giornata",
+      "date": "2020-03-01",
+      "team1": "Pescara",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "US Cremonese",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "AC Perugia",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "Cosenza Calcio",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "Trapani Calcio",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "Salernitana",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "Pordenone Calcio",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "FC Crotone",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-03",
+      "team1": "AS Livorno Calcio",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-04",
+      "team1": "Ascoli",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "27^ Giornata",
+      "date": "2020-03-04",
+      "team1": "Spezia",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-07",
+      "team1": "Frosinone",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-07",
+      "team1": "Cittadella",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-07",
+      "team1": "AC Perugia",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-07",
+      "team1": "Venezia",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-07",
+      "team1": "AC Pisa",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-07",
+      "team1": "Empoli",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-08",
+      "team1": "SS Juve Stabia",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-08",
+      "team1": "Virtus Entella",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-08",
+      "team1": "Benevento",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "28^ Giornata",
+      "date": "2020-03-09",
+      "team1": "AC Chievo Verona",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "25^ Giornata",
+      "date": "2020-06-17",
+      "team1": "Ascoli",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-19",
+      "team1": "Spezia",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "Trapani Calcio",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "AS Livorno Calcio",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "FC Crotone",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "Pescara",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "Pordenone Calcio",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "Cosenza Calcio",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-20",
+      "team1": "Salernitana",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-21",
+      "team1": "US Cremonese",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "29^ Giornata",
+      "date": "2020-06-21",
+      "team1": "Ascoli",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "Frosinone",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "Venezia",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "Empoli",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "Trapani Calcio",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "US Cremonese",
+      "team2": "Cosenza Calcio",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "AC Perugia",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "SS Juve Stabia",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "AC Pisa",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "AC Chievo Verona",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "30^ Giornata",
+      "date": "2020-06-26",
+      "team1": "Virtus Entella",
+      "team2": "Salernitana",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Salernitana",
+      "team2": "US Cremonese",
+      "score": {
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Ascoli",
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Pescara",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Pordenone Calcio",
+      "team2": "Virtus Entella",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Benevento",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Cittadella",
+      "team2": "AC Perugia",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Spezia",
+      "team2": "AC Pisa",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "Cosenza Calcio",
+      "team2": "Trapani Calcio",
+      "score": {
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "AS Livorno Calcio",
+      "team2": "Venezia",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "31^ Giornata",
+      "date": "2020-06-29",
+      "team1": "AC Chievo Verona",
+      "team2": "Frosinone",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "AC Pisa",
+      "team2": "Cittadella",
+      "score": {
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "Cosenza Calcio",
+      "team2": "Ascoli",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "FC Crotone",
+      "team2": "Benevento",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "Frosinone",
+      "team2": "Spezia",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "Venezia",
+      "team2": "Empoli",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "Salernitana",
+      "team2": "SS Juve Stabia",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "Trapani Calcio",
+      "team2": "AS Livorno Calcio",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "US Cremonese",
+      "team2": "Pescara",
+      "score": {
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "AC Perugia",
+      "team2": "Pordenone Calcio",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "32^ Giornata",
+      "date": "2020-07-03",
+      "team1": "Virtus Entella",
+      "team2": "AC Chievo Verona",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "SS Juve Stabia",
+      "team2": "Virtus Entella"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Spezia",
+      "team2": "Cosenza Calcio"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "AS Livorno Calcio",
+      "team2": "US Cremonese"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Cittadella",
+      "team2": "FC Crotone"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Empoli",
+      "team2": "Frosinone"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Pescara",
+      "team2": "AC Perugia"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Pordenone Calcio",
+      "team2": "AC Pisa"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Ascoli",
+      "team2": "Salernitana"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "AC Chievo Verona",
+      "team2": "Trapani Calcio"
+    },
+    {
+      "round": "33^ Giornata",
+      "date": "2020-07-10",
+      "team1": "Benevento",
+      "team2": "Venezia"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Cosenza Calcio",
+      "team2": "AC Perugia"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Trapani Calcio",
+      "team2": "Benevento"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "US Cremonese",
+      "team2": "AC Chievo Verona"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Salernitana",
+      "team2": "Cittadella"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "AS Livorno Calcio",
+      "team2": "Spezia"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Frosinone",
+      "team2": "SS Juve Stabia"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Venezia",
+      "team2": "Pescara"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Virtus Entella",
+      "team2": "AC Pisa"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "FC Crotone",
+      "team2": "Pordenone Calcio"
+    },
+    {
+      "round": "34^ Giornata",
+      "date": "2020-07-13",
+      "team1": "Ascoli",
+      "team2": "Empoli"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "Pescara",
+      "team2": "Frosinone"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "Cittadella",
+      "team2": "Ascoli"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "SS Juve Stabia",
+      "team2": "AC Chievo Verona"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "Pordenone Calcio",
+      "team2": "Cosenza Calcio"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "AC Perugia",
+      "team2": "US Cremonese"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "Benevento",
+      "team2": "AS Livorno Calcio"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "FC Crotone",
+      "team2": "Salernitana"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "AC Pisa",
+      "team2": "Trapani Calcio"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "Spezia",
+      "team2": "Venezia"
+    },
+    {
+      "round": "35^ Giornata",
+      "date": "2020-07-17",
+      "team1": "Empoli",
+      "team2": "Virtus Entella"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "AS Livorno Calcio",
+      "team2": "FC Crotone"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Frosinone",
+      "team2": "Benevento"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "AC Chievo Verona",
+      "team2": "Cittadella"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Salernitana",
+      "team2": "Empoli"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "US Cremonese",
+      "team2": "Spezia"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Virtus Entella",
+      "team2": "AC Perugia"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Trapani Calcio",
+      "team2": "Pescara"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Cosenza Calcio",
+      "team2": "AC Pisa"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Ascoli",
+      "team2": "Pordenone Calcio"
+    },
+    {
+      "round": "36^ Giornata",
+      "date": "2020-07-24",
+      "team1": "Venezia",
+      "team2": "SS Juve Stabia"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "Spezia",
+      "team2": "Virtus Entella"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "Benevento",
+      "team2": "AC Chievo Verona"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "Empoli",
+      "team2": "Cosenza Calcio"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "SS Juve Stabia",
+      "team2": "US Cremonese"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "FC Crotone",
+      "team2": "Frosinone"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "Pescara",
+      "team2": "AS Livorno Calcio"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "Pordenone Calcio",
+      "team2": "Salernitana"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "AC Perugia",
+      "team2": "Trapani Calcio"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "Cittadella",
+      "team2": "Venezia"
+    },
+    {
+      "round": "37^ Giornata",
+      "date": "2020-07-27",
+      "team1": "AC Pisa",
+      "team2": "Ascoli"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Ascoli",
+      "team2": "Benevento"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Virtus Entella",
+      "team2": "Cittadella"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Trapani Calcio",
+      "team2": "FC Crotone"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "AS Livorno Calcio",
+      "team2": "Empoli"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Cosenza Calcio",
+      "team2": "SS Juve Stabia"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Venezia",
+      "team2": "AC Perugia"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "AC Chievo Verona",
+      "team2": "Pescara"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Frosinone",
+      "team2": "AC Pisa"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "US Cremonese",
+      "team2": "Pordenone Calcio"
+    },
+    {
+      "round": "38^ Giornata",
+      "date": "2020-07-31",
+      "team1": "Salernitana",
+      "team2": "Spezia"
     }
   ]
 }
