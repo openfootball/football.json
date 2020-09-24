@@ -2,29 +2,14 @@
   "name": "Champions League - Quali 2018/19",
   "clubs": [
     {
-      "name": "SK Sturm Graz",
-      "code": "STU",
-      "country": "Austria"
-    },
-    {
       "name": "FC RB Salzburg",
       "code": "RBS",
       "country": "Austria"
     },
     {
-      "name": "Standard Liège",
-      "code": null,
-      "country": "Belgium"
-    },
-    {
-      "name": "GNK Dinamo Zagreb",
-      "code": null,
-      "country": "Croatia"
-    },
-    {
-      "name": "SK Slavia Praha",
-      "code": null,
-      "country": "Czech Republic"
+      "name": "SK Sturm Graz",
+      "code": "STU",
+      "country": "Austria"
     },
     {
       "name": "FC Midtjylland",
@@ -32,9 +17,24 @@
       "country": "Denmark"
     },
     {
-      "name": "HJK Helsinki",
+      "name": "Videoton FC",
       "code": null,
-      "country": "Finland"
+      "country": "Hungary"
+    },
+    {
+      "name": "FC Spartak Moskva",
+      "code": null,
+      "country": "Russia"
+    },
+    {
+      "name": "SK Slavia Praha",
+      "code": null,
+      "country": "Czech Republic"
+    },
+    {
+      "name": "Fenerbahçe İstanbul",
+      "code": null,
+      "country": "Turkey"
     },
     {
       "name": "PAOK FC",
@@ -47,24 +47,9 @@
       "country": "Greece"
     },
     {
-      "name": "Videoton FC",
+      "name": "FC Spartak Trnava",
       "code": null,
-      "country": "Hungary"
-    },
-    {
-      "name": "Valur Reykjavík",
-      "code": null,
-      "country": "Iceland"
-    },
-    {
-      "name": "Cork City FC",
-      "code": null,
-      "country": "Ireland"
-    },
-    {
-      "name": "F91 Dudelange",
-      "code": null,
-      "country": "Luxembourg"
+      "country": "Slovakia"
     },
     {
       "name": "Ajax Amsterdam",
@@ -77,24 +62,34 @@
       "country": "Netherlands"
     },
     {
-      "name": "Rosenborg BK",
-      "code": null,
-      "country": "Norway"
-    },
-    {
-      "name": "Legia Warszawa",
-      "code": null,
-      "country": "Poland"
-    },
-    {
       "name": "SL Benfica",
       "code": null,
       "country": "Portugal"
     },
     {
-      "name": "FC Spartak Moskva",
+      "name": "Standard Liège",
       "code": null,
-      "country": "Russia"
+      "country": "Belgium"
+    },
+    {
+      "name": "GNK Dinamo Zagreb",
+      "code": null,
+      "country": "Croatia"
+    },
+    {
+      "name": "HJK Helsinki",
+      "code": null,
+      "country": "Finland"
+    },
+    {
+      "name": "Valur Reykjavík",
+      "code": null,
+      "country": "Iceland"
+    },
+    {
+      "name": "Malmö FF",
+      "code": null,
+      "country": "Sweden"
     },
     {
       "name": "Celtic FC",
@@ -102,14 +97,19 @@
       "country": "Scotland"
     },
     {
-      "name": "FC Spartak Trnava",
+      "name": "FC Dynamo Kyiv",
       "code": null,
-      "country": "Slovakia"
+      "country": "Ukraine"
     },
     {
-      "name": "Malmö FF",
+      "name": "Legia Warszawa",
       "code": null,
-      "country": "Sweden"
+      "country": "Poland"
+    },
+    {
+      "name": "F91 Dudelange",
+      "code": null,
+      "country": "Luxembourg"
     },
     {
       "name": "FC Basel",
@@ -122,14 +122,14 @@
       "country": "Switzerland"
     },
     {
-      "name": "Fenerbahçe İstanbul",
+      "name": "Cork City FC",
       "code": null,
-      "country": "Turkey"
+      "country": "Ireland"
     },
     {
-      "name": "FC Dynamo Kyiv",
+      "name": "Rosenborg BK",
       "code": null,
-      "country": "Ukraine"
+      "country": "Norway"
     },
     {
       "name": "Red Star Belgrade",
@@ -142,6 +142,71 @@
       "country": "Andorra"
     },
     {
+      "name": "Lincoln FC",
+      "code": null,
+      "country": "Gibraltar"
+    },
+    {
+      "name": "FC Astana",
+      "code": null,
+      "country": "Kazakhstan"
+    },
+    {
+      "name": "CFR Cluj",
+      "code": "CFR",
+      "country": "Romania"
+    },
+    {
+      "name": "FK Shkëndija 79",
+      "code": null,
+      "country": "North Macedonia"
+    },
+    {
+      "name": "FK Sūduva",
+      "code": null,
+      "country": "Lithuania"
+    },
+    {
+      "name": "Valletta FC",
+      "code": null,
+      "country": "Malta"
+    },
+    {
+      "name": "The New Saints FC",
+      "code": null,
+      "country": "Wales"
+    },
+    {
+      "name": "Qarabağ FK",
+      "code": null,
+      "country": "Azerbaijan"
+    },
+    {
+      "name": "FC Sheriff Tiraspol",
+      "code": null,
+      "country": "Moldova"
+    },
+    {
+      "name": "FC BATE Borisov",
+      "code": null,
+      "country": "Belarus"
+    },
+    {
+      "name": "PFC Ludogorets Razgrad",
+      "code": null,
+      "country": "Bulgaria"
+    },
+    {
+      "name": "FK Sutjeska",
+      "code": null,
+      "country": "Montenegro"
+    },
+    {
+      "name": "APOEL Nicosia FC",
+      "code": null,
+      "country": "Cyprus"
+    },
+    {
       "name": "KF Drita",
       "code": null,
       "country": "Kosovo"
@@ -152,19 +217,9 @@
       "country": "San Marino"
     },
     {
-      "name": "Lincoln FC",
-      "code": null,
-      "country": "Gibraltar"
-    },
-    {
       "name": "FC Torpedo Kutaisi",
       "code": null,
       "country": "Georgia"
-    },
-    {
-      "name": "FC Sheriff Tiraspol",
-      "code": null,
-      "country": "Moldova"
     },
     {
       "name": "FC Flora Tallinn",
@@ -187,36 +242,6 @@
       "country": "Faroe Islands"
     },
     {
-      "name": "FK Shkëndija 79",
-      "code": null,
-      "country": "North Macedonia"
-    },
-    {
-      "name": "The New Saints FC",
-      "code": null,
-      "country": "Wales"
-    },
-    {
-      "name": "FC Astana",
-      "code": null,
-      "country": "Kazakhstan"
-    },
-    {
-      "name": "FK Sutjeska",
-      "code": null,
-      "country": "Montenegro"
-    },
-    {
-      "name": "FK Sūduva",
-      "code": null,
-      "country": "Lithuania"
-    },
-    {
-      "name": "APOEL Nicosia FC",
-      "code": null,
-      "country": "Cyprus"
-    },
-    {
       "name": "FK Spartaks Jūrmala",
       "code": null,
       "country": "Latvia"
@@ -225,11 +250,6 @@
       "name": "HŠK Zrinjski",
       "code": null,
       "country": "Bosnia and Herzegovina"
-    },
-    {
-      "name": "PFC Ludogorets Razgrad",
-      "code": null,
-      "country": "Bulgaria"
     },
     {
       "name": "Crusaders FC",
@@ -242,29 +262,9 @@
       "country": "Albania"
     },
     {
-      "name": "Valletta FC",
-      "code": null,
-      "country": "Malta"
-    },
-    {
       "name": "NK Olimpija Ljubljana",
       "code": null,
       "country": "Slovenia"
-    },
-    {
-      "name": "Qarabağ FK",
-      "code": null,
-      "country": "Azerbaijan"
-    },
-    {
-      "name": "CFR Cluj",
-      "code": "CFR",
-      "country": "Romania"
-    },
-    {
-      "name": "FC BATE Borisov",
-      "code": null,
-      "country": "Belarus"
     }
   ]
 }
