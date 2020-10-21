@@ -2,13 +2,13 @@
   "name": "Champions League 2018/19",
   "clubs": [
     {
-      "name": "FC Schalke 04",
-      "code": "S04",
+      "name": "Borussia Dortmund",
+      "code": "BVB",
       "country": "Germany"
     },
     {
-      "name": "Bayern München",
-      "code": "FCB",
+      "name": "FC Schalke 04",
+      "code": "S04",
       "country": "Germany"
     },
     {
@@ -17,9 +17,19 @@
       "country": "Germany"
     },
     {
-      "name": "Borussia Dortmund",
-      "code": "BVB",
+      "name": "Bayern München",
+      "code": "FCB",
       "country": "Germany"
+    },
+    {
+      "name": "Liverpool FC",
+      "code": "LIV",
+      "country": "England"
+    },
+    {
+      "name": "Manchester City FC",
+      "code": "MCI",
+      "country": "England"
     },
     {
       "name": "Tottenham Hotspur FC",
@@ -29,16 +39,6 @@
     {
       "name": "Manchester United FC",
       "code": "MUN",
-      "country": "England"
-    },
-    {
-      "name": "Manchester City FC",
-      "code": "MCI",
-      "country": "England"
-    },
-    {
-      "name": "Liverpool FC",
-      "code": "LIV",
       "country": "England"
     },
     {
@@ -82,59 +82,14 @@
       "country": "Italy"
     },
     {
-      "name": "BSC Young Boys",
-      "code": "YB",
-      "country": "Switzerland"
-    },
-    {
-      "name": "SL Benfica",
-      "code": null,
-      "country": "Portugal"
-    },
-    {
       "name": "FC Porto",
       "code": null,
       "country": "Portugal"
     },
     {
-      "name": "FC Shakhtar Donetsk",
+      "name": "SL Benfica",
       "code": null,
-      "country": "Ukraine"
-    },
-    {
-      "name": "Ajax Amsterdam",
-      "code": null,
-      "country": "Netherlands"
-    },
-    {
-      "name": "PSV Eindhoven",
-      "code": null,
-      "country": "Netherlands"
-    },
-    {
-      "name": "Galatasaray İstanbul",
-      "code": null,
-      "country": "Turkey"
-    },
-    {
-      "name": "AEK Athens FC",
-      "code": null,
-      "country": "Greece"
-    },
-    {
-      "name": "Viktoria Plzeň",
-      "code": null,
-      "country": "Czech Republic"
-    },
-    {
-      "name": "Lokomotiv Moskva",
-      "code": null,
-      "country": "Russia"
-    },
-    {
-      "name": "PFC CSKA Moskva",
-      "code": null,
-      "country": "Russia"
+      "country": "Portugal"
     },
     {
       "name": "AS Monaco",
@@ -152,9 +107,54 @@
       "country": "France"
     },
     {
+      "name": "BSC Young Boys",
+      "code": "YB",
+      "country": "Switzerland"
+    },
+    {
       "name": "Club Brugge",
       "code": null,
       "country": "Belgium"
+    },
+    {
+      "name": "Galatasaray İstanbul",
+      "code": null,
+      "country": "Turkey"
+    },
+    {
+      "name": "Ajax Amsterdam",
+      "code": null,
+      "country": "Netherlands"
+    },
+    {
+      "name": "PSV Eindhoven",
+      "code": null,
+      "country": "Netherlands"
+    },
+    {
+      "name": "AEK Athens FC",
+      "code": null,
+      "country": "Greece"
+    },
+    {
+      "name": "PFC CSKA Moskva",
+      "code": null,
+      "country": "Russia"
+    },
+    {
+      "name": "Lokomotiv Moskva",
+      "code": null,
+      "country": "Russia"
+    },
+    {
+      "name": "Viktoria Plzeň",
+      "code": null,
+      "country": "Czech Republic"
+    },
+    {
+      "name": "FC Shakhtar Donetsk",
+      "code": null,
+      "country": "Ukraine"
     },
     {
       "name": "Red Star Belgrade",
