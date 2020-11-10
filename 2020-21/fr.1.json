@@ -1073,61 +1073,121 @@
       "round": "Journée 10",
       "date": "2020-11-06",
       "team1": "RC Strasbourg",
-      "team2": "Olympique de Marseille"
+      "team2": "Olympique de Marseille",
+      "score": {
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-07",
       "team1": "Girondins de Bordeaux",
-      "team2": "Montpellier HSC"
+      "team2": "Montpellier HSC",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-07",
       "team1": "Paris Saint-Germain",
-      "team2": "Stade Rennais FC"
+      "team2": "Stade Rennais FC",
+      "score": {
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "Stade Brestois 29",
-      "team2": "Lille OSC"
+      "team2": "Lille OSC",
+      "score": {
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "RC Lens",
-      "team2": "Stade de Reims"
+      "team2": "Stade de Reims",
+      "score": {
+        "ft": [
+          4,
+          4
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "FC Lorient",
-      "team2": "FC Nantes"
+      "team2": "FC Nantes",
+      "score": {
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "Nîmes Olympique",
-      "team2": "Angers SCO"
+      "team2": "Angers SCO",
+      "score": {
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "FC Metz",
-      "team2": "Dijon FCO"
+      "team2": "Dijon FCO",
+      "score": {
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "OGC Nice",
-      "team2": "AS Monaco"
+      "team2": "AS Monaco",
+      "score": {
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "round": "Journée 10",
       "date": "2020-11-08",
       "team1": "Olympique Lyonnais",
-      "team2": "AS Saint-Étienne"
+      "team2": "AS Saint-Étienne",
+      "score": {
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
       "round": "Journée 11",
@@ -1168,14 +1228,14 @@
     {
       "round": "Journée 11",
       "date": "2020-11-22",
-      "team1": "Montpellier HSC",
-      "team2": "RC Strasbourg"
+      "team1": "Stade de Reims",
+      "team2": "Nîmes Olympique"
     },
     {
       "round": "Journée 11",
       "date": "2020-11-22",
-      "team1": "Stade de Reims",
-      "team2": "Nîmes Olympique"
+      "team1": "Montpellier HSC",
+      "team2": "RC Strasbourg"
     },
     {
       "round": "Journée 11",
@@ -1191,15 +1251,21 @@
     },
     {
       "round": "Journée 12",
-      "date": "2020-11-29",
-      "team1": "RC Lens",
-      "team2": "Angers SCO"
+      "date": "2020-11-27",
+      "team1": "RC Strasbourg",
+      "team2": "Stade Rennais FC"
     },
     {
       "round": "Journée 12",
-      "date": "2020-11-29",
-      "team1": "FC Lorient",
-      "team2": "Montpellier HSC"
+      "date": "2020-11-28",
+      "team1": "Olympique de Marseille",
+      "team2": "FC Nantes"
+    },
+    {
+      "round": "Journée 12",
+      "date": "2020-11-28",
+      "team1": "Paris Saint-Germain",
+      "team2": "Girondins de Bordeaux"
     },
     {
       "round": "Journée 12",
@@ -1210,8 +1276,14 @@
     {
       "round": "Journée 12",
       "date": "2020-11-29",
-      "team1": "Olympique de Marseille",
-      "team2": "FC Nantes"
+      "team1": "RC Lens",
+      "team2": "Angers SCO"
+    },
+    {
+      "round": "Journée 12",
+      "date": "2020-11-29",
+      "team1": "FC Lorient",
+      "team2": "Montpellier HSC"
     },
     {
       "round": "Journée 12",
@@ -1234,32 +1306,20 @@
     {
       "round": "Journée 12",
       "date": "2020-11-29",
-      "team1": "Paris Saint-Germain",
-      "team2": "Girondins de Bordeaux"
-    },
-    {
-      "round": "Journée 12",
-      "date": "2020-11-29",
       "team1": "AS Saint-Étienne",
       "team2": "Lille OSC"
-    },
-    {
-      "round": "Journée 12",
-      "date": "2020-11-29",
-      "team1": "RC Strasbourg",
-      "team2": "Stade Rennais FC"
-    },
-    {
-      "round": "Journée 13",
-      "date": "2020-12-06",
-      "team1": "Angers SCO",
-      "team2": "FC Lorient"
     },
     {
       "round": "Journée 13",
       "date": "2020-12-06",
       "team1": "Girondins de Bordeaux",
       "team2": "Stade Brestois 29"
+    },
+    {
+      "round": "Journée 13",
+      "date": "2020-12-06",
+      "team1": "Angers SCO",
+      "team2": "FC Lorient"
     },
     {
       "round": "Journée 13",
