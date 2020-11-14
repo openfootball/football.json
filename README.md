@@ -125,6 +125,16 @@ Enrique Lopez Magallon (@enadol) writes:
 >
 > Have fun! ⚽️ ⚽️
 
+Nurgazy Nazhimidinov (@nurgasemetey) writes:
+
+> I use [the football.json datasets] in my tool.
+>
+> Basically it compares the last season and this season head-to-head results of the [English Premier League] team.
+>
+> Here is the link: https://compare-last-season.netlify.app/
+>
+> Here is the source code: https://github.com/nurgasemetey/compare-last-season
+
 
 ## License
 
