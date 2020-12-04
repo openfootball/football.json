@@ -2,18 +2,13 @@
   "name": "Ligue 1 2019/20",
   "clubs": [
     {
+      "name": "Olympique de Marseille",
+      "code": "OM",
+      "country": "France"
+    },
+    {
       "name": "Toulouse FC",
       "code": "TFC",
-      "country": "France"
-    },
-    {
-      "name": "Amiens SC",
-      "code": null,
-      "country": "France"
-    },
-    {
-      "name": "Girondins de Bordeaux",
-      "code": "FCGB",
       "country": "France"
     },
     {
@@ -22,13 +17,18 @@
       "country": "France"
     },
     {
-      "name": "Dijon FCO",
-      "code": "DFCO",
+      "name": "AS Monaco",
+      "code": "ASM",
+      "country": "Monaco"
+    },
+    {
+      "name": "Montpellier HSC",
+      "code": "MHSC",
       "country": "France"
     },
     {
-      "name": "Angers SCO",
-      "code": "SCO",
+      "name": "Dijon FCO",
+      "code": "DFCO",
       "country": "France"
     },
     {
@@ -42,28 +42,8 @@
       "country": "France"
     },
     {
-      "name": "AS Monaco",
-      "code": "ASM",
-      "country": "Monaco"
-    },
-    {
-      "name": "Stade de Reims",
-      "code": "SDR",
-      "country": "France"
-    },
-    {
-      "name": "RC Strasbourg",
-      "code": null,
-      "country": "France"
-    },
-    {
-      "name": "Nîmes Olympique",
-      "code": "NIMES",
-      "country": "France"
-    },
-    {
-      "name": "Stade Brestois 29",
-      "code": "SB29",
+      "name": "AS Saint-Étienne",
+      "code": "ASSE",
       "country": "France"
     },
     {
@@ -72,33 +52,53 @@
       "country": "France"
     },
     {
+      "name": "Stade de Reims",
+      "code": "SDR",
+      "country": "France"
+    },
+    {
+      "name": "Angers SCO",
+      "code": "SCO",
+      "country": "France"
+    },
+    {
+      "name": "Nîmes Olympique",
+      "code": "NIMES",
+      "country": "France"
+    },
+    {
       "name": "Olympique Lyonnais",
       "code": "OL",
       "country": "France"
     },
     {
-      "name": "Montpellier HSC",
-      "code": "MHSC",
-      "country": "France"
-    },
-    {
-      "name": "FC Metz",
-      "code": "FCM",
-      "country": "France"
-    },
-    {
-      "name": "AS Saint-Étienne",
-      "code": "ASSE",
-      "country": "France"
-    },
-    {
-      "name": "Olympique de Marseille",
-      "code": "OM",
+      "name": "Amiens SC",
+      "code": null,
       "country": "France"
     },
     {
       "name": "Paris Saint-Germain",
       "code": "PSG",
+      "country": "France"
+    },
+    {
+      "name": "Girondins de Bordeaux",
+      "code": "FCGB",
+      "country": "France"
+    },
+    {
+      "name": "RC Strasbourg",
+      "code": null,
+      "country": "France"
+    },
+    {
+      "name": "Stade Brestois 29",
+      "code": "SB29",
+      "country": "France"
+    },
+    {
+      "name": "FC Metz",
+      "code": "FCM",
       "country": "France"
     }
   ]
