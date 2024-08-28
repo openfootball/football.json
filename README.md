@@ -80,7 +80,7 @@ edit the (auto-)generated JSON files but the Football.TXT sources in the country
 - Deutsche Bundesliga, 2. Bundesliga, 3. Liga in [**`/deutschland`**](https://github.com/openfootball/deutschland)
 - Spanish Primera División ("La Liga"), Segunda División in [**`/espana`**](https://github.com/openfootball/espana)
 - Italian Serie A, Serie B in [**`/italy`**](https://github.com/openfootball/italy)
-- French Ligue 1, Ligue 2 in [**`/france`**](https://github.com/openfootballeurope/tree/master/france) (in `/europe`)
+- French Ligue 1, Ligue 2 in [**`/france`**](https://github.com/openfootball/europe/tree/master/france) (in [`/europe`](https://github.com/openfootball/europe))
 - and so on
 
 
