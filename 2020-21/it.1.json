@@ -2,11 +2,16 @@
   "name": "Serie A 2020/21",
   "matches": [
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-19",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -14,24 +19,29 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-19",
-      "team1": "Hellas Verona",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
       "team2": "AS Roma",
       "score": {
         "ft": [
           3,
           0
         ]
-      },
-      "status": "AWARDED"
+      }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-20",
-      "team1": "Parma",
+      "time": "12:30",
+      "team1": "Parma Calcio 1913",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -39,11 +49,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-20",
+      "time": "15:00",
       "team1": "Genoa CFC",
       "team2": "FC Crotone",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           1
@@ -51,11 +66,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-20",
+      "time": "18:00",
       "team1": "US Sassuolo Calcio",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -63,11 +83,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-20",
-      "team1": "Juventus",
+      "time": "20:45",
+      "team1": "Juventus FC",
       "team2": "UC Sampdoria",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -75,11 +100,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-21",
+      "time": "20:45",
       "team1": "AC Milan",
-      "team2": "Bologna FC",
+      "team2": "Bologna FC 1909",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -87,11 +117,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-26",
+      "time": "15:00",
       "team1": "Torino FC",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta BC",
       "score": {
+        "ht": [
+          2,
+          3
+        ],
         "ft": [
           2,
           4
@@ -99,23 +134,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-26",
-      "team1": "Cagliari Calcio",
-      "team2": "SS Lazio",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "2^ Giornata",
-      "date": "2020-09-26",
+      "time": "18:00",
       "team1": "UC Sampdoria",
-      "team2": "Benevento",
+      "team2": "Benevento Calcio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           3
@@ -123,11 +151,33 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-26",
+      "time": "18:00",
+      "team1": "Cagliari Calcio",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-09-26",
+      "time": "20:45",
       "team1": "FC Internazionale Milano",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           3
@@ -135,11 +185,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-27",
-      "team1": "Spezia",
+      "time": "12:30",
+      "team1": "Spezia Calcio",
       "team2": "US Sassuolo Calcio",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           4
@@ -147,11 +202,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-27",
-      "team1": "Hellas Verona",
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -159,23 +219,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-27",
-      "team1": "FC Crotone",
-      "team2": "AC Milan",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "2^ Giornata",
-      "date": "2020-09-27",
+      "time": "18:00",
       "team1": "SSC Napoli",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           6,
           0
@@ -183,11 +236,33 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-27",
-      "team1": "AS Roma",
-      "team2": "Juventus",
+      "time": "18:00",
+      "team1": "FC Crotone",
+      "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-09-27",
+      "time": "20:45",
+      "team1": "AS Roma",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -195,11 +270,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2020-09-28",
-      "team1": "Bologna FC",
-      "team2": "Parma",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -207,11 +287,33 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-30",
-      "team1": "Benevento",
+      "time": "18:00",
+      "team1": "Udinese Calcio",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2020-09-30",
+      "time": "18:00",
+      "team1": "Benevento Calcio",
       "team2": "FC Internazionale Milano",
       "score": {
+        "ht": [
+          1,
+          4
+        ],
         "ft": [
           2,
           5
@@ -219,23 +321,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2020-09-30",
-      "team1": "Udinese Calcio",
-      "team2": "Spezia",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "1^ Giornata",
-      "date": "2020-09-30",
+      "time": "20:45",
       "team1": "SS Lazio",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta BC",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           1,
           4
@@ -243,11 +338,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-02",
+      "time": "20:45",
       "team1": "ACF Fiorentina",
       "team2": "UC Sampdoria",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -255,11 +355,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-03",
+      "time": "15:00",
       "team1": "US Sassuolo Calcio",
       "team2": "FC Crotone",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -267,11 +372,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-03",
+      "time": "20:45",
       "team1": "Udinese Calcio",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -279,24 +389,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-04",
-      "team1": "Juventus",
-      "team2": "SSC Napoli",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      },
-      "status": "AWARDED"
-    },
-    {
-      "round": "3^ Giornata",
-      "date": "2020-10-04",
-      "team1": "Atalanta Bergamo",
+      "time": "12:30",
+      "team1": "Atalanta BC",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          4,
+          1
+        ],
         "ft": [
           5,
           2
@@ -304,23 +406,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-04",
-      "team1": "Benevento",
-      "team2": "Bologna FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "3^ Giornata",
-      "date": "2020-10-04",
+      "time": "15:00",
       "team1": "SS Lazio",
       "team2": "FC Internazionale Milano",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -328,11 +423,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-04",
-      "team1": "Parma",
-      "team2": "Hellas Verona",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Hellas Verona FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -340,11 +440,33 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-10-04",
-      "team1": "AC Milan",
-      "team2": "Spezia",
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "Bologna FC 1909",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-10-04",
+      "time": "18:00",
+      "team1": "AC Milan",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -352,11 +474,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-17",
+      "time": "15:00",
       "team1": "SSC Napoli",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta BC",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           1
@@ -364,11 +491,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-17",
+      "time": "18:00",
       "team1": "FC Internazionale Milano",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -376,11 +508,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-17",
+      "time": "18:00",
       "team1": "UC Sampdoria",
       "team2": "SS Lazio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -388,11 +525,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-17",
+      "time": "20:45",
       "team1": "FC Crotone",
-      "team2": "Juventus",
+      "team2": "Juventus FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -400,11 +542,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-18",
-      "team1": "Bologna FC",
+      "time": "12:30",
+      "team1": "Bologna FC 1909",
       "team2": "US Sassuolo Calcio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           4
@@ -412,23 +559,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-18",
-      "team1": "Spezia",
-      "team2": "ACF Fiorentina",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "4^ Giornata",
-      "date": "2020-10-18",
+      "time": "15:00",
       "team1": "Torino FC",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -436,11 +576,33 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-18",
-      "team1": "Udinese Calcio",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-10-18",
+      "time": "18:00",
+      "team1": "Udinese Calcio",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -448,11 +610,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-18",
+      "time": "20:45",
       "team1": "AS Roma",
-      "team2": "Benevento",
+      "team2": "Benevento Calcio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           5,
           2
@@ -460,9 +627,10 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2020-10-19",
-      "team1": "Hellas Verona",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
       "team2": "Genoa CFC",
       "score": {
         "ft": [
@@ -472,11 +640,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-23",
+      "time": "20:45",
       "team1": "US Sassuolo Calcio",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           3
@@ -484,11 +657,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-24",
-      "team1": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Atalanta BC",
       "team2": "UC Sampdoria",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -496,11 +674,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-24",
+      "time": "18:00",
       "team1": "Genoa CFC",
       "team2": "FC Internazionale Milano",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -508,11 +691,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-24",
+      "time": "20:45",
       "team1": "SS Lazio",
-      "team2": "Bologna FC",
+      "team2": "Bologna FC 1909",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -520,11 +708,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-25",
+      "time": "12:30",
       "team1": "Cagliari Calcio",
       "team2": "FC Crotone",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           4,
           2
@@ -532,23 +725,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-25",
-      "team1": "Benevento",
-      "team2": "SSC Napoli",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Spezia Calcio",
       "score": {
-        "ft": [
+        "ht": [
           1,
           2
-        ]
-      }
-    },
-    {
-      "round": "5^ Giornata",
-      "date": "2020-10-25",
-      "team1": "Parma",
-      "team2": "Spezia",
-      "score": {
+        ],
         "ft": [
           2,
           2
@@ -556,11 +742,33 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-25",
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-10-25",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -568,11 +776,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-25",
-      "team1": "Juventus",
-      "team2": "Hellas Verona",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "Hellas Verona FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -580,11 +793,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2020-10-26",
+      "time": "20:45",
       "team1": "AC Milan",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -592,11 +810,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-10-31",
+      "time": "15:00",
       "team1": "FC Crotone",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta BC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -604,11 +827,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-10-31",
+      "time": "18:00",
       "team1": "FC Internazionale Milano",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -616,11 +844,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-10-31",
-      "team1": "Bologna FC",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -628,11 +861,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-11-01",
+      "time": "12:30",
       "team1": "Udinese Calcio",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -640,23 +878,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-11-01",
-      "team1": "Spezia",
-      "team2": "Juventus",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "6^ Giornata",
-      "date": "2020-11-01",
+      "time": "15:00",
       "team1": "Torino FC",
       "team2": "SS Lazio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           4
@@ -664,11 +895,33 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-11-01",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-11-01",
+      "time": "18:00",
       "team1": "SSC Napoli",
       "team2": "US Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -676,11 +929,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-11-01",
+      "time": "18:00",
       "team1": "AS Roma",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -688,11 +946,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-11-01",
+      "time": "20:45",
       "team1": "UC Sampdoria",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -700,11 +963,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2020-11-02",
-      "team1": "Hellas Verona",
-      "team2": "Benevento",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
+      "team2": "Benevento Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -712,11 +980,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2020-11-04",
+      "time": "17:00",
       "team1": "Genoa CFC",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -724,8 +997,9 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-06",
+      "time": "20:45",
       "team1": "US Sassuolo Calcio",
       "team2": "Udinese Calcio",
       "score": {
@@ -736,11 +1010,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-07",
+      "time": "15:00",
       "team1": "Cagliari Calcio",
       "team2": "UC Sampdoria",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -748,11 +1027,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-07",
-      "team1": "Benevento",
-      "team2": "Spezia",
+      "time": "18:00",
+      "team1": "Benevento Calcio",
+      "team2": "Spezia Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -760,9 +1044,10 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-07",
-      "team1": "Parma",
+      "time": "20:45",
+      "team1": "Parma Calcio 1913",
       "team2": "ACF Fiorentina",
       "score": {
         "ft": [
@@ -772,11 +1057,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-08",
+      "time": "12:30",
       "team1": "SS Lazio",
-      "team2": "Juventus",
+      "team2": "Juventus FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -784,11 +1074,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-08",
-      "team1": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Atalanta BC",
       "team2": "FC Internazionale Milano",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -796,20 +1091,9 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-08",
-      "team1": "Genoa CFC",
-      "team2": "AS Roma",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "7^ Giornata",
-      "date": "2020-11-08",
+      "time": "15:00",
       "team1": "Torino FC",
       "team2": "FC Crotone",
       "score": {
@@ -820,11 +1104,33 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-08",
-      "team1": "Bologna FC",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-11-08",
+      "time": "18:00",
+      "team1": "Bologna FC 1909",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -832,11 +1138,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2020-11-08",
+      "time": "20:45",
       "team1": "AC Milan",
-      "team2": "Hellas Verona",
+      "team2": "Hellas Verona FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -844,1864 +1155,5231 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-21",
+      "time": "15:00",
       "team1": "FC Crotone",
-      "team2": "SS Lazio"
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-21",
-      "team1": "Spezia",
-      "team2": "Atalanta Bergamo"
+      "time": "18:00",
+      "team1": "Spezia Calcio",
+      "team2": "Atalanta BC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-21",
-      "team1": "Juventus",
-      "team2": "Cagliari Calcio"
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
+      "time": "12:30",
       "team1": "ACF Fiorentina",
-      "team2": "Benevento"
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
+      "time": "15:00",
       "team1": "FC Internazionale Milano",
-      "team2": "Torino FC"
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
+      "time": "15:00",
       "team1": "AS Roma",
-      "team2": "Parma"
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
+      "time": "15:00",
       "team1": "UC Sampdoria",
-      "team2": "Bologna FC"
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
-      "team1": "Hellas Verona",
-      "team2": "US Sassuolo Calcio"
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
+      "time": "18:00",
       "team1": "Udinese Calcio",
-      "team2": "Genoa CFC"
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2020-11-22",
+      "time": "20:45",
       "team1": "SSC Napoli",
-      "team2": "AC Milan"
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-28",
+      "time": "15:00",
       "team1": "US Sassuolo Calcio",
-      "team2": "FC Internazionale Milano"
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-28",
-      "team1": "Benevento",
-      "team2": "Juventus"
+      "time": "18:00",
+      "team1": "Benevento Calcio",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-28",
-      "team1": "Atalanta Bergamo",
-      "team2": "Hellas Verona"
+      "time": "20:45",
+      "team1": "Atalanta BC",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-29",
+      "time": "12:30",
       "team1": "SS Lazio",
-      "team2": "Udinese Calcio"
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-29",
-      "team1": "Bologna FC",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "9^ Giornata",
-      "date": "2020-11-29",
+      "time": "15:00",
       "team1": "AC Milan",
-      "team2": "ACF Fiorentina"
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-29",
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-11-29",
+      "time": "18:00",
       "team1": "Cagliari Calcio",
-      "team2": "Spezia"
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-29",
+      "time": "20:45",
       "team1": "SSC Napoli",
-      "team2": "AS Roma"
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-30",
+      "time": "18:30",
       "team1": "Torino FC",
-      "team2": "UC Sampdoria"
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2020-11-30",
+      "time": "20:45",
       "team1": "Genoa CFC",
-      "team2": "Parma"
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-05",
-      "team1": "Spezia",
-      "team2": "SS Lazio"
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-05",
-      "team1": "Juventus",
-      "team2": "Torino FC"
+      "time": "18:00",
+      "team1": "Juventus FC",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-05",
+      "time": "20:45",
       "team1": "FC Internazionale Milano",
-      "team2": "Bologna FC"
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-06",
-      "team1": "Hellas Verona",
-      "team2": "Cagliari Calcio"
+      "time": "12:30",
+      "team1": "Hellas Verona FC",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-06",
-      "team1": "Parma",
-      "team2": "Benevento"
-    },
-    {
-      "round": "10^ Giornata",
-      "date": "2020-12-06",
+      "time": "15:00",
       "team1": "AS Roma",
-      "team2": "US Sassuolo Calcio"
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-06",
-      "team1": "Udinese Calcio",
-      "team2": "Atalanta Bergamo"
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-06",
+      "time": "18:00",
       "team1": "FC Crotone",
-      "team2": "SSC Napoli"
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-06",
+      "time": "20:45",
       "team1": "UC Sampdoria",
-      "team2": "AC Milan"
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2020-12-07",
+      "time": "20:45",
       "team1": "ACF Fiorentina",
-      "team2": "Genoa CFC"
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-11",
+      "time": "20:45",
       "team1": "US Sassuolo Calcio",
-      "team2": "Benevento"
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-12",
+      "time": "15:00",
       "team1": "FC Crotone",
-      "team2": "Spezia"
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-12",
+      "time": "18:00",
       "team1": "Torino FC",
-      "team2": "Udinese Calcio"
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-12",
+      "time": "20:45",
       "team1": "SS Lazio",
-      "team2": "Hellas Verona"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-13",
+      "time": "12:45",
       "team1": "Cagliari Calcio",
-      "team2": "FC Internazionale Milano"
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-13",
-      "team1": "Atalanta Bergamo",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "11^ Giornata",
-      "date": "2020-12-13",
-      "team1": "Bologna FC",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "11^ Giornata",
-      "date": "2020-12-13",
+      "time": "15:00",
       "team1": "SSC Napoli",
-      "team2": "UC Sampdoria"
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-13",
+      "time": "15:00",
+      "team1": "Atalanta BC",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-13",
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          1,
+          5
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-13",
+      "time": "18:00",
       "team1": "Genoa CFC",
-      "team2": "Juventus"
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2020-12-13",
+      "time": "20:45",
       "team1": "AC Milan",
-      "team2": "Parma"
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-15",
+      "time": "18:30",
       "team1": "Udinese Calcio",
-      "team2": "FC Crotone"
+      "team2": "FC Crotone",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-15",
-      "team1": "Benevento",
-      "team2": "SS Lazio"
+      "time": "20:45",
+      "team1": "Benevento Calcio",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-16",
-      "team1": "Juventus",
-      "team2": "Atalanta Bergamo"
+      "time": "18:30",
+      "team1": "Juventus FC",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-16",
-      "team1": "ACF Fiorentina",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "12^ Giornata",
-      "date": "2020-12-16",
-      "team1": "Genoa CFC",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "12^ Giornata",
-      "date": "2020-12-16",
+      "time": "20:45",
       "team1": "FC Internazionale Milano",
-      "team2": "SSC Napoli"
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-16",
-      "team1": "Parma",
-      "team2": "Cagliari Calcio"
+      "time": "20:45",
+      "team1": "ACF Fiorentina",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-16",
-      "team1": "Spezia",
-      "team2": "Bologna FC"
+      "time": "20:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2020-12-16",
-      "team1": "Hellas Verona",
-      "team2": "UC Sampdoria"
+      "time": "20:45",
+      "team1": "Genoa CFC",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
+      "date": "2020-12-16",
+      "time": "20:45",
+      "team1": "Spezia Calcio",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-16",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2020-12-17",
+      "time": "20:45",
       "team1": "AS Roma",
-      "team2": "Torino FC"
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-19",
+      "time": "15:00",
       "team1": "ACF Fiorentina",
-      "team2": "Hellas Verona"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-19",
+      "time": "18:00",
       "team1": "UC Sampdoria",
-      "team2": "FC Crotone"
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-19",
-      "team1": "Parma",
-      "team2": "Juventus"
+      "time": "20:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-20",
+      "time": "12:30",
       "team1": "Torino FC",
-      "team2": "Bologna FC"
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-20",
-      "team1": "Benevento",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "13^ Giornata",
-      "date": "2020-12-20",
-      "team1": "Cagliari Calcio",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "13^ Giornata",
-      "date": "2020-12-20",
+      "time": "15:00",
       "team1": "FC Internazionale Milano",
-      "team2": "Spezia"
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-20",
+      "time": "15:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-20",
+      "time": "15:00",
       "team1": "US Sassuolo Calcio",
-      "team2": "AC Milan"
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-20",
-      "team1": "Atalanta Bergamo",
-      "team2": "AS Roma"
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2020-12-20",
+      "time": "18:00",
+      "team1": "Atalanta BC",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-20",
+      "time": "20:45",
       "team1": "SS Lazio",
-      "team2": "SSC Napoli"
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-22",
+      "time": "18:30",
       "team1": "FC Crotone",
-      "team2": "Parma"
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-22",
-      "team1": "Juventus",
-      "team2": "ACF Fiorentina"
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "Hellas Verona",
-      "team2": "FC Internazionale Milano"
+      "time": "18:30",
+      "team1": "Hellas Verona FC",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "Bologna FC",
-      "team2": "Atalanta Bergamo"
-    },
-    {
-      "round": "14^ Giornata",
-      "date": "2020-12-23",
-      "team1": "AC Milan",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "14^ Giornata",
-      "date": "2020-12-23",
+      "time": "20:45",
       "team1": "SSC Napoli",
-      "team2": "Torino FC"
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-23",
+      "time": "20:45",
       "team1": "AS Roma",
-      "team2": "Cagliari Calcio"
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "UC Sampdoria",
-      "team2": "US Sassuolo Calcio"
+      "time": "20:45",
+      "team1": "AC Milan",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "Spezia",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "14^ Giornata",
-      "date": "2020-12-23",
+      "time": "20:45",
       "team1": "Udinese Calcio",
-      "team2": "Benevento"
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "FC Internazionale Milano",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Atalanta Bergamo",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Cagliari Calcio",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "ACF Fiorentina",
-      "team2": "Bologna FC"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Genoa CFC",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Parma",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "AS Roma",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Spezia",
-      "team2": "Hellas Verona"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Benevento",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2021-01-03",
-      "team1": "Juventus",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
-      "team1": "Cagliari Calcio",
-      "team2": "Benevento"
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
-      "team1": "Atalanta Bergamo",
-      "team2": "Parma"
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
-      "team1": "Bologna FC",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
-      "team1": "FC Crotone",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
-      "team1": "SS Lazio",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
+      "round": "Matchday 14",
+      "date": "2020-12-23",
+      "time": "20:45",
       "team1": "UC Sampdoria",
-      "team2": "FC Internazionale Milano"
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "16^ Giornata",
-      "date": "2021-01-06",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Genoa CFC"
+      "round": "Matchday 14",
+      "date": "2020-12-23",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 14",
+      "date": "2020-12-23",
+      "time": "20:45",
+      "team1": "Spezia Calcio",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "12:30",
+      "team1": "FC Internazionale Milano",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          6,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "AS Roma",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "Atalanta BC",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "Cagliari Calcio",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "18:00",
+      "team1": "Benevento Calcio",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-03",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
       "date": "2021-01-06",
+      "time": "12:30",
+      "team1": "Cagliari Calcio",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "15:00",
+      "team1": "SS Lazio",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "15:00",
+      "team1": "UC Sampdoria",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "15:00",
       "team1": "Torino FC",
-      "team2": "Hellas Verona"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2021-01-06",
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "15:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "15:00",
+      "team1": "FC Crotone",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "15:05",
+      "team1": "Atalanta BC",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-06",
+      "time": "18:00",
       "team1": "SSC Napoli",
-      "team2": "Spezia"
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2021-01-06",
+      "time": "20:45",
       "team1": "AC Milan",
-      "team2": "Juventus"
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2021-01-09",
-      "team1": "AS Roma",
-      "team2": "FC Internazionale Milano"
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
+      "date": "2021-01-09",
+      "time": "18:00",
+      "team1": "Genoa CFC",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-09",
+      "time": "20:45",
+      "team1": "AC Milan",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2021-01-10",
-      "team1": "Benevento",
-      "team2": "Atalanta Bergamo"
+      "time": "12:30",
+      "team1": "AS Roma",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2021-01-10",
-      "team1": "ACF Fiorentina",
-      "team2": "Cagliari Calcio"
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2021-01-10",
-      "team1": "Genoa CFC",
-      "team2": "Bologna FC"
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2021-01-10",
-      "team1": "Juventus",
-      "team2": "US Sassuolo Calcio"
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2021-01-10",
-      "team1": "AC Milan",
-      "team2": "Torino FC"
+      "time": "18:05",
+      "team1": "ACF Fiorentina",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2021-01-10",
-      "team1": "Parma",
-      "team2": "SS Lazio"
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
-      "date": "2021-01-10",
-      "team1": "Spezia",
-      "team2": "UC Sampdoria"
+      "round": "Matchday 17",
+      "date": "2021-01-11",
+      "time": "20:45",
+      "team1": "Spezia Calcio",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
-      "date": "2021-01-10",
-      "team1": "Udinese Calcio",
-      "team2": "SSC Napoli"
+      "round": "Matchday 18",
+      "date": "2021-01-15",
+      "time": "20:45",
+      "team1": "SS Lazio",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "17^ Giornata",
-      "date": "2021-01-10",
-      "team1": "Hellas Verona",
-      "team2": "FC Crotone"
+      "round": "Matchday 18",
+      "date": "2021-01-16",
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
+      "date": "2021-01-16",
+      "time": "18:00",
+      "team1": "Torino FC",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-01-16",
+      "time": "20:45",
+      "team1": "UC Sampdoria",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
       "date": "2021-01-17",
-      "team1": "Atalanta Bergamo",
-      "team2": "Genoa CFC"
+      "time": "12:30",
+      "team1": "SSC Napoli",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          6,
+          0
+        ]
+      }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2021-01-17",
-      "team1": "Bologna FC",
-      "team2": "Hellas Verona"
+      "time": "15:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2021-01-17",
-      "team1": "Cagliari Calcio",
-      "team2": "AC Milan"
+      "time": "15:00",
+      "team1": "FC Crotone",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2021-01-17",
-      "team1": "FC Crotone",
-      "team2": "Benevento"
+      "time": "18:00",
+      "team1": "Atalanta BC",
+      "team2": "Genoa CFC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2021-01-17",
+      "time": "20:45",
       "team1": "FC Internazionale Milano",
-      "team2": "Juventus"
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "18^ Giornata",
-      "date": "2021-01-17",
-      "team1": "SS Lazio",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "18^ Giornata",
-      "date": "2021-01-17",
-      "team1": "SSC Napoli",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "18^ Giornata",
-      "date": "2021-01-17",
-      "team1": "UC Sampdoria",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "18^ Giornata",
-      "date": "2021-01-17",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Parma"
-    },
-    {
-      "round": "18^ Giornata",
-      "date": "2021-01-17",
-      "team1": "Torino FC",
-      "team2": "Spezia"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "Benevento",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "ACF Fiorentina",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "Genoa CFC",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "Juventus",
-      "team2": "Bologna FC"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "SS Lazio",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "AC Milan",
-      "team2": "Atalanta Bergamo"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "Parma",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "AS Roma",
-      "team2": "Spezia"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "Udinese Calcio",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2021-01-24",
-      "team1": "Hellas Verona",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "FC Internazionale Milano",
-      "team2": "Benevento"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "Torino FC",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "FC Crotone",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "UC Sampdoria",
-      "team2": "Juventus"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "Atalanta Bergamo",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "Bologna FC",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
-      "team1": "SSC Napoli",
-      "team2": "Parma"
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2021-01-31",
+      "round": "Matchday 18",
+      "date": "2021-01-18",
+      "time": "20:45",
       "team1": "Cagliari Calcio",
-      "team2": "US Sassuolo Calcio"
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 10",
+      "date": "2021-01-20",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-22",
+      "time": "20:45",
+      "team1": "Benevento Calcio",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-23",
+      "time": "15:00",
+      "team1": "AS Roma",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-23",
+      "time": "18:00",
+      "team1": "AC Milan",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-23",
+      "time": "18:00",
+      "team1": "Udinese Calcio",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-23",
+      "time": "20:50",
+      "team1": "ACF Fiorentina",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-24",
+      "time": "12:30",
+      "team1": "Juventus FC",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-24",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-24",
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-24",
+      "time": "18:00",
+      "team1": "SS Lazio",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-24",
+      "time": "20:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-29",
+      "time": "20:50",
+      "team1": "Torino FC",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-30",
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-30",
+      "time": "18:00",
+      "team1": "UC Sampdoria",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-30",
+      "time": "20:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
       "date": "2021-01-31",
-      "team1": "Spezia",
-      "team2": "Udinese Calcio"
+      "time": "12:30",
+      "team1": "Spezia Calcio",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2021-01-31",
-      "team1": "AS Roma",
-      "team2": "Hellas Verona"
+      "time": "15:00",
+      "team1": "Atalanta BC",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "Parma",
-      "team2": "Bologna FC"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "SS Lazio",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "AC Milan",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "ACF Fiorentina",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "Genoa CFC",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "Juventus",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "Benevento",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Spezia"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "Atalanta Bergamo",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2021-02-07",
-      "team1": "Udinese Calcio",
-      "team2": "Hellas Verona"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
+      "round": "Matchday 20",
+      "date": "2021-01-31",
+      "time": "15:00",
       "team1": "Cagliari Calcio",
-      "team2": "Atalanta Bergamo"
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "Bologna FC",
-      "team2": "Benevento"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "UC Sampdoria",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "Torino FC",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "SSC Napoli",
-      "team2": "Juventus"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "FC Internazionale Milano",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "Spezia",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
-      "team1": "Hellas Verona",
-      "team2": "Parma"
-    },
-    {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
+      "round": "Matchday 20",
+      "date": "2021-01-31",
+      "time": "15:00",
       "team1": "FC Crotone",
-      "team2": "US Sassuolo Calcio"
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "22^ Giornata",
-      "date": "2021-02-14",
+      "round": "Matchday 20",
+      "date": "2021-01-31",
+      "time": "18:00",
+      "team1": "SSC Napoli",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-31",
+      "time": "20:45",
       "team1": "AS Roma",
-      "team2": "Udinese Calcio"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Bologna FC"
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "Juventus",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "AC Milan",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "Atalanta Bergamo",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "Benevento",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "SS Lazio",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
+      "round": "Matchday 21",
+      "date": "2021-02-05",
+      "time": "20:45",
       "team1": "ACF Fiorentina",
-      "team2": "Spezia"
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "Cagliari Calcio",
-      "team2": "Torino FC"
+      "round": "Matchday 21",
+      "date": "2021-02-06",
+      "time": "15:00",
+      "team1": "Atalanta BC",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          3,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
-      "team1": "Parma",
-      "team2": "Udinese Calcio"
+      "round": "Matchday 21",
+      "date": "2021-02-06",
+      "time": "15:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "23^ Giornata",
-      "date": "2021-02-21",
+      "round": "Matchday 21",
+      "date": "2021-02-06",
+      "time": "18:00",
+      "team1": "Juventus FC",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-06",
+      "time": "20:45",
       "team1": "Genoa CFC",
-      "team2": "Hellas Verona"
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
-      "team1": "UC Sampdoria",
-      "team2": "Atalanta Bergamo"
+      "round": "Matchday 21",
+      "date": "2021-02-07",
+      "time": "12:30",
+      "team1": "Benevento Calcio",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
-      "team1": "SSC Napoli",
-      "team2": "Benevento"
+      "round": "Matchday 21",
+      "date": "2021-02-07",
+      "time": "15:00",
+      "team1": "AC Milan",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
-      "team1": "FC Crotone",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
+      "round": "Matchday 21",
+      "date": "2021-02-07",
+      "time": "15:00",
       "team1": "Udinese Calcio",
-      "team2": "ACF Fiorentina"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
-      "team1": "FC Internazionale Milano",
-      "team2": "Genoa CFC"
+      "round": "Matchday 21",
+      "date": "2021-02-07",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
-      "team1": "Hellas Verona",
-      "team2": "Juventus"
+      "round": "Matchday 21",
+      "date": "2021-02-07",
+      "time": "20:45",
+      "team1": "SS Lazio",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
-      "team1": "Bologna FC",
-      "team2": "SS Lazio"
+      "round": "Matchday 22",
+      "date": "2021-02-12",
+      "time": "20:50",
+      "team1": "Bologna FC 1909",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
-      "date": "2021-02-28",
+      "round": "Matchday 22",
+      "date": "2021-02-13",
+      "time": "15:00",
+      "team1": "Torino FC",
+      "team2": "Genoa CFC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-13",
+      "time": "18:00",
+      "team1": "SSC Napoli",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-13",
+      "time": "20:45",
+      "team1": "Spezia Calcio",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-14",
+      "time": "12:30",
       "team1": "AS Roma",
-      "team2": "AC Milan"
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 22",
+      "date": "2021-02-14",
+      "time": "15:00",
+      "team1": "UC Sampdoria",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-14",
+      "time": "15:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-14",
+      "time": "18:00",
+      "team1": "FC Crotone",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-14",
+      "time": "20:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-15",
+      "time": "20:50",
+      "team1": "Hellas Verona FC",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-19",
+      "time": "18:30",
+      "team1": "ACF Fiorentina",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-19",
+      "time": "20:45",
+      "team1": "Cagliari Calcio",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-20",
+      "time": "15:00",
+      "team1": "SS Lazio",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-20",
+      "time": "18:00",
+      "team1": "Genoa CFC",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-20",
+      "time": "20:45",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-21",
+      "time": "12:30",
+      "team1": "Parma Calcio 1913",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-21",
+      "time": "15:00",
+      "team1": "AC Milan",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-21",
+      "time": "18:00",
+      "team1": "Atalanta BC",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-21",
+      "time": "20:50",
+      "team1": "Benevento Calcio",
+      "team2": "AS Roma",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-22",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-02-27",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-02-27",
+      "time": "18:00",
+      "team1": "Bologna FC 1909",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-02-27",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
       "date": "2021-02-28",
-      "team1": "Spezia",
-      "team2": "Parma"
+      "time": "12:30",
+      "team1": "UC Sampdoria",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2021-02-28",
-      "team1": "Torino FC",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "Cagliari Calcio",
-      "team2": "Bologna FC"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "Atalanta Bergamo",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "Parma",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "US Sassuolo Calcio",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "ACF Fiorentina",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "Juventus",
-      "team2": "Spezia"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "SS Lazio",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "AC Milan",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "Benevento",
-      "team2": "Hellas Verona"
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2021-03-03",
-      "team1": "Genoa CFC",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "26^ Giornata",
-      "date": "2021-03-07",
+      "time": "15:00",
       "team1": "FC Internazionale Milano",
-      "team2": "Atalanta Bergamo"
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
-      "date": "2021-03-07",
-      "team1": "Spezia",
-      "team2": "Benevento"
+      "round": "Matchday 24",
+      "date": "2021-02-28",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
-      "date": "2021-03-07",
+      "round": "Matchday 24",
+      "date": "2021-02-28",
+      "time": "15:00",
+      "team1": "FC Crotone",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-02-28",
+      "time": "18:00",
       "team1": "SSC Napoli",
-      "team2": "Bologna FC"
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
-      "date": "2021-03-07",
-      "team1": "UC Sampdoria",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "26^ Giornata",
-      "date": "2021-03-07",
+      "round": "Matchday 24",
+      "date": "2021-02-28",
+      "time": "20:45",
       "team1": "AS Roma",
-      "team2": "Genoa CFC"
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 25",
+      "date": "2021-03-02",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "18:30",
+      "team1": "US Sassuolo Calcio",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "ACF Fiorentina",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "AC Milan",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "Atalanta BC",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "Cagliari Calcio",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "Genoa CFC",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-03",
+      "time": "20:45",
+      "team1": "Benevento Calcio",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-04",
+      "time": "20:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-06",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-06",
+      "time": "18:00",
+      "team1": "Udinese Calcio",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-06",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
       "date": "2021-03-07",
-      "team1": "Juventus",
-      "team2": "SS Lazio"
+      "time": "12:30",
+      "team1": "AS Roma",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2021-03-07",
-      "team1": "Hellas Verona",
-      "team2": "AC Milan"
+      "time": "15:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2021-03-07",
-      "team1": "ACF Fiorentina",
-      "team2": "Parma"
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2021-03-07",
-      "team1": "Udinese Calcio",
-      "team2": "US Sassuolo Calcio"
+      "time": "15:00",
+      "team1": "FC Crotone",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2021-03-07",
-      "team1": "FC Crotone",
-      "team2": "Torino FC"
+      "time": "18:00",
+      "team1": "UC Sampdoria",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
+      "round": "Matchday 26",
+      "date": "2021-03-07",
+      "time": "20:50",
+      "team1": "SSC Napoli",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-08",
+      "time": "20:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-03-12",
+      "time": "15:00",
       "team1": "SS Lazio",
-      "team2": "FC Crotone"
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Benevento",
-      "team2": "ACF Fiorentina"
+      "round": "Matchday 27",
+      "date": "2021-03-12",
+      "time": "20:45",
+      "team1": "Atalanta BC",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Torino FC",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Cagliari Calcio",
-      "team2": "Juventus"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "AC Milan",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Parma",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Bologna FC",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Atalanta Bergamo",
-      "team2": "Spezia"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
-      "team1": "Genoa CFC",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2021-03-14",
+      "round": "Matchday 27",
+      "date": "2021-03-13",
+      "time": "15:00",
       "team1": "US Sassuolo Calcio",
-      "team2": "Hellas Verona"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
-      "date": "2021-03-21",
-      "team1": "Hellas Verona",
-      "team2": "Atalanta Bergamo"
+      "round": "Matchday 27",
+      "date": "2021-03-13",
+      "time": "18:00",
+      "team1": "Benevento Calcio",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
-      "date": "2021-03-21",
-      "team1": "Juventus",
-      "team2": "Benevento"
+      "round": "Matchday 27",
+      "date": "2021-03-13",
+      "time": "20:45",
+      "team1": "Genoa CFC",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
-      "date": "2021-03-21",
+      "round": "Matchday 27",
+      "date": "2021-03-14",
+      "time": "12:30",
+      "team1": "Bologna FC 1909",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-03-14",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-03-14",
+      "time": "15:00",
+      "team1": "Torino FC",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-03-14",
+      "time": "18:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-03-14",
+      "time": "20:45",
+      "team1": "AC Milan",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-17",
+      "time": "15:05",
+      "team1": "Torino FC",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-19",
+      "time": "20:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-20",
+      "time": "15:00",
       "team1": "FC Crotone",
-      "team2": "Bologna FC"
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
-      "date": "2021-03-21",
-      "team1": "Spezia",
-      "team2": "Cagliari Calcio"
+      "round": "Matchday 28",
+      "date": "2021-03-20",
+      "time": "18:00",
+      "team1": "Spezia Calcio",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2021-03-21",
-      "team1": "Parma",
-      "team2": "Genoa CFC"
+      "time": "12:30",
+      "team1": "Hellas Verona FC",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2021-03-21",
+      "time": "15:00",
+      "team1": "Juventus FC",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-21",
+      "time": "15:00",
       "team1": "Udinese Calcio",
-      "team2": "SS Lazio"
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2021-03-21",
+      "time": "15:00",
+      "team1": "UC Sampdoria",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-21",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
-      "team2": "AC Milan"
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2021-03-21",
+      "time": "20:45",
       "team1": "AS Roma",
-      "team2": "SSC Napoli"
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "28^ Giornata",
-      "date": "2021-03-21",
-      "team1": "FC Internazionale Milano",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "28^ Giornata",
-      "date": "2021-03-21",
-      "team1": "UC Sampdoria",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2021-04-03",
-      "team1": "SSC Napoli",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2021-04-03",
-      "team1": "Genoa CFC",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2021-04-03",
-      "team1": "Bologna FC",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2021-04-03",
-      "team1": "Torino FC",
-      "team2": "Juventus"
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2021-04-03",
-      "team1": "Benevento",
-      "team2": "Parma"
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2021-04-03",
-      "team1": "US Sassuolo Calcio",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2021-04-03",
+      "time": "12:30",
       "team1": "AC Milan",
-      "team2": "UC Sampdoria"
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2021-04-03",
+      "time": "15:00",
+      "team1": "SSC Napoli",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-03",
+      "time": "15:00",
       "team1": "SS Lazio",
-      "team2": "Spezia"
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2021-04-03",
-      "team1": "Atalanta Bergamo",
-      "team2": "Udinese Calcio"
+      "time": "15:00",
+      "team1": "Atalanta BC",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2021-04-03",
+      "time": "15:00",
       "team1": "Cagliari Calcio",
-      "team2": "Hellas Verona"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 29",
+      "date": "2021-04-03",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-03",
+      "time": "15:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-03",
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-03",
+      "time": "18:00",
+      "team1": "Torino FC",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-03",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-07",
+      "time": "18:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2021-04-07",
+      "time": "18:45",
+      "team1": "Juventus FC",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-10",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-10",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-10",
+      "time": "20:45",
+      "team1": "Udinese Calcio",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
       "date": "2021-04-11",
+      "time": "12:30",
+      "team1": "FC Internazionale Milano",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-11",
+      "time": "15:00",
+      "team1": "Juventus FC",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-11",
+      "time": "15:00",
+      "team1": "UC Sampdoria",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-11",
+      "time": "15:05",
+      "team1": "Hellas Verona FC",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-11",
+      "time": "18:00",
+      "team1": "AS Roma",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-11",
+      "time": "20:45",
       "team1": "ACF Fiorentina",
-      "team2": "Atalanta Bergamo"
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "AS Roma",
-      "team2": "Bologna FC"
+      "round": "Matchday 30",
+      "date": "2021-04-12",
+      "time": "20:45",
+      "team1": "Benevento Calcio",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "FC Internazionale Milano",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "Spezia",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "Juventus",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "Hellas Verona",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "Parma",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
+      "round": "Matchday 31",
+      "date": "2021-04-17",
+      "time": "15:00",
       "team1": "UC Sampdoria",
-      "team2": "SSC Napoli"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "Benevento",
-      "team2": "US Sassuolo Calcio"
+      "round": "Matchday 31",
+      "date": "2021-04-17",
+      "time": "15:00",
+      "team1": "FC Crotone",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "30^ Giornata",
-      "date": "2021-04-11",
-      "team1": "Udinese Calcio",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "SS Lazio",
-      "team2": "Benevento"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
+      "round": "Matchday 31",
+      "date": "2021-04-17",
+      "time": "18:00",
       "team1": "US Sassuolo Calcio",
-      "team2": "ACF Fiorentina"
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "AC Milan",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "SSC Napoli",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "Atalanta Bergamo",
-      "team2": "Juventus"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
+      "round": "Matchday 31",
+      "date": "2021-04-17",
+      "time": "20:45",
       "team1": "Cagliari Calcio",
-      "team2": "Parma"
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2021-04-18",
-      "team1": "Torino FC",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "Bologna FC",
-      "team2": "Spezia"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "FC Crotone",
-      "team2": "Udinese Calcio"
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2021-04-18",
-      "team1": "UC Sampdoria",
-      "team2": "Hellas Verona"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "AS Roma",
-      "team2": "Atalanta Bergamo"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "Genoa CFC",
-      "team2": "Benevento"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "Udinese Calcio",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "Hellas Verona",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "Spezia",
-      "team2": "FC Internazionale Milano"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "SSC Napoli",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "Juventus",
-      "team2": "Parma"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
-      "team1": "FC Crotone",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2021-04-21",
+      "time": "12:30",
       "team1": "AC Milan",
-      "team2": "US Sassuolo Calcio"
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 31",
+      "date": "2021-04-18",
+      "time": "15:00",
+      "team1": "SS Lazio",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-18",
+      "time": "15:00",
+      "team1": "Atalanta BC",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-18",
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-18",
+      "time": "18:00",
+      "team1": "Torino FC",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-18",
+      "time": "20:45",
+      "team1": "SSC Napoli",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-20",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
       "date": "2021-04-21",
-      "team1": "Bologna FC",
-      "team2": "Torino FC"
+      "time": "18:30",
+      "team1": "AC Milan",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
-      "team1": "Atalanta Bergamo",
-      "team2": "Bologna FC"
+      "round": "Matchday 32",
+      "date": "2021-04-21",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
-      "team1": "Parma",
-      "team2": "FC Crotone"
+      "round": "Matchday 32",
+      "date": "2021-04-21",
+      "time": "20:45",
+      "team1": "Udinese Calcio",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 32",
+      "date": "2021-04-21",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-21",
+      "time": "20:45",
+      "team1": "Genoa CFC",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-21",
+      "time": "20:45",
+      "team1": "Spezia Calcio",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-21",
+      "time": "20:45",
+      "team1": "FC Crotone",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-22",
+      "time": "18:30",
+      "team1": "AS Roma",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-22",
+      "time": "20:45",
+      "team1": "SSC Napoli",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-24",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-24",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-24",
+      "time": "20:45",
+      "team1": "US Sassuolo Calcio",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
       "date": "2021-04-25",
+      "time": "12:30",
+      "team1": "Benevento Calcio",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-25",
+      "time": "15:00",
+      "team1": "FC Internazionale Milano",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-25",
+      "time": "15:00",
       "team1": "ACF Fiorentina",
-      "team2": "Juventus"
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2021-04-25",
-      "team1": "SS Lazio",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
-      "team1": "Torino FC",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
+      "time": "18:00",
       "team1": "Cagliari Calcio",
-      "team2": "AS Roma"
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2021-04-25",
-      "team1": "US Sassuolo Calcio",
-      "team2": "UC Sampdoria"
+      "time": "20:45",
+      "team1": "Atalanta BC",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
-      "team1": "Genoa CFC",
-      "team2": "Spezia"
+      "round": "Matchday 33",
+      "date": "2021-04-26",
+      "time": "18:30",
+      "team1": "Torino FC",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
-      "team1": "Benevento",
-      "team2": "Udinese Calcio"
+      "round": "Matchday 33",
+      "date": "2021-04-26",
+      "time": "20:45",
+      "team1": "SS Lazio",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "33^ Giornata",
-      "date": "2021-04-25",
-      "team1": "FC Internazionale Milano",
-      "team2": "Hellas Verona"
+      "round": "Matchday 34",
+      "date": "2021-05-01",
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "34^ Giornata",
-      "date": "2021-05-02",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Atalanta Bergamo"
+      "round": "Matchday 34",
+      "date": "2021-05-01",
+      "time": "18:00",
+      "team1": "FC Crotone",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "34^ Giornata",
-      "date": "2021-05-02",
+      "round": "Matchday 34",
+      "date": "2021-05-01",
+      "time": "20:45",
       "team1": "AC Milan",
-      "team2": "Benevento"
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2021-05-02",
-      "team1": "SSC Napoli",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "34^ Giornata",
-      "date": "2021-05-02",
-      "team1": "Bologna FC",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "34^ Giornata",
-      "date": "2021-05-02",
+      "time": "12:30",
       "team1": "SS Lazio",
-      "team2": "Genoa CFC"
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2021-05-02",
-      "team1": "FC Crotone",
-      "team2": "FC Internazionale Milano"
+      "time": "15:00",
+      "team1": "SSC Napoli",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2021-05-02",
-      "team1": "Udinese Calcio",
-      "team2": "Juventus"
+      "time": "15:00",
+      "team1": "Bologna FC 1909",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2021-05-02",
-      "team1": "Torino FC",
-      "team2": "Parma"
-    },
-    {
-      "round": "34^ Giornata",
-      "date": "2021-05-02",
-      "team1": "UC Sampdoria",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "34^ Giornata",
-      "date": "2021-05-02",
-      "team1": "Hellas Verona",
-      "team2": "Spezia"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Parma",
-      "team2": "Atalanta Bergamo"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Udinese Calcio",
-      "team2": "Bologna FC"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Benevento",
-      "team2": "Cagliari Calcio"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "AS Roma",
-      "team2": "FC Crotone"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "ACF Fiorentina",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Juventus",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Spezia",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "FC Internazionale Milano",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Genoa CFC",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2021-05-09",
-      "team1": "Hellas Verona",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "Atalanta Bergamo",
-      "team2": "Benevento"
-    },
-    {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "Cagliari Calcio",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "Bologna FC",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
+      "time": "15:00",
       "team1": "US Sassuolo Calcio",
-      "team2": "Juventus"
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "Torino FC",
-      "team2": "AC Milan"
+      "round": "Matchday 34",
+      "date": "2021-05-02",
+      "time": "18:00",
+      "team1": "Udinese Calcio",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "SS Lazio",
-      "team2": "Parma"
-    },
-    {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "FC Internazionale Milano",
-      "team2": "AS Roma"
-    },
-    {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
+      "round": "Matchday 34",
+      "date": "2021-05-02",
+      "time": "20:45",
       "team1": "UC Sampdoria",
-      "team2": "Spezia"
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "SSC Napoli",
-      "team2": "Udinese Calcio"
+      "round": "Matchday 34",
+      "date": "2021-05-03",
+      "time": "20:45",
+      "team1": "Torino FC",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "36^ Giornata",
-      "date": "2021-05-12",
-      "team1": "FC Crotone",
-      "team2": "Hellas Verona"
+      "round": "Matchday 35",
+      "date": "2021-05-08",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
+      "round": "Matchday 35",
+      "date": "2021-05-08",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-08",
+      "time": "18:05",
+      "team1": "FC Internazionale Milano",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-08",
+      "time": "20:45",
+      "team1": "ACF Fiorentina",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-09",
+      "time": "12:30",
       "team1": "Genoa CFC",
-      "team2": "Atalanta Bergamo"
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "Hellas Verona",
-      "team2": "Bologna FC"
+      "round": "Matchday 35",
+      "date": "2021-05-09",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 35",
+      "date": "2021-05-09",
+      "time": "15:00",
+      "team1": "Hellas Verona FC",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-09",
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-09",
+      "time": "18:00",
+      "team1": "AS Roma",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-09",
+      "time": "20:45",
+      "team1": "Juventus FC",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-11",
+      "time": "20:45",
+      "team1": "SSC Napoli",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "18:30",
+      "team1": "Cagliari Calcio",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:45",
+      "team1": "SS Lazio",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:45",
+      "team1": "Atalanta BC",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:45",
+      "team1": "UC Sampdoria",
+      "team2": "Spezia Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:45",
+      "team1": "Torino FC",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:45",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-12",
+      "time": "20:50",
+      "team1": "FC Internazionale Milano",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-13",
+      "time": "20:45",
+      "team1": "FC Crotone",
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-15",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Atalanta BC",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-15",
+      "time": "15:00",
+      "team1": "Spezia Calcio",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "Juventus FC",
+      "team2": "FC Internazionale Milano",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-15",
+      "time": "20:45",
+      "team1": "AS Roma",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
       "date": "2021-05-16",
+      "time": "12:35",
+      "team1": "ACF Fiorentina",
+      "team2": "SSC Napoli",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-16",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "UC Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-16",
+      "time": "15:00",
+      "team1": "Benevento Calcio",
+      "team2": "FC Crotone",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-16",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "US Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-05-16",
+      "time": "20:45",
       "team1": "AC Milan",
-      "team2": "Cagliari Calcio"
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "Benevento",
-      "team2": "FC Crotone"
+      "round": "Matchday 37",
+      "date": "2021-05-17",
+      "time": "20:45",
+      "team1": "Hellas Verona FC",
+      "team2": "Bologna FC 1909",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "Juventus",
-      "team2": "FC Internazionale Milano"
+      "round": "Matchday 25",
+      "date": "2021-05-18",
+      "time": "20:30",
+      "team1": "SS Lazio",
+      "team2": "Torino FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "AS Roma",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "ACF Fiorentina",
-      "team2": "SSC Napoli"
-    },
-    {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "Udinese Calcio",
-      "team2": "UC Sampdoria"
-    },
-    {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "Parma",
-      "team2": "US Sassuolo Calcio"
-    },
-    {
-      "round": "37^ Giornata",
-      "date": "2021-05-16",
-      "team1": "Spezia",
-      "team2": "Torino FC"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "Torino FC",
-      "team2": "Benevento"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "FC Crotone",
-      "team2": "ACF Fiorentina"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "Cagliari Calcio",
-      "team2": "Genoa CFC"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "Bologna FC",
-      "team2": "Juventus"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "US Sassuolo Calcio",
-      "team2": "SS Lazio"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "Atalanta Bergamo",
-      "team2": "AC Milan"
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
+      "round": "Matchday 38",
+      "date": "2021-05-22",
+      "time": "20:45",
       "team1": "UC Sampdoria",
-      "team2": "Parma"
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "38^ Giornata",
-      "date": "2021-05-23",
-      "team1": "Spezia",
-      "team2": "AS Roma"
+      "round": "Matchday 38",
+      "date": "2021-05-22",
+      "time": "20:45",
+      "team1": "Cagliari Calcio",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
+      "date": "2021-05-22",
+      "time": "20:45",
+      "team1": "FC Crotone",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
       "date": "2021-05-23",
+      "time": "15:00",
       "team1": "FC Internazionale Milano",
-      "team2": "Udinese Calcio"
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2021-05-23",
+      "time": "20:45",
       "team1": "SSC Napoli",
-      "team2": "Hellas Verona"
+      "team2": "Hellas Verona FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-05-23",
+      "time": "20:45",
+      "team1": "Atalanta BC",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-05-23",
+      "time": "20:45",
+      "team1": "Torino FC",
+      "team2": "Benevento Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-05-23",
+      "time": "20:45",
+      "team1": "Bologna FC 1909",
+      "team2": "Juventus FC",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-05-23",
+      "time": "20:45",
+      "team1": "Spezia Calcio",
+      "team2": "AS Roma",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-05-23",
+      "time": "20:45",
+      "team1": "US Sassuolo Calcio",
+      "team2": "SS Lazio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     }
   ]
 }
