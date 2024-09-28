@@ -1,3 +1,16 @@
+## What's News?
+
+Tip - You can now use the [fbtxt2json command-line tool](https://github.com/sportdb/sport.db/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
+
+Let's try to convert the English Premier League 2024/25
+in the Football.TXT format (see [`england/2024-25/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2024-25/1-premierleague.txt)) to JSON:
+
+```
+$ fbtxt2json england/2024-25/1-premierleague.txt -o en.json
+```
+
+
+
 # football.json
 
 Free open public domain football data in the JSON (JavaScript Object Notation)
