@@ -914,6 +914,14 @@
       "team1": "Olympique de Marseille",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -923,6 +931,14 @@
       "team1": "AS Saint-Étienne",
       "team2": "AJ Auxerre",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -932,6 +948,14 @@
       "team1": "Lille OSC",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -941,6 +965,14 @@
       "team1": "Stade Rennais FC 1901",
       "team2": "AS Monaco FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -950,6 +982,14 @@
       "team1": "Olympique Lyonnais",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -959,6 +999,14 @@
       "team1": "Stade Brestois 29",
       "team2": "Le Havre AC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -968,6 +1016,14 @@
       "team1": "RC Strasbourg Alsace",
       "team2": "Racing Club de Lens",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -977,6 +1033,14 @@
       "team1": "Stade de Reims",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
       }
     },
     {
@@ -986,6 +1050,14 @@
       "team1": "OGC Nice",
       "team2": "Paris Saint-Germain FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -1152,23 +1224,8 @@
     },
     {
       "round": "Matchday 10",
-      "date": "2024-11-03",
-      "team1": "AJ Auxerre",
-      "team2": "Stade Rennais FC 1901",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2024-11-03",
-      "team1": "Toulouse FC",
-      "team2": "Stade de Reims",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2024-11-03",
+      "date": "2024-11-01",
+      "time": "19:00",
       "team1": "AS Monaco FC",
       "team2": "Angers SCO",
       "score": {
@@ -1176,23 +1233,8 @@
     },
     {
       "round": "Matchday 10",
-      "date": "2024-11-03",
-      "team1": "Le Havre AC",
-      "team2": "Montpellier HSC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2024-11-03",
-      "team1": "FC Nantes",
-      "team2": "Olympique de Marseille",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2024-11-03",
+      "date": "2024-11-01",
+      "time": "21:00",
       "team1": "Lille OSC",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -1200,7 +1242,26 @@
     },
     {
       "round": "Matchday 10",
-      "date": "2024-11-03",
+      "date": "2024-11-02",
+      "time": "17:00",
+      "team1": "Paris Saint-Germain FC",
+      "team2": "Racing Club de Lens",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-11-02",
+      "time": "19:00",
+      "team1": "Stade Brestois 29",
+      "team2": "OGC Nice",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-11-02",
+      "time": "21:00",
       "team1": "AS Saint-Étienne",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -1209,16 +1270,36 @@
     {
       "round": "Matchday 10",
       "date": "2024-11-03",
-      "team1": "Stade Brestois 29",
-      "team2": "OGC Nice",
+      "time": "15:00",
+      "team1": "Toulouse FC",
+      "team2": "Stade de Reims",
       "score": {
       }
     },
     {
       "round": "Matchday 10",
       "date": "2024-11-03",
-      "team1": "Paris Saint-Germain FC",
-      "team2": "Racing Club de Lens",
+      "time": "17:00",
+      "team1": "AJ Auxerre",
+      "team2": "Stade Rennais FC 1901",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-11-03",
+      "time": "17:00",
+      "team1": "Le Havre AC",
+      "team2": "Montpellier HSC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-11-03",
+      "time": "20:45",
+      "team1": "FC Nantes",
+      "team2": "Olympique de Marseille",
       "score": {
       }
     },

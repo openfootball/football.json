@@ -1332,6 +1332,10 @@
       "team1": "CD Leganés",
       "team2": "Valencia CF",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -1341,6 +1345,14 @@
       "team1": "RCD Espanyol de Barcelona",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -1350,6 +1362,14 @@
       "team1": "Getafe CF",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -1359,6 +1379,14 @@
       "team1": "Real Valladolid CF",
       "team2": "Rayo Vallecano de Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -1368,6 +1396,14 @@
       "team1": "UD Las Palmas",
       "team2": "RC Celta de Vigo",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -1377,6 +1413,14 @@
       "team1": "Real Madrid CF",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -1386,6 +1430,14 @@
       "team1": "Girona FC",
       "team2": "Athletic Club",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -1395,6 +1447,14 @@
       "team1": "Deportivo Alavés",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
       }
     },
     {
@@ -1404,6 +1464,14 @@
       "team1": "Sevilla FC",
       "team2": "Real Betis Balompié",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -1413,6 +1481,14 @@
       "team1": "Real Sociedad de Fútbol",
       "team2": "Club Atlético de Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -1597,39 +1673,8 @@
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-03",
-      "team1": "Athletic Club",
-      "team2": "Real Betis Balompié",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-11-03",
-      "team1": "Club Atlético de Madrid",
-      "team2": "UD Las Palmas",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-11-03",
-      "team1": "CA Osasuna",
-      "team2": "Real Valladolid CF",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-11-03",
-      "team1": "RC Celta de Vigo",
-      "team2": "Getafe CF",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-11-03",
+      "date": "2024-11-01",
+      "time": "21:00",
       "team1": "Deportivo Alavés",
       "team2": "RCD Mallorca",
       "score": {
@@ -1637,7 +1682,17 @@
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-03",
+      "date": "2024-11-02",
+      "time": "14:00",
+      "team1": "CA Osasuna",
+      "team2": "Real Valladolid CF",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-11-02",
+      "time": "16:15",
       "team1": "Girona FC",
       "team2": "CD Leganés",
       "score": {
@@ -1645,15 +1700,17 @@
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-03",
-      "team1": "Sevilla FC",
-      "team2": "Real Sociedad de Fútbol",
+      "date": "2024-11-02",
+      "time": "18:30",
+      "team1": "Villarreal CF",
+      "team2": "Rayo Vallecano de Madrid",
       "score": {
       }
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-03",
+      "date": "2024-11-02",
+      "time": "21:00",
       "team1": "Valencia CF",
       "team2": "Real Madrid CF",
       "score": {
@@ -1662,16 +1719,45 @@
     {
       "round": "Matchday 12",
       "date": "2024-11-03",
-      "team1": "Villarreal CF",
-      "team2": "Rayo Vallecano de Madrid",
+      "time": "14:00",
+      "team1": "Club Atlético de Madrid",
+      "team2": "UD Las Palmas",
       "score": {
       }
     },
     {
       "round": "Matchday 12",
       "date": "2024-11-03",
+      "time": "16:15",
       "team1": "FC Barcelona",
       "team2": "RCD Espanyol de Barcelona",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-11-03",
+      "time": "18:30",
+      "team1": "Sevilla FC",
+      "team2": "Real Sociedad de Fútbol",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-11-03",
+      "time": "21:00",
+      "team1": "Athletic Club",
+      "team2": "Real Betis Balompié",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-11-04",
+      "time": "21:00",
+      "team1": "RC Celta de Vigo",
+      "team2": "Getafe CF",
       "score": {
       }
     },

@@ -804,54 +804,6 @@
     {
       "round": "Matchday 5",
       "date": "2024-09-07",
-      "team1": "Burton Albion",
-      "team2": "Crawley Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2024-09-07",
-      "team1": "Exeter City",
-      "team2": "Birmingham City",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2024-09-07",
-      "team1": "Huddersfield Town",
-      "team2": "Blackpool FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2024-09-07",
-      "team1": "Leyton Orient",
-      "team2": "Peterborough United",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2024-09-07",
-      "team1": "Lincoln City",
-      "team2": "Northampton Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2024-09-07",
-      "team1": "Wigan Athletic",
-      "team2": "Stevenage FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2024-09-07",
       "team1": "Wycombe Wanderers",
       "team2": "Mansfield Town",
       "score": {
@@ -909,12 +861,29 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2024-09-07",
+      "time": "15:00",
+      "team1": "Exeter City",
+      "team2": "Birmingham City",
+      "score": {
+      }
+    },
+    {
       "round": "Matchday 6",
       "date": "2024-09-14",
       "time": "15:00",
       "team1": "Stevenage FC",
       "team2": "Barnsley FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -924,78 +893,14 @@
       "team1": "Shrewsbury Town",
       "team2": "Charlton Athletic",
       "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "12:30",
-      "team1": "Mansfield Town",
-      "team2": "Cambridge United",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "12:30",
-      "team1": "Northampton Town",
-      "team2": "Wycombe Wanderers",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "15:00",
-      "team1": "Blackpool FC",
-      "team2": "Exeter City",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "15:00",
-      "team1": "Bolton Wanderers",
-      "team2": "Huddersfield Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "15:00",
-      "team1": "Bristol Rovers",
-      "team2": "Wigan Athletic",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "15:00",
-      "team1": "Crawley Town",
-      "team2": "Stockport County",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "15:00",
-      "team1": "Peterborough United",
-      "team2": "Lincoln City",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2024-09-14",
-      "time": "15:00",
-      "team1": "Reading FC",
-      "team2": "Leyton Orient",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -1005,6 +910,150 @@
       "team1": "Rotherham United",
       "team2": "Burton Albion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "15:00",
+      "team1": "Reading FC",
+      "team2": "Leyton Orient",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "15:00",
+      "team1": "Peterborough United",
+      "team2": "Lincoln City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "15:00",
+      "team1": "Crawley Town",
+      "team2": "Stockport County",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "15:00",
+      "team1": "Bristol Rovers",
+      "team2": "Wigan Athletic",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "12:30",
+      "team1": "Mansfield Town",
+      "team2": "Cambridge United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "12:30",
+      "team1": "Northampton Town",
+      "team2": "Wycombe Wanderers",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "15:00",
+      "team1": "Blackpool FC",
+      "team2": "Exeter City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2024-09-14",
+      "time": "15:00",
+      "team1": "Bolton Wanderers",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
       }
     },
     {
@@ -1014,6 +1063,14 @@
       "team1": "Birmingham City",
       "team2": "Wrexham AFC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -1023,78 +1080,14 @@
       "team1": "Stockport County",
       "team2": "Leyton Orient",
       "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "15:00",
-      "team1": "Wrexham AFC",
-      "team2": "Crawley Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "12:30",
-      "team1": "Exeter City",
-      "team2": "Stevenage FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "12:30",
-      "team1": "Lincoln City",
-      "team2": "Wigan Athletic",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "15:00",
-      "team1": "Bolton Wanderers",
-      "team2": "Reading FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "15:00",
-      "team1": "Burton Albion",
-      "team2": "Barnsley FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "15:00",
-      "team1": "Charlton Athletic",
-      "team2": "Blackpool FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "15:00",
-      "team1": "Huddersfield Town",
-      "team2": "Northampton Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2024-09-21",
-      "time": "15:00",
-      "team1": "Mansfield Town",
-      "team2": "Shrewsbury Town",
-      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
       }
     },
     {
@@ -1104,6 +1097,82 @@
       "team1": "Peterborough United",
       "team2": "Bristol Rovers",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "15:00",
+      "team1": "Mansfield Town",
+      "team2": "Shrewsbury Town",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Northampton Town",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "15:00",
+      "team1": "Charlton Athletic",
+      "team2": "Blackpool FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "15:00",
+      "team1": "Wrexham AFC",
+      "team2": "Crawley Town",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -1113,6 +1182,78 @@
       "team1": "Rotherham United",
       "team2": "Birmingham City",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "12:30",
+      "team1": "Exeter City",
+      "team2": "Stevenage FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "12:30",
+      "team1": "Lincoln City",
+      "team2": "Wigan Athletic",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "15:00",
+      "team1": "Bolton Wanderers",
+      "team2": "Reading FC",
+      "score": {
+        "ht": [
+          4,
+          1
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2024-09-21",
+      "time": "15:00",
+      "team1": "Burton Albion",
+      "team2": "Barnsley FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -1122,105 +1263,61 @@
       "team1": "Wycombe Wanderers",
       "team2": "Cambridge United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
+      "round": "Matchday 5",
+      "date": "2024-09-24",
       "time": "19:45",
-      "team1": "Barnsley FC",
-      "team2": "Stockport County",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
       "team1": "Wigan Athletic",
-      "team2": "Exeter City",
+      "team2": "Stevenage FC",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "12:30",
-      "team1": "Crawley Town",
-      "team2": "Bolton Wanderers",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "12:30",
-      "team1": "Reading FC",
-      "team2": "Huddersfield Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Birmingham City",
+      "round": "Matchday 5",
+      "date": "2024-09-24",
+      "time": "19:45",
+      "team1": "Leyton Orient",
       "team2": "Peterborough United",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Blackpool FC",
-      "team2": "Burton Albion",
+      "round": "Matchday 5",
+      "date": "2024-09-24",
+      "time": "19:45",
+      "team1": "Huddersfield Town",
+      "team2": "Blackpool FC",
       "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Bristol Rovers",
-      "team2": "Wycombe Wanderers",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Cambridge United",
-      "team2": "Lincoln City",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Leyton Orient",
-      "team2": "Wrexham AFC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Northampton Town",
-      "team2": "Mansfield Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2024-09-28",
-      "time": "15:00",
-      "team1": "Shrewsbury Town",
-      "team2": "Rotherham United",
-      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -1230,15 +1327,210 @@
       "team1": "Stevenage FC",
       "team2": "Charlton Athletic",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Wigan Athletic",
+      "team2": "Exeter City",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "19:45",
+      "team1": "Barnsley FC",
+      "team2": "Stockport County",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Shrewsbury Town",
+      "team2": "Rotherham United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "12:30",
+      "team1": "Crawley Town",
+      "team2": "Bolton Wanderers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "12:30",
+      "team1": "Reading FC",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Birmingham City",
+      "team2": "Peterborough United",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Blackpool FC",
+      "team2": "Burton Albion",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Bristol Rovers",
+      "team2": "Wycombe Wanderers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Cambridge United",
+      "team2": "Lincoln City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Leyton Orient",
+      "team2": "Wrexham AFC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2024-09-28",
+      "time": "15:00",
+      "team1": "Northampton Town",
+      "team2": "Mansfield Town",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
       "round": "Matchday 9",
       "date": "2024-10-01",
       "time": "19:45",
-      "team1": "Crawley Town",
-      "team2": "Mansfield Town",
+      "team1": "Wigan Athletic",
+      "team2": "Peterborough United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -1248,24 +1540,14 @@
       "team1": "Reading FC",
       "team2": "Burton Albion",
       "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Barnsley FC",
-      "team2": "Wycombe Wanderers",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Birmingham City",
-      "team2": "Huddersfield Town",
-      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -1275,60 +1557,14 @@
       "team1": "Blackpool FC",
       "team2": "Lincoln City",
       "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Bristol Rovers",
-      "team2": "Charlton Athletic",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Cambridge United",
-      "team2": "Rotherham United",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Wigan Athletic",
-      "team2": "Peterborough United",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Leyton Orient",
-      "team2": "Exeter City",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Northampton Town",
-      "team2": "Bolton Wanderers",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2024-10-01",
-      "time": "19:45",
-      "team1": "Shrewsbury Town",
-      "team2": "Stockport County",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -1338,96 +1574,150 @@
       "team1": "Stevenage FC",
       "team2": "Wrexham AFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Wrexham AFC",
-      "team2": "Northampton Town",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Barnsley FC",
+      "team2": "Wycombe Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Stockport County",
-      "team2": "Wigan Athletic",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Birmingham City",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "12:30",
-      "team1": "Huddersfield Town",
-      "team2": "Barnsley FC",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Shrewsbury Town",
+      "team2": "Stockport County",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "12:30",
-      "team1": "Peterborough United",
-      "team2": "Stevenage FC",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Bristol Rovers",
+      "team2": "Charlton Athletic",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Bolton Wanderers",
-      "team2": "Shrewsbury Town",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Cambridge United",
+      "team2": "Rotherham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Burton Albion",
-      "team2": "Bristol Rovers",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Crawley Town",
+      "team2": "Mansfield Town",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Charlton Athletic",
-      "team2": "Birmingham City",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Leyton Orient",
+      "team2": "Exeter City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Exeter City",
-      "team2": "Cambridge United",
+      "round": "Matchday 9",
+      "date": "2024-10-01",
+      "time": "19:45",
+      "team1": "Northampton Town",
+      "team2": "Bolton Wanderers",
       "score": {
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Lincoln City",
-      "team2": "Leyton Orient",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2024-10-05",
-      "time": "15:00",
-      "team1": "Mansfield Town",
-      "team2": "Blackpool FC",
-      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
       }
     },
     {
@@ -1437,6 +1727,180 @@
       "team1": "Rotherham United",
       "team2": "Reading FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Wrexham AFC",
+      "team2": "Northampton Town",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Stockport County",
+      "team2": "Wigan Athletic",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Mansfield Town",
+      "team2": "Blackpool FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "12:30",
+      "team1": "Huddersfield Town",
+      "team2": "Barnsley FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "12:30",
+      "team1": "Peterborough United",
+      "team2": "Stevenage FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Bolton Wanderers",
+      "team2": "Shrewsbury Town",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Burton Albion",
+      "team2": "Bristol Rovers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Charlton Athletic",
+      "team2": "Birmingham City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Exeter City",
+      "team2": "Cambridge United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2024-10-05",
+      "time": "15:00",
+      "team1": "Lincoln City",
+      "team2": "Leyton Orient",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -1445,6 +1909,32 @@
       "time": "15:00",
       "team1": "Wycombe Wanderers",
       "team2": "Crawley Town",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2024-10-12",
+      "time": "15:00",
+      "team1": "Crawley Town",
+      "team2": "Shrewsbury Town",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2024-10-12",
+      "time": "15:00",
+      "team1": "Wrexham AFC",
+      "team2": "Lincoln City",
       "score": {
       }
     },
@@ -1461,8 +1951,8 @@
       "round": "Matchday 11",
       "date": "2024-10-12",
       "time": "15:00",
-      "team1": "Wrexham AFC",
-      "team2": "Lincoln City",
+      "team1": "Peterborough United",
+      "team2": "Rotherham United",
       "score": {
       }
     },
@@ -1499,15 +1989,6 @@
       "time": "15:00",
       "team1": "Burton Albion",
       "team2": "Charlton Athletic",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 11",
-      "date": "2024-10-12",
-      "time": "15:00",
-      "team1": "Crawley Town",
-      "team2": "Shrewsbury Town",
       "score": {
       }
     },
@@ -1526,15 +2007,6 @@
       "time": "15:00",
       "team1": "Leyton Orient",
       "team2": "Huddersfield Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 11",
-      "date": "2024-10-12",
-      "time": "15:00",
-      "team1": "Peterborough United",
-      "team2": "Rotherham United",
       "score": {
       }
     },
@@ -1578,6 +2050,24 @@
       "round": "Matchday 12",
       "date": "2024-10-19",
       "time": "15:00",
+      "team1": "Mansfield Town",
+      "team2": "Stevenage FC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-10-19",
+      "time": "15:00",
+      "team1": "Lincoln City",
+      "team2": "Birmingham City",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-10-19",
+      "time": "15:00",
       "team1": "Rotherham United",
       "team2": "Wrexham AFC",
       "score": {
@@ -1647,24 +2137,6 @@
       }
     },
     {
-      "round": "Matchday 12",
-      "date": "2024-10-19",
-      "time": "15:00",
-      "team1": "Lincoln City",
-      "team2": "Birmingham City",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-10-19",
-      "time": "15:00",
-      "team1": "Mansfield Town",
-      "team2": "Stevenage FC",
-      "score": {
-      }
-    },
-    {
       "round": "Matchday 13",
       "date": "2024-10-22",
       "time": "19:45",
@@ -1679,6 +2151,24 @@
       "time": "19:45",
       "team1": "Stockport County",
       "team2": "Northampton Town",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2024-10-22",
+      "time": "19:45",
+      "team1": "Stevenage FC",
+      "team2": "Cambridge United",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2024-10-22",
+      "time": "19:45",
+      "team1": "Peterborough United",
+      "team2": "Blackpool FC",
       "score": {
       }
     },
@@ -1749,26 +2239,17 @@
       "round": "Matchday 13",
       "date": "2024-10-22",
       "time": "19:45",
-      "team1": "Peterborough United",
-      "team2": "Blackpool FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2024-10-22",
-      "time": "19:45",
-      "team1": "Stevenage FC",
-      "team2": "Cambridge United",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2024-10-22",
-      "time": "19:45",
       "team1": "Wrexham AFC",
       "team2": "Huddersfield Town",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2024-10-26",
+      "time": "15:00",
+      "team1": "Shrewsbury Town",
+      "team2": "Barnsley FC",
       "score": {
       }
     },
@@ -1785,8 +2266,17 @@
       "round": "Matchday 14",
       "date": "2024-10-26",
       "time": "15:00",
-      "team1": "Shrewsbury Town",
-      "team2": "Barnsley FC",
+      "team1": "Rotherham United",
+      "team2": "Stevenage FC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2024-10-26",
+      "time": "15:00",
+      "team1": "Northampton Town",
+      "team2": "Crawley Town",
       "score": {
       }
     },
@@ -1855,24 +2345,6 @@
     },
     {
       "round": "Matchday 14",
-      "date": "2024-10-26",
-      "time": "15:00",
-      "team1": "Northampton Town",
-      "team2": "Crawley Town",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2024-10-26",
-      "time": "15:00",
-      "team1": "Rotherham United",
-      "team2": "Stevenage FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 14",
       "date": "2024-10-28",
       "time": "20:00",
       "team1": "Blackpool FC",
@@ -1890,11 +2362,29 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2024-10-29",
+      "time": "19:45",
+      "team1": "Lincoln City",
+      "team2": "Northampton Town",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2024-11-05",
+      "time": "19:45",
+      "team1": "Burton Albion",
+      "team2": "Crawley Town",
+      "score": {
+      }
+    },
+    {
       "round": "Matchday 15",
       "date": "2024-11-09",
       "time": "15:00",
-      "team1": "Exeter City",
-      "team2": "Charlton Athletic",
+      "team1": "Crawley Town",
+      "team2": "Huddersfield Town",
       "score": {
       }
     },
@@ -1938,8 +2428,8 @@
       "round": "Matchday 15",
       "date": "2024-11-09",
       "time": "15:00",
-      "team1": "Crawley Town",
-      "team2": "Huddersfield Town",
+      "team1": "Wigan Athletic",
+      "team2": "Wycombe Wanderers",
       "score": {
       }
     },
@@ -1947,8 +2437,8 @@
       "round": "Matchday 15",
       "date": "2024-11-09",
       "time": "15:00",
-      "team1": "Wigan Athletic",
-      "team2": "Wycombe Wanderers",
+      "team1": "Exeter City",
+      "team2": "Charlton Athletic",
       "score": {
       }
     },
