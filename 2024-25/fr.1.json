@@ -1369,6 +1369,14 @@
       "team1": "AS Monaco FC",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -1378,6 +1386,14 @@
       "team1": "Lille OSC",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -1387,6 +1403,14 @@
       "team1": "Paris Saint-Germain FC",
       "team2": "Racing Club de Lens",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -1396,6 +1420,14 @@
       "team1": "Stade Brestois 29",
       "team2": "OGC Nice",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -1405,6 +1437,14 @@
       "team1": "AS Saint-Étienne",
       "team2": "RC Strasbourg Alsace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -1414,6 +1454,14 @@
       "team1": "Toulouse FC",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -1423,6 +1471,14 @@
       "team1": "AJ Auxerre",
       "team2": "Stade Rennais FC 1901",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
       }
     },
     {
@@ -1432,6 +1488,14 @@
       "team1": "Le Havre AC",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -1441,6 +1505,14 @@
       "team1": "FC Nantes",
       "team2": "Olympique de Marseille",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -1526,7 +1598,17 @@
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-24",
+      "date": "2024-11-22",
+      "time": "19:00",
+      "team1": "AS Monaco FC",
+      "team2": "Stade Brestois 29",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2024-11-22",
+      "time": "21:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "Toulouse FC",
       "score": {
@@ -1534,7 +1616,8 @@
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-24",
+      "date": "2024-11-23",
+      "time": "17:00",
       "team1": "Racing Club de Lens",
       "team2": "Olympique de Marseille",
       "score": {
@@ -1542,15 +1625,8 @@
     },
     {
       "round": "Matchday 12",
-      "date": "2024-11-24",
-      "team1": "OGC Nice",
-      "team2": "RC Strasbourg Alsace",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-11-24",
+      "date": "2024-11-23",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "Montpellier HSC",
       "score": {
@@ -1558,7 +1634,17 @@
     },
     {
       "round": "Matchday 12",
+      "date": "2024-11-23",
+      "time": "21:00",
+      "team1": "Stade de Reims",
+      "team2": "Olympique Lyonnais",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2024-11-24",
+      "time": "15:00",
       "team1": "Lille OSC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -1567,6 +1653,7 @@
     {
       "round": "Matchday 12",
       "date": "2024-11-24",
+      "time": "17:00",
       "team1": "FC Nantes",
       "team2": "Le Havre AC",
       "score": {
@@ -1575,14 +1662,7 @@
     {
       "round": "Matchday 12",
       "date": "2024-11-24",
-      "team1": "AS Monaco FC",
-      "team2": "Stade Brestois 29",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2024-11-24",
+      "time": "17:00",
       "team1": "AJ Auxerre",
       "team2": "Angers SCO",
       "score": {
@@ -1591,14 +1671,16 @@
     {
       "round": "Matchday 12",
       "date": "2024-11-24",
-      "team1": "Stade de Reims",
-      "team2": "Olympique Lyonnais",
+      "time": "20:45",
+      "team1": "OGC Nice",
+      "team2": "RC Strasbourg Alsace",
       "score": {
       }
     },
     {
       "round": "Matchday 13",
-      "date": "2024-12-01",
+      "date": "2024-11-29",
+      "time": "20:45",
       "team1": "Stade de Reims",
       "team2": "Racing Club de Lens",
       "score": {
@@ -1606,7 +1688,8 @@
     },
     {
       "round": "Matchday 13",
-      "date": "2024-12-01",
+      "date": "2024-11-30",
+      "time": "17:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -1614,23 +1697,8 @@
     },
     {
       "round": "Matchday 13",
-      "date": "2024-12-01",
-      "team1": "Le Havre AC",
-      "team2": "Angers SCO",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2024-12-01",
-      "team1": "Toulouse FC",
-      "team2": "AJ Auxerre",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2024-12-01",
+      "date": "2024-11-30",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -1638,15 +1706,8 @@
     },
     {
       "round": "Matchday 13",
-      "date": "2024-12-01",
-      "team1": "Montpellier HSC",
-      "team2": "Lille OSC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2024-12-01",
+      "date": "2024-11-30",
+      "time": "21:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "FC Nantes",
       "score": {
@@ -1655,16 +1716,45 @@
     {
       "round": "Matchday 13",
       "date": "2024-12-01",
-      "team1": "Olympique de Marseille",
-      "team2": "AS Monaco FC",
+      "time": "15:00",
+      "team1": "Montpellier HSC",
+      "team2": "Lille OSC",
       "score": {
       }
     },
     {
       "round": "Matchday 13",
       "date": "2024-12-01",
+      "time": "17:00",
+      "team1": "Le Havre AC",
+      "team2": "Angers SCO",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2024-12-01",
+      "time": "17:00",
+      "team1": "Toulouse FC",
+      "team2": "AJ Auxerre",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2024-12-01",
+      "time": "17:00",
       "team1": "Olympique Lyonnais",
       "team2": "OGC Nice",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2024-12-01",
+      "time": "20:45",
+      "team1": "Olympique de Marseille",
+      "team2": "AS Monaco FC",
       "score": {
       }
     },
