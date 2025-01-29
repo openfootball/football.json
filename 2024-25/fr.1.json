@@ -2726,6 +2726,14 @@
       "team1": "AJ Auxerre",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -2735,6 +2743,14 @@
       "team1": "AS Monaco FC",
       "team2": "Stade Rennais FC 1901",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
@@ -2744,6 +2760,14 @@
       "team1": "RC Strasbourg Alsace",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -2753,6 +2777,14 @@
       "team1": "Paris Saint-Germain FC",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -2762,6 +2794,14 @@
       "team1": "Le Havre AC",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -2771,6 +2811,14 @@
       "team1": "FC Nantes",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -2780,6 +2828,14 @@
       "team1": "Toulouse FC",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -2789,6 +2845,14 @@
       "team1": "Racing Club de Lens",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -2797,6 +2861,23 @@
       "time": "20:45",
       "team1": "OGC Nice",
       "team2": "Olympique de Marseille",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2025-01-31",
+      "time": "20:45",
+      "team1": "Montpellier HSC",
+      "team2": "Racing Club de Lens",
       "score": {
       }
     },
@@ -2811,15 +2892,17 @@
     },
     {
       "round": "Matchday 20",
-      "date": "2025-02-02",
-      "team1": "Montpellier HSC",
-      "team2": "Racing Club de Lens",
+      "date": "2025-02-01",
+      "time": "19:00",
+      "team1": "AS Monaco FC",
+      "team2": "AJ Auxerre",
       "score": {
       }
     },
     {
       "round": "Matchday 20",
-      "date": "2025-02-02",
+      "date": "2025-02-01",
+      "time": "21:05",
       "team1": "Lille OSC",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -2828,22 +2911,7 @@
     {
       "round": "Matchday 20",
       "date": "2025-02-02",
-      "team1": "Stade de Reims",
-      "team2": "FC Nantes",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2025-02-02",
-      "team1": "Angers SCO",
-      "team2": "Le Havre AC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2025-02-02",
+      "time": "15:00",
       "team1": "Toulouse FC",
       "team2": "OGC Nice",
       "score": {
@@ -2852,16 +2920,27 @@
     {
       "round": "Matchday 20",
       "date": "2025-02-02",
-      "team1": "Stade Rennais FC 1901",
-      "team2": "RC Strasbourg Alsace",
+      "time": "17:15",
+      "team1": "Stade de Reims",
+      "team2": "FC Nantes",
       "score": {
       }
     },
     {
       "round": "Matchday 20",
       "date": "2025-02-02",
-      "team1": "AS Monaco FC",
-      "team2": "AJ Auxerre",
+      "time": "17:15",
+      "team1": "Angers SCO",
+      "team2": "Le Havre AC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2025-02-02",
+      "time": "17:15",
+      "team1": "Stade Rennais FC 1901",
+      "team2": "RC Strasbourg Alsace",
       "score": {
       }
     },
@@ -2876,9 +2955,28 @@
     },
     {
       "round": "Matchday 21",
-      "date": "2025-02-09",
-      "team1": "AJ Auxerre",
-      "team2": "Toulouse FC",
+      "date": "2025-02-07",
+      "time": "21:05",
+      "team1": "Paris Saint-Germain FC",
+      "team2": "AS Monaco FC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2025-02-08",
+      "time": "17:00",
+      "team1": "OGC Nice",
+      "team2": "Racing Club de Lens",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2025-02-08",
+      "time": "21:05",
+      "team1": "AS Saint-Étienne",
+      "team2": "Stade Rennais FC 1901",
       "score": {
       }
     },
@@ -2893,14 +2991,6 @@
     {
       "round": "Matchday 21",
       "date": "2025-02-09",
-      "team1": "RC Strasbourg Alsace",
-      "team2": "Montpellier HSC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2025-02-09",
       "team1": "Lille OSC",
       "team2": "Le Havre AC",
       "score": {
@@ -2909,22 +2999,7 @@
     {
       "round": "Matchday 21",
       "date": "2025-02-09",
-      "team1": "AS Saint-Étienne",
-      "team2": "Stade Rennais FC 1901",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2025-02-09",
-      "team1": "Paris Saint-Germain FC",
-      "team2": "AS Monaco FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2025-02-09",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "Stade de Reims",
       "score": {
@@ -2933,16 +3008,27 @@
     {
       "round": "Matchday 21",
       "date": "2025-02-09",
-      "team1": "Angers SCO",
-      "team2": "Olympique de Marseille",
+      "time": "17:15",
+      "team1": "AJ Auxerre",
+      "team2": "Toulouse FC",
       "score": {
       }
     },
     {
       "round": "Matchday 21",
       "date": "2025-02-09",
-      "team1": "OGC Nice",
-      "team2": "Racing Club de Lens",
+      "time": "17:15",
+      "team1": "RC Strasbourg Alsace",
+      "team2": "Montpellier HSC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2025-02-09",
+      "time": "20:45",
+      "team1": "Angers SCO",
+      "team2": "Olympique de Marseille",
       "score": {
       }
     },
