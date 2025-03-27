@@ -1,6 +1,6 @@
 ## What's News?
 
-Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
+Tip - You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
 Let's try to convert the English Premier League 2024/25
 in the Football.TXT format (see [`england/2024-25/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2024-25/1-premierleague.txt)) to JSON:
@@ -23,7 +23,7 @@ Leagues include:
 - Spanish Primera División ("La Liga"), Segunda División
 - Italian Serie A, Serie B
 - French Ligue 1, Ligue 2
-- and more
+- and much more
 
 Example - Premier League 2015/16 Match Schedule (Fixtures and Results) - [`2015-16/en.1.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json):
 
@@ -51,28 +51,8 @@ Example - Premier League 2015/16 Match Schedule (Fixtures and Results) - [`2015-
 ```
 
 
-Example - Premier League 2015/16 Clubs - [`2015-16/en.1.clubs.json`](https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json):
 
-``` json
-{
-  "name": "Premier League 2015/16",
-  "clubs": [
-    {
-      "name":    "Chelsea",
-      "code":    "CHE"
-    },
-    {
-      "name":    "Arsenal",
-      "code":    "ARS"
-    },
-    {
-      "name":    "Manchester United",
-      "code":    "MUN"
-    },
-    ...
-  ]
-}
-```
+
 
 ## How to Use the Public JSON API Service - No API Key Required ;-)
 
