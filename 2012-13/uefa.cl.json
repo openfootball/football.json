@@ -1,1541 +1,2110 @@
 {
-  "name": "Champions League 2012/13",
-  "rounds": [
+  "name": "UEFA Champions League 2012/13",
+  "matches": [
     {
-      "name": "Matchday 1",
-      "matches": [
-        {
-          "date": "2012-09-18",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "Paris Saint-Germain",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "Montpellier HSC",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "Olympiacos Piraeus FC",
-          "team2": "FC Schalke 04",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "Málaga CF",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "AC Milan",
-          "team2": "RSC Anderlecht",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "Borussia Dortmund",
-          "team2": "Ajax Amsterdam",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-09-18",
-          "team1": "Real Madrid",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "FC Nordsjælland",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "Chelsea FC",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "Lille OSC",
-          "team2": "FC BATE Borisov",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "Bayern München",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "FC Barcelona",
-          "team2": "FC Spartak Moskva",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "Celtic FC",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "Manchester United FC",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2012-09-19",
-          "team1": "SC Braga",
-          "team2": "CFR Cluj",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "name": "Matchday 2",
-      "matches": [
-        {
-          "date": "2012-10-03",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "FC Porto",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "FC Schalke 04",
-          "team2": "Montpellier HSC",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "Arsenal FC",
-          "team2": "Olympiacos Piraeus FC",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "Zenit St. Petersburg",
-          "team2": "AC Milan",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "RSC Anderlecht",
-          "team2": "Málaga CF",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "Manchester City FC",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-10-03",
-          "team1": "Ajax Amsterdam",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              4
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "Juventus",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "FC Nordsjælland",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              0,
-              4
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "Valencia CF",
-          "team2": "Lille OSC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "FC BATE Borisov",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "FC Spartak Moskva",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "SL Benfica",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "CFR Cluj",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2012-10-02",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "SC Braga",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "Matchday 3",
-      "matches": [
-        {
-          "date": "2012-10-24",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "FC Porto",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "Arsenal FC",
-          "team2": "FC Schalke 04",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "Montpellier HSC",
-          "team2": "Olympiacos Piraeus FC",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "Zenit St. Petersburg",
-          "team2": "RSC Anderlecht",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "Málaga CF",
-          "team2": "AC Milan",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "Ajax Amsterdam",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-10-24",
-          "team1": "Borussia Dortmund",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "FC Nordsjælland",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "FC BATE Borisov",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "Lille OSC",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "FC Spartak Moskva",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "FC Barcelona",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "CFR Cluj",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2012-10-23",
-          "team1": "Manchester United FC",
-          "team2": "SC Braga",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 4",
-      "matches": [
-        {
-          "date": "2012-11-06",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "Paris Saint-Germain",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "FC Schalke 04",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "Olympiacos Piraeus FC",
-          "team2": "Montpellier HSC",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "RSC Anderlecht",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "AC Milan",
-          "team2": "Málaga CF",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "Manchester City FC",
-          "team2": "Ajax Amsterdam",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-11-06",
-          "team1": "Real Madrid",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "Juventus",
-          "team2": "FC Nordsjælland",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "Chelsea FC",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "Valencia CF",
-          "team2": "FC BATE Borisov",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "Bayern München",
-          "team2": "Lille OSC",
-          "score": {
-            "ft": [
-              6,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "SL Benfica",
-          "team2": "FC Spartak Moskva",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "Celtic FC",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "CFR Cluj",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2012-11-07",
-          "team1": "SC Braga",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 5",
-      "matches": [
-        {
-          "date": "2012-11-21",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "FC Porto",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "Arsenal FC",
-          "team2": "Montpellier HSC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "FC Schalke 04",
-          "team2": "Olympiacos Piraeus FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "Zenit St. Petersburg",
-          "team2": "Málaga CF",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "RSC Anderlecht",
-          "team2": "AC Milan",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "Ajax Amsterdam",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              1,
-              4
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-11-21",
-          "team1": "Manchester City FC",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "FC Nordsjælland",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              2,
-              5
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "Juventus",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "FC BATE Borisov",
-          "team2": "Lille OSC",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "Valencia CF",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "FC Spartak Moskva",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "SL Benfica",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2012-11-20",
-          "team1": "CFR Cluj",
-          "team2": "SC Braga",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "name": "Matchday 6",
-      "matches": [
-        {
-          "date": "2012-12-04",
-          "team1": "Paris Saint-Germain",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "Montpellier HSC",
-          "team2": "FC Schalke 04",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "Olympiacos Piraeus FC",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "Málaga CF",
-          "team2": "RSC Anderlecht",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "AC Milan",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "Borussia Dortmund",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-12-04",
-          "team1": "Real Madrid",
-          "team2": "Ajax Amsterdam",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "Chelsea FC",
-          "team2": "FC Nordsjælland",
-          "score": {
-            "ft": [
-              6,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "Lille OSC",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "Bayern München",
-          "team2": "FC BATE Borisov",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "FC Barcelona",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "Celtic FC",
-          "team2": "FC Spartak Moskva",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "Manchester United FC",
-          "team2": "CFR Cluj",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2012-12-05",
-          "team1": "SC Braga",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "(7)  Round of 16 - 1st Leg",
-      "matches": [
-        {
-          "date": "2013-02-12",
-          "team1": "Celtic FC",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2013-02-12",
-          "team1": "Valencia CF",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2013-02-13",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2013-02-13",
-          "team1": "Real Madrid",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2013-02-19",
-          "team1": "FC Porto",
-          "team2": "Málaga CF",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-02-19",
-          "team1": "Arsenal FC",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2013-02-20",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "FC Schalke 04",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2013-02-20",
-          "team1": "AC Milan",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "(8)  Round of 16 - 2nd Leg",
-      "matches": [
-        {
-          "date": "2013-03-05",
-          "team1": "Manchester United FC",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2013-03-05",
-          "team1": "Borussia Dortmund",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-03-06",
-          "team1": "Paris Saint-Germain",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2013-03-06",
-          "team1": "Juventus",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-03-12",
-          "team1": "FC Schalke 04",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2013-03-12",
-          "team1": "FC Barcelona",
-          "team2": "AC Milan",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-03-13",
-          "team1": "Málaga CF",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-03-13",
-          "team1": "Bayern München",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "name": "(9)  Quarter-finals - 1st Leg",
-      "matches": [
-        {
-          "date": "2013-04-02",
-          "team1": "Paris Saint-Germain",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2013-04-02",
-          "team1": "Bayern München",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-04-03",
-          "team1": "Málaga CF",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-04-03",
-          "team1": "Real Madrid",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "(10)  Quarter-finals - 2nd Leg",
-      "matches": [
-        {
-          "date": "2013-04-09",
-          "team1": "Borussia Dortmund",
-          "team2": "Málaga CF",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2013-04-09",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2013-04-10",
-          "team1": "FC Barcelona",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2013-04-10",
-          "team1": "Juventus",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "name": "(11) Semi-finals - 1st Leg",
-      "matches": [
-        {
-          "date": "2013-04-23",
-          "team1": "Bayern München",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-04-24",
-          "team1": "Borussia Dortmund",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "name": "(12) Semi-finals - 2nd Leg",
-      "matches": [
-        {
-          "date": "2013-04-30",
-          "team1": "Real Madrid",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2013-05-01",
-          "team1": "FC Barcelona",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "(13) Final",
-      "matches": [
-        {
-          "date": "2013-05-25",
-          "team1": "Borussia Dortmund",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group B",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Olympiakos Piraeus (GRE)",
+      "team2": "FC Schalke 04 (GER)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Montpellier HSC (FRA)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Olympiakos Piraeus (GRE)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "FC Schalke 04 (GER)",
+      "team2": "Montpellier HSC (FRA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "FC Schalke 04 (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "Montpellier HSC (FRA)",
+      "team2": "Olympiakos Piraeus (GRE)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "FC Schalke 04 (GER)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "Olympiakos Piraeus (GRE)",
+      "team2": "Montpellier HSC (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "FC Schalke 04 (GER)",
+      "team2": "Olympiakos Piraeus (GRE)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Montpellier HSC (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Olympiakos Piraeus (GRE)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Montpellier HSC (FRA)",
+      "team2": "FC Schalke 04 (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "AC Milan (ITA)",
+      "team2": "RSC Anderlecht (BEL)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Málaga CF (ESP)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-10-03",
+      "time": "18:00",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "AC Milan (ITA)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "RSC Anderlecht (BEL)",
+      "team2": "Málaga CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-10-24",
+      "time": "18:00",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "RSC Anderlecht (BEL)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "Málaga CF (ESP)",
+      "team2": "AC Milan (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "RSC Anderlecht (BEL)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "AC Milan (ITA)",
+      "team2": "Málaga CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-11-21",
+      "time": "18:00",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "Málaga CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "RSC Anderlecht (BEL)",
+      "team2": "AC Milan (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "AC Milan (ITA)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Málaga CF (ESP)",
+      "team2": "RSC Anderlecht (BEL)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-09-18",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "AFC Ajax (NED)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "AFC Ajax (NED)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-10-03",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "AFC Ajax (NED)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-10-24",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "AFC Ajax (NED)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-11-06",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-11-21",
+      "time": "20:45",
+      "team1": "AFC Ajax (NED)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "AFC Ajax (NED)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2012-12-04",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "FC Nordsjælland (DEN)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "FC Nordsjælland (DEN)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "FC Nordsjælland (DEN)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "FC Nordsjælland (DEN)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-11-20",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-11-20",
+      "time": "20:45",
+      "team1": "FC Nordsjælland (DEN)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "FC Nordsjælland (DEN)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Lille OSC (FRA)",
+      "team2": "BATE Borisov (BLR)",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "Lille OSC (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "BATE Borisov (BLR)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "Lille OSC (FRA)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "BATE Borisov (BLR)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Lille OSC (FRA)",
+      "score": {
+        "ht": [
+          5,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "BATE Borisov (BLR)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-11-20",
+      "time": "18:00",
+      "team1": "BATE Borisov (BLR)",
+      "team2": "Lille OSC (FRA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-11-20",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Lille OSC (FRA)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "BATE Borisov (BLR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Spartak Moskva (RUS)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-10-02",
+      "time": "18:00",
+      "team1": "Spartak Moskva (RUS)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-10-23",
+      "time": "18:00",
+      "team1": "Spartak Moskva (RUS)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Spartak Moskva (RUS)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-11-20",
+      "time": "18:00",
+      "team1": "Spartak Moskva (RUS)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-11-20",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "Spartak Moskva (RUS)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-09-19",
+      "time": "20:45",
+      "team1": "Sporting Braga (POR)",
+      "team2": "CFR Cluj (ROU)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "Sporting Braga (POR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-10-02",
+      "time": "20:45",
+      "team1": "CFR Cluj (ROU)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "Sporting Braga (POR)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-10-23",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "CFR Cluj (ROU)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "Sporting Braga (POR)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-11-07",
+      "time": "20:45",
+      "team1": "CFR Cluj (ROU)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-11-20",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-11-20",
+      "time": "20:45",
+      "team1": "CFR Cluj (ROU)",
+      "team2": "Sporting Braga (POR)",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Sporting Braga (POR)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2012-12-05",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "CFR Cluj (ROU)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-12",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-12",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-13",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-13",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-19",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-19",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Málaga CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-20",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "FC Schalke 04 (GER)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-02-20",
+      "time": "20:45",
+      "team1": "AC Milan (ITA)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-05",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-05",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-06",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-06",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-12",
+      "time": "20:45",
+      "team1": "FC Schalke 04 (GER)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-12",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "AC Milan (ITA)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-13",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2013-03-13",
+      "time": "20:45",
+      "team1": "Málaga CF (ESP)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-02",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-02",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-03",
+      "time": "20:45",
+      "team1": "Málaga CF (ESP)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-03",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-09",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Málaga CF (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-09",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-10",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2013-04-10",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2013-04-23",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2013-04-24",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2013-04-30",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2013-05-01",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Final",
+      "date": "2013-05-25",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     }
   ]
 }

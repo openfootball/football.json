@@ -1,12 +1,17 @@
 {
-  "name": "Campeonato Brasileiro Série A 2019",
+  "name": "Brasileiro Série A 2019",
   "matches": [
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-27",
+      "time": "16:00",
       "team1": "São Paulo FC",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -14,23 +19,16 @@
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-27",
-      "team1": "Chapecoense",
-      "team2": "Internacional Porto Alegre",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Avaí SC",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2019-04-27",
-      "team1": "Atlético MG",
-      "team2": "Avaí FC",
-      "score": {
+        ],
         "ft": [
           2,
           1
@@ -38,11 +36,33 @@
       }
     },
     {
-      "round": "Rodada 1",
-      "date": "2019-04-28",
-      "team1": "Flamengo RJ",
-      "team2": "Cruzeiro MG",
+      "round": "Matchday 1",
+      "date": "2019-04-27",
+      "time": "19:00",
+      "team1": "Chapecoense",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2019-04-27",
+      "time": "21:00",
+      "team1": "Flamengo RJ",
+      "team2": "Cruzeiro",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-28",
-      "team1": "Grêmio RS",
-      "team2": "Santos SP",
+      "time": "11:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -62,23 +87,16 @@
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-28",
-      "team1": "Atlético PR",
-      "team2": "CR Vasco da Gama",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "CSA AL",
       "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2019-04-28",
-      "team1": "Ceára SC",
-      "team2": "CS Alagoano",
-      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -86,11 +104,16 @@
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-28",
-      "team1": "EC Bahia",
+      "time": "16:00",
+      "team1": "Bahia BA",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -98,23 +121,33 @@
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-28",
-      "team1": "Fluminense RJ",
-      "team2": "Goiás EC",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          0,
+          4,
           1
         ]
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2019-04-28",
-      "team1": "Palmeiras SP",
-      "team2": "Fortaleza EC",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -122,11 +155,33 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 1",
+      "date": "2019-04-28",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2019-05-01",
-      "team1": "Internacional Porto Alegre",
+      "time": "16:00",
+      "team1": "Internacional",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -134,11 +189,16 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 2",
       "date": "2019-05-01",
+      "time": "16:00",
       "team1": "Corinthians SP",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -146,11 +206,16 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 2",
       "date": "2019-05-01",
-      "team1": "CS Alagoano",
-      "team2": "Palmeiras SP",
+      "time": "16:00",
+      "team1": "CSA AL",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -158,11 +223,16 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 2",
       "date": "2019-05-01",
-      "team1": "Cruzeiro MG",
-      "team2": "Ceára SC",
+      "time": "19:15",
+      "team1": "Cruzeiro",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -170,11 +240,16 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 2",
       "date": "2019-05-01",
-      "team1": "Avaí FC",
-      "team2": "Grêmio RS",
+      "time": "19:15",
+      "team1": "Avaí SC",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -182,11 +257,33 @@
       }
     },
     {
-      "round": "Rodada 2",
-      "date": "2019-05-02",
-      "team1": "CR Vasco da Gama",
-      "team2": "Atlético MG",
+      "round": "Matchday 2",
+      "date": "2019-05-01",
+      "time": "21:30",
+      "team1": "Fortaleza CE",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-05-01",
+      "time": "21:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -194,11 +291,16 @@
       }
     },
     {
-      "round": "Rodada 2",
-      "date": "2019-05-02",
-      "team1": "Goiás EC",
+      "round": "Matchday 2",
+      "date": "2019-05-01",
+      "time": "21:30",
+      "team1": "Goiás GO",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -206,23 +308,16 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 2",
       "date": "2019-05-02",
-      "team1": "Fortaleza EC",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2019-05-02",
-      "team1": "Santos SP",
+      "time": "19:15",
+      "team1": "Santos FC",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -230,11 +325,16 @@
       }
     },
     {
-      "round": "Rodada 2",
+      "round": "Matchday 2",
       "date": "2019-05-02",
+      "time": "20:00",
       "team1": "Botafogo RJ",
-      "team2": "EC Bahia",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           2
@@ -242,23 +342,16 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-04",
-      "team1": "CR Vasco da Gama",
-      "team2": "Corinthians SP",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Internacional",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2019-05-04",
-      "team1": "Palmeiras SP",
-      "team2": "Internacional Porto Alegre",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           0
@@ -266,11 +359,33 @@
       }
     },
     {
-      "round": "Rodada 3",
-      "date": "2019-05-05",
-      "team1": "Ceára SC",
-      "team2": "Atlético MG",
+      "round": "Matchday 3",
+      "date": "2019-05-04",
+      "time": "19:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-05-04",
+      "time": "21:00",
+      "team1": "Ceará CE",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -278,11 +393,16 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-05",
+      "time": "11:00",
       "team1": "Chapecoense",
-      "team2": "Atlético PR",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -290,23 +410,16 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-05",
-      "team1": "São Paulo FC",
-      "team2": "Flamengo RJ",
+      "time": "16:00",
+      "team1": "Cruzeiro",
+      "team2": "Goiás GO",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2019-05-05",
-      "team1": "Cruzeiro MG",
-      "team2": "Goiás EC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -314,11 +427,33 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-05",
-      "team1": "Botafogo RJ",
-      "team2": "Fortaleza EC",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-05-05",
+      "time": "16:00",
+      "team1": "Botafogo RJ",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -326,10 +461,11 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-05",
-      "team1": "CS Alagoano",
-      "team2": "Santos SP",
+      "time": "16:00",
+      "team1": "CSA AL",
+      "team2": "Santos FC",
       "score": {
         "ft": [
           0,
@@ -338,11 +474,16 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-05",
-      "team1": "Grêmio RS",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           4,
           5
@@ -350,11 +491,16 @@
       }
     },
     {
-      "round": "Rodada 3",
+      "round": "Matchday 3",
       "date": "2019-05-05",
-      "team1": "EC Bahia",
-      "team2": "Avaí FC",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -362,11 +508,16 @@
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-11",
+      "time": "16:00",
       "team1": "Fluminense RJ",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -374,10 +525,11 @@
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-11",
+      "time": "19:00",
       "team1": "Corinthians SP",
-      "team2": "Grêmio RS",
+      "team2": "Grêmio Porto Alegre",
       "score": {
         "ft": [
           0,
@@ -386,11 +538,16 @@
       }
     },
     {
-      "round": "Rodada 4",
-      "date": "2019-05-12",
-      "team1": "Goiás EC",
-      "team2": "Ceára SC",
+      "round": "Matchday 4",
+      "date": "2019-05-11",
+      "time": "21:00",
+      "team1": "Goiás GO",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -398,11 +555,16 @@
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-12",
+      "time": "11:00",
       "team1": "Flamengo RJ",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -410,11 +572,16 @@
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-12",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Cruzeiro MG",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -422,23 +589,16 @@
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-12",
-      "team1": "Santos SP",
-      "team2": "CR Vasco da Gama",
+      "time": "16:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Palmeiras",
       "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2019-05-12",
-      "team1": "Atlético MG",
-      "team2": "Palmeiras SP",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -446,35 +606,33 @@
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-12",
-      "team1": "Atlético PR",
-      "team2": "EC Bahia",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          1,
+          3,
           0
         ]
       }
     },
     {
-      "round": "Rodada 4",
+      "round": "Matchday 4",
       "date": "2019-05-12",
-      "team1": "Avaí FC",
-      "team2": "CS Alagoano",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2019-05-12",
-      "team1": "Fortaleza EC",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -482,46 +640,11 @@
       }
     },
     {
-      "round": "Rodada 5",
-      "date": "2019-05-18",
-      "team1": "Fluminense RJ",
-      "team2": "Cruzeiro MG",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2019-05-18",
-      "team1": "Atlético MG",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2019-05-18",
-      "team1": "Palmeiras SP",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2019-05-19",
-      "team1": "São Paulo FC",
-      "team2": "EC Bahia",
+      "round": "Matchday 4",
+      "date": "2019-05-12",
+      "time": "19:00",
+      "team1": "Avaí SC",
+      "team2": "CSA AL",
       "score": {
         "ft": [
           0,
@@ -530,35 +653,16 @@
       }
     },
     {
-      "round": "Rodada 5",
-      "date": "2019-05-19",
-      "team1": "Internacional Porto Alegre",
-      "team2": "CS Alagoano",
+      "round": "Matchday 4",
+      "date": "2019-05-12",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Bahia BA",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2019-05-19",
-      "team1": "Atlético PR",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2019-05-19",
-      "team1": "Goiás EC",
-      "team2": "Botafogo RJ",
-      "score": {
+        ],
         "ft": [
           1,
           0
@@ -566,11 +670,97 @@
       }
     },
     {
-      "round": "Rodada 5",
-      "date": "2019-05-19",
-      "team1": "Chapecoense",
-      "team2": "Fortaleza EC",
+      "round": "Matchday 5",
+      "date": "2019-05-18",
+      "time": "18:00",
+      "team1": "Fluminense RJ",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-05-18",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-05-18",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-05-19",
+      "time": "11:00",
+      "team1": "São Paulo FC",
+      "team2": "Bahia BA",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-05-19",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "CSA AL",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-05-19",
+      "time": "16:00",
+      "team1": "Chapecoense",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -578,23 +768,50 @@
       }
     },
     {
-      "round": "Rodada 5",
+      "round": "Matchday 5",
       "date": "2019-05-19",
-      "team1": "CR Vasco da Gama",
-      "team2": "Avaí FC",
+      "time": "16:00",
+      "team1": "Goiás GO",
+      "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
-          1
+          0
         ]
       }
     },
     {
-      "round": "Rodada 5",
+      "round": "Matchday 5",
       "date": "2019-05-19",
-      "team1": "Ceára SC",
-      "team2": "Grêmio RS",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-05-19",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -602,11 +819,33 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 5",
+      "date": "2019-05-19",
+      "time": "19:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2019-05-25",
+      "time": "16:00",
       "team1": "Botafogo RJ",
-      "team2": "Palmeiras SP",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -614,11 +853,16 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-25",
-      "team1": "Grêmio RS",
-      "team2": "Atlético MG",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -626,10 +870,11 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-26",
-      "team1": "Santos SP",
-      "team2": "Internacional Porto Alegre",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Internacional",
       "score": {
         "ft": [
           0,
@@ -638,11 +883,16 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-26",
+      "time": "16:00",
       "team1": "Flamengo RJ",
-      "team2": "Atlético PR",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -650,11 +900,16 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-26",
-      "team1": "Cruzeiro MG",
+      "time": "19:00",
+      "team1": "Cruzeiro",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -662,23 +917,33 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-26",
-      "team1": "EC Bahia",
-      "team2": "Fluminense RJ",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          3,
-          2
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-26",
+      "time": "19:00",
       "team1": "Corinthians SP",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -686,23 +951,33 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-26",
-      "team1": "Fortaleza EC",
-      "team2": "CR Vasco da Gama",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Fluminense RJ",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          2,
           1
+        ],
+        "ft": [
+          3,
+          2
         ]
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-27",
-      "team1": "Avaí FC",
-      "team2": "Ceára SC",
+      "time": "20:00",
+      "team1": "Avaí SC",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -710,11 +985,16 @@
       }
     },
     {
-      "round": "Rodada 6",
+      "round": "Matchday 6",
       "date": "2019-05-27",
-      "team1": "CS Alagoano",
-      "team2": "Goiás EC",
+      "time": "20:00",
+      "team1": "CSA AL",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -722,11 +1002,16 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-01",
+      "time": "16:00",
       "team1": "Flamengo RJ",
-      "team2": "Fortaleza EC",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -734,11 +1019,16 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-01",
-      "team1": "EC Bahia",
-      "team2": "Grêmio RS",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -746,11 +1036,16 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-02",
+      "time": "11:00",
       "team1": "Botafogo RJ",
-      "team2": "CR Vasco da Gama",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -758,35 +1053,16 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-02",
-      "team1": "São Paulo FC",
-      "team2": "Cruzeiro MG",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "Santos FC",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2019-06-02",
-      "team1": "Atlético PR",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          3,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2019-06-02",
-      "team1": "Ceára SC",
-      "team2": "Santos SP",
-      "score": {
+        ],
         "ft": [
           0,
           1
@@ -794,11 +1070,50 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-02",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Avaí FC",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-06-02",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-06-02",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -806,11 +1121,16 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-02",
-      "team1": "Atlético MG",
-      "team2": "CS Alagoano",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -818,11 +1138,16 @@
       }
     },
     {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-06-02",
+      "time": "19:00",
       "team1": "Chapecoense",
-      "team2": "Palmeiras SP",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -830,719 +1155,16 @@
       }
     },
     {
-      "round": "Rodada 8",
-      "date": "2019-06-07",
-      "team1": "CR Vasco da Gama",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-08",
-      "team1": "Palmeiras SP",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-08",
-      "team1": "Cruzeiro MG",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-08",
-      "team1": "Grêmio RS",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-08",
-      "team1": "Ceára SC",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-09",
-      "team1": "Avaí FC",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-09",
-      "team1": "Santos SP",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-09",
-      "team1": "Fluminense RJ",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-09",
-      "team1": "CS Alagoano",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2019-06-10",
-      "team1": "Goiás EC",
-      "team2": "Chapecoense",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-12",
-      "team1": "Botafogo RJ",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Fortaleza EC",
-      "team2": "Cruzeiro MG",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Internacional Porto Alegre",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Santos SP",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "CS Alagoano",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "CR Vasco da Gama",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Atlético MG",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Palmeiras SP",
-      "team2": "Avaí FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Goiás EC",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2019-06-13",
-      "team1": "Chapecoense",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-13",
-      "team1": "Grêmio RS",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-13",
-      "team1": "Fortaleza EC",
-      "team2": "Avaí FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-13",
-      "team1": "São Paulo FC",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-13",
-      "team1": "EC Bahia",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-14",
-      "team1": "Flamengo RJ",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          6,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-14",
-      "team1": "Cruzeiro MG",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-14",
-      "team1": "Corinthians SP",
-      "team2": "CS Alagoano",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-14",
-      "team1": "Atlético PR",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-14",
-      "team1": "Chapecoense",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2019-07-15",
-      "team1": "Fluminense RJ",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-20",
-      "team1": "CR Vasco da Gama",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-20",
-      "team1": "EC Bahia",
-      "team2": "Cruzeiro MG",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-20",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-20",
-      "team1": "Ceára SC",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-20",
-      "team1": "CS Alagoano",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-21",
-      "team1": "Botafogo RJ",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-21",
-      "team1": "Atlético MG",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-21",
-      "team1": "Corinthians SP",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-21",
-      "team1": "Avaí FC",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2019-07-22",
-      "team1": "São Paulo FC",
-      "team2": "Chapecoense",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-27",
-      "team1": "Palmeiras SP",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-27",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-27",
-      "team1": "Cruzeiro MG",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-27",
-      "team1": "Fluminense RJ",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-28",
-      "team1": "Chapecoense",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-28",
-      "team1": "Santos SP",
-      "team2": "Avaí FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-28",
-      "team1": "Flamengo RJ",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-28",
-      "team1": "Goiás EC",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-28",
-      "team1": "Fortaleza EC",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2019-07-29",
-      "team1": "CS Alagoano",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-03",
-      "team1": "Fluminense RJ",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-03",
-      "team1": "Ceára SC",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-04",
-      "team1": "Santos SP",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          6,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-04",
-      "team1": "EC Bahia",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-04",
-      "team1": "Avaí FC",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-04",
-      "team1": "Atlético MG",
-      "team2": "Cruzeiro MG",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-04",
-      "team1": "CR Vasco da Gama",
-      "team2": "CS Alagoano",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-04",
-      "team1": "Corinthians SP",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2019-08-05",
-      "team1": "Grêmio RS",
-      "team2": "Chapecoense",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
+      "round": "Matchday 7",
       "date": "2019-08-07",
+      "time": "19:15",
       "team1": "Corinthians SP",
-      "team2": "Goiás EC",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1550,47 +1172,16 @@
       }
     },
     {
-      "round": "Rodada 14",
-      "date": "2019-08-10",
-      "team1": "São Paulo FC",
-      "team2": "Santos SP",
+      "round": "Matchday 8",
+      "date": "2019-06-07",
+      "time": "20:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Internacional",
       "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2019-08-10",
-      "team1": "Ceára SC",
-      "team2": "Chapecoense",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2019-08-10",
-      "team1": "Flamengo RJ",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2019-08-11",
-      "team1": "Atlético MG",
-      "team2": "Fluminense RJ",
-      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1598,9 +1189,44 @@
       }
     },
     {
-      "round": "Rodada 14",
-      "date": "2019-08-11",
-      "team1": "Internacional Porto Alegre",
+      "round": "Matchday 8",
+      "date": "2019-06-08",
+      "time": "16:30",
+      "team1": "Palmeiras",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-06-08",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-06-08",
+      "time": "19:00",
+      "team1": "Cruzeiro",
       "team2": "Corinthians SP",
       "score": {
         "ft": [
@@ -1610,71 +1236,225 @@
       }
     },
     {
-      "round": "Rodada 14",
-      "date": "2019-08-11",
-      "team1": "Botafogo RJ",
-      "team2": "Atlético PR",
+      "round": "Matchday 8",
+      "date": "2019-06-08",
+      "time": "19:30",
+      "team1": "Ceará CE",
+      "team2": "Bahia BA",
       "score": {
         "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-06-08",
+      "time": "21:00",
+      "team1": "Avaí SC",
+      "team2": "São Paulo FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-06-09",
+      "time": "19:00",
+      "team1": "Santos FC",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
           2,
+          0
+        ],
+        "ft": [
+          3,
           1
         ]
       }
     },
     {
-      "round": "Rodada 14",
-      "date": "2019-08-11",
-      "team1": "Palmeiras SP",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2019-08-11",
-      "team1": "Avaí FC",
-      "team2": "Cruzeiro MG",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2019-08-11",
-      "team1": "Goiás EC",
-      "team2": "CR Vasco da Gama",
+      "round": "Matchday 8",
+      "date": "2019-06-09",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Flamengo RJ",
       "score": {
         "ft": [
           0,
-          1
+          0
         ]
       }
     },
     {
-      "round": "Rodada 14",
-      "date": "2019-08-12",
-      "team1": "CS Alagoano",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2019-08-17",
-      "team1": "Corinthians SP",
+      "round": "Matchday 8",
+      "date": "2019-06-09",
+      "time": "19:00",
+      "team1": "CSA AL",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-06-10",
+      "time": "20:00",
+      "team1": "Goiás GO",
+      "team2": "Chapecoense",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-12",
+      "time": "19:15",
+      "team1": "Botafogo RJ",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-12",
+      "time": "21:00",
+      "team1": "Fortaleza CE",
+      "team2": "Cruzeiro",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-12",
+      "time": "21:30",
+      "team1": "Internacional",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-12",
+      "time": "21:30",
+      "team1": "Santos FC",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-12",
+      "time": "21:30",
+      "team1": "CSA AL",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-13",
+      "time": "19:15",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-13",
+      "time": "20:00",
+      "team1": "Atlético Mineiro",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-13",
+      "time": "20:00",
+      "team1": "Palmeiras",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1682,11 +1462,101 @@
       }
     },
     {
-      "round": "Rodada 15",
-      "date": "2019-08-17",
-      "team1": "Fortaleza EC",
-      "team2": "Internacional Porto Alegre",
+      "round": "Matchday 9",
+      "date": "2019-06-13",
+      "time": "20:00",
+      "team1": "Chapecoense",
+      "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-06-13",
+      "time": "20:00",
+      "team1": "Goiás GO",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-13",
+      "time": "17:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-13",
+      "time": "17:00",
+      "team1": "Fortaleza CE",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-13",
+      "time": "19:00",
+      "team1": "São Paulo FC",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-13",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1694,83 +1564,195 @@
       }
     },
     {
-      "round": "Rodada 15",
-      "date": "2019-08-17",
-      "team1": "CR Vasco da Gama",
-      "team2": "Flamengo RJ",
+      "round": "Matchday 10",
+      "date": "2019-07-14",
+      "time": "11:00",
+      "team1": "Flamengo RJ",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          4,
+          1
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-14",
+      "time": "16:00",
+      "team1": "Cruzeiro",
+      "team2": "Botafogo RJ",
       "score": {
         "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-14",
+      "time": "16:00",
+      "team1": "Corinthians SP",
+      "team2": "CSA AL",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
           1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-14",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-14",
+      "time": "19:00",
+      "team1": "Chapecoense",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-07-15",
+      "time": "20:00",
+      "team1": "Fluminense RJ",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-20",
+      "time": "11:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-20",
+      "time": "17:00",
+      "team1": "Bahia BA",
+      "team2": "Cruzeiro",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-20",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-20",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-20",
+      "time": "19:00",
+      "team1": "CSA AL",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
           4
         ]
       }
     },
     {
-      "round": "Rodada 15",
-      "date": "2019-08-17",
-      "team1": "Atlético PR",
-      "team2": "Atlético MG",
+      "round": "Matchday 11",
+      "date": "2019-07-21",
+      "time": "11:00",
+      "team1": "Botafogo RJ",
+      "team2": "Santos FC",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2019-08-18",
-      "team1": "Grêmio RS",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2019-08-18",
-      "team1": "São Paulo FC",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2019-08-18",
-      "team1": "Cruzeiro MG",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2019-08-18",
-      "team1": "EC Bahia",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2019-08-18",
-      "team1": "Fluminense RJ",
-      "team2": "CS Alagoano",
-      "score": {
+        ],
         "ft": [
           0,
           1
@@ -1778,11 +1760,97 @@
       }
     },
     {
-      "round": "Rodada 15",
-      "date": "2019-08-18",
-      "team1": "Chapecoense",
-      "team2": "Avaí FC",
+      "round": "Matchday 11",
+      "date": "2019-07-21",
+      "time": "16:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-21",
+      "time": "16:00",
+      "team1": "Corinthians SP",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-21",
+      "time": "19:00",
+      "team1": "Avaí SC",
+      "team2": "Goiás GO",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-07-22",
+      "time": "20:00",
+      "team1": "São Paulo FC",
+      "team2": "Chapecoense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-27",
+      "time": "17:00",
+      "team1": "Palmeiras",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-27",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1790,11 +1858,289 @@
       }
     },
     {
-      "round": "Rodada 13",
+      "round": "Matchday 12",
+      "date": "2019-07-27",
+      "time": "19:00",
+      "team1": "Cruzeiro",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-27",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-28",
+      "time": "11:00",
+      "team1": "Chapecoense",
+      "team2": "Bahia BA",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-28",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-28",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-28",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-28",
+      "time": "19:00",
+      "team1": "Goiás GO",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-07-29",
+      "time": "20:00",
+      "team1": "CSA AL",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-03",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-03",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-04",
+      "time": "11:00",
+      "team1": "Santos FC",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-04",
+      "time": "16:00",
+      "team1": "Avaí SC",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-04",
+      "time": "16:00",
+      "team1": "Bahia BA",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-04",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Cruzeiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-04",
+      "time": "19:00",
+      "team1": "Corinthians SP",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-04",
+      "time": "19:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "CSA AL",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-08-05",
+      "time": "20:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Chapecoense",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2019-08-21",
-      "team1": "Atlético PR",
+      "time": "19:15",
+      "team1": "Athletico Paranaense",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1802,23 +2148,67 @@
       }
     },
     {
-      "round": "Rodada 16",
-      "date": "2019-08-24",
-      "team1": "Atlético MG",
-      "team2": "EC Bahia",
+      "round": "Matchday 14",
+      "date": "2019-08-10",
+      "time": "17:00",
+      "team1": "Ceará CE",
+      "team2": "Chapecoense",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          0,
+          4,
           1
         ]
       }
     },
     {
-      "round": "Rodada 16",
-      "date": "2019-08-24",
-      "team1": "Grêmio RS",
-      "team2": "Atlético PR",
+      "round": "Matchday 14",
+      "date": "2019-08-10",
+      "time": "17:00",
+      "team1": "São Paulo FC",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-08-10",
+      "time": "19:00",
+      "team1": "Flamengo RJ",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-08-10",
+      "time": "21:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1826,23 +2216,131 @@
       }
     },
     {
-      "round": "Rodada 16",
-      "date": "2019-08-25",
-      "team1": "Santos SP",
-      "team2": "Fortaleza EC",
+      "round": "Matchday 14",
+      "date": "2019-08-11",
+      "time": "11:00",
+      "team1": "Internacional",
+      "team2": "Corinthians SP",
       "score": {
         "ft": [
-          3,
-          3
+          0,
+          0
         ]
       }
     },
     {
-      "round": "Rodada 16",
-      "date": "2019-08-25",
-      "team1": "CR Vasco da Gama",
-      "team2": "São Paulo FC",
+      "round": "Matchday 14",
+      "date": "2019-08-11",
+      "time": "16:00",
+      "team1": "Palmeiras",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-08-11",
+      "time": "16:00",
+      "team1": "Botafogo RJ",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-08-11",
+      "time": "16:00",
+      "team1": "Avaí SC",
+      "team2": "Cruzeiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-08-11",
+      "time": "19:00",
+      "team1": "Goiás GO",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-08-12",
+      "time": "20:00",
+      "team1": "CSA AL",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-17",
+      "time": "17:00",
+      "team1": "Fortaleza CE",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-17",
+      "time": "17:00",
+      "team1": "Corinthians SP",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1850,11 +2348,169 @@
       }
     },
     {
-      "round": "Rodada 16",
-      "date": "2019-08-25",
-      "team1": "Goiás EC",
-      "team2": "Internacional Porto Alegre",
+      "round": "Matchday 15",
+      "date": "2019-08-17",
+      "time": "19:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-17",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-17",
+      "time": "21:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-18",
+      "time": "16:00",
+      "team1": "Cruzeiro",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-18",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-18",
+      "time": "16:00",
+      "team1": "Fluminense RJ",
+      "team2": "CSA AL",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-18",
+      "time": "16:00",
+      "team1": "Bahia BA",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-08-18",
+      "time": "19:00",
+      "team1": "Chapecoense",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-08-24",
+      "time": "11:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-08-24",
+      "time": "17:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1862,11 +2518,67 @@
       }
     },
     {
-      "round": "Rodada 16",
+      "round": "Matchday 16",
       "date": "2019-08-25",
-      "team1": "Ceára SC",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-08-25",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-08-25",
+      "time": "16:00",
+      "team1": "Goiás GO",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-08-25",
+      "time": "19:00",
+      "team1": "Ceará CE",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -1874,11 +2586,16 @@
       }
     },
     {
-      "round": "Rodada 16",
+      "round": "Matchday 16",
       "date": "2019-08-25",
-      "team1": "Avaí FC",
+      "time": "19:00",
+      "team1": "Avaí SC",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1886,11 +2603,16 @@
       }
     },
     {
-      "round": "Rodada 16",
+      "round": "Matchday 16",
       "date": "2019-08-25",
-      "team1": "CS Alagoano",
-      "team2": "Cruzeiro MG",
+      "time": "19:00",
+      "team1": "CSA AL",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1898,8 +2620,9 @@
       }
     },
     {
-      "round": "Rodada 16",
+      "round": "Matchday 16",
       "date": "2019-08-26",
+      "time": "20:00",
       "team1": "Botafogo RJ",
       "team2": "Chapecoense",
       "score": {
@@ -1910,10 +2633,28 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 16",
+      "date": "2019-09-10",
+      "time": "21:00",
+      "team1": "Palmeiras",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2019-08-31",
+      "time": "11:00",
       "team1": "São Paulo FC",
-      "team2": "Grêmio RS",
+      "team2": "Grêmio Porto Alegre",
       "score": {
         "ft": [
           0,
@@ -1922,11 +2663,16 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 17",
       "date": "2019-08-31",
-      "team1": "EC Bahia",
-      "team2": "CS Alagoano",
+      "time": "17:00",
+      "team1": "Bahia BA",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1934,23 +2680,16 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 17",
       "date": "2019-08-31",
-      "team1": "Atlético PR",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2019-08-31",
+      "time": "19:00",
       "team1": "Chapecoense",
-      "team2": "Santos SP",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1958,11 +2697,33 @@
       }
     },
     {
-      "round": "Rodada 17",
-      "date": "2019-09-01",
-      "team1": "Internacional Porto Alegre",
+      "round": "Matchday 17",
+      "date": "2019-08-31",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-08-31",
+      "time": "21:00",
+      "team1": "Internacional",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -1970,23 +2731,16 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 17",
       "date": "2019-09-01",
-      "team1": "Flamengo RJ",
-      "team2": "Palmeiras SP",
+      "time": "16:00",
+      "team1": "Fortaleza CE",
+      "team2": "Goiás GO",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2019-09-01",
-      "team1": "Fortaleza EC",
-      "team2": "Goiás EC",
-      "score": {
+        ],
         "ft": [
           2,
           0
@@ -1994,11 +2748,33 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 17",
       "date": "2019-09-01",
-      "team1": "Cruzeiro MG",
-      "team2": "CR Vasco da Gama",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-09-01",
+      "time": "19:00",
+      "team1": "Cruzeiro",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2006,11 +2782,16 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 17",
       "date": "2019-09-01",
+      "time": "19:00",
       "team1": "Corinthians SP",
-      "team2": "Atlético MG",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2018,11 +2799,16 @@
       }
     },
     {
-      "round": "Rodada 17",
+      "round": "Matchday 17",
       "date": "2019-09-02",
+      "time": "20:00",
       "team1": "Fluminense RJ",
-      "team2": "Avaí FC",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2030,23 +2816,16 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-07",
-      "team1": "CR Vasco da Gama",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2019-09-07",
+      "time": "11:00",
       "team1": "Corinthians SP",
-      "team2": "Ceára SC",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2054,11 +2833,50 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-07",
-      "team1": "Avaí FC",
+      "time": "11:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-09-07",
+      "time": "17:00",
+      "team1": "Fortaleza CE",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-09-07",
+      "time": "17:00",
+      "team1": "Avaí SC",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -2066,23 +2884,16 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-07",
-      "team1": "Fortaleza EC",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2019-09-07",
-      "team1": "Internacional Porto Alegre",
+      "time": "19:00",
+      "team1": "Internacional",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2090,11 +2901,16 @@
       }
     },
     {
-      "round": "Rodada 18",
-      "date": "2019-09-08",
-      "team1": "Goiás EC",
-      "team2": "Palmeiras SP",
+      "round": "Matchday 18",
+      "date": "2019-09-07",
+      "time": "21:00",
+      "team1": "Goiás GO",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2102,11 +2918,16 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-08",
-      "team1": "Cruzeiro MG",
-      "team2": "Grêmio RS",
+      "time": "11:00",
+      "team1": "Cruzeiro",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           4
@@ -2114,11 +2935,16 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-08",
-      "team1": "Santos SP",
-      "team2": "Atlético PR",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2126,11 +2952,16 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-08",
+      "time": "16:00",
       "team1": "Botafogo RJ",
-      "team2": "Atlético MG",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2138,11 +2969,16 @@
       }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 18",
       "date": "2019-09-08",
-      "team1": "CS Alagoano",
+      "time": "19:00",
+      "team1": "CSA AL",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2150,23 +2986,16 @@
       }
     },
     {
-      "round": "Rodada 16",
-      "date": "2019-09-11",
-      "team1": "Palmeiras SP",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-14",
+      "time": "17:00",
       "team1": "Flamengo RJ",
-      "team2": "Santos SP",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2174,11 +3003,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-14",
-      "team1": "Palmeiras SP",
-      "team2": "Cruzeiro MG",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2186,11 +3020,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-14",
+      "time": "19:00",
       "team1": "Chapecoense",
-      "team2": "CR Vasco da Gama",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2198,9 +3037,10 @@
       }
     },
     {
-      "round": "Rodada 19",
-      "date": "2019-09-15",
-      "team1": "Ceára SC",
+      "round": "Matchday 19",
+      "date": "2019-09-14",
+      "time": "21:00",
+      "team1": "Ceará CE",
       "team2": "Botafogo RJ",
       "score": {
         "ft": [
@@ -2210,11 +3050,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-15",
-      "team1": "Atlético MG",
-      "team2": "Internacional Porto Alegre",
+      "time": "11:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -2222,11 +3067,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-15",
-      "team1": "Atlético PR",
-      "team2": "Avaí FC",
+      "time": "11:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2234,11 +3084,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-15",
-      "team1": "Grêmio RS",
-      "team2": "Goiás EC",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2246,23 +3101,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-15",
-      "team1": "EC Bahia",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2019-09-15",
+      "time": "16:00",
       "team1": "Fluminense RJ",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2270,11 +3118,16 @@
       }
     },
     {
-      "round": "Rodada 19",
+      "round": "Matchday 19",
       "date": "2019-09-15",
-      "team1": "São Paulo FC",
-      "team2": "CS Alagoano",
+      "time": "16:00",
+      "team1": "Bahia BA",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2282,11 +3135,33 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 19",
+      "date": "2019-09-15",
+      "time": "19:00",
+      "team1": "São Paulo FC",
+      "team2": "CSA AL",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
       "date": "2019-09-21",
+      "time": "11:00",
       "team1": "Botafogo RJ",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2294,11 +3169,16 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-21",
-      "team1": "Cruzeiro MG",
+      "time": "17:00",
+      "team1": "Cruzeiro",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2306,11 +3186,16 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-21",
+      "time": "19:00",
       "team1": "Corinthians SP",
-      "team2": "EC Bahia",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2318,11 +3203,16 @@
       }
     },
     {
-      "round": "Rodada 20",
-      "date": "2019-09-22",
-      "team1": "Santos SP",
-      "team2": "Grêmio RS",
+      "round": "Matchday 20",
+      "date": "2019-09-21",
+      "time": "21:00",
+      "team1": "Santos FC",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -2330,11 +3220,16 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-22",
-      "team1": "Internacional Porto Alegre",
+      "time": "11:00",
+      "team1": "Internacional",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2342,23 +3237,16 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-22",
-      "team1": "CR Vasco da Gama",
-      "team2": "Atlético PR",
+      "time": "16:00",
+      "team1": "Fortaleza CE",
+      "team2": "Palmeiras",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2019-09-22",
-      "team1": "Fortaleza EC",
-      "team2": "Palmeiras SP",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2366,11 +3254,33 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-22",
-      "team1": "CS Alagoano",
-      "team2": "Ceára SC",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-09-22",
+      "time": "16:00",
+      "team1": "CSA AL",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2378,11 +3288,16 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-22",
-      "team1": "Goiás EC",
+      "time": "19:00",
+      "team1": "Goiás GO",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2390,11 +3305,16 @@
       }
     },
     {
-      "round": "Rodada 20",
+      "round": "Matchday 20",
       "date": "2019-09-23",
-      "team1": "Avaí FC",
-      "team2": "Atlético MG",
+      "time": "20:00",
+      "team1": "Avaí SC",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2402,10 +3322,11 @@
       }
     },
     {
-      "round": "Rodada 21",
+      "round": "Matchday 21",
       "date": "2019-09-25",
-      "team1": "Ceára SC",
-      "team2": "Cruzeiro MG",
+      "time": "19:30",
+      "team1": "Ceará CE",
+      "team2": "Cruzeiro",
       "score": {
         "ft": [
           0,
@@ -2414,11 +3335,16 @@
       }
     },
     {
-      "round": "Rodada 21",
-      "date": "2019-09-26",
+      "round": "Matchday 21",
+      "date": "2019-09-25",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Goiás EC",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2426,23 +3352,16 @@
       }
     },
     {
-      "round": "Rodada 21",
-      "date": "2019-09-26",
-      "team1": "EC Bahia",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2019-09-26",
+      "round": "Matchday 21",
+      "date": "2019-09-25",
+      "time": "21:30",
       "team1": "Flamengo RJ",
-      "team2": "Internacional Porto Alegre",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2450,11 +3369,33 @@
       }
     },
     {
-      "round": "Rodada 21",
-      "date": "2019-09-26",
-      "team1": "Palmeiras SP",
-      "team2": "CS Alagoano",
+      "round": "Matchday 21",
+      "date": "2019-09-25",
+      "time": "21:30",
+      "team1": "Bahia BA",
+      "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-09-26",
+      "time": "19:15",
+      "team1": "Palmeiras",
+      "team2": "CSA AL",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           6,
           2
@@ -2462,11 +3403,16 @@
       }
     },
     {
-      "round": "Rodada 21",
+      "round": "Matchday 21",
       "date": "2019-09-26",
-      "team1": "Grêmio RS",
-      "team2": "Avaí FC",
+      "time": "20:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           6,
           1
@@ -2474,11 +3420,16 @@
       }
     },
     {
-      "round": "Rodada 21",
+      "round": "Matchday 21",
       "date": "2019-09-26",
+      "time": "20:00",
       "team1": "Fluminense RJ",
-      "team2": "Santos SP",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2486,11 +3437,16 @@
       }
     },
     {
-      "round": "Rodada 21",
-      "date": "2019-09-27",
-      "team1": "Atlético PR",
-      "team2": "Fortaleza EC",
+      "round": "Matchday 21",
+      "date": "2019-09-26",
+      "time": "21:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           1
@@ -2498,8 +3454,43 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 21",
+      "date": "2019-10-02",
+      "time": "19:15",
+      "team1": "Atlético Mineiro",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-10-02",
+      "time": "19:15",
+      "team1": "Chapecoense",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
       "date": "2019-09-28",
+      "time": "19:00",
       "team1": "Flamengo RJ",
       "team2": "São Paulo FC",
       "score": {
@@ -2510,11 +3501,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-29",
+      "time": "11:00",
       "team1": "Corinthians SP",
-      "team2": "CR Vasco da Gama",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2522,11 +3518,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-29",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Palmeiras SP",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2534,11 +3535,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-29",
-      "team1": "Santos SP",
-      "team2": "CS Alagoano",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2546,11 +3552,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-29",
+      "time": "16:00",
       "team1": "Fluminense RJ",
-      "team2": "Grêmio RS",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2558,11 +3569,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-29",
-      "team1": "Atlético MG",
-      "team2": "Ceára SC",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2570,11 +3586,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-29",
-      "team1": "Atlético PR",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2582,35 +3603,16 @@
       }
     },
     {
-      "round": "Rodada 22",
+      "round": "Matchday 22",
       "date": "2019-09-30",
-      "team1": "Avaí FC",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2019-09-30",
-      "team1": "Goiás EC",
-      "team2": "Cruzeiro MG",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2019-09-30",
-      "team1": "Fortaleza EC",
+      "time": "20:00",
+      "team1": "Fortaleza CE",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2618,35 +3620,50 @@
       }
     },
     {
-      "round": "Rodada 21",
-      "date": "2019-10-02",
-      "team1": "Atlético MG",
-      "team2": "CR Vasco da Gama",
+      "round": "Matchday 22",
+      "date": "2019-09-30",
+      "time": "20:00",
+      "team1": "Avaí SC",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
-          1,
+          0,
           2
         ]
       }
     },
     {
-      "round": "Rodada 21",
-      "date": "2019-10-02",
-      "team1": "Chapecoense",
-      "team2": "Corinthians SP",
+      "round": "Matchday 22",
+      "date": "2019-09-30",
+      "time": "20:00",
+      "team1": "Goiás GO",
+      "team2": "Cruzeiro",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
+          0
+        ],
+        "ft": [
+          1,
+          0
         ]
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-05",
+      "time": "17:00",
       "team1": "São Paulo FC",
-      "team2": "Fortaleza EC",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2654,11 +3671,16 @@
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-05",
-      "team1": "CR Vasco da Gama",
-      "team2": "Santos SP",
+      "time": "17:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2666,9 +3688,10 @@
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-05",
-      "team1": "Grêmio RS",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
       "team2": "Corinthians SP",
       "score": {
         "ft": [
@@ -2678,11 +3701,16 @@
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-05",
-      "team1": "EC Bahia",
-      "team2": "Atlético PR",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2690,11 +3718,16 @@
       }
     },
     {
-      "round": "Rodada 23",
-      "date": "2019-10-06",
-      "team1": "Cruzeiro MG",
-      "team2": "Internacional Porto Alegre",
+      "round": "Matchday 23",
+      "date": "2019-10-05",
+      "time": "21:00",
+      "team1": "Cruzeiro",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2702,11 +3735,16 @@
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-06",
+      "time": "11:00",
       "team1": "Chapecoense",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2714,11 +3752,50 @@
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-06",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-10-06",
+      "time": "16:00",
+      "team1": "Palmeiras",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-10-06",
+      "time": "16:00",
       "team1": "Botafogo RJ",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2726,35 +3803,16 @@
       }
     },
     {
-      "round": "Rodada 23",
+      "round": "Matchday 23",
       "date": "2019-10-06",
-      "team1": "Palmeiras SP",
-      "team2": "Atlético MG",
+      "time": "19:00",
+      "team1": "CSA AL",
+      "team2": "Avaí SC",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2019-10-06",
-      "team1": "Ceára SC",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2019-10-06",
-      "team1": "CS Alagoano",
-      "team2": "Avaí FC",
-      "score": {
+          0
+        ],
         "ft": [
           3,
           1
@@ -2762,11 +3820,16 @@
       }
     },
     {
-      "round": "Rodada 24",
+      "round": "Matchday 24",
       "date": "2019-10-09",
+      "time": "19:15",
       "team1": "Botafogo RJ",
-      "team2": "Goiás EC",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2774,11 +3837,16 @@
       }
     },
     {
-      "round": "Rodada 24",
+      "round": "Matchday 24",
       "date": "2019-10-09",
-      "team1": "CS Alagoano",
-      "team2": "Internacional Porto Alegre",
+      "time": "19:15",
+      "team1": "CSA AL",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2786,11 +3854,16 @@
       }
     },
     {
-      "round": "Rodada 24",
+      "round": "Matchday 24",
       "date": "2019-10-09",
-      "team1": "Fortaleza EC",
+      "time": "20:30",
+      "team1": "Fortaleza CE",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2798,11 +3871,16 @@
       }
     },
     {
-      "round": "Rodada 24",
-      "date": "2019-10-10",
-      "team1": "Grêmio RS",
-      "team2": "Ceára SC",
+      "round": "Matchday 24",
+      "date": "2019-10-09",
+      "time": "21:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2810,9 +3888,10 @@
       }
     },
     {
-      "round": "Rodada 24",
-      "date": "2019-10-10",
-      "team1": "EC Bahia",
+      "round": "Matchday 24",
+      "date": "2019-10-09",
+      "time": "21:00",
+      "team1": "Bahia BA",
       "team2": "São Paulo FC",
       "score": {
         "ft": [
@@ -2822,9 +3901,10 @@
       }
     },
     {
-      "round": "Rodada 24",
-      "date": "2019-10-10",
-      "team1": "Cruzeiro MG",
+      "round": "Matchday 24",
+      "date": "2019-10-09",
+      "time": "21:30",
+      "team1": "Cruzeiro",
       "team2": "Fluminense RJ",
       "score": {
         "ft": [
@@ -2834,11 +3914,16 @@
       }
     },
     {
-      "round": "Rodada 24",
-      "date": "2019-10-10",
-      "team1": "Santos SP",
-      "team2": "Palmeiras SP",
+      "round": "Matchday 24",
+      "date": "2019-10-09",
+      "time": "21:30",
+      "team1": "Santos FC",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2846,11 +3931,16 @@
       }
     },
     {
-      "round": "Rodada 24",
+      "round": "Matchday 24",
       "date": "2019-10-10",
+      "time": "19:15",
       "team1": "Corinthians SP",
-      "team2": "Atlético PR",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           2
@@ -2858,10 +3948,11 @@
       }
     },
     {
-      "round": "Rodada 24",
+      "round": "Matchday 24",
       "date": "2019-10-10",
-      "team1": "Avaí FC",
-      "team2": "CR Vasco da Gama",
+      "time": "19:15",
+      "team1": "Avaí SC",
+      "team2": "Vasco da Gama RJ",
       "score": {
         "ft": [
           0,
@@ -2870,11 +3961,16 @@
       }
     },
     {
-      "round": "Rodada 24",
+      "round": "Matchday 24",
       "date": "2019-10-10",
+      "time": "20:00",
       "team1": "Flamengo RJ",
-      "team2": "Atlético MG",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2882,11 +3978,16 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-12",
-      "team1": "Goiás EC",
-      "team2": "CS Alagoano",
+      "time": "17:00",
+      "team1": "Goiás GO",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2894,11 +3995,16 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-12",
+      "time": "19:00",
       "team1": "Fluminense RJ",
-      "team2": "EC Bahia",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2906,11 +4012,16 @@
       }
     },
     {
-      "round": "Rodada 25",
-      "date": "2019-10-13",
-      "team1": "Palmeiras SP",
+      "round": "Matchday 25",
+      "date": "2019-10-12",
+      "time": "21:00",
+      "team1": "Palmeiras",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2918,10 +4029,11 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-13",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Santos SP",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Santos FC",
       "score": {
         "ft": [
           0,
@@ -2930,11 +4042,16 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-13",
-      "team1": "CR Vasco da Gama",
-      "team2": "Fortaleza EC",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2942,11 +4059,33 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-13",
-      "team1": "Atlético PR",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-10-13",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2954,23 +4093,16 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-13",
-      "team1": "Ceára SC",
-      "team2": "Avaí FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 25",
-      "date": "2019-10-13",
+      "time": "18:00",
       "team1": "São Paulo FC",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2978,11 +4110,16 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-13",
-      "team1": "Atlético MG",
-      "team2": "Grêmio RS",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           4
@@ -2990,11 +4127,16 @@
       }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2019-10-13",
+      "time": "19:00",
       "team1": "Chapecoense",
-      "team2": "Cruzeiro MG",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3002,11 +4144,16 @@
       }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
       "date": "2019-10-16",
-      "team1": "Grêmio RS",
-      "team2": "EC Bahia",
+      "time": "19:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3014,11 +4161,16 @@
       }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
       "date": "2019-10-16",
-      "team1": "CS Alagoano",
-      "team2": "Atlético MG",
+      "time": "19:15",
+      "team1": "CSA AL",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3026,11 +4178,16 @@
       }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
       "date": "2019-10-16",
-      "team1": "Fortaleza EC",
+      "time": "20:00",
+      "team1": "Fortaleza CE",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3038,11 +4195,16 @@
       }
     },
     {
-      "round": "Rodada 26",
-      "date": "2019-10-17",
-      "team1": "Cruzeiro MG",
+      "round": "Matchday 26",
+      "date": "2019-10-16",
+      "time": "21:00",
+      "team1": "Cruzeiro",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3050,11 +4212,16 @@
       }
     },
     {
-      "round": "Rodada 26",
-      "date": "2019-10-17",
-      "team1": "Palmeiras SP",
+      "round": "Matchday 26",
+      "date": "2019-10-16",
+      "time": "21:00",
+      "team1": "Palmeiras",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3062,11 +4229,16 @@
       }
     },
     {
-      "round": "Rodada 26",
-      "date": "2019-10-17",
-      "team1": "CR Vasco da Gama",
+      "round": "Matchday 26",
+      "date": "2019-10-16",
+      "time": "21:30",
+      "team1": "Vasco da Gama RJ",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3074,11 +4246,16 @@
       }
     },
     {
-      "round": "Rodada 26",
-      "date": "2019-10-17",
-      "team1": "Goiás EC",
+      "round": "Matchday 26",
+      "date": "2019-10-16",
+      "time": "21:30",
+      "team1": "Goiás GO",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3086,11 +4263,16 @@
       }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
       "date": "2019-10-17",
-      "team1": "Santos SP",
-      "team2": "Ceára SC",
+      "time": "19:15",
+      "team1": "Santos FC",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3098,11 +4280,16 @@
       }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
       "date": "2019-10-17",
-      "team1": "Avaí FC",
-      "team2": "Internacional Porto Alegre",
+      "time": "19:15",
+      "team1": "Avaí SC",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3110,11 +4297,16 @@
       }
     },
     {
-      "round": "Rodada 26",
-      "date": "2019-10-18",
+      "round": "Matchday 26",
+      "date": "2019-10-17",
+      "time": "21:00",
       "team1": "Fluminense RJ",
-      "team2": "Atlético PR",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3122,11 +4314,16 @@
       }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2019-10-19",
-      "team1": "Fortaleza EC",
-      "team2": "Grêmio RS",
+      "time": "17:00",
+      "team1": "Fortaleza CE",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3134,11 +4331,16 @@
       }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2019-10-19",
+      "time": "19:00",
       "team1": "Corinthians SP",
-      "team2": "Cruzeiro MG",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3146,35 +4348,16 @@
       }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2019-10-20",
-      "team1": "Atlético MG",
-      "team2": "Santos SP",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Vasco da Gama RJ",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 27",
-      "date": "2019-10-20",
-      "team1": "São Paulo FC",
-      "team2": "Avaí FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 27",
-      "date": "2019-10-20",
-      "team1": "Internacional Porto Alegre",
-      "team2": "CR Vasco da Gama",
-      "score": {
+        ],
         "ft": [
           0,
           1
@@ -3182,11 +4365,50 @@
       }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2019-10-20",
+      "time": "16:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-10-20",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-10-20",
+      "time": "18:00",
       "team1": "Flamengo RJ",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3194,23 +4416,16 @@
       }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2019-10-20",
-      "team1": "Atlético PR",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 27",
-      "date": "2019-10-20",
+      "time": "19:00",
       "team1": "Chapecoense",
-      "team2": "Goiás EC",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3218,11 +4433,33 @@
       }
     },
     {
-      "round": "Rodada 27",
-      "date": "2019-10-21",
-      "team1": "EC Bahia",
-      "team2": "Ceára SC",
+      "round": "Matchday 27",
+      "date": "2019-10-20",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-10-21",
+      "time": "19:30",
+      "team1": "Bahia BA",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3230,11 +4467,16 @@
       }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2019-10-21",
+      "time": "20:00",
       "team1": "Botafogo RJ",
-      "team2": "CS Alagoano",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3242,10 +4484,28 @@
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-26",
+      "time": "17:00",
+      "team1": "Ceará CE",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-10-26",
+      "time": "17:00",
       "team1": "Corinthians SP",
-      "team2": "Santos SP",
+      "team2": "Santos FC",
       "score": {
         "ft": [
           0,
@@ -3254,23 +4514,16 @@
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-26",
-      "team1": "Ceára SC",
-      "team2": "CR Vasco da Gama",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Internacional",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2019-10-26",
-      "team1": "EC Bahia",
-      "team2": "Internacional Porto Alegre",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           3
@@ -3278,11 +4531,16 @@
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-26",
+      "time": "19:30",
       "team1": "Fluminense RJ",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3290,35 +4548,33 @@
       }
     },
     {
-      "round": "Rodada 28",
-      "date": "2019-10-27",
-      "team1": "Cruzeiro MG",
-      "team2": "Fortaleza EC",
+      "round": "Matchday 28",
+      "date": "2019-10-26",
+      "time": "21:00",
+      "team1": "Cruzeiro",
+      "team2": "Fortaleza CE",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2019-10-27",
-      "team1": "São Paulo FC",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           0
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-27",
-      "team1": "Grêmio RS",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3326,11 +4582,33 @@
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-27",
-      "team1": "Atlético PR",
-      "team2": "Goiás EC",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-10-27",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           4,
           1
@@ -3338,11 +4616,16 @@
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-27",
-      "team1": "Avaí FC",
-      "team2": "Palmeiras SP",
+      "time": "18:00",
+      "team1": "Avaí SC",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3350,11 +4633,16 @@
       }
     },
     {
-      "round": "Rodada 28",
+      "round": "Matchday 28",
       "date": "2019-10-27",
+      "time": "19:00",
       "team1": "Flamengo RJ",
-      "team2": "CS Alagoano",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3362,11 +4650,16 @@
       }
     },
     {
-      "round": "Rodada 29",
+      "round": "Matchday 29",
       "date": "2019-10-30",
-      "team1": "Atlético MG",
+      "time": "19:30",
+      "team1": "Atlético Mineiro",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3374,11 +4667,16 @@
       }
     },
     {
-      "round": "Rodada 29",
+      "round": "Matchday 29",
       "date": "2019-10-30",
-      "team1": "Palmeiras SP",
+      "time": "19:30",
+      "team1": "Palmeiras",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3386,11 +4684,16 @@
       }
     },
     {
-      "round": "Rodada 29",
+      "round": "Matchday 29",
       "date": "2019-10-30",
-      "team1": "Avaí FC",
-      "team2": "Fortaleza EC",
+      "time": "19:30",
+      "team1": "Avaí SC",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3398,23 +4701,16 @@
       }
     },
     {
-      "round": "Rodada 29",
-      "date": "2019-10-31",
-      "team1": "CR Vasco da Gama",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 29",
-      "date": "2019-10-31",
-      "team1": "Ceára SC",
+      "round": "Matchday 29",
+      "date": "2019-10-30",
+      "time": "21:30",
+      "team1": "Ceará CE",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3422,11 +4718,33 @@
       }
     },
     {
-      "round": "Rodada 29",
-      "date": "2019-10-31",
-      "team1": "CS Alagoano",
+      "round": "Matchday 29",
+      "date": "2019-10-30",
+      "time": "21:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-10-30",
+      "time": "21:30",
+      "team1": "CSA AL",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3434,11 +4752,16 @@
       }
     },
     {
-      "round": "Rodada 29",
+      "round": "Matchday 29",
       "date": "2019-10-31",
-      "team1": "Santos SP",
-      "team2": "EC Bahia",
+      "time": "19:15",
+      "team1": "Santos FC",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3446,11 +4769,16 @@
       }
     },
     {
-      "round": "Rodada 29",
+      "round": "Matchday 29",
       "date": "2019-10-31",
-      "team1": "Goiás EC",
+      "time": "20:00",
+      "team1": "Goiás GO",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3458,11 +4786,16 @@
       }
     },
     {
-      "round": "Rodada 29",
-      "date": "2019-11-01",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Atlético PR",
+      "round": "Matchday 29",
+      "date": "2019-10-31",
+      "time": "21:30",
+      "team1": "Internacional",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3470,11 +4803,16 @@
       }
     },
     {
-      "round": "Rodada 29",
-      "date": "2019-11-01",
+      "round": "Matchday 29",
+      "date": "2019-10-31",
+      "time": "21:30",
       "team1": "Botafogo RJ",
-      "team2": "Cruzeiro MG",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3482,11 +4820,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-02",
-      "team1": "Fortaleza EC",
-      "team2": "Atlético MG",
+      "time": "17:00",
+      "team1": "Fortaleza CE",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3494,10 +4837,28 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-02",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-11-02",
+      "time": "19:00",
       "team1": "Fluminense RJ",
-      "team2": "CR Vasco da Gama",
+      "team2": "Vasco da Gama RJ",
       "score": {
         "ft": [
           0,
@@ -3506,23 +4867,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-02",
-      "team1": "Palmeiras SP",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 30",
-      "date": "2019-11-03",
+      "time": "21:00",
       "team1": "Chapecoense",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -3530,11 +4884,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-03",
+      "time": "16:00",
       "team1": "Flamengo RJ",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -3542,11 +4901,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-03",
-      "team1": "Grêmio RS",
-      "team2": "Internacional Porto Alegre",
+      "time": "18:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3554,11 +4918,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-03",
-      "team1": "Atlético PR",
-      "team2": "CS Alagoano",
+      "time": "18:00",
+      "team1": "Athletico Paranaense",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3566,11 +4935,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-03",
-      "team1": "Cruzeiro MG",
-      "team2": "EC Bahia",
+      "time": "19:00",
+      "team1": "Cruzeiro",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3578,11 +4952,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-03",
-      "team1": "Santos SP",
+      "time": "19:00",
+      "team1": "Santos FC",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           1
@@ -3590,11 +4969,16 @@
       }
     },
     {
-      "round": "Rodada 30",
+      "round": "Matchday 30",
       "date": "2019-11-03",
-      "team1": "Goiás EC",
-      "team2": "Avaí FC",
+      "time": "19:30",
+      "team1": "Goiás GO",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3602,11 +4986,16 @@
       }
     },
     {
-      "round": "Rodada 31",
+      "round": "Matchday 31",
       "date": "2019-11-06",
+      "time": "19:30",
       "team1": "Corinthians SP",
-      "team2": "Fortaleza EC",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -3614,11 +5003,16 @@
       }
     },
     {
-      "round": "Rodada 31",
+      "round": "Matchday 31",
       "date": "2019-11-06",
-      "team1": "Atlético MG",
-      "team2": "Goiás EC",
+      "time": "20:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3626,11 +5020,16 @@
       }
     },
     {
-      "round": "Rodada 31",
-      "date": "2019-11-07",
-      "team1": "Avaí FC",
-      "team2": "Santos SP",
+      "round": "Matchday 31",
+      "date": "2019-11-06",
+      "time": "21:00",
+      "team1": "Avaí SC",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -3638,11 +5037,33 @@
       }
     },
     {
-      "round": "Rodada 31",
-      "date": "2019-11-07",
-      "team1": "EC Bahia",
+      "round": "Matchday 31",
+      "date": "2019-11-06",
+      "time": "21:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-11-06",
+      "time": "21:30",
+      "team1": "Bahia BA",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3650,22 +5071,11 @@
       }
     },
     {
-      "round": "Rodada 31",
-      "date": "2019-11-07",
-      "team1": "CR Vasco da Gama",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2019-11-07",
-      "team1": "Atlético PR",
-      "team2": "Cruzeiro MG",
+      "round": "Matchday 31",
+      "date": "2019-11-06",
+      "time": "21:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Cruzeiro",
       "score": {
         "ft": [
           0,
@@ -3674,23 +5084,16 @@
       }
     },
     {
-      "round": "Rodada 31",
+      "round": "Matchday 31",
       "date": "2019-11-07",
-      "team1": "São Paulo FC",
-      "team2": "Fluminense RJ",
+      "time": "19:30",
+      "team1": "Ceará CE",
+      "team2": "Internacional",
       "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2019-11-07",
-      "team1": "Ceára SC",
-      "team2": "Internacional Porto Alegre",
-      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3698,11 +5101,33 @@
       }
     },
     {
-      "round": "Rodada 31",
+      "round": "Matchday 31",
       "date": "2019-11-07",
+      "time": "19:30",
+      "team1": "São Paulo FC",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-11-07",
+      "time": "20:00",
       "team1": "Botafogo RJ",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3710,11 +5135,16 @@
       }
     },
     {
-      "round": "Rodada 31",
-      "date": "2019-11-08",
-      "team1": "Grêmio RS",
-      "team2": "CS Alagoano",
+      "round": "Matchday 31",
+      "date": "2019-11-07",
+      "time": "21:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3722,11 +5152,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-09",
-      "team1": "Goiás EC",
-      "team2": "Santos SP",
+      "time": "17:00",
+      "team1": "Goiás GO",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -3734,11 +5169,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-09",
-      "team1": "Palmeiras SP",
+      "time": "19:00",
+      "team1": "Palmeiras",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3746,23 +5186,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-10",
-      "team1": "São Paulo FC",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 32",
-      "date": "2019-11-10",
-      "team1": "Internacional Porto Alegre",
+      "time": "16:00",
+      "team1": "Internacional",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3770,10 +5203,11 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-10",
-      "team1": "Cruzeiro MG",
-      "team2": "Atlético MG",
+      "time": "16:00",
+      "team1": "Cruzeiro",
+      "team2": "Atlético Mineiro",
       "score": {
         "ft": [
           0,
@@ -3782,11 +5216,33 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-10",
-      "team1": "Flamengo RJ",
-      "team2": "EC Bahia",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-11-10",
+      "time": "18:00",
+      "team1": "Flamengo RJ",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3794,11 +5250,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-10",
-      "team1": "Fortaleza EC",
-      "team2": "Ceára SC",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3806,11 +5267,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-10",
+      "time": "19:00",
       "team1": "Chapecoense",
-      "team2": "Grêmio RS",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3818,11 +5284,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-10",
-      "team1": "CS Alagoano",
-      "team2": "CR Vasco da Gama",
+      "time": "19:00",
+      "team1": "CSA AL",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -3830,11 +5301,16 @@
       }
     },
     {
-      "round": "Rodada 32",
+      "round": "Matchday 32",
       "date": "2019-11-11",
+      "time": "20:00",
       "team1": "Botafogo RJ",
-      "team2": "Avaí FC",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3842,11 +5318,178 @@
       }
     },
     {
-      "round": "Rodada 34",
-      "date": "2019-11-14",
-      "team1": "Flamengo RJ",
-      "team2": "CR Vasco da Gama",
+      "round": "Matchday 33",
+      "date": "2019-11-16",
+      "time": "17:00",
+      "team1": "Santos FC",
+      "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-16",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-17",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-17",
+      "time": "16:00",
+      "team1": "Bahia BA",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-17",
+      "time": "18:00",
+      "team1": "Corinthians SP",
+      "team2": "Internacional",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-17",
+      "time": "18:00",
+      "team1": "Chapecoense",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-17",
+      "time": "18:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-17",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "CSA AL",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-18",
+      "time": "19:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-11-18",
+      "time": "20:00",
+      "team1": "Cruzeiro",
+      "team2": "Avaí SC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-11-13",
+      "time": "21:30",
+      "team1": "Flamengo RJ",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           4,
           4
@@ -3854,131 +5497,16 @@
       }
     },
     {
-      "round": "Rodada 33",
-      "date": "2019-11-16",
-      "team1": "Santos SP",
-      "team2": "São Paulo FC",
+      "round": "Matchday 34",
+      "date": "2019-11-23",
+      "time": "21:00",
+      "team1": "Santos FC",
+      "team2": "Cruzeiro",
       "score": {
-        "ft": [
+        "ht": [
           1,
           1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-16",
-      "team1": "Fluminense RJ",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-17",
-      "team1": "Grêmio RS",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-17",
-      "team1": "EC Bahia",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-17",
-      "team1": "Corinthians SP",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-17",
-      "team1": "Atlético PR",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-17",
-      "team1": "Chapecoense",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-17",
-      "team1": "Fortaleza EC",
-      "team2": "CS Alagoano",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-18",
-      "team1": "CR Vasco da Gama",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2019-11-18",
-      "team1": "Cruzeiro MG",
-      "team2": "Avaí FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 34",
-      "date": "2019-11-24",
-      "team1": "Santos SP",
-      "team2": "Cruzeiro MG",
-      "score": {
+        ],
         "ft": [
           4,
           1
@@ -3986,11 +5514,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
-      "team1": "Atlético MG",
-      "team2": "Atlético PR",
+      "time": "16:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Athletico Paranaense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3998,11 +5531,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
-      "team1": "Palmeiras SP",
-      "team2": "Grêmio RS",
+      "time": "16:00",
+      "team1": "Palmeiras",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -4010,11 +5548,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
-      "team1": "Goiás EC",
-      "team2": "EC Bahia",
+      "time": "16:00",
+      "team1": "Goiás GO",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           3
@@ -4022,11 +5565,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
+      "time": "18:00",
       "team1": "Botafogo RJ",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4034,11 +5582,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Fortaleza EC",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -4046,11 +5599,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
-      "team1": "Ceára SC",
+      "time": "19:00",
+      "team1": "Ceará CE",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4058,11 +5616,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-24",
-      "team1": "Avaí FC",
+      "time": "19:00",
+      "team1": "Avaí SC",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4070,11 +5633,16 @@
       }
     },
     {
-      "round": "Rodada 34",
+      "round": "Matchday 34",
       "date": "2019-11-25",
-      "team1": "CS Alagoano",
+      "time": "20:00",
+      "team1": "CSA AL",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4082,11 +5650,16 @@
       }
     },
     {
-      "round": "Rodada 35",
+      "round": "Matchday 35",
       "date": "2019-11-27",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Goiás EC",
+      "time": "19:30",
+      "team1": "Internacional",
+      "team2": "Goiás GO",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4094,11 +5667,16 @@
       }
     },
     {
-      "round": "Rodada 35",
+      "round": "Matchday 35",
       "date": "2019-11-27",
+      "time": "19:30",
       "team1": "Chapecoense",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4106,11 +5684,16 @@
       }
     },
     {
-      "round": "Rodada 35",
-      "date": "2019-11-28",
-      "team1": "EC Bahia",
-      "team2": "Atlético MG",
+      "round": "Matchday 35",
+      "date": "2019-11-27",
+      "time": "21:00",
+      "team1": "Bahia BA",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4118,11 +5701,33 @@
       }
     },
     {
-      "round": "Rodada 35",
-      "date": "2019-11-28",
-      "team1": "Flamengo RJ",
-      "team2": "Ceára SC",
+      "round": "Matchday 35",
+      "date": "2019-11-27",
+      "time": "21:30",
+      "team1": "Corinthians SP",
+      "team2": "Avaí SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-11-27",
+      "time": "21:30",
+      "team1": "Flamengo RJ",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           4,
           1
@@ -4130,23 +5735,16 @@
       }
     },
     {
-      "round": "Rodada 35",
-      "date": "2019-11-28",
-      "team1": "Corinthians SP",
-      "team2": "Avaí FC",
+      "round": "Matchday 35",
+      "date": "2019-11-27",
+      "time": "21:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Grêmio Porto Alegre",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 35",
-      "date": "2019-11-28",
-      "team1": "Atlético PR",
-      "team2": "Grêmio RS",
-      "score": {
+        ],
         "ft": [
           2,
           0
@@ -4154,11 +5752,16 @@
       }
     },
     {
-      "round": "Rodada 35",
+      "round": "Matchday 35",
       "date": "2019-11-28",
+      "time": "19:30",
       "team1": "Fluminense RJ",
-      "team2": "Palmeiras SP",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4166,11 +5769,16 @@
       }
     },
     {
-      "round": "Rodada 35",
+      "round": "Matchday 35",
       "date": "2019-11-28",
-      "team1": "Fortaleza EC",
-      "team2": "Santos SP",
+      "time": "20:00",
+      "team1": "Fortaleza CE",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4178,11 +5786,16 @@
       }
     },
     {
-      "round": "Rodada 35",
+      "round": "Matchday 35",
       "date": "2019-11-28",
+      "time": "20:30",
       "team1": "São Paulo FC",
-      "team2": "CR Vasco da Gama",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4190,11 +5803,16 @@
       }
     },
     {
-      "round": "Rodada 35",
-      "date": "2019-11-29",
-      "team1": "Cruzeiro MG",
-      "team2": "CS Alagoano",
+      "round": "Matchday 35",
+      "date": "2019-11-28",
+      "time": "21:30",
+      "team1": "Cruzeiro",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -4202,23 +5820,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-11-30",
-      "team1": "Botafogo RJ",
-      "team2": "Internacional Porto Alegre",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Athletico Paranaense",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2019-11-30",
-      "team1": "Ceára SC",
-      "team2": "Atlético PR",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           1
@@ -4226,11 +5837,33 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
+      "date": "2019-11-30",
+      "time": "19:00",
+      "team1": "Botafogo RJ",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "Palmeiras SP",
+      "time": "16:00",
+      "team1": "Palmeiras",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -4238,11 +5871,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "Avaí FC",
+      "time": "16:00",
+      "team1": "Avaí SC",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4250,11 +5888,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "Goiás EC",
-      "team2": "Fortaleza EC",
+      "time": "16:00",
+      "team1": "Goiás GO",
+      "team2": "Fortaleza CE",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -4262,11 +5905,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "Atlético MG",
+      "time": "18:00",
+      "team1": "Atlético Mineiro",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4274,11 +5922,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "CS Alagoano",
-      "team2": "EC Bahia",
+      "time": "18:00",
+      "team1": "CSA AL",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4286,11 +5939,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "Grêmio RS",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4298,11 +5956,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-01",
-      "team1": "Santos SP",
+      "time": "19:00",
+      "team1": "Santos FC",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4310,11 +5973,16 @@
       }
     },
     {
-      "round": "Rodada 36",
+      "round": "Matchday 36",
       "date": "2019-12-02",
-      "team1": "CR Vasco da Gama",
-      "team2": "Cruzeiro MG",
+      "time": "20:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4322,11 +5990,16 @@
       }
     },
     {
-      "round": "Rodada 37",
+      "round": "Matchday 37",
       "date": "2019-12-04",
-      "team1": "Atlético PR",
-      "team2": "Santos SP",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Santos FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4334,11 +6007,16 @@
       }
     },
     {
-      "round": "Rodada 37",
+      "round": "Matchday 37",
       "date": "2019-12-04",
-      "team1": "Atlético MG",
+      "time": "19:30",
+      "team1": "Atlético Mineiro",
       "team2": "Botafogo RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4346,11 +6024,16 @@
       }
     },
     {
-      "round": "Rodada 37",
+      "round": "Matchday 37",
       "date": "2019-12-04",
-      "team1": "Ceára SC",
+      "time": "19:30",
+      "team1": "Ceará CE",
       "team2": "Corinthians SP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4358,11 +6041,16 @@
       }
     },
     {
-      "round": "Rodada 37",
-      "date": "2019-12-05",
+      "round": "Matchday 37",
+      "date": "2019-12-04",
+      "time": "21:00",
       "team1": "Chapecoense",
-      "team2": "CS Alagoano",
+      "team2": "CSA AL",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4370,11 +6058,16 @@
       }
     },
     {
-      "round": "Rodada 37",
-      "date": "2019-12-05",
+      "round": "Matchday 37",
+      "date": "2019-12-04",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Internacional Porto Alegre",
+      "team2": "Internacional",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4382,10 +6075,11 @@
       }
     },
     {
-      "round": "Rodada 37",
-      "date": "2019-12-05",
+      "round": "Matchday 37",
+      "date": "2019-12-04",
+      "time": "21:30",
       "team1": "Fluminense RJ",
-      "team2": "Fortaleza EC",
+      "team2": "Fortaleza CE",
       "score": {
         "ft": [
           0,
@@ -4394,11 +6088,16 @@
       }
     },
     {
-      "round": "Rodada 37",
+      "round": "Matchday 37",
       "date": "2019-12-05",
-      "team1": "Grêmio RS",
-      "team2": "Cruzeiro MG",
+      "time": "19:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Cruzeiro",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4406,23 +6105,16 @@
       }
     },
     {
-      "round": "Rodada 37",
+      "round": "Matchday 37",
       "date": "2019-12-05",
-      "team1": "EC Bahia",
-      "team2": "CR Vasco da Gama",
+      "time": "19:15",
+      "team1": "Palmeiras",
+      "team2": "Goiás GO",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          2,
           1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 37",
-      "date": "2019-12-05",
-      "team1": "Palmeiras SP",
-      "team2": "Goiás EC",
-      "score": {
+        ],
         "ft": [
           5,
           1
@@ -4430,11 +6122,33 @@
       }
     },
     {
-      "round": "Rodada 37",
+      "round": "Matchday 37",
       "date": "2019-12-05",
-      "team1": "Flamengo RJ",
-      "team2": "Avaí FC",
+      "time": "19:15",
+      "team1": "Bahia BA",
+      "team2": "Vasco da Gama RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-12-05",
+      "time": "20:00",
+      "team1": "Flamengo RJ",
+      "team2": "Avaí SC",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           6,
           1
@@ -4442,11 +6156,16 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Atlético MG",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4454,11 +6173,16 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Cruzeiro MG",
-      "team2": "Palmeiras SP",
+      "time": "16:00",
+      "team1": "Cruzeiro",
+      "team2": "Palmeiras",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4466,11 +6190,50 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Santos SP",
+      "time": "16:00",
+      "team1": "Fortaleza CE",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-12-08",
+      "time": "16:00",
+      "team1": "Corinthians SP",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-12-08",
+      "time": "16:00",
+      "team1": "Santos FC",
       "team2": "Flamengo RJ",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -4478,23 +6241,16 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Botafogo RJ",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 38",
-      "date": "2019-12-08",
-      "team1": "CR Vasco da Gama",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
       "team2": "Chapecoense",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4502,22 +6258,28 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Corinthians SP",
-      "team2": "Fluminense RJ",
+      "time": "16:00",
+      "team1": "Botafogo RJ",
+      "team2": "Ceará CE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
-          2
+          1
         ]
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Avaí FC",
-      "team2": "Atlético PR",
+      "time": "16:00",
+      "team1": "Avaí SC",
+      "team2": "Athletico Paranaense",
       "score": {
         "ft": [
           0,
@@ -4526,11 +6288,16 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Goiás EC",
-      "team2": "Grêmio RS",
+      "time": "16:00",
+      "team1": "Goiás GO",
+      "team2": "Grêmio Porto Alegre",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -4538,23 +6305,16 @@
       }
     },
     {
-      "round": "Rodada 38",
+      "round": "Matchday 38",
       "date": "2019-12-08",
-      "team1": "Fortaleza EC",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 38",
-      "date": "2019-12-08",
-      "team1": "CS Alagoano",
+      "time": "16:00",
+      "team1": "CSA AL",
       "team2": "São Paulo FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2

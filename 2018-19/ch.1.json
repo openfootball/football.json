@@ -1,12 +1,17 @@
 {
-  "name": "Super League 2018/19",
+  "name": "Swiss Super League 2018/19",
   "matches": [
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-21",
-      "team1": "FC Basel",
+      "time": "19:00",
+      "team1": "FC Basel 1893",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-21",
+      "time": "19:00",
       "team1": "FC Luzern",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-22",
+      "time": "16:00",
       "team1": "BSC Young Boys",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -38,11 +53,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-22",
+      "time": "16:00",
       "team1": "FC Sion",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-22",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -62,11 +87,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-07-28",
-      "team1": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -74,11 +104,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-07-28",
-      "team1": "Xamax Neuchâtel",
-      "team2": "FC Basel",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -86,23 +121,33 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-07-29",
-      "team1": "FC Thun",
-      "team2": "FC Luzern",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "BSC Young Boys",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           1
+        ],
+        "ft": [
+          0,
+          2
         ]
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-07-29",
+      "time": "16:00",
       "team1": "FC St. Gallen",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           4
@@ -110,23 +155,33 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-07-29",
-      "team1": "FC Lugano",
-      "team2": "BSC Young Boys",
+      "time": "16:00",
+      "team1": "FC Thun",
+      "team2": "FC Luzern",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          2
+          1
+        ],
+        "ft": [
+          2,
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-04",
-      "team1": "FC Basel",
-      "team2": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "FC Basel 1893",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -134,11 +189,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-04",
+      "time": "19:00",
       "team1": "FC Luzern",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           2
@@ -146,35 +206,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-05",
-      "team1": "FC St. Gallen",
-      "team2": "FC Thun",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
-      "date": "2018-08-05",
-      "team1": "FC Sion",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
-      "date": "2018-08-05",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -182,11 +223,50 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2018-08-11",
-      "team1": "FC Lugano",
-      "team2": "Grasshoppers Zürich",
+      "round": "Matchday 3",
+      "date": "2018-08-05",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-05",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Thun",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "19:00",
+      "team1": "FC Lugano",
+      "team2": "Grasshopper Club Zürich",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -194,11 +274,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-11",
-      "team1": "Xamax Neuchâtel",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           5
@@ -206,11 +291,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-12",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -218,11 +308,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-12",
+      "time": "16:00",
       "team1": "FC Luzern",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           3
@@ -230,8 +325,9 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-12",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC St. Gallen",
       "score": {
@@ -242,11 +338,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-25",
+      "time": "19:00",
       "team1": "BSC Young Boys",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           5,
           2
@@ -254,11 +355,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-25",
-      "team1": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -266,11 +372,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-26",
+      "time": "16:00",
       "team1": "FC Zürich",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -278,23 +389,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-26",
-      "team1": "FC Thun",
-      "team2": "FC Lugano",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-08-26",
+      "time": "16:00",
       "team1": "FC St. Gallen",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -302,11 +406,33 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 5",
+      "date": "2018-08-26",
+      "time": "16:00",
+      "team1": "FC Thun",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2018-09-01",
+      "time": "19:00",
       "team1": "FC Lugano",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -314,11 +440,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-01",
+      "time": "19:00",
       "team1": "FC Sion",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -326,11 +457,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-02",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -338,11 +474,33 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-02",
-      "team1": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "Grasshopper Club Zürich",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-02",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           3
@@ -350,35 +508,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
-      "date": "2018-09-02",
-      "team1": "FC Luzern",
-      "team2": "Grasshoppers Zürich",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-22",
-      "team1": "FC Thun",
-      "team2": "FC Sion",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
-      "date": "2018-09-22",
-      "team1": "Grasshoppers Zürich",
-      "team2": "Xamax Neuchâtel",
-      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -386,11 +525,33 @@
       }
     },
     {
-      "round": "Spieltag 7",
-      "date": "2018-09-23",
-      "team1": "BSC Young Boys",
-      "team2": "FC Basel",
+      "round": "Matchday 7",
+      "date": "2018-09-22",
+      "time": "19:00",
+      "team1": "FC Thun",
+      "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-23",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           7,
           1
@@ -398,11 +559,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-23",
+      "time": "16:00",
       "team1": "FC St. Gallen",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -410,11 +576,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-23",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -422,11 +593,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-25",
-      "team1": "Grasshoppers Zürich",
+      "time": "20:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -434,11 +610,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-26",
+      "time": "20:00",
       "team1": "BSC Young Boys",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -446,11 +627,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-26",
-      "team1": "FC Basel",
+      "time": "20:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -458,11 +644,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-26",
-      "team1": "Xamax Neuchâtel",
+      "time": "20:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -470,11 +661,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-27",
+      "time": "20:00",
       "team1": "FC Sion",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -482,11 +678,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-29",
+      "time": "19:00",
       "team1": "FC St. Gallen",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -494,11 +695,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-29",
+      "time": "19:00",
       "team1": "FC Thun",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           4
@@ -506,11 +712,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-30",
+      "time": "16:00",
       "team1": "FC Lugano",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -518,11 +729,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-30",
+      "time": "16:00",
       "team1": "FC Luzern",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -530,10 +746,11 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-30",
+      "time": "16:00",
       "team1": "FC Zürich",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
         "ft": [
           0,
@@ -542,11 +759,33 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-06",
+      "time": "19:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-10-06",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           3
@@ -554,23 +793,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
-      "date": "2018-10-06",
-      "team1": "FC St. Gallen",
-      "team2": "FC Basel",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-07",
-      "team1": "Grasshoppers Zürich",
+      "time": "16:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -578,11 +810,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-07",
-      "team1": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -590,11 +827,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-07",
+      "time": "16:00",
       "team1": "FC Thun",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -602,11 +844,33 @@
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-20",
+      "time": "19:00",
+      "team1": "FC Luzern",
+      "team2": "FC Thun",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-20",
+      "time": "19:00",
       "team1": "FC Zürich",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           3
@@ -614,23 +878,16 @@
       }
     },
     {
-      "round": "Spieltag 11",
-      "date": "2018-10-20",
-      "team1": "FC Luzern",
-      "team2": "FC Thun",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-21",
-      "team1": "FC Basel",
-      "team2": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -638,23 +895,16 @@
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-21",
-      "team1": "FC Sion",
-      "team2": "Grasshoppers Zürich",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-21",
+      "time": "16:00",
       "team1": "FC Lugano",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -662,11 +912,29 @@
       }
     },
     {
-      "round": "Spieltag 12",
-      "date": "2018-10-27",
-      "team1": "Grasshoppers Zürich",
-      "team2": "FC Basel",
+      "round": "Matchday 11",
+      "date": "2018-10-21",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-27",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           1,
           3
@@ -674,11 +942,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-27",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           3,
           2
@@ -686,11 +959,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-28",
-      "team1": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -698,23 +976,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-28",
-      "team1": "FC St. Gallen",
-      "team2": "FC Zürich",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2018-10-28",
+      "time": "16:00",
       "team1": "FC Lugano",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -722,11 +993,33 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 12",
+      "date": "2018-10-28",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2018-11-03",
-      "team1": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -734,11 +1027,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-03",
+      "time": "19:00",
       "team1": "FC Thun",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -746,11 +1044,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-04",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -758,11 +1061,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-04",
+      "time": "16:00",
       "team1": "FC Luzern",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           5
@@ -770,11 +1078,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-04",
+      "time": "16:00",
       "team1": "FC Sion",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -782,11 +1095,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-10",
+      "time": "19:00",
       "team1": "FC Lugano",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           4
@@ -794,11 +1112,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-10",
+      "time": "19:00",
       "team1": "FC Thun",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           4,
           2
@@ -806,11 +1129,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-11",
-      "team1": "Xamax Neuchâtel",
-      "team2": "Grasshoppers Zürich",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           3
@@ -818,11 +1146,33 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-11",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-11",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -830,23 +1180,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
-      "date": "2018-11-11",
-      "team1": "FC St. Gallen",
-      "team2": "BSC Young Boys",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-24",
-      "team1": "Xamax Neuchâtel",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           3
@@ -854,11 +1197,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-24",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -866,11 +1214,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-25",
-      "team1": "Grasshoppers Zürich",
+      "time": "16:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -878,47 +1231,50 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-25",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-25",
+      "time": "16:00",
       "team1": "FC Sion",
       "team2": "FC Thun",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2018-11-25",
-      "team1": "FC Luzern",
-      "team2": "FC Basel",
-      "score": {
-        "ft": [
+        "ht": [
           1,
+          0
+        ],
+        "ft": [
+          2,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-01",
-      "team1": "FC Thun",
-      "team2": "FC St. Gallen",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2018-12-01",
+      "time": "19:00",
       "team1": "FC Sion",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -926,11 +1282,33 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
+      "date": "2018-12-01",
+      "time": "19:00",
+      "team1": "FC Thun",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
       "date": "2018-12-02",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           3
@@ -938,11 +1316,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-02",
+      "time": "16:00",
       "team1": "FC Lugano",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -950,11 +1333,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-02",
+      "time": "16:00",
       "team1": "FC Zürich",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -962,11 +1350,33 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-08",
+      "time": "19:00",
+      "team1": "FC St. Gallen",
+      "team2": "Neuchâtel Xamax FCS",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-08",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -974,23 +1384,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
-      "date": "2018-12-08",
-      "team1": "FC St. Gallen",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-09",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -998,11 +1401,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-09",
-      "team1": "Grasshoppers Zürich",
+      "time": "16:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1010,11 +1418,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-09",
+      "time": "16:00",
       "team1": "FC Lugano",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1022,11 +1435,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-15",
+      "time": "19:00",
       "team1": "FC Sion",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1034,11 +1452,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-15",
+      "time": "19:00",
       "team1": "FC Thun",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1046,11 +1469,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-16",
-      "team1": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -1058,11 +1486,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-16",
+      "time": "16:00",
       "team1": "FC Luzern",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1070,8 +1503,9 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-16",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Lugano",
       "score": {
@@ -1082,11 +1516,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-02-02",
+      "time": "19:00",
       "team1": "BSC Young Boys",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1094,11 +1533,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-02-03",
-      "team1": "Grasshoppers Zürich",
-      "team2": "FC Basel",
+      "time": "16:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -1106,11 +1550,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-02-06",
+      "time": "20:00",
       "team1": "FC Lugano",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -1118,11 +1567,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-02-06",
+      "time": "20:00",
       "team1": "FC St. Gallen",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1130,71 +1584,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
-      "date": "2019-02-09",
-      "team1": "FC Zürich",
-      "team2": "Grasshoppers Zürich",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2019-02-09",
-      "team1": "FC Basel",
-      "team2": "FC St. Gallen",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2019-02-10",
-      "team1": "FC Thun",
-      "team2": "BSC Young Boys",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2019-02-10",
-      "team1": "FC Sion",
-      "team2": "FC Lugano",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2019-02-10",
-      "team1": "Xamax Neuchâtel",
-      "team2": "FC Luzern",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-02-13",
+      "time": "18:45",
       "team1": "FC Luzern",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -1202,11 +1601,101 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "19:00",
+      "team1": "FC Basel 1893",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-09",
+      "time": "19:00",
+      "team1": "FC Zürich",
+      "team2": "Grasshopper Club Zürich",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-10",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-10",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-10",
+      "time": "16:00",
+      "team1": "FC Thun",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
       "date": "2019-02-16",
+      "time": "19:00",
       "team1": "FC Luzern",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1214,11 +1703,16 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
       "date": "2019-02-16",
+      "time": "19:00",
       "team1": "FC St. Gallen",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -1226,35 +1720,16 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
       "date": "2019-02-17",
-      "team1": "BSC Young Boys",
-      "team2": "FC Zürich",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-17",
-      "team1": "Grasshoppers Zürich",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-17",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1262,11 +1737,50 @@
       }
     },
     {
-      "round": "Spieltag 22",
-      "date": "2019-02-23",
-      "team1": "Xamax Neuchâtel",
-      "team2": "FC Basel",
+      "round": "Matchday 21",
+      "date": "2019-02-17",
+      "time": "16:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-17",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-23",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1274,11 +1788,16 @@
       }
     },
     {
-      "round": "Spieltag 22",
+      "round": "Matchday 22",
       "date": "2019-02-23",
+      "time": "19:00",
       "team1": "FC Sion",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1286,11 +1805,16 @@
       }
     },
     {
-      "round": "Spieltag 22",
+      "round": "Matchday 22",
       "date": "2019-02-24",
+      "time": "16:00",
       "team1": "FC Lugano",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1298,11 +1822,16 @@
       }
     },
     {
-      "round": "Spieltag 22",
+      "round": "Matchday 22",
       "date": "2019-02-24",
+      "time": "16:00",
       "team1": "FC Thun",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1310,11 +1839,16 @@
       }
     },
     {
-      "round": "Spieltag 22",
+      "round": "Matchday 22",
       "date": "2019-02-24",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1322,11 +1856,16 @@
       }
     },
     {
-      "round": "Spieltag 23",
+      "round": "Matchday 23",
       "date": "2019-03-02",
-      "team1": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1334,11 +1873,16 @@
       }
     },
     {
-      "round": "Spieltag 23",
+      "round": "Matchday 23",
       "date": "2019-03-02",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1346,11 +1890,16 @@
       }
     },
     {
-      "round": "Spieltag 23",
+      "round": "Matchday 23",
       "date": "2019-03-03",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1358,11 +1907,33 @@
       }
     },
     {
-      "round": "Spieltag 23",
+      "round": "Matchday 23",
       "date": "2019-03-03",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "Neuchâtel Xamax FCS",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-03-03",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1370,23 +1941,16 @@
       }
     },
     {
-      "round": "Spieltag 23",
-      "date": "2019-03-03",
-      "team1": "FC St. Gallen",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
+      "round": "Matchday 24",
       "date": "2019-03-09",
-      "team1": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1394,11 +1958,16 @@
       }
     },
     {
-      "round": "Spieltag 24",
+      "round": "Matchday 24",
       "date": "2019-03-09",
-      "team1": "Xamax Neuchâtel",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1406,11 +1975,16 @@
       }
     },
     {
-      "round": "Spieltag 24",
+      "round": "Matchday 24",
       "date": "2019-03-10",
+      "time": "16:00",
       "team1": "FC Lugano",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1418,23 +1992,16 @@
       }
     },
     {
-      "round": "Spieltag 24",
+      "round": "Matchday 24",
       "date": "2019-03-10",
-      "team1": "FC Thun",
-      "team2": "FC Zürich",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-03-10",
+      "time": "16:00",
       "team1": "FC Luzern",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1442,36 +2009,63 @@
       }
     },
     {
-      "round": "Spieltag 25",
-      "date": "2019-03-16",
-      "team1": "FC St. Gallen",
-      "team2": "FC Lugano",
+      "round": "Matchday 24",
+      "date": "2019-03-10",
+      "time": "16:00",
+      "team1": "FC Thun",
+      "team2": "FC Zürich",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
-          0,
+          2,
           2
         ]
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-16",
       "team1": "FC Sion",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
         "ft": [
           3,
           0
         ]
       },
-      "status": "AWARDED"
+      "status": "awarded"
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
+      "date": "2019-03-16",
+      "time": "19:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
       "date": "2019-03-17",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1479,11 +2073,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-17",
+      "time": "16:00",
       "team1": "FC Thun",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1491,11 +2090,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-17",
+      "time": "16:00",
       "team1": "FC Zürich",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1503,11 +2107,33 @@
       }
     },
     {
-      "round": "Spieltag 26",
+      "round": "Matchday 26",
       "date": "2019-03-30",
+      "time": "19:00",
+      "team1": "FC Luzern",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-30",
+      "time": "19:00",
       "team1": "FC Sion",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1515,23 +2141,16 @@
       }
     },
     {
-      "round": "Spieltag 26",
-      "date": "2019-03-30",
-      "team1": "FC Luzern",
-      "team2": "FC Basel",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
+      "round": "Matchday 26",
       "date": "2019-03-31",
-      "team1": "Grasshoppers Zürich",
+      "time": "16:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1539,11 +2158,16 @@
       }
     },
     {
-      "round": "Spieltag 26",
+      "round": "Matchday 26",
       "date": "2019-03-31",
-      "team1": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1551,11 +2175,16 @@
       }
     },
     {
-      "round": "Spieltag 26",
+      "round": "Matchday 26",
       "date": "2019-03-31",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1563,10 +2192,11 @@
       }
     },
     {
-      "round": "Spieltag 27",
+      "round": "Matchday 27",
       "date": "2019-04-03",
+      "time": "20:00",
       "team1": "FC Lugano",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
         "ft": [
           0,
@@ -1575,11 +2205,29 @@
       }
     },
     {
-      "round": "Spieltag 27",
+      "round": "Matchday 27",
       "date": "2019-04-03",
-      "team1": "FC Zürich",
-      "team2": "FC Basel",
+      "time": "20:00",
+      "team1": "FC St. Gallen",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-03",
+      "time": "20:00",
+      "team1": "FC Zürich",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1587,23 +2235,16 @@
       }
     },
     {
-      "round": "Spieltag 27",
-      "date": "2019-04-03",
-      "team1": "FC St. Gallen",
-      "team2": "Grasshoppers Zürich",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
+      "round": "Matchday 27",
       "date": "2019-04-04",
+      "time": "20:00",
       "team1": "FC Thun",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1611,11 +2252,50 @@
       }
     },
     {
-      "round": "Spieltag 28",
+      "round": "Matchday 27",
+      "date": "2019-04-10",
+      "time": "18:45",
+      "team1": "FC Luzern",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
       "date": "2019-04-06",
-      "team1": "Xamax Neuchâtel",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-06",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1623,11 +2303,16 @@
       }
     },
     {
-      "round": "Spieltag 28",
-      "date": "2019-04-06",
-      "team1": "Grasshoppers Zürich",
-      "team2": "FC Zürich",
+      "round": "Matchday 28",
+      "date": "2019-04-07",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
+      "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1635,11 +2320,16 @@
       }
     },
     {
-      "round": "Spieltag 28",
+      "round": "Matchday 28",
       "date": "2019-04-07",
+      "time": "16:00",
       "team1": "FC Sion",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1647,23 +2337,16 @@
       }
     },
     {
-      "round": "Spieltag 28",
+      "round": "Matchday 28",
       "date": "2019-04-07",
-      "team1": "FC Basel",
-      "team2": "FC Lugano",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-07",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           5,
           1
@@ -1671,34 +2354,11 @@
       }
     },
     {
-      "round": "Spieltag 27",
-      "date": "2019-04-10",
-      "team1": "FC Luzern",
-      "team2": "BSC Young Boys",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
+      "round": "Matchday 29",
       "date": "2019-04-13",
-      "team1": "FC Luzern",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-04-13",
-      "team1": "FC Basel",
-      "team2": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "FC Basel 1893",
+      "team2": "Grasshopper Club Zürich",
       "score": {
         "ft": [
           0,
@@ -1707,11 +2367,16 @@
       }
     },
     {
-      "round": "Spieltag 29",
-      "date": "2019-04-14",
-      "team1": "FC Zürich",
-      "team2": "BSC Young Boys",
+      "round": "Matchday 29",
+      "date": "2019-04-13",
+      "time": "19:00",
+      "team1": "FC Luzern",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1719,8 +2384,26 @@
       }
     },
     {
-      "round": "Spieltag 29",
+      "round": "Matchday 29",
       "date": "2019-04-14",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-14",
+      "time": "16:00",
       "team1": "FC Thun",
       "team2": "FC St. Gallen",
       "score": {
@@ -1731,23 +2414,33 @@
       }
     },
     {
-      "round": "Spieltag 29",
+      "round": "Matchday 29",
       "date": "2019-04-14",
-      "team1": "FC Lugano",
-      "team2": "FC Sion",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          1,
+          0,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-19",
+      "time": "20:00",
       "team1": "FC Lugano",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1755,11 +2448,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-19",
+      "time": "20:00",
       "team1": "FC Sion",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1767,11 +2465,33 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-20",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "FC Thun",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-20",
+      "time": "19:00",
       "team1": "FC St. Gallen",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1779,23 +2499,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
-      "date": "2019-04-20",
-      "team1": "Grasshoppers Zürich",
-      "team2": "FC Thun",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-22",
-      "team1": "Xamax Neuchâtel",
+      "time": "16:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1803,11 +2516,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-27",
-      "team1": "Xamax Neuchâtel",
-      "team2": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1815,11 +2533,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-27",
+      "time": "19:00",
       "team1": "FC Luzern",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1827,11 +2550,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-28",
+      "time": "16:00",
       "team1": "FC St. Gallen",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1839,11 +2567,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-28",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1851,11 +2584,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-28",
+      "time": "16:00",
       "team1": "FC Zürich",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1863,11 +2601,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-05-04",
-      "team1": "FC Basel",
+      "time": "19:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1875,11 +2618,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-05-04",
-      "team1": "Grasshoppers Zürich",
+      "time": "19:00",
+      "team1": "Grasshopper Club Zürich",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1887,11 +2635,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-05-05",
+      "time": "16:00",
       "team1": "FC Lugano",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1899,11 +2652,33 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-05-05",
+      "time": "16:00",
+      "team1": "FC Thun",
+      "team2": "Neuchâtel Xamax FCS",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-05-05",
+      "time": "16:00",
       "team1": "FC Sion",
       "team2": "BSC Young Boys",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -1911,23 +2686,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
-      "date": "2019-05-05",
-      "team1": "FC Thun",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-11",
-      "team1": "Xamax Neuchâtel",
+      "time": "19:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1935,11 +2703,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-11",
+      "time": "19:00",
       "team1": "FC Thun",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1947,36 +2720,30 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
+      "time": "16:00",
       "team1": "FC Luzern",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
         "ft": [
           4,
           0
         ]
       },
-      "status": "AWARDED"
+      "status": "awarded"
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
-      "team1": "BSC Young Boys",
-      "team2": "FC Basel",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-05-12",
+      "time": "16:00",
       "team1": "FC St. Gallen",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1984,11 +2751,33 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 33",
+      "date": "2019-05-12",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
       "date": "2019-05-15",
-      "team1": "FC Basel",
+      "time": "20:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -1996,11 +2785,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-15",
+      "time": "20:00",
       "team1": "FC Sion",
-      "team2": "Xamax Neuchâtel",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2008,11 +2802,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-15",
+      "time": "20:00",
       "team1": "FC Zürich",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2020,11 +2819,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-16",
+      "time": "20:00",
       "team1": "FC Lugano",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2032,11 +2836,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-16",
+      "time": "20:00",
       "team1": "BSC Young Boys",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           6,
           1
@@ -2044,11 +2853,33 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-05-22",
-      "team1": "Xamax Neuchâtel",
+      "time": "20:00",
+      "team1": "Grasshopper Club Zürich",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-05-22",
+      "time": "20:00",
+      "team1": "Neuchâtel Xamax FCS",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2056,11 +2887,50 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-05-22",
-      "team1": "FC Thun",
-      "team2": "FC Basel",
+      "time": "20:00",
+      "team1": "FC Luzern",
+      "team2": "FC Zürich",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-05-22",
+      "time": "20:00",
+      "team1": "FC St. Gallen",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-05-22",
+      "time": "20:00",
+      "team1": "FC Thun",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2068,23 +2938,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
-      "date": "2019-05-22",
-      "team1": "FC Luzern",
-      "team2": "FC Zürich",
+      "round": "Matchday 36",
+      "date": "2019-05-25",
+      "time": "19:00",
+      "team1": "FC Basel 1893",
+      "team2": "Neuchâtel Xamax FCS",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 35",
-      "date": "2019-05-22",
-      "team1": "FC St. Gallen",
-      "team2": "BSC Young Boys",
-      "score": {
+        ],
         "ft": [
           4,
           1
@@ -2092,35 +2955,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
-      "date": "2019-05-22",
-      "team1": "Grasshoppers Zürich",
-      "team2": "FC Sion",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-25",
-      "team1": "FC Basel",
-      "team2": "Xamax Neuchâtel",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 36",
-      "date": "2019-05-25",
+      "time": "19:00",
       "team1": "FC Lugano",
-      "team2": "Grasshoppers Zürich",
+      "team2": "Grasshopper Club Zürich",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -2128,11 +2972,16 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-25",
+      "time": "19:00",
       "team1": "FC Sion",
       "team2": "FC Thun",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2140,11 +2989,16 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-25",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2152,11 +3006,16 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-25",
+      "time": "19:00",
       "team1": "FC Zürich",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1

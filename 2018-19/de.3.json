@@ -1,12 +1,17 @@
 {
-  "name": "3. Liga 2018/19",
+  "name": "Deutsche 3. Liga 2018/19",
   "matches": [
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-27",
+      "time": "19:00",
       "team1": "Eintracht Braunschweig",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -14,23 +19,67 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-28",
-      "team1": "FSV Zwickau",
-      "team2": "Hallescher FC",
+      "time": "14:00",
+      "team1": "VfR Aalen",
+      "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-28",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-07-28",
+      "time": "14:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-28",
+      "time": "14:00",
       "team1": "FC Carl Zeiss Jena",
-      "team2": "SG Großaspach",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -38,35 +87,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-28",
-      "team1": "1. FC Kaiserslautern",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 1",
-      "date": "2018-07-28",
-      "team1": "VfL Osnabrück",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 1",
-      "date": "2018-07-28",
+      "time": "14:00",
       "team1": "Fortuna Köln",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -74,23 +104,33 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-28",
-      "team1": "VfR Aalen",
-      "team2": "SV Wehen Wiesbaden",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          1,
-          2
+          2,
+          0
         ]
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-29",
+      "time": "13:00",
       "team1": "Energie Cottbus",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -98,11 +138,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-29",
-      "team1": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -110,9 +155,10 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-07-30",
-      "team1": "SF Lotte",
+      "time": "19:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "SV Meppen",
       "score": {
         "ft": [
@@ -122,11 +168,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-03",
+      "time": "19:00",
       "team1": "Hansa Rostock",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -134,11 +185,67 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-04",
-      "team1": "TSV 1860 München",
-      "team2": "SF Lotte",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-04",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-04",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-04",
+      "time": "14:00",
+      "team1": "TSV 1860 München",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           1
@@ -146,11 +253,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-04",
+      "time": "14:00",
       "team1": "Würzburger Kickers",
-      "team2": "KFC Uerdingen",
+      "team2": "KFC Uerdingen 05",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -158,32 +270,9 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-04",
-      "team1": "SG Großaspach",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 2",
-      "date": "2018-08-04",
-      "team1": "Preußen Münster",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 2",
-      "date": "2018-08-04",
+      "time": "14:00",
       "team1": "SpVgg Unterhaching",
       "team2": "VfR Aalen",
       "score": {
@@ -194,11 +283,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-04",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -206,23 +300,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
-      "date": "2018-08-04",
-      "team1": "Hallescher FC",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-05",
+      "time": "13:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -230,11 +317,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-05",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -242,23 +334,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-07",
-      "team1": "Fortuna Köln",
-      "team2": "Karlsruher SC",
+      "time": "19:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "FSV Zwickau",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          1
+        ],
+        "ft": [
+          1,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-07",
+      "time": "19:00",
       "team1": "VfR Aalen",
       "team2": "Würzburger Kickers",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           2
@@ -266,11 +368,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-07",
+      "time": "19:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Preußen Münster",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-07",
+      "time": "19:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           3
@@ -278,35 +402,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-07",
-      "team1": "Eintracht Braunschweig",
-      "team2": "FSV Zwickau",
+      "time": "19:00",
+      "team1": "Fortuna Köln",
+      "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          1,
+          0,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 3",
-      "date": "2018-08-07",
-      "team1": "1. FC Kaiserslautern",
-      "team2": "Preußen Münster",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-08",
-      "team1": "KFC Uerdingen",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -314,11 +436,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-08",
-      "team1": "Energie Cottbus",
-      "team2": "SpVgg Unterhaching",
+      "time": "19:00",
+      "team1": "VfL Osnabrück",
+      "team2": "TSV 1860 München",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -326,23 +453,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-08",
-      "team1": "Hansa Rostock",
-      "team2": "SV Wehen Wiesbaden",
+      "time": "19:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          0,
           2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
-      "date": "2018-08-08",
-      "team1": "SF Lotte",
-      "team2": "SG Großaspach",
-      "score": {
+        ],
         "ft": [
           0,
           2
@@ -350,11 +470,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-08",
-      "team1": "VfL Osnabrück",
-      "team2": "TSV 1860 München",
+      "time": "19:00",
+      "team1": "Hansa Rostock",
+      "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-08",
+      "time": "19:00",
+      "team1": "Energie Cottbus",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -362,11 +504,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-10",
+      "time": "19:00",
       "team1": "Karlsruher SC",
       "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -374,21 +521,27 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-11",
-      "team1": "FSV Zwickau",
-      "team2": "Fortuna Köln",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "1. FC Kaiserslautern",
       "score": {
-        "ft": [
+        "ht": [
           1,
+          0
+        ],
+        "ft": [
+          2,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-11",
-      "team1": "SG Großaspach",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "VfL Osnabrück",
       "score": {
         "ft": [
@@ -398,35 +551,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-11",
-      "team1": "Hallescher FC",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
-      "date": "2018-08-11",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
-      "date": "2018-08-11",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -434,11 +568,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-11",
+      "time": "14:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -446,11 +585,50 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2018-08-12",
-      "team1": "TSV 1860 München",
-      "team2": "KFC Uerdingen",
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-11",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-08-12",
+      "time": "13:00",
+      "team1": "TSV 1860 München",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -458,11 +636,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-12",
+      "time": "14:00",
       "team1": "Würzburger Kickers",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -470,11 +653,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-13",
+      "time": "19:00",
       "team1": "Preußen Münster",
-      "team2": "SF Lotte",
+      "team2": "Sportfreunde Lotte",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -482,10 +670,11 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-24",
-      "team1": "KFC Uerdingen",
-      "team2": "SG Großaspach",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
         "ft": [
           0,
@@ -494,56 +683,43 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-25",
+      "time": "14:00",
       "team1": "VfR Aalen",
       "team2": "TSV 1860 München",
       "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-08-25",
-      "team1": "Hansa Rostock",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
+        "ht": [
           0,
+          2
+        ],
+        "ft": [
+          1,
           4
         ]
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-25",
-      "team1": "Energie Cottbus",
-      "team2": "SV Meppen",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          1,
-          1
+          3,
+          0
         ]
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-25",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "SpVgg Unterhaching",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-08-25",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "Karlsruher SC",
       "score": {
@@ -554,23 +730,67 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-25",
-      "team1": "VfL Osnabrück",
-      "team2": "Preußen Münster",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "SpVgg Unterhaching",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          1,
           0
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
+      "date": "2018-08-25",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-08-25",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2018-08-26",
-      "team1": "SF Lotte",
+      "time": "13:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -578,11 +798,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-26",
+      "time": "14:00",
       "team1": "Eintracht Braunschweig",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -590,11 +815,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-08-27",
+      "time": "19:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -602,11 +832,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-08-31",
+      "time": "19:00",
       "team1": "TSV 1860 München",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -614,11 +849,33 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-01",
-      "team1": "Preußen Münster",
-      "team2": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-01",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -626,11 +883,50 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-01",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-01",
+      "time": "14:00",
+      "team1": "Würzburger Kickers",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-01",
+      "time": "14:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -638,47 +934,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-01",
-      "team1": "Hallescher FC",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2018-09-01",
-      "team1": "SV Meppen",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2018-09-01",
-      "team1": "Würzburger Kickers",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2018-09-01",
+      "time": "14:00",
       "team1": "Karlsruher SC",
-      "team2": "SF Lotte",
+      "team2": "Sportfreunde Lotte",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           3
@@ -686,11 +951,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-02",
+      "time": "13:00",
       "team1": "FSV Zwickau",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -698,11 +968,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-02",
+      "time": "14:00",
       "team1": "Fortuna Köln",
       "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -710,11 +985,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-03",
-      "team1": "SG Großaspach",
+      "time": "19:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -722,47 +1002,33 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-14",
+      "time": "19:00",
       "team1": "Eintracht Braunschweig",
       "team2": "FC Carl Zeiss Jena",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
-      "date": "2018-09-15",
-      "team1": "Hansa Rostock",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
-      "date": "2018-09-15",
-      "team1": "Energie Cottbus",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
+        "ht": [
           0,
           0
+        ],
+        "ft": [
+          2,
+          0
         ]
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-15",
+      "time": "14:00",
       "team1": "VfR Aalen",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -770,23 +1036,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-15",
-      "team1": "VfL Osnabrück",
-      "team2": "Karlsruher SC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
-      "date": "2018-09-15",
-      "team1": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -794,11 +1053,33 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-15",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-15",
+      "time": "14:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -806,11 +1087,46 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
+      "date": "2018-09-15",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-15",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
       "date": "2018-09-16",
-      "team1": "SF Lotte",
+      "time": "13:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -818,11 +1134,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-16",
+      "time": "14:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Würzburger Kickers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -830,11 +1151,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-17",
+      "time": "19:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           3
@@ -842,11 +1168,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-21",
+      "time": "19:00",
       "team1": "Preußen Münster",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -854,45 +1185,10 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-22",
-      "team1": "TSV 1860 München",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2018-09-22",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2018-09-22",
-      "team1": "Würzburger Kickers",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2018-09-22",
-      "team1": "SG Großaspach",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "Hansa Rostock",
       "score": {
         "ft": [
@@ -902,11 +1198,33 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-22",
+      "time": "14:00",
+      "team1": "TSV 1860 München",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-22",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -914,23 +1232,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-22",
-      "team1": "Karlsruher SC",
-      "team2": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "Würzburger Kickers",
+      "team2": "Eintracht Braunschweig",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2018-09-22",
-      "team1": "Fortuna Köln",
-      "team2": "SF Lotte",
-      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -938,11 +1249,67 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
+      "date": "2018-09-22",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-22",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-22",
+      "time": "14:00",
+      "team1": "Karlsruher SC",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
       "date": "2018-09-23",
+      "time": "13:00",
       "team1": "FSV Zwickau",
       "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -950,11 +1317,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-23",
+      "time": "14:00",
       "team1": "Hallescher FC",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -962,35 +1334,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-25",
-      "team1": "SF Lotte",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-09-25",
-      "team1": "Würzburger Kickers",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-09-25",
+      "time": "19:00",
       "team1": "Eintracht Braunschweig",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           4
@@ -998,11 +1351,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-25",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "SG Großaspach",
+      "time": "19:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1010,11 +1368,50 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-25",
+      "time": "19:00",
+      "team1": "Würzburger Kickers",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-25",
+      "time": "19:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-25",
+      "time": "19:00",
       "team1": "Hansa Rostock",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -1022,47 +1419,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-09-26",
-      "team1": "VfL Osnabrück",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-09-26",
-      "team1": "SpVgg Unterhaching",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-09-26",
-      "team1": "KFC Uerdingen",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-09-26",
+      "time": "19:00",
       "team1": "VfR Aalen",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -1070,23 +1436,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
-      "date": "2018-09-28",
-      "team1": "Preußen Münster",
-      "team2": "SV Wehen Wiesbaden",
+      "round": "Matchday 9",
+      "date": "2018-09-26",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "FSV Zwickau",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2018-09-29",
-      "team1": "Fortuna Köln",
-      "team2": "KFC Uerdingen",
-      "score": {
+        ],
         "ft": [
           1,
           2
@@ -1094,11 +1453,33 @@
       }
     },
     {
-      "round": "Spieltag 10",
-      "date": "2018-09-29",
-      "team1": "SG Großaspach",
-      "team2": "SpVgg Unterhaching",
+      "round": "Matchday 9",
+      "date": "2018-09-26",
+      "time": "19:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-09-26",
+      "time": "19:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1106,11 +1487,67 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 9",
+      "date": "2018-10-10",
+      "time": "19:00",
+      "team1": "Energie Cottbus",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-28",
+      "time": "19:00",
+      "team1": "Preußen Münster",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
       "date": "2018-09-29",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-29",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -1118,11 +1555,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-09-29",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
-      "team2": "SF Lotte",
+      "team2": "Sportfreunde Lotte",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1130,11 +1572,33 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-09-29",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-09-29",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1142,8 +1606,9 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-09-30",
+      "time": "13:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "VfL Osnabrück",
       "score": {
@@ -1154,11 +1619,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-09-30",
+      "time": "14:00",
       "team1": "FSV Zwickau",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1166,155 +1636,33 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-01",
+      "time": "19:00",
       "team1": "TSV 1860 München",
       "team2": "Würzburger Kickers",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-05",
-      "team1": "Hansa Rostock",
-      "team2": "Karlsruher SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-06",
-      "team1": "KFC Uerdingen",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-06",
-      "team1": "SpVgg Unterhaching",
-      "team2": "Preußen Münster",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-06",
-      "team1": "VfR Aalen",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-06",
-      "team1": "VfL Osnabrück",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-06",
-      "team1": "Energie Cottbus",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-06",
-      "team1": "Eintracht Braunschweig",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-07",
-      "team1": "SV Meppen",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-07",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "Hallescher FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-08",
-      "team1": "Würzburger Kickers",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
+        "ht": [
           0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-10-10",
-      "team1": "Energie Cottbus",
-      "team2": "Hallescher FC",
-      "score": {
+        ],
         "ft": [
           1,
-          2
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-16",
+      "time": "19:00",
       "team1": "Hallescher FC",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1322,8 +1670,175 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 11",
+      "date": "2018-10-05",
+      "time": "19:00",
+      "team1": "Hansa Rostock",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "14:00",
+      "team1": "VfR Aalen",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "14:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Preußen Münster",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-06",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "13:00",
+      "team1": "SV Meppen",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-07",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-08",
+      "time": "19:00",
+      "team1": "Würzburger Kickers",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2018-10-19",
+      "time": "19:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "VfR Aalen",
       "score": {
@@ -1334,47 +1849,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-20",
-      "team1": "Fortuna Köln",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2018-10-20",
-      "team1": "SG Großaspach",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2018-10-20",
-      "team1": "1. FC Kaiserslautern",
-      "team2": "KFC Uerdingen",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2018-10-20",
+      "time": "14:00",
       "team1": "Hallescher FC",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1382,11 +1866,33 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-20",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "14:00",
       "team1": "TSV 1860 München",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1394,9 +1900,10 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-20",
-      "team1": "SF Lotte",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "VfL Osnabrück",
       "score": {
         "ft": [
@@ -1406,11 +1913,50 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "14:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-20",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2018-10-21",
+      "time": "13:00",
       "team1": "FSV Zwickau",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1418,11 +1964,33 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-10-21",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-10-21",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          1,
+          4
+        ],
         "ft": [
           2,
           5
@@ -1430,23 +1998,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
-      "date": "2018-10-21",
-      "team1": "Preußen Münster",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-10-26",
+      "time": "19:00",
       "team1": "Eintracht Braunschweig",
       "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           4
@@ -1454,11 +2015,33 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-10-27",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "14:00",
       "team1": "Würzburger Kickers",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1466,44 +2049,9 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-10-27",
-      "team1": "Energie Cottbus",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2018-10-27",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2018-10-27",
-      "team1": "Hansa Rostock",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2018-10-27",
+      "time": "14:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Karlsruher SC",
       "score": {
@@ -1514,23 +2062,63 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-10-27",
-      "team1": "KFC Uerdingen",
-      "team2": "SF Lotte",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "FSV Zwickau",
       "score": {
         "ft": [
           0,
-          2
+          0
         ]
       }
     },
     {
-      "round": "Spieltag 13",
-      "date": "2018-10-28",
-      "team1": "TSV 1860 München",
-      "team2": "SG Großaspach",
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-27",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-10-28",
+      "time": "13:00",
+      "team1": "TSV 1860 München",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1538,11 +2126,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-10-28",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1550,11 +2143,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-10-29",
+      "time": "19:00",
       "team1": "VfR Aalen",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1562,11 +2160,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-02",
+      "time": "19:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1574,20 +2177,9 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-03",
-      "team1": "SF Lotte",
-      "team2": "VfR Aalen",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 14",
-      "date": "2018-11-03",
+      "time": "14:00",
       "team1": "Preußen Münster",
       "team2": "TSV 1860 München",
       "score": {
@@ -1598,11 +2190,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-03",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "Hansa Rostock",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1610,11 +2207,50 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-03",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-03",
+      "time": "14:00",
       "team1": "FSV Zwickau",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1622,23 +2258,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-03",
-      "team1": "SG Großaspach",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 14",
-      "date": "2018-11-03",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "Würzburger Kickers",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1646,11 +2275,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-04",
+      "time": "13:00",
       "team1": "Hallescher FC",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1658,11 +2292,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-04",
+      "time": "14:00",
       "team1": "Fortuna Köln",
       "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          0,
+          4
+        ],
         "ft": [
           0,
           7
@@ -1670,11 +2309,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-05",
+      "time": "19:00",
       "team1": "VfL Osnabrück",
-      "team2": "KFC Uerdingen",
+      "team2": "KFC Uerdingen 05",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1682,11 +2326,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-09",
+      "time": "19:00",
       "team1": "Würzburger Kickers",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -1694,11 +2343,67 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-10",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-10",
+      "time": "14:00",
+      "team1": "VfR Aalen",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-10",
+      "time": "14:00",
+      "team1": "TSV 1860 München",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-11-10",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           2,
           3
@@ -1706,11 +2411,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-10",
+      "time": "14:00",
       "team1": "Hansa Rostock",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           1
@@ -1718,47 +2428,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-10",
-      "team1": "Eintracht Braunschweig",
-      "team2": "KFC Uerdingen",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2018-11-10",
-      "team1": "VfR Aalen",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2018-11-10",
-      "team1": "TSV 1860 München",
-      "team2": "Hallescher FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2018-11-10",
+      "time": "14:00",
       "team1": "Energie Cottbus",
-      "team2": "SF Lotte",
+      "team2": "Sportfreunde Lotte",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1766,11 +2445,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-11",
+      "time": "13:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           6,
           0
@@ -1778,11 +2462,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-11",
-      "team1": "SG Großaspach",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1790,11 +2479,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-12",
+      "time": "19:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -1802,11 +2496,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-23",
-      "team1": "SF Lotte",
+      "time": "19:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1814,11 +2513,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-24",
-      "team1": "KFC Uerdingen",
-      "team2": "VfR Aalen",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1826,11 +2530,50 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-24",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-24",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-11-24",
+      "time": "14:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           4,
           5
@@ -1838,32 +2581,9 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-24",
-      "team1": "VfL Osnabrück",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2018-11-24",
-      "team1": "FSV Zwickau",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2018-11-24",
+      "time": "14:00",
       "team1": "Fortuna Köln",
       "team2": "Würzburger Kickers",
       "score": {
@@ -1874,23 +2594,33 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-24",
-      "team1": "Hallescher FC",
-      "team2": "SG Großaspach",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "SV Meppen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          2,
-          0
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-25",
+      "time": "13:00",
       "team1": "Karlsruher SC",
       "team2": "TSV 1860 München",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1898,8 +2628,9 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-25",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "SV Wehen Wiesbaden",
       "score": {
@@ -1910,11 +2641,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-11-26",
+      "time": "19:00",
       "team1": "Preußen Münster",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1922,11 +2658,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-11-30",
+      "time": "19:00",
       "team1": "SpVgg Unterhaching",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -1934,11 +2675,50 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-01",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-01",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-01",
+      "time": "14:00",
       "team1": "TSV 1860 München",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1946,11 +2726,50 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-01",
-      "team1": "Energie Cottbus",
-      "team2": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "Würzburger Kickers",
+      "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-01",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-01",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1958,59 +2777,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
-      "date": "2018-12-01",
-      "team1": "Preußen Münster",
-      "team2": "Hallescher FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2018-12-01",
-      "team1": "Eintracht Braunschweig",
-      "team2": "VfR Aalen",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2018-12-01",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2018-12-01",
-      "team1": "Würzburger Kickers",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          5,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-02",
+      "time": "13:00",
       "team1": "SV Meppen",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2018,11 +2794,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-02",
-      "team1": "SG Großaspach",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2030,11 +2811,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-03",
+      "time": "19:00",
       "team1": "Hansa Rostock",
       "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2042,11 +2828,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-07",
+      "time": "19:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2054,23 +2845,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-08",
-      "team1": "VfL Osnabrück",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 18",
-      "date": "2018-12-08",
+      "time": "14:00",
       "team1": "Eintracht Braunschweig",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2078,11 +2862,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-08",
-      "team1": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2090,20 +2879,26 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-08",
-      "team1": "Fortuna Köln",
-      "team2": "TSV 1860 München",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
-          0,
-          0
+          2,
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-08",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "Würzburger Kickers",
       "score": {
@@ -2114,11 +2909,29 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-08",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-08",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           0
@@ -2126,9 +2939,10 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-09",
-      "team1": "SF Lotte",
+      "time": "13:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "SpVgg Unterhaching",
       "score": {
         "ft": [
@@ -2138,11 +2952,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-09",
+      "time": "14:00",
       "team1": "VfR Aalen",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -2150,11 +2969,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-10",
+      "time": "19:00",
       "team1": "FSV Zwickau",
-      "team2": "SG Großaspach",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2162,11 +2986,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2018-12-14",
-      "team1": "SG Großaspach",
+      "time": "19:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2174,11 +3003,33 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2018-12-15",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "14:00",
       "team1": "Preußen Münster",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -2186,59 +3037,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2018-12-15",
-      "team1": "Hansa Rostock",
-      "team2": "VfR Aalen",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 19",
-      "date": "2018-12-15",
-      "team1": "Energie Cottbus",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 19",
-      "date": "2018-12-15",
-      "team1": "Hallescher FC",
-      "team2": "Karlsruher SC",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 19",
-      "date": "2018-12-15",
-      "team1": "SpVgg Unterhaching",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 19",
-      "date": "2018-12-15",
+      "time": "14:00",
       "team1": "SV Meppen",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2246,11 +3054,67 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "14:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-15",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
       "date": "2018-12-16",
+      "time": "13:00",
       "team1": "TSV 1860 München",
       "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -2258,11 +3122,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2018-12-16",
+      "time": "14:00",
       "team1": "Würzburger Kickers",
-      "team2": "SF Lotte",
+      "team2": "Sportfreunde Lotte",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2270,11 +3139,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2018-12-17",
+      "time": "19:00",
       "team1": "SV Wehen Wiesbaden",
-      "team2": "KFC Uerdingen",
+      "team2": "KFC Uerdingen 05",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -2282,11 +3156,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2018-12-21",
+      "time": "19:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2294,71 +3173,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2018-12-22",
-      "team1": "Hansa Rostock",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2018-12-22",
-      "team1": "Hallescher FC",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2018-12-22",
-      "team1": "TSV 1860 München",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2018-12-22",
-      "team1": "Würzburger Kickers",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2018-12-22",
-      "team1": "SV Meppen",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2018-12-22",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2366,11 +3190,67 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2018-12-22",
+      "time": "14:00",
+      "team1": "Würzburger Kickers",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-22",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-22",
+      "time": "14:00",
+      "team1": "TSV 1860 München",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-22",
+      "time": "14:00",
       "team1": "Preußen Münster",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2378,11 +3258,50 @@
       }
     },
     {
-      "round": "Spieltag 20",
-      "date": "2018-12-23",
-      "team1": "SpVgg Unterhaching",
-      "team2": "KFC Uerdingen",
+      "round": "Matchday 20",
+      "date": "2018-12-22",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-22",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-23",
+      "time": "13:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2390,9 +3309,10 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2018-12-23",
-      "team1": "SG Großaspach",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "FC Carl Zeiss Jena",
       "score": {
         "ft": [
@@ -2402,11 +3322,16 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
       "date": "2019-01-25",
-      "team1": "SF Lotte",
+      "time": "19:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "TSV 1860 München",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2414,23 +3339,16 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
       "date": "2019-01-26",
-      "team1": "Energie Cottbus",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-01-26",
+      "time": "14:00",
       "team1": "Fortuna Köln",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2438,32 +3356,9 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
       "date": "2019-01-26",
-      "team1": "VfL Osnabrück",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-01-26",
-      "team1": "1. FC Kaiserslautern",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-01-26",
+      "time": "14:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "Preußen Münster",
       "score": {
@@ -2474,251 +3369,33 @@
       }
     },
     {
-      "round": "Spieltag 21",
-      "date": "2019-01-27",
-      "team1": "Eintracht Braunschweig",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-01-27",
-      "team1": "KFC Uerdingen",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-01",
-      "team1": "Preußen Münster",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-02",
-      "team1": "SV Meppen",
-      "team2": "KFC Uerdingen",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-02",
-      "team1": "TSV 1860 München",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-02",
-      "team1": "Würzburger Kickers",
-      "team2": "VfR Aalen",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-02",
-      "team1": "SG Großaspach",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-02",
-      "team1": "Karlsruher SC",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-02",
-      "team1": "Hallescher FC",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-03",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-04",
-      "team1": "FSV Zwickau",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-08",
-      "team1": "VfL Osnabrück",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-09",
-      "team1": "Hansa Rostock",
-      "team2": "SpVgg Unterhaching",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-09",
-      "team1": "KFC Uerdingen",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-09",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "Karlsruher SC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-09",
+      "round": "Matchday 21",
+      "date": "2019-01-26",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
-      "team2": "Hallescher FC",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          0,
+          2,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 23",
-      "date": "2019-02-09",
-      "team1": "Energie Cottbus",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-09",
-      "team1": "Fortuna Köln",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-10",
-      "team1": "VfR Aalen",
+      "round": "Matchday 21",
+      "date": "2019-01-26",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
       "team2": "SV Meppen",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-10",
-      "team1": "Eintracht Braunschweig",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-11",
-      "team1": "SF Lotte",
-      "team2": "Preußen Münster",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           0
@@ -2726,11 +3403,67 @@
       }
     },
     {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
+      "date": "2019-01-26",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-01-27",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-01-27",
+      "time": "15:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
       "date": "2019-02-12",
+      "time": "19:00",
       "team1": "FSV Zwickau",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2738,455 +3471,84 @@
       }
     },
     {
-      "round": "Spieltag 24",
-      "date": "2019-02-15",
-      "team1": "SpVgg Unterhaching",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-16",
-      "team1": "SV Meppen",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-16",
-      "team1": "Fortuna Köln",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-16",
-      "team1": "Preußen Münster",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-16",
-      "team1": "Hallescher FC",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-16",
-      "team1": "Karlsruher SC",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-16",
-      "team1": "SG Großaspach",
-      "team2": "KFC Uerdingen",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-17",
-      "team1": "Würzburger Kickers",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-17",
-      "team1": "FSV Zwickau",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-02-18",
-      "team1": "TSV 1860 München",
-      "team2": "VfR Aalen",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-22",
-      "team1": "VfR Aalen",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-23",
-      "team1": "VfL Osnabrück",
-      "team2": "Hallescher FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-23",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-23",
-      "team1": "Hansa Rostock",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-23",
-      "team1": "Energie Cottbus",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-23",
-      "team1": "SF Lotte",
-      "team2": "Karlsruher SC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-23",
-      "team1": "Eintracht Braunschweig",
-      "team2": "SpVgg Unterhaching",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-24",
-      "team1": "1. FC Kaiserslautern",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-24",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-02-25",
-      "team1": "KFC Uerdingen",
-      "team2": "Preußen Münster",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
+      "round": "Matchday 21",
       "date": "2019-02-27",
+      "time": "19:00",
       "team1": "VfR Aalen",
       "team2": "SpVgg Unterhaching",
       "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-01",
-      "team1": "Hallescher FC",
-      "team2": "KFC Uerdingen",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-02",
-      "team1": "FSV Zwickau",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-02",
-      "team1": "SG Großaspach",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-02",
-      "team1": "Karlsruher SC",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
+        "ht": [
           2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-02",
-      "team1": "SV Meppen",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-02",
-      "team1": "Preußen Münster",
-      "team2": "VfR Aalen",
-      "score": {
+          0
+        ],
         "ft": [
           4,
-          0
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 26",
-      "date": "2019-03-02",
-      "team1": "Fortuna Köln",
+      "round": "Matchday 22",
+      "date": "2019-02-01",
+      "time": "19:00",
+      "team1": "Preußen Münster",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-03",
-      "team1": "TSV 1860 München",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-03",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          0,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 26",
-      "date": "2019-03-04",
+      "round": "Matchday 22",
+      "date": "2019-02-02",
+      "time": "14:00",
       "team1": "Würzburger Kickers",
-      "team2": "SpVgg Unterhaching",
+      "team2": "VfR Aalen",
       "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-08",
-      "team1": "KFC Uerdingen",
-      "team2": "Karlsruher SC",
-      "score": {
-        "ft": [
+        "ht": [
           1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "Energie Cottbus",
-      "team2": "Preußen Münster",
-      "score": {
-        "ft": [
-          3,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "Eintracht Braunschweig",
-      "team2": "Würzburger Kickers",
-      "score": {
+        ],
         "ft": [
           2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-02",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
           2
         ]
       }
     },
     {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "VfL Osnabrück",
-      "team2": "FSV Zwickau",
+      "round": "Matchday 22",
+      "date": "2019-02-02",
+      "time": "14:00",
+      "team1": "TSV 1860 München",
+      "team2": "VfL Osnabrück",
       "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "SpVgg Unterhaching",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
+        "ht": [
           0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "SF Lotte",
-      "team2": "Fortuna Köln",
-      "score": {
+        ],
         "ft": [
           1,
           2
@@ -3194,203 +3556,46 @@
       }
     },
     {
-      "round": "Spieltag 27",
-      "date": "2019-03-09",
-      "team1": "Hansa Rostock",
-      "team2": "SG Großaspach",
+      "round": "Matchday 22",
+      "date": "2019-02-02",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "Sportfreunde Lotte",
       "score": {
-        "ft": [
+        "ht": [
           0,
           0
+        ],
+        "ft": [
+          0,
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 27",
-      "date": "2019-03-10",
-      "team1": "1. FC Kaiserslautern",
+      "round": "Matchday 22",
+      "date": "2019-02-02",
+      "time": "14:00",
+      "team1": "Hallescher FC",
       "team2": "FC Carl Zeiss Jena",
       "score": {
         "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-10",
-      "team1": "VfR Aalen",
-      "team2": "Hallescher FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-12",
-      "team1": "Preußen Münster",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-12",
-      "team1": "Fortuna Köln",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
           0,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 28",
-      "date": "2019-03-12",
-      "team1": "TSV 1860 München",
-      "team2": "SpVgg Unterhaching",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-12",
-      "team1": "FSV Zwickau",
-      "team2": "KFC Uerdingen",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-12",
-      "team1": "SV Meppen",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-13",
-      "team1": "1. FC Kaiserslautern",
-      "team2": "Eintracht Braunschweig",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-13",
+      "round": "Matchday 22",
+      "date": "2019-02-02",
+      "time": "14:00",
       "team1": "Karlsruher SC",
-      "team2": "VfR Aalen",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-13",
-      "team1": "SG Großaspach",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-13",
-      "team1": "Hallescher FC",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-03-13",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-15",
-      "team1": "KFC Uerdingen",
       "team2": "Fortuna Köln",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-16",
-      "team1": "SF Lotte",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-16",
-      "team1": "SpVgg Unterhaching",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-16",
-      "team1": "VfL Osnabrück",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
+        ],
         "ft": [
           3,
           1
@@ -3398,11 +3603,16 @@
       }
     },
     {
-      "round": "Spieltag 29",
-      "date": "2019-03-16",
+      "round": "Matchday 22",
+      "date": "2019-02-03",
+      "time": "13:00",
       "team1": "SV Wehen Wiesbaden",
-      "team2": "Preußen Münster",
+      "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3410,68 +3620,26 @@
       }
     },
     {
-      "round": "Spieltag 29",
-      "date": "2019-03-16",
-      "team1": "Würzburger Kickers",
-      "team2": "TSV 1860 München",
+      "round": "Matchday 22",
+      "date": "2019-02-04",
+      "time": "19:00",
+      "team1": "FSV Zwickau",
+      "team2": "Eintracht Braunschweig",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-16",
-      "team1": "VfR Aalen",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-17",
-      "team1": "Energie Cottbus",
-      "team2": "Karlsruher SC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-17",
-      "team1": "Eintracht Braunschweig",
-      "team2": "SV Meppen",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-03-18",
-      "team1": "Hansa Rostock",
-      "team2": "Hallescher FC",
-      "score": {
-        "ft": [
-          1,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 22",
+      "round": "Matchday 22",
       "date": "2019-03-20",
+      "time": "19:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Energie Cottbus",
       "score": {
@@ -3482,11 +3650,1162 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 23",
+      "date": "2019-02-08",
+      "time": "19:00",
+      "team1": "VfL Osnabrück",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-09",
+      "time": "14:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Hallescher FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-09",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-09",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-09",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-09",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-09",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-10",
+      "time": "13:00",
+      "team1": "VfR Aalen",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-10",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-11",
+      "time": "19:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "Preußen Münster",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-15",
+      "time": "19:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-16",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-16",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-16",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-16",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-16",
+      "time": "14:00",
+      "team1": "Karlsruher SC",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-16",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-17",
+      "time": "13:00",
+      "team1": "Würzburger Kickers",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-17",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-18",
+      "time": "19:00",
+      "team1": "TSV 1860 München",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-22",
+      "time": "19:00",
+      "team1": "VfR Aalen",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-23",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-23",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-23",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-23",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-23",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-23",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-24",
+      "time": "13:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-24",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-25",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "Preußen Münster",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-01",
+      "time": "19:00",
+      "team1": "Hallescher FC",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-02",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-02",
+      "time": "14:00",
+      "team1": "Karlsruher SC",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-02",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-02",
+      "time": "14:00",
+      "team1": "Fortuna Köln",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-02",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-02",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-03",
+      "time": "13:00",
+      "team1": "TSV 1860 München",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-03",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-04",
+      "time": "19:00",
+      "team1": "Würzburger Kickers",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-08",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "Preußen Münster",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-09",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-10",
+      "time": "13:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-10",
+      "time": "14:00",
+      "team1": "VfR Aalen",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-12",
+      "time": "19:00",
+      "team1": "FSV Zwickau",
+      "team2": "KFC Uerdingen 05",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-12",
+      "time": "19:00",
+      "team1": "Fortuna Köln",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-12",
+      "time": "19:00",
+      "team1": "SV Meppen",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-12",
+      "time": "19:00",
+      "team1": "TSV 1860 München",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-12",
+      "time": "19:00",
+      "team1": "Preußen Münster",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-13",
+      "time": "19:00",
+      "team1": "1. FC Kaiserslautern",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-13",
+      "time": "19:00",
+      "team1": "Karlsruher SC",
+      "team2": "VfR Aalen",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-13",
+      "time": "19:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-13",
+      "time": "19:00",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-13",
+      "time": "19:00",
+      "team1": "Hallescher FC",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-15",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "Preußen Münster",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "SpVgg Unterhaching",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "Würzburger Kickers",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-16",
+      "time": "14:00",
+      "team1": "VfR Aalen",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-17",
+      "time": "13:00",
+      "team1": "Energie Cottbus",
+      "team2": "Karlsruher SC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-17",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SV Meppen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-18",
+      "time": "19:00",
+      "team1": "Hansa Rostock",
+      "team2": "Hallescher FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
       "date": "2019-03-22",
+      "time": "19:00",
       "team1": "Fortuna Köln",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3494,10 +4813,11 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-23",
+      "time": "14:00",
       "team1": "FC Carl Zeiss Jena",
-      "team2": "KFC Uerdingen",
+      "team2": "KFC Uerdingen 05",
       "score": {
         "ft": [
           0,
@@ -3506,35 +4826,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-23",
-      "team1": "Hallescher FC",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
-      "date": "2019-03-23",
-      "team1": "Preußen Münster",
-      "team2": "SpVgg Unterhaching",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
-      "date": "2019-03-23",
+      "time": "14:00",
       "team1": "TSV 1860 München",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3542,11 +4843,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-23",
-      "team1": "SG Großaspach",
+      "time": "14:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "Würzburger Kickers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3554,11 +4860,50 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-23",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-03-23",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-03-23",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3566,11 +4911,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-24",
+      "time": "13:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -3578,11 +4928,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-24",
-      "team1": "SF Lotte",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3590,11 +4945,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-03-25",
+      "time": "19:00",
       "team1": "FSV Zwickau",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3602,11 +4962,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-03-29",
-      "team1": "KFC Uerdingen",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           4
@@ -3614,32 +4979,9 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-03-30",
-      "team1": "SV Meppen",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-03-30",
-      "team1": "Energie Cottbus",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          4,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-03-30",
+      "time": "14:00",
       "team1": "SpVgg Unterhaching",
       "team2": "Hallescher FC",
       "score": {
@@ -3650,35 +4992,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-03-30",
-      "team1": "Eintracht Braunschweig",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-03-30",
-      "team1": "Hansa Rostock",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-03-30",
+      "time": "14:00",
       "team1": "Würzburger Kickers",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -3686,11 +5009,33 @@
       }
     },
     {
-      "round": "Spieltag 31",
-      "date": "2019-03-31",
-      "team1": "VfR Aalen",
-      "team2": "FC Carl Zeiss Jena",
+      "round": "Matchday 31",
+      "date": "2019-03-30",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-03-30",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3698,11 +5043,67 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
+      "date": "2019-03-30",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-03-30",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
       "date": "2019-03-31",
+      "time": "13:00",
+      "team1": "VfR Aalen",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-03-31",
+      "time": "14:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3710,11 +5111,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-01",
+      "time": "19:00",
       "team1": "VfL Osnabrück",
-      "team2": "SF Lotte",
+      "team2": "Sportfreunde Lotte",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3722,11 +5128,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-04-05",
+      "time": "19:00",
       "team1": "Preußen Münster",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3734,59 +5145,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-04-06",
-      "team1": "Hallescher FC",
-      "team2": "Würzburger Kickers",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-04-06",
-      "team1": "FSV Zwickau",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-04-06",
-      "team1": "Karlsruher SC",
-      "team2": "SpVgg Unterhaching",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-04-06",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-04-06",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3794,11 +5162,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-04-06",
-      "team1": "SF Lotte",
-      "team2": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "KFC Uerdingen 05",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           1,
           3
@@ -3806,23 +5179,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
-      "date": "2019-04-07",
-      "team1": "Fortuna Köln",
-      "team2": "Hansa Rostock",
+      "round": "Matchday 32",
+      "date": "2019-04-06",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "Würzburger Kickers",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-04-07",
-      "team1": "VfL Osnabrück",
-      "team2": "Eintracht Braunschweig",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           0
@@ -3830,11 +5196,101 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
+      "date": "2019-04-06",
+      "time": "14:00",
+      "team1": "Karlsruher SC",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-04-06",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-04-06",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-04-07",
+      "time": "13:00",
+      "team1": "Fortuna Köln",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-04-07",
+      "time": "14:00",
+      "team1": "VfL Osnabrück",
+      "team2": "Eintracht Braunschweig",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
       "date": "2019-04-08",
-      "team1": "SG Großaspach",
+      "time": "19:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "TSV 1860 München",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3842,11 +5298,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-04-12",
+      "time": "19:00",
       "team1": "SV Meppen",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -3854,11 +5315,101 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-04-13",
+      "time": "14:00",
+      "team1": "TSV 1860 München",
+      "team2": "Preußen Münster",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-13",
+      "time": "14:00",
+      "team1": "Eintracht Braunschweig",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-13",
+      "time": "14:00",
+      "team1": "VfR Aalen",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-13",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-13",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-13",
+      "time": "14:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3866,71 +5417,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
-      "date": "2019-04-13",
-      "team1": "Eintracht Braunschweig",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-04-13",
-      "team1": "Energie Cottbus",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-04-13",
-      "team1": "Hansa Rostock",
-      "team2": "FC Carl Zeiss Jena",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-04-13",
-      "team1": "TSV 1860 München",
-      "team2": "Preußen Münster",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-04-13",
-      "team1": "VfR Aalen",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-04-14",
+      "time": "13:00",
       "team1": "SpVgg Unterhaching",
       "team2": "FSV Zwickau",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3938,11 +5434,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-04-14",
-      "team1": "KFC Uerdingen",
+      "time": "14:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "VfL Osnabrück",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3950,8 +5451,9 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-04-15",
+      "time": "19:00",
       "team1": "Würzburger Kickers",
       "team2": "Karlsruher SC",
       "score": {
@@ -3962,11 +5464,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-20",
+      "time": "14:00",
       "team1": "VfL Osnabrück",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3974,23 +5481,33 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-20",
-      "team1": "FSV Zwickau",
-      "team2": "Würzburger Kickers",
+      "time": "14:00",
+      "team1": "Preußen Münster",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          2,
+          1,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-20",
+      "time": "14:00",
       "team1": "Hallescher FC",
       "team2": "TSV 1860 München",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3998,23 +5515,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-20",
-      "team1": "Preußen Münster",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 34",
-      "date": "2019-04-20",
+      "time": "14:00",
       "team1": "Karlsruher SC",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -4022,11 +5532,33 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-20",
+      "time": "14:00",
+      "team1": "FSV Zwickau",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-04-20",
+      "time": "14:00",
       "team1": "Fortuna Köln",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4034,11 +5566,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-20",
+      "time": "14:00",
       "team1": "FC Carl Zeiss Jena",
       "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -4046,11 +5583,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-21",
+      "time": "13:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4058,11 +5600,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-21",
-      "team1": "SF Lotte",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -4070,11 +5617,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-04-22",
-      "team1": "KFC Uerdingen",
+      "time": "19:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -4082,11 +5634,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-04-26",
-      "team1": "SG Großaspach",
+      "time": "19:00",
+      "team1": "SG Sonnenhof Großaspach",
       "team2": "Hallescher FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4094,11 +5651,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-04-27",
+      "time": "13:15",
       "team1": "TSV 1860 München",
       "team2": "Karlsruher SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -4106,59 +5668,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-04-27",
-      "team1": "Energie Cottbus",
-      "team2": "VfL Osnabrück",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 35",
-      "date": "2019-04-27",
-      "team1": "Hansa Rostock",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 35",
-      "date": "2019-04-27",
-      "team1": "SV Meppen",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 35",
-      "date": "2019-04-27",
-      "team1": "Würzburger Kickers",
-      "team2": "Fortuna Köln",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 35",
-      "date": "2019-04-27",
+      "time": "14:00",
       "team1": "VfR Aalen",
-      "team2": "KFC Uerdingen",
+      "team2": "KFC Uerdingen 05",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           4
@@ -4166,11 +5685,80 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
+      "date": "2019-04-27",
+      "time": "14:00",
+      "team1": "Energie Cottbus",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-04-27",
+      "time": "14:00",
+      "team1": "Hansa Rostock",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-04-27",
+      "time": "14:00",
+      "team1": "Würzburger Kickers",
+      "team2": "Fortuna Köln",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-04-27",
+      "time": "14:00",
+      "team1": "SV Meppen",
+      "team2": "FSV Zwickau",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
       "date": "2019-04-28",
+      "time": "13:00",
       "team1": "SpVgg Unterhaching",
       "team2": "FC Carl Zeiss Jena",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4178,11 +5766,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-04-28",
+      "time": "14:00",
       "team1": "Eintracht Braunschweig",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           3
@@ -4190,11 +5783,16 @@
       }
     },
     {
-      "round": "Spieltag 35",
+      "round": "Matchday 35",
       "date": "2019-04-29",
+      "time": "19:00",
       "team1": "SV Wehen Wiesbaden",
       "team2": "1. FC Kaiserslautern",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4202,11 +5800,16 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-03",
+      "time": "19:00",
       "team1": "VfL Osnabrück",
       "team2": "Hansa Rostock",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -4214,47 +5817,50 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-04",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "Würzburger Kickers",
+      "time": "14:00",
+      "team1": "Hallescher FC",
+      "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
-          3,
-          4
+          1,
+          2
         ]
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-04",
-      "team1": "SF Lotte",
-      "team2": "SV Wehen Wiesbaden",
+      "time": "14:00",
+      "team1": "Karlsruher SC",
+      "team2": "SG Sonnenhof Großaspach",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          0,
+          2,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-04",
-      "team1": "Hallescher FC",
-      "team2": "Preußen Münster",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 36",
-      "date": "2019-05-04",
+      "time": "14:00",
       "team1": "FSV Zwickau",
       "team2": "TSV 1860 München",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           5,
           2
@@ -4262,11 +5868,33 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-04",
+      "time": "14:00",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2019-05-04",
+      "time": "14:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "SpVgg Unterhaching",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -4274,23 +5902,33 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-04",
-      "team1": "Karlsruher SC",
-      "team2": "SG Großaspach",
+      "time": "14:00",
+      "team1": "Sportfreunde Lotte",
+      "team2": "SV Wehen Wiesbaden",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          2,
+          0,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-05",
-      "team1": "KFC Uerdingen",
+      "time": "13:00",
+      "team1": "KFC Uerdingen 05",
       "team2": "Energie Cottbus",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4298,11 +5936,16 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-05",
+      "time": "14:00",
       "team1": "VfR Aalen",
       "team2": "Eintracht Braunschweig",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -4310,11 +5953,16 @@
       }
     },
     {
-      "round": "Spieltag 36",
+      "round": "Matchday 36",
       "date": "2019-05-06",
+      "time": "19:00",
       "team1": "Fortuna Köln",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4322,35 +5970,16 @@
       }
     },
     {
-      "round": "Spieltag 37",
+      "round": "Matchday 37",
       "date": "2019-05-11",
-      "team1": "Preußen Münster",
-      "team2": "Karlsruher SC",
+      "time": "13:30",
+      "team1": "Hallescher FC",
+      "team2": "Eintracht Braunschweig",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 37",
-      "date": "2019-05-11",
-      "team1": "SG Großaspach",
-      "team2": "FSV Zwickau",
-      "score": {
-        "ft": [
-          5,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 37",
-      "date": "2019-05-11",
-      "team1": "SV Wehen Wiesbaden",
-      "team2": "VfL Osnabrück",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           0
@@ -4358,23 +5987,16 @@
       }
     },
     {
-      "round": "Spieltag 37",
+      "round": "Matchday 37",
       "date": "2019-05-11",
-      "team1": "SpVgg Unterhaching",
-      "team2": "SF Lotte",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 37",
-      "date": "2019-05-11",
+      "time": "13:30",
       "team1": "Energie Cottbus",
       "team2": "VfR Aalen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4382,23 +6004,16 @@
       }
     },
     {
-      "round": "Spieltag 37",
+      "round": "Matchday 37",
       "date": "2019-05-11",
-      "team1": "Würzburger Kickers",
-      "team2": "1. FC Kaiserslautern",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 37",
-      "date": "2019-05-11",
+      "time": "13:30",
       "team1": "Hansa Rostock",
-      "team2": "KFC Uerdingen",
+      "team2": "KFC Uerdingen 05",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4406,11 +6021,84 @@
       }
     },
     {
-      "round": "Spieltag 37",
+      "round": "Matchday 37",
       "date": "2019-05-11",
+      "time": "13:30",
+      "team1": "SV Wehen Wiesbaden",
+      "team2": "VfL Osnabrück",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-05-11",
+      "time": "13:30",
+      "team1": "SpVgg Unterhaching",
+      "team2": "Sportfreunde Lotte",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-05-11",
+      "time": "13:30",
+      "team1": "Würzburger Kickers",
+      "team2": "1. FC Kaiserslautern",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-05-11",
+      "time": "13:30",
+      "team1": "SV Meppen",
+      "team2": "FC Carl Zeiss Jena",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-05-11",
+      "time": "13:30",
       "team1": "TSV 1860 München",
       "team2": "Fortuna Köln",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -4418,83 +6106,33 @@
       }
     },
     {
-      "round": "Spieltag 37",
+      "round": "Matchday 37",
       "date": "2019-05-11",
-      "team1": "SV Meppen",
-      "team2": "FC Carl Zeiss Jena",
+      "time": "13:30",
+      "team1": "SG Sonnenhof Großaspach",
+      "team2": "FSV Zwickau",
       "score": {
-        "ft": [
-          0,
+        "ht": [
+          3,
           1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 37",
-      "date": "2019-05-11",
-      "team1": "Hallescher FC",
-      "team2": "Eintracht Braunschweig",
-      "score": {
+        ],
         "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
-      "team1": "VfR Aalen",
-      "team2": "Hansa Rostock",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
-      "team1": "Eintracht Braunschweig",
-      "team2": "Energie Cottbus",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
-      "team1": "Fortuna Köln",
-      "team2": "SG Großaspach",
-      "score": {
-        "ft": [
-          0,
+          5,
           2
         ]
       }
     },
     {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
-      "team1": "Karlsruher SC",
-      "team2": "Hallescher FC",
+      "round": "Matchday 37",
+      "date": "2019-05-11",
+      "time": "13:30",
+      "team1": "Preußen Münster",
+      "team2": "Karlsruher SC",
       "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
-      "team1": "VfL Osnabrück",
-      "team2": "SpVgg Unterhaching",
-      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -4502,23 +6140,16 @@
       }
     },
     {
-      "round": "Spieltag 38",
+      "round": "Matchday 38",
       "date": "2019-05-18",
-      "team1": "SF Lotte",
-      "team2": "Würzburger Kickers",
+      "time": "13:30",
+      "team1": "Karlsruher SC",
+      "team2": "Hallescher FC",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
-      "team1": "KFC Uerdingen",
-      "team2": "SV Wehen Wiesbaden",
-      "score": {
+          1
+        ],
         "ft": [
           2,
           3
@@ -4526,23 +6157,16 @@
       }
     },
     {
-      "round": "Spieltag 38",
+      "round": "Matchday 38",
       "date": "2019-05-18",
-      "team1": "FC Carl Zeiss Jena",
-      "team2": "TSV 1860 München",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 38",
-      "date": "2019-05-18",
+      "time": "13:30",
       "team1": "FSV Zwickau",
       "team2": "Preußen Münster",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4550,14 +6174,138 @@
       }
     },
     {
-      "round": "Spieltag 38",
+      "round": "Matchday 38",
       "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "Fortuna Köln",
+      "team2": "SG Sonnenhof Großaspach",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "FC Carl Zeiss Jena",
+      "team2": "TSV 1860 München",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "SV Meppen",
       "score": {
+        "ht": [
+          4,
+          2
+        ],
         "ft": [
           4,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "Sportfreunde Lotte",
+      "team2": "Würzburger Kickers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "VfL Osnabrück",
+      "team2": "SpVgg Unterhaching",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "KFC Uerdingen 05",
+      "team2": "SV Wehen Wiesbaden",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "VfR Aalen",
+      "team2": "Hansa Rostock",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-18",
+      "time": "13:30",
+      "team1": "Eintracht Braunschweig",
+      "team2": "Energie Cottbus",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     }

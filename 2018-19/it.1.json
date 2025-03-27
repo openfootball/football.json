@@ -1,12 +1,17 @@
 {
-  "name": "Serie A 2018/19",
+  "name": "Italian Serie A 2018/19",
   "matches": [
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-18",
-      "team1": "AC Chievo Verona",
+      "time": "18:00",
+      "team1": "Chievo Verona",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-18",
-      "team1": "SS Lazio",
+      "time": "20:30",
+      "team1": "Lazio Roma",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-19",
+      "time": "18:00",
       "team1": "Torino FC",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -38,11 +53,33 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-19",
-      "team1": "Empoli",
+      "time": "20:30",
+      "team1": "Bologna FC",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-08-19",
+      "time": "20:30",
+      "team1": "Empoli FC",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -50,23 +87,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-19",
-      "team1": "US Sassuolo Calcio",
-      "team2": "FC Internazionale Milano",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "1^ Giornata",
-      "date": "2018-08-19",
-      "team1": "Parma",
+      "time": "20:30",
+      "team1": "Parma Calcio 1913",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -74,23 +104,33 @@
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-19",
-      "team1": "Bologna FC",
-      "team2": "SPAL Ferrara",
+      "time": "20:30",
+      "team1": "Sassuolo Calcio",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          0,
-          1
+          1,
+          0
         ]
       }
     },
     {
-      "round": "1^ Giornata",
+      "round": "Matchday 1",
       "date": "2018-08-20",
-      "team1": "Atalanta Bergamo",
-      "team2": "Frosinone",
+      "time": "20:30",
+      "team1": "Atalanta",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -98,11 +138,50 @@
       }
     },
     {
-      "round": "2^ Giornata",
-      "date": "2018-08-25",
-      "team1": "Juventus",
-      "team2": "SS Lazio",
+      "round": "Matchday 1",
+      "date": "2018-09-19",
+      "time": "19:00",
+      "team1": "Sampdoria",
+      "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-10-31",
+      "time": "20:30",
+      "team1": "AC Milan",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-25",
+      "time": "18:00",
+      "team1": "Juventus",
+      "team2": "Lazio Roma",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -110,11 +189,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2018-08-25",
+      "time": "20:30",
       "team1": "SSC Napoli",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -122,11 +206,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2018-08-26",
-      "team1": "SPAL Ferrara",
-      "team2": "Parma",
+      "time": "18:00",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -134,23 +223,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2018-08-26",
-      "team1": "Udinese Calcio",
-      "team2": "UC Sampdoria",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "2^ Giornata",
-      "date": "2018-08-26",
+      "time": "20:30",
       "team1": "Cagliari Calcio",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -158,11 +240,16 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2018-08-26",
+      "time": "20:30",
       "team1": "ACF Fiorentina",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           6,
           1
@@ -170,33 +257,10 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
       "date": "2018-08-26",
-      "team1": "FC Internazionale Milano",
-      "team2": "Torino FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "2^ Giornata",
-      "date": "2018-08-26",
-      "team1": "Genoa CFC",
-      "team2": "Empoli",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "2^ Giornata",
-      "date": "2018-08-26",
-      "team1": "Frosinone",
+      "time": "20:30",
+      "team1": "Frosinone Calcio",
       "team2": "Bologna FC",
       "score": {
         "ft": [
@@ -206,11 +270,67 @@
       }
     },
     {
-      "round": "2^ Giornata",
+      "round": "Matchday 2",
+      "date": "2018-08-26",
+      "time": "20:30",
+      "team1": "Genoa CFC",
+      "team2": "Empoli FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-26",
+      "time": "20:30",
+      "team1": "Inter",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-26",
+      "time": "20:30",
+      "team1": "Udinese Calcio",
+      "team2": "Sampdoria",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2018-08-27",
+      "time": "20:30",
       "team1": "AS Roma",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           3,
           3
@@ -218,11 +338,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-08-31",
+      "time": "20:30",
       "team1": "AC Milan",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -230,11 +355,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-01",
+      "time": "18:00",
       "team1": "Bologna FC",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -242,11 +372,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-01",
-      "team1": "Parma",
+      "time": "20:30",
+      "team1": "Parma Calcio 1913",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -254,35 +389,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-02",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "Udinese Calcio",
       "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "3^ Giornata",
-      "date": "2018-09-02",
-      "team1": "AC Chievo Verona",
-      "team2": "Empoli",
-      "score": {
-        "ft": [
+        "ht": [
           0,
           0
-        ]
-      }
-    },
-    {
-      "round": "3^ Giornata",
-      "date": "2018-09-02",
-      "team1": "SS Lazio",
-      "team2": "Frosinone",
-      "score": {
+        ],
         "ft": [
           1,
           0
@@ -290,11 +406,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-02",
-      "team1": "Atalanta Bergamo",
+      "time": "20:30",
+      "team1": "Atalanta",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -302,11 +423,29 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-02",
-      "team1": "Torino FC",
-      "team2": "SPAL Ferrara",
+      "time": "20:30",
+      "team1": "Chievo Verona",
+      "team2": "Empoli FC",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-09-02",
+      "time": "20:30",
+      "team1": "Lazio Roma",
+      "team2": "Frosinone Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -314,11 +453,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-02",
-      "team1": "UC Sampdoria",
+      "time": "20:30",
+      "team1": "Sampdoria",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -326,11 +470,16 @@
       }
     },
     {
-      "round": "3^ Giornata",
+      "round": "Matchday 3",
       "date": "2018-09-02",
-      "team1": "US Sassuolo Calcio",
+      "time": "20:30",
+      "team1": "Sassuolo Calcio",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          4,
+          1
+        ],
         "ft": [
           5,
           3
@@ -338,23 +487,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
-      "date": "2018-09-15",
-      "team1": "FC Internazionale Milano",
-      "team2": "Parma",
+      "round": "Matchday 3",
+      "date": "2018-09-02",
+      "time": "20:30",
+      "team1": "Torino FC",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "4^ Giornata",
-      "date": "2018-09-15",
-      "team1": "SSC Napoli",
-      "team2": "ACF Fiorentina",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           0
@@ -362,11 +504,50 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2018-09-15",
-      "team1": "Frosinone",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Inter",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-15",
+      "time": "18:00",
+      "team1": "SSC Napoli",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-15",
+      "time": "20:30",
+      "team1": "Frosinone Calcio",
+      "team2": "Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           5
@@ -374,11 +555,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2018-09-16",
+      "time": "12:30",
       "team1": "AS Roma",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -386,23 +572,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2018-09-16",
-      "team1": "Udinese Calcio",
-      "team2": "Torino FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "4^ Giornata",
-      "date": "2018-09-16",
+      "time": "15:00",
       "team1": "Genoa CFC",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -410,11 +589,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2018-09-16",
+      "time": "15:00",
       "team1": "Juventus",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -422,23 +606,16 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
       "date": "2018-09-16",
-      "team1": "Empoli",
-      "team2": "SS Lazio",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "Torino FC",
       "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "4^ Giornata",
-      "date": "2018-09-16",
-      "team1": "Cagliari Calcio",
-      "team2": "AC Milan",
-      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -446,11 +623,50 @@
       }
     },
     {
-      "round": "4^ Giornata",
+      "round": "Matchday 4",
+      "date": "2018-09-16",
+      "time": "18:00",
+      "team1": "Empoli FC",
+      "team2": "Lazio Roma",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-16",
+      "time": "20:30",
+      "team1": "Cagliari Calcio",
+      "team2": "AC Milan",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
       "date": "2018-09-17",
-      "team1": "SPAL Ferrara",
-      "team2": "Atalanta Bergamo",
+      "time": "20:30",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -458,23 +674,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
-      "date": "2018-09-19",
-      "team1": "UC Sampdoria",
-      "team2": "ACF Fiorentina",
+      "round": "Matchday 5",
+      "date": "2018-09-21",
+      "time": "20:30",
+      "team1": "Sassuolo Calcio",
+      "team2": "Empoli FC",
       "score": {
-        "ft": [
+        "ht": [
           1,
           1
-        ]
-      }
-    },
-    {
-      "round": "5^ Giornata",
-      "date": "2018-09-21",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Empoli",
-      "score": {
+        ],
         "ft": [
           3,
           1
@@ -482,11 +691,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2018-09-22",
-      "team1": "Parma",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -494,11 +708,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2018-09-22",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -506,11 +725,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2018-09-22",
-      "team1": "UC Sampdoria",
-      "team2": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Sampdoria",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -518,11 +742,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2018-09-23",
+      "time": "12:30",
       "team1": "Torino FC",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -530,35 +759,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2018-09-23",
-      "team1": "AC Chievo Verona",
-      "team2": "Udinese Calcio",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "5^ Giornata",
-      "date": "2018-09-23",
-      "team1": "SS Lazio",
-      "team2": "Genoa CFC",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "5^ Giornata",
-      "date": "2018-09-23",
+      "time": "15:00",
       "team1": "Bologna FC",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -566,23 +776,16 @@
       }
     },
     {
-      "round": "5^ Giornata",
+      "round": "Matchday 5",
       "date": "2018-09-23",
-      "team1": "AC Milan",
-      "team2": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Chievo Verona",
+      "team2": "Udinese Calcio",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "5^ Giornata",
-      "date": "2018-09-23",
-      "team1": "Frosinone",
-      "team2": "Juventus",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -590,11 +793,67 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 5",
+      "date": "2018-09-23",
+      "time": "15:00",
+      "team1": "Lazio Roma",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-23",
+      "time": "18:00",
+      "team1": "AC Milan",
+      "team2": "Atalanta",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-23",
+      "time": "20:30",
+      "team1": "Frosinone Calcio",
+      "team2": "Juventus",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2018-09-25",
-      "team1": "FC Internazionale Milano",
+      "time": "21:00",
+      "team1": "Inter",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -602,11 +861,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2018-09-26",
+      "time": "19:00",
       "team1": "Udinese Calcio",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -614,21 +878,10 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2018-09-26",
-      "team1": "Juventus",
-      "team2": "Bologna FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "6^ Giornata",
-      "date": "2018-09-26",
-      "team1": "Atalanta Bergamo",
+      "time": "21:00",
+      "team1": "Atalanta",
       "team2": "Torino FC",
       "score": {
         "ft": [
@@ -638,11 +891,63 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2018-09-26",
-      "team1": "SSC Napoli",
-      "team2": "Parma",
+      "time": "21:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Sampdoria",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-26",
+      "time": "21:00",
+      "team1": "Genoa CFC",
+      "team2": "Chievo Verona",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-26",
+      "time": "21:00",
+      "team1": "Juventus",
+      "team2": "Bologna FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-26",
+      "time": "21:00",
+      "team1": "SSC Napoli",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -650,11 +955,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2018-09-26",
+      "time": "21:00",
       "team1": "AS Roma",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -662,35 +972,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
-      "date": "2018-09-26",
-      "team1": "Genoa CFC",
-      "team2": "AC Chievo Verona",
+      "round": "Matchday 6",
+      "date": "2018-09-27",
+      "time": "19:00",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Sassuolo Calcio",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "6^ Giornata",
-      "date": "2018-09-26",
-      "team1": "Cagliari Calcio",
-      "team2": "UC Sampdoria",
-      "score": {
-        "ft": [
+        "ht": [
           0,
           0
-        ]
-      }
-    },
-    {
-      "round": "6^ Giornata",
-      "date": "2018-09-27",
-      "team1": "SPAL Ferrara",
-      "team2": "US Sassuolo Calcio",
-      "score": {
+        ],
         "ft": [
           0,
           2
@@ -698,11 +989,16 @@
       }
     },
     {
-      "round": "6^ Giornata",
+      "round": "Matchday 6",
       "date": "2018-09-27",
-      "team1": "Empoli",
+      "time": "21:00",
+      "team1": "Empoli FC",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -710,11 +1006,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-29",
+      "time": "15:00",
       "team1": "AS Roma",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -722,11 +1023,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-29",
+      "time": "18:00",
       "team1": "Juventus",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -734,11 +1040,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-29",
-      "team1": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Inter",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -746,11 +1057,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-30",
+      "time": "12:30",
       "team1": "Bologna FC",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -758,35 +1074,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-30",
-      "team1": "ACF Fiorentina",
-      "team2": "Atalanta Bergamo",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "7^ Giornata",
-      "date": "2018-09-30",
-      "team1": "Frosinone",
-      "team2": "Genoa CFC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "7^ Giornata",
-      "date": "2018-09-30",
-      "team1": "AC Chievo Verona",
+      "time": "15:00",
+      "team1": "Chievo Verona",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -794,11 +1091,50 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-30",
-      "team1": "Parma",
-      "team2": "Empoli",
+      "time": "15:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-30",
+      "time": "15:00",
+      "team1": "Frosinone Calcio",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-30",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Empoli FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -806,11 +1142,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-09-30",
-      "team1": "US Sassuolo Calcio",
+      "time": "20:30",
+      "team1": "Sassuolo Calcio",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           4
@@ -818,11 +1159,16 @@
       }
     },
     {
-      "round": "7^ Giornata",
+      "round": "Matchday 7",
       "date": "2018-10-01",
-      "team1": "UC Sampdoria",
-      "team2": "SPAL Ferrara",
+      "time": "20:30",
+      "team1": "Sampdoria",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -830,11 +1176,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-05",
+      "time": "20:30",
       "team1": "Torino FC",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -842,11 +1193,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-06",
+      "time": "15:00",
       "team1": "Cagliari Calcio",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -854,11 +1210,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-06",
+      "time": "18:00",
       "team1": "Udinese Calcio",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -866,11 +1227,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-06",
-      "team1": "Empoli",
+      "time": "20:30",
+      "team1": "Empoli FC",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -878,11 +1244,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-07",
+      "time": "12:30",
       "team1": "Genoa CFC",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           3
@@ -890,11 +1261,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-07",
-      "team1": "Atalanta Bergamo",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Atalanta",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -902,23 +1278,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-07",
-      "team1": "AC Milan",
-      "team2": "AC Chievo Verona",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "8^ Giornata",
-      "date": "2018-10-07",
-      "team1": "SS Lazio",
+      "time": "15:00",
+      "team1": "Lazio Roma",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -926,11 +1295,33 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-07",
-      "team1": "SSC Napoli",
-      "team2": "US Sassuolo Calcio",
+      "time": "15:00",
+      "team1": "AC Milan",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-10-07",
+      "time": "18:00",
+      "team1": "SSC Napoli",
+      "team2": "Sassuolo Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -938,11 +1329,16 @@
       }
     },
     {
-      "round": "8^ Giornata",
+      "round": "Matchday 8",
       "date": "2018-10-07",
-      "team1": "SPAL Ferrara",
-      "team2": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -950,11 +1346,16 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-20",
+      "time": "15:00",
       "team1": "AS Roma",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -962,11 +1363,16 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-20",
+      "time": "18:00",
       "team1": "Juventus",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -974,11 +1380,16 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-20",
+      "time": "20:30",
       "team1": "Udinese Calcio",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -986,11 +1397,16 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-21",
-      "team1": "Frosinone",
-      "team2": "Empoli",
+      "time": "12:30",
+      "team1": "Frosinone Calcio",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -998,23 +1414,33 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-21",
-      "team1": "Parma",
-      "team2": "SS Lazio",
+      "time": "15:00",
+      "team1": "Bologna FC",
+      "team2": "Torino FC",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          1
+        ],
+        "ft": [
+          2,
           2
         ]
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-21",
-      "team1": "AC Chievo Verona",
-      "team2": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Chievo Verona",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           5
@@ -1022,23 +1448,33 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-21",
-      "team1": "Bologna FC",
-      "team2": "Torino FC",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          2,
+          0,
           2
         ]
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-21",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1046,11 +1482,16 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-21",
-      "team1": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Inter",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1058,10 +1499,11 @@
       }
     },
     {
-      "round": "9^ Giornata",
+      "round": "Matchday 9",
       "date": "2018-10-22",
-      "team1": "UC Sampdoria",
-      "team2": "US Sassuolo Calcio",
+      "time": "20:30",
+      "team1": "Sampdoria",
+      "team2": "Sassuolo Calcio",
       "score": {
         "ft": [
           0,
@@ -1070,11 +1512,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-27",
-      "team1": "Atalanta Bergamo",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Atalanta",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1082,11 +1529,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-27",
-      "team1": "Empoli",
+      "time": "18:00",
+      "team1": "Empoli FC",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1094,11 +1546,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-27",
+      "time": "20:30",
       "team1": "Torino FC",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1106,11 +1563,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-28",
-      "team1": "US Sassuolo Calcio",
+      "time": "12:30",
+      "team1": "Sassuolo Calcio",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1118,11 +1580,50 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-28",
-      "team1": "SPAL Ferrara",
-      "team2": "Frosinone",
+      "time": "15:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-10-28",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Udinese Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-10-28",
+      "time": "15:00",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Frosinone Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1130,35 +1631,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-28",
-      "team1": "Genoa CFC",
-      "team2": "Udinese Calcio",
+      "time": "18:00",
+      "team1": "AC Milan",
+      "team2": "Sampdoria",
       "score": {
-        "ft": [
+        "ht": [
           2,
           2
-        ]
-      }
-    },
-    {
-      "round": "10^ Giornata",
-      "date": "2018-10-28",
-      "team1": "Cagliari Calcio",
-      "team2": "AC Chievo Verona",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "10^ Giornata",
-      "date": "2018-10-28",
-      "team1": "AC Milan",
-      "team2": "UC Sampdoria",
-      "score": {
+        ],
         "ft": [
           3,
           2
@@ -1166,11 +1648,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-28",
+      "time": "20:30",
       "team1": "SSC Napoli",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1178,11 +1665,16 @@
       }
     },
     {
-      "round": "10^ Giornata",
+      "round": "Matchday 10",
       "date": "2018-10-29",
-      "team1": "SS Lazio",
-      "team2": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Lazio Roma",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -1190,23 +1682,16 @@
       }
     },
     {
-      "round": "1^ Giornata",
-      "date": "2018-10-31",
-      "team1": "AC Milan",
-      "team2": "Genoa CFC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-02",
+      "time": "20:30",
       "team1": "SSC Napoli",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           1
@@ -1214,11 +1699,16 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-03",
-      "team1": "FC Internazionale Milano",
+      "time": "15:00",
+      "team1": "Inter",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -1226,11 +1716,16 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-03",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1238,11 +1733,16 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-03",
+      "time": "20:30",
       "team1": "Juventus",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1250,11 +1750,16 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-04",
-      "team1": "SS Lazio",
-      "team2": "SPAL Ferrara",
+      "time": "12:30",
+      "team1": "Lazio Roma",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           1
@@ -1262,23 +1767,16 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-04",
-      "team1": "UC Sampdoria",
-      "team2": "Torino FC",
+      "time": "15:00",
+      "team1": "Chievo Verona",
+      "team2": "Sassuolo Calcio",
       "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "11^ Giornata",
-      "date": "2018-11-04",
-      "team1": "AC Chievo Verona",
-      "team2": "US Sassuolo Calcio",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1286,10 +1784,11 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-04",
-      "team1": "Parma",
-      "team2": "Frosinone",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Frosinone Calcio",
       "score": {
         "ft": [
           0,
@@ -1298,11 +1797,33 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-04",
-      "team1": "Bologna FC",
-      "team2": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Torino FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-11-04",
+      "time": "18:00",
+      "team1": "Bologna FC",
+      "team2": "Atalanta",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1310,11 +1831,16 @@
       }
     },
     {
-      "round": "11^ Giornata",
+      "round": "Matchday 11",
       "date": "2018-11-04",
+      "time": "20:30",
       "team1": "Udinese Calcio",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1322,11 +1848,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-09",
-      "team1": "Frosinone",
+      "time": "20:30",
+      "team1": "Frosinone Calcio",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1334,11 +1865,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-10",
+      "time": "15:00",
       "team1": "Torino FC",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1346,11 +1882,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-10",
-      "team1": "SPAL Ferrara",
+      "time": "18:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1358,11 +1899,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-10",
+      "time": "20:30",
       "team1": "Genoa CFC",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1370,11 +1916,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-11",
-      "team1": "Atalanta Bergamo",
-      "team2": "FC Internazionale Milano",
+      "time": "12:30",
+      "team1": "Atalanta",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1382,11 +1933,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-11",
-      "team1": "AC Chievo Verona",
+      "time": "15:00",
+      "team1": "Chievo Verona",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1394,23 +1950,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-11",
-      "team1": "AS Roma",
-      "team2": "UC Sampdoria",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "12^ Giornata",
-      "date": "2018-11-11",
-      "team1": "Empoli",
+      "time": "15:00",
+      "team1": "Empoli FC",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1418,11 +1967,33 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-11",
-      "team1": "US Sassuolo Calcio",
-      "team2": "SS Lazio",
+      "time": "15:00",
+      "team1": "AS Roma",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-11-11",
+      "time": "18:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Lazio Roma",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1430,11 +2001,16 @@
       }
     },
     {
-      "round": "12^ Giornata",
+      "round": "Matchday 12",
       "date": "2018-11-11",
+      "time": "20:30",
       "team1": "AC Milan",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1442,11 +2018,16 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-24",
+      "time": "15:00",
       "team1": "Udinese Calcio",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1454,11 +2035,16 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-24",
+      "time": "18:00",
       "team1": "Juventus",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1466,11 +2052,16 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-24",
-      "team1": "FC Internazionale Milano",
-      "team2": "Frosinone",
+      "time": "20:30",
+      "team1": "Inter",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1478,11 +2069,16 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-25",
-      "team1": "Parma",
-      "team2": "US Sassuolo Calcio",
+      "time": "12:30",
+      "team1": "Parma Calcio 1913",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1490,8 +2086,9 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-25",
+      "time": "15:00",
       "team1": "Bologna FC",
       "team2": "ACF Fiorentina",
       "score": {
@@ -1502,10 +2099,28 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-25",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Atalanta",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-11-25",
+      "time": "15:00",
       "team1": "SSC Napoli",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
         "ft": [
           0,
@@ -1514,23 +2129,16 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-25",
-      "team1": "Empoli",
-      "team2": "Atalanta Bergamo",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "13^ Giornata",
-      "date": "2018-11-25",
-      "team1": "SS Lazio",
+      "time": "18:00",
+      "team1": "Lazio Roma",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1538,11 +2146,16 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-25",
+      "time": "20:30",
       "team1": "Genoa CFC",
-      "team2": "UC Sampdoria",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1550,8 +2163,9 @@
       }
     },
     {
-      "round": "13^ Giornata",
+      "round": "Matchday 13",
       "date": "2018-11-26",
+      "time": "20:30",
       "team1": "Cagliari Calcio",
       "team2": "Torino FC",
       "score": {
@@ -1562,11 +2176,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-01",
-      "team1": "SPAL Ferrara",
-      "team2": "Empoli",
+      "time": "15:00",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1574,11 +2193,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-01",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1586,11 +2210,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-01",
-      "team1": "UC Sampdoria",
+      "time": "20:30",
+      "team1": "Sampdoria",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           1
@@ -1598,11 +2227,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-02",
+      "time": "12:30",
       "team1": "AC Milan",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1610,9 +2244,27 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-02",
-      "team1": "US Sassuolo Calcio",
+      "time": "15:00",
+      "team1": "Frosinone Calcio",
+      "team2": "Cagliari Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-12-02",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
       "team2": "Udinese Calcio",
       "score": {
         "ft": [
@@ -1622,23 +2274,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-02",
-      "team1": "Frosinone",
-      "team2": "Cagliari Calcio",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "14^ Giornata",
-      "date": "2018-12-02",
+      "time": "15:00",
       "team1": "Torino FC",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1646,11 +2291,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-02",
-      "team1": "AC Chievo Verona",
-      "team2": "SS Lazio",
+      "time": "18:00",
+      "team1": "Chievo Verona",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1658,11 +2308,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-02",
+      "time": "20:30",
       "team1": "AS Roma",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1670,11 +2325,16 @@
       }
     },
     {
-      "round": "14^ Giornata",
+      "round": "Matchday 14",
       "date": "2018-12-03",
-      "team1": "Atalanta Bergamo",
+      "time": "20:30",
+      "team1": "Atalanta",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1682,11 +2342,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-07",
+      "time": "20:30",
       "team1": "Juventus",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1694,11 +2359,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-08",
+      "time": "15:00",
       "team1": "SSC Napoli",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1706,11 +2376,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-08",
+      "time": "18:00",
       "team1": "Cagliari Calcio",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1718,11 +2393,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-08",
-      "team1": "SS Lazio",
-      "team2": "UC Sampdoria",
+      "time": "20:30",
+      "team1": "Lazio Roma",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1730,11 +2410,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-09",
-      "team1": "US Sassuolo Calcio",
+      "time": "12:30",
+      "team1": "Sassuolo Calcio",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           3
@@ -1742,23 +2427,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-09",
-      "team1": "Udinese Calcio",
-      "team2": "Atalanta Bergamo",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "15^ Giornata",
-      "date": "2018-12-09",
-      "team1": "Empoli",
+      "time": "15:00",
+      "team1": "Empoli FC",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1766,11 +2444,16 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-09",
-      "team1": "Parma",
-      "team2": "AC Chievo Verona",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1778,11 +2461,33 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-09",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "Atalanta",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-09",
+      "time": "18:00",
       "team1": "Genoa CFC",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1790,8 +2495,9 @@
       }
     },
     {
-      "round": "15^ Giornata",
+      "round": "Matchday 15",
       "date": "2018-12-09",
+      "time": "20:30",
       "team1": "AC Milan",
       "team2": "Torino FC",
       "score": {
@@ -1802,11 +2508,16 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-15",
-      "team1": "FC Internazionale Milano",
+      "time": "18:00",
+      "team1": "Inter",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1814,11 +2525,16 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-15",
+      "time": "20:30",
       "team1": "Torino FC",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1826,10 +2542,11 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-16",
-      "team1": "SPAL Ferrara",
-      "team2": "AC Chievo Verona",
+      "time": "12:30",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Chievo Verona",
       "score": {
         "ft": [
           0,
@@ -1838,11 +2555,16 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-16",
+      "time": "15:00",
       "team1": "ACF Fiorentina",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1850,11 +2572,33 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-16",
-      "team1": "UC Sampdoria",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Frosinone Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-12-16",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1862,23 +2606,16 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-16",
-      "team1": "Frosinone",
-      "team2": "US Sassuolo Calcio",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "16^ Giornata",
-      "date": "2018-12-16",
+      "time": "18:00",
       "team1": "Cagliari Calcio",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1886,11 +2623,16 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-16",
+      "time": "20:30",
       "team1": "AS Roma",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -1898,11 +2640,16 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-17",
-      "team1": "Atalanta Bergamo",
-      "team2": "SS Lazio",
+      "time": "20:30",
+      "team1": "Atalanta",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1910,8 +2657,9 @@
       }
     },
     {
-      "round": "16^ Giornata",
+      "round": "Matchday 16",
       "date": "2018-12-18",
+      "time": "20:30",
       "team1": "Bologna FC",
       "team2": "AC Milan",
       "score": {
@@ -1922,71 +2670,33 @@
       }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2018-12-22",
-      "team1": "SS Lazio",
+      "time": "12:30",
+      "team1": "Lazio Roma",
       "team2": "Cagliari Calcio",
       "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "17^ Giornata",
-      "date": "2018-12-22",
-      "team1": "Genoa CFC",
-      "team2": "Atalanta Bergamo",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "17^ Giornata",
-      "date": "2018-12-22",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Torino FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "17^ Giornata",
-      "date": "2018-12-22",
-      "team1": "AC Milan",
-      "team2": "ACF Fiorentina",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "17^ Giornata",
-      "date": "2018-12-22",
-      "team1": "SSC Napoli",
-      "team2": "SPAL Ferrara",
-      "score": {
-        "ft": [
-          1,
+        "ht": [
+          2,
           0
+        ],
+        "ft": [
+          3,
+          1
         ]
       }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2018-12-22",
-      "team1": "Empoli",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           4
@@ -1994,11 +2704,67 @@
       }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2018-12-22",
-      "team1": "Udinese Calcio",
-      "team2": "Frosinone",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-22",
+      "time": "15:00",
+      "team1": "AC Milan",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-22",
+      "time": "15:00",
+      "team1": "SSC Napoli",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-22",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2006,9 +2772,44 @@
       }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2018-12-22",
-      "team1": "Parma",
+      "time": "15:00",
+      "team1": "Udinese Calcio",
+      "team2": "Frosinone Calcio",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-22",
+      "time": "18:00",
+      "team1": "Chievo Verona",
+      "team2": "Inter",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-22",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
       "team2": "Bologna FC",
       "score": {
         "ft": [
@@ -2018,23 +2819,16 @@
       }
     },
     {
-      "round": "17^ Giornata",
+      "round": "Matchday 17",
       "date": "2018-12-22",
-      "team1": "AC Chievo Verona",
-      "team2": "FC Internazionale Milano",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "17^ Giornata",
-      "date": "2018-12-22",
+      "time": "20:30",
       "team1": "Juventus",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2042,9 +2836,10 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
-      "team1": "Frosinone",
+      "time": "12:30",
+      "team1": "Frosinone Calcio",
       "team2": "AC Milan",
       "score": {
         "ft": [
@@ -2054,11 +2849,16 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
-      "team1": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Atalanta",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2066,11 +2866,16 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
+      "time": "15:00",
       "team1": "Bologna FC",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2078,23 +2883,16 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
-      "team1": "UC Sampdoria",
-      "team2": "AC Chievo Verona",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "18^ Giornata",
-      "date": "2018-12-26",
+      "time": "15:00",
       "team1": "Cagliari Calcio",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2102,11 +2900,16 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
+      "time": "15:00",
       "team1": "ACF Fiorentina",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2114,23 +2917,33 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
-      "team1": "Torino FC",
-      "team2": "Empoli",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          3,
+          2,
           0
         ]
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
+      "time": "18:00",
       "team1": "AS Roma",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2138,9 +2951,10 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
-      "team1": "SPAL Ferrara",
+      "time": "18:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "Udinese Calcio",
       "score": {
         "ft": [
@@ -2150,11 +2964,33 @@
       }
     },
     {
-      "round": "18^ Giornata",
+      "round": "Matchday 18",
       "date": "2018-12-26",
-      "team1": "FC Internazionale Milano",
+      "time": "18:00",
+      "team1": "Torino FC",
+      "team2": "Empoli FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-26",
+      "time": "20:30",
+      "team1": "Inter",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2162,11 +2998,16 @@
       }
     },
     {
-      "round": "19^ Giornata",
+      "round": "Matchday 19",
       "date": "2018-12-29",
+      "time": "12:30",
       "team1": "Juventus",
-      "team2": "UC Sampdoria",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2174,11 +3015,80 @@
       }
     },
     {
-      "round": "19^ Giornata",
+      "round": "Matchday 19",
       "date": "2018-12-29",
-      "team1": "Parma",
+      "time": "15:00",
+      "team1": "Chievo Verona",
+      "team2": "Frosinone Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Inter",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Lazio Roma",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -2186,11 +3096,16 @@
       }
     },
     {
-      "round": "19^ Giornata",
+      "round": "Matchday 19",
       "date": "2018-12-29",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           6
@@ -2198,59 +3113,16 @@
       }
     },
     {
-      "round": "19^ Giornata",
+      "round": "Matchday 19",
       "date": "2018-12-29",
-      "team1": "SS Lazio",
-      "team2": "Torino FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2018-12-29",
-      "team1": "Empoli",
-      "team2": "FC Internazionale Milano",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2018-12-29",
-      "team1": "Genoa CFC",
-      "team2": "ACF Fiorentina",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2018-12-29",
-      "team1": "AC Chievo Verona",
-      "team2": "Frosinone",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "19^ Giornata",
-      "date": "2018-12-29",
+      "time": "15:00",
       "team1": "Udinese Calcio",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2258,11 +3130,16 @@
       }
     },
     {
-      "round": "19^ Giornata",
+      "round": "Matchday 19",
       "date": "2018-12-29",
+      "time": "18:00",
       "team1": "SSC Napoli",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -2270,11 +3147,16 @@
       }
     },
     {
-      "round": "19^ Giornata",
+      "round": "Matchday 19",
       "date": "2018-12-29",
+      "time": "20:30",
       "team1": "AC Milan",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2282,11 +3164,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-19",
+      "time": "15:00",
       "team1": "AS Roma",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -2294,11 +3181,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-19",
+      "time": "18:00",
       "team1": "Udinese Calcio",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2306,10 +3198,11 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-19",
-      "team1": "FC Internazionale Milano",
-      "team2": "US Sassuolo Calcio",
+      "time": "20:30",
+      "team1": "Inter",
+      "team2": "Sassuolo Calcio",
       "score": {
         "ft": [
           0,
@@ -2318,11 +3211,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-20",
-      "team1": "Frosinone",
-      "team2": "Atalanta Bergamo",
+      "time": "12:30",
+      "team1": "Frosinone Calcio",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           5
@@ -2330,23 +3228,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-20",
-      "team1": "ACF Fiorentina",
-      "team2": "UC Sampdoria",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "20^ Giornata",
-      "date": "2019-01-20",
-      "team1": "SPAL Ferrara",
+      "time": "15:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2354,11 +3245,33 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-20",
-      "team1": "Cagliari Calcio",
-      "team2": "Empoli",
+      "time": "15:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-01-20",
+      "time": "18:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Empoli FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2366,11 +3279,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-20",
+      "time": "20:30",
       "team1": "SSC Napoli",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2378,11 +3296,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-21",
+      "time": "15:00",
       "team1": "Genoa CFC",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -2390,11 +3313,16 @@
       }
     },
     {
-      "round": "20^ Giornata",
+      "round": "Matchday 20",
       "date": "2019-01-21",
+      "time": "20:30",
       "team1": "Juventus",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2402,11 +3330,16 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-26",
-      "team1": "US Sassuolo Calcio",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2414,11 +3347,16 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-26",
-      "team1": "UC Sampdoria",
+      "time": "18:00",
+      "team1": "Sampdoria",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2426,8 +3364,9 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-26",
+      "time": "20:30",
       "team1": "AC Milan",
       "team2": "SSC Napoli",
       "score": {
@@ -2438,11 +3377,16 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-27",
-      "team1": "AC Chievo Verona",
+      "time": "12:30",
+      "team1": "Chievo Verona",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           4
@@ -2450,35 +3394,16 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-27",
-      "team1": "Parma",
-      "team2": "SPAL Ferrara",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2019-01-27",
-      "team1": "Atalanta Bergamo",
-      "team2": "AS Roma",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "21^ Giornata",
-      "date": "2019-01-27",
+      "time": "15:00",
       "team1": "Bologna FC",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -2486,11 +3411,50 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-27",
-      "team1": "Torino FC",
-      "team2": "FC Internazionale Milano",
+      "time": "15:00",
+      "team1": "Atalanta",
+      "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-01-27",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-01-27",
+      "time": "18:00",
+      "team1": "Torino FC",
+      "team2": "Inter",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2498,11 +3462,16 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-27",
-      "team1": "SS Lazio",
+      "time": "20:30",
+      "team1": "Lazio Roma",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2510,11 +3479,16 @@
       }
     },
     {
-      "round": "21^ Giornata",
+      "round": "Matchday 21",
       "date": "2019-01-28",
-      "team1": "Empoli",
+      "time": "20:30",
+      "team1": "Empoli FC",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -2522,11 +3496,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-02",
-      "team1": "Empoli",
-      "team2": "AC Chievo Verona",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -2534,11 +3513,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-02",
+      "time": "18:00",
       "team1": "SSC Napoli",
-      "team2": "UC Sampdoria",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2546,11 +3530,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-02",
+      "time": "20:30",
       "team1": "Juventus",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           3
@@ -2558,9 +3547,10 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-03",
-      "team1": "SPAL Ferrara",
+      "time": "12:30",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "Torino FC",
       "score": {
         "ft": [
@@ -2570,11 +3560,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-03",
+      "time": "15:00",
       "team1": "Udinese Calcio",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2582,11 +3577,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-03",
+      "time": "15:00",
       "team1": "Genoa CFC",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2594,11 +3594,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-03",
-      "team1": "FC Internazionale Milano",
+      "time": "18:00",
+      "team1": "Inter",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2606,11 +3611,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-03",
+      "time": "20:30",
       "team1": "AS Roma",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2618,11 +3628,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-04",
-      "team1": "Frosinone",
-      "team2": "SS Lazio",
+      "time": "19:00",
+      "team1": "Frosinone Calcio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2630,11 +3645,16 @@
       }
     },
     {
-      "round": "22^ Giornata",
+      "round": "Matchday 22",
       "date": "2019-02-04",
+      "time": "21:00",
       "team1": "Cagliari Calcio",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2642,11 +3662,16 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-07",
-      "team1": "SS Lazio",
-      "team2": "Empoli",
+      "time": "20:30",
+      "team1": "Lazio Roma",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2654,11 +3679,16 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-08",
-      "team1": "AC Chievo Verona",
+      "time": "20:30",
+      "team1": "Chievo Verona",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -2666,8 +3696,9 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-09",
+      "time": "18:00",
       "team1": "ACF Fiorentina",
       "team2": "SSC Napoli",
       "score": {
@@ -2678,11 +3709,16 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-09",
-      "team1": "Parma",
-      "team2": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Parma Calcio 1913",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2690,11 +3726,16 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-10",
+      "time": "12:30",
       "team1": "Bologna FC",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2702,11 +3743,50 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-10",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Frosinone Calcio",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-10",
+      "time": "15:00",
+      "team1": "Atalanta",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-10",
+      "time": "15:00",
       "team1": "Torino FC",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2714,35 +3794,16 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-10",
-      "team1": "UC Sampdoria",
-      "team2": "Frosinone",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2019-02-10",
-      "team1": "Atalanta Bergamo",
-      "team2": "SPAL Ferrara",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "23^ Giornata",
-      "date": "2019-02-10",
-      "team1": "US Sassuolo Calcio",
+      "time": "18:00",
+      "team1": "Sassuolo Calcio",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -2750,11 +3811,16 @@
       }
     },
     {
-      "round": "23^ Giornata",
+      "round": "Matchday 23",
       "date": "2019-02-10",
+      "time": "20:30",
       "team1": "AC Milan",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2762,11 +3828,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-15",
+      "time": "20:30",
       "team1": "Juventus",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2774,11 +3845,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-16",
+      "time": "18:00",
       "team1": "Cagliari Calcio",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2786,11 +3862,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-16",
-      "team1": "Atalanta Bergamo",
+      "time": "20:30",
+      "team1": "Atalanta",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -2798,11 +3879,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-17",
-      "team1": "SPAL Ferrara",
+      "time": "12:30",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           4
@@ -2810,35 +3896,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-17",
-      "team1": "Genoa CFC",
-      "team2": "SS Lazio",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "24^ Giornata",
-      "date": "2019-02-17",
-      "team1": "Empoli",
-      "team2": "US Sassuolo Calcio",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "24^ Giornata",
-      "date": "2019-02-17",
+      "time": "15:00",
       "team1": "Udinese Calcio",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2846,11 +3913,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-17",
-      "team1": "FC Internazionale Milano",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2858,8 +3930,43 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-17",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Sassuolo Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-17",
+      "time": "18:00",
+      "team1": "Inter",
+      "team2": "Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-02-17",
+      "time": "20:30",
       "team1": "SSC Napoli",
       "team2": "Torino FC",
       "score": {
@@ -2870,11 +3977,16 @@
       }
     },
     {
-      "round": "24^ Giornata",
+      "round": "Matchday 24",
       "date": "2019-02-18",
+      "time": "20:30",
       "team1": "AS Roma",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2882,11 +3994,16 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-22",
+      "time": "20:30",
       "team1": "AC Milan",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2894,11 +4011,16 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-23",
+      "time": "15:00",
       "team1": "Torino FC",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2906,11 +4028,16 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-23",
-      "team1": "Frosinone",
+      "time": "20:30",
+      "team1": "Frosinone Calcio",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -2918,11 +4045,16 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-24",
-      "team1": "UC Sampdoria",
+      "time": "12:30",
+      "team1": "Sampdoria",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2930,21 +4062,10 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-24",
-      "team1": "US Sassuolo Calcio",
-      "team2": "SPAL Ferrara",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "25^ Giornata",
-      "date": "2019-02-24",
-      "team1": "AC Chievo Verona",
+      "time": "15:00",
+      "team1": "Chievo Verona",
       "team2": "Genoa CFC",
       "score": {
         "ft": [
@@ -2954,11 +4075,16 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-24",
+      "time": "15:00",
       "team1": "Bologna FC",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2966,11 +4092,33 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-24",
-      "team1": "Parma",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-24",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -2978,11 +4126,16 @@
       }
     },
     {
-      "round": "25^ Giornata",
+      "round": "Matchday 25",
       "date": "2019-02-24",
+      "time": "20:30",
       "team1": "ACF Fiorentina",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           3
@@ -2990,11 +4143,33 @@
       }
     },
     {
-      "round": "26^ Giornata",
-      "date": "2019-03-01",
-      "team1": "Cagliari Calcio",
-      "team2": "FC Internazionale Milano",
+      "round": "Matchday 25",
+      "date": "2019-04-17",
+      "time": "19:00",
+      "team1": "Lazio Roma",
+      "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-01",
+      "time": "20:30",
+      "team1": "Cagliari Calcio",
+      "team2": "Inter",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3002,11 +4177,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-02",
-      "team1": "Empoli",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           3
@@ -3014,11 +4194,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-02",
+      "time": "18:00",
       "team1": "AC Milan",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3026,11 +4211,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-02",
-      "team1": "SS Lazio",
+      "time": "20:30",
+      "team1": "Lazio Roma",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3038,11 +4228,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-03",
+      "time": "12:30",
       "team1": "Torino FC",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3050,11 +4245,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-03",
+      "time": "15:00",
       "team1": "Udinese Calcio",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3062,10 +4262,11 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-03",
+      "time": "15:00",
       "team1": "Genoa CFC",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
         "ft": [
           0,
@@ -3074,11 +4275,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-03",
-      "team1": "SPAL Ferrara",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -3086,11 +4292,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-03",
-      "team1": "Atalanta Bergamo",
+      "time": "18:00",
+      "team1": "Atalanta",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3098,11 +4309,16 @@
       }
     },
     {
-      "round": "26^ Giornata",
+      "round": "Matchday 26",
       "date": "2019-03-03",
+      "time": "20:30",
       "team1": "SSC Napoli",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -3110,11 +4326,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-08",
+      "time": "20:30",
       "team1": "Juventus",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -3122,11 +4343,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-09",
-      "team1": "Parma",
+      "time": "18:00",
+      "team1": "Parma Calcio 1913",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3134,11 +4360,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-09",
-      "team1": "AC Chievo Verona",
+      "time": "20:30",
+      "team1": "Chievo Verona",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3146,11 +4377,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-10",
+      "time": "12:30",
       "team1": "Bologna FC",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3158,11 +4394,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-10",
-      "team1": "UC Sampdoria",
-      "team2": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3170,11 +4411,33 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-10",
-      "team1": "Frosinone",
+      "time": "15:00",
+      "team1": "Inter",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-10",
+      "time": "15:00",
+      "team1": "Frosinone Calcio",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3182,23 +4445,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-10",
-      "team1": "FC Internazionale Milano",
-      "team2": "SPAL Ferrara",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "27^ Giornata",
-      "date": "2019-03-10",
-      "team1": "US Sassuolo Calcio",
+      "time": "18:00",
+      "team1": "Sassuolo Calcio",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3206,11 +4462,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-10",
+      "time": "20:30",
       "team1": "ACF Fiorentina",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3218,11 +4479,16 @@
       }
     },
     {
-      "round": "27^ Giornata",
+      "round": "Matchday 27",
       "date": "2019-03-11",
+      "time": "20:30",
       "team1": "AS Roma",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3230,11 +4496,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-15",
+      "time": "20:30",
       "team1": "Cagliari Calcio",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3242,11 +4513,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-16",
-      "team1": "US Sassuolo Calcio",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Sampdoria",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           3,
           5
@@ -3254,11 +4530,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-16",
-      "team1": "SPAL Ferrara",
+      "time": "18:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3266,11 +4547,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-16",
+      "time": "20:30",
       "team1": "Torino FC",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -3278,11 +4564,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-17",
+      "time": "12:30",
       "team1": "Genoa CFC",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3290,35 +4581,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-17",
-      "team1": "SS Lazio",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Atalanta",
+      "team2": "Chievo Verona",
       "score": {
-        "ft": [
-          4,
+        "ht": [
+          0,
           1
-        ]
-      }
-    },
-    {
-      "round": "28^ Giornata",
-      "date": "2019-03-17",
-      "team1": "Empoli",
-      "team2": "Frosinone",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "28^ Giornata",
-      "date": "2019-03-17",
-      "team1": "Atalanta Bergamo",
-      "team2": "AC Chievo Verona",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -3326,11 +4598,50 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-17",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "Frosinone Calcio",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-17",
+      "time": "15:00",
+      "team1": "Lazio Roma",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-03-17",
+      "time": "18:00",
       "team1": "SSC Napoli",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           4,
           2
@@ -3338,11 +4649,16 @@
       }
     },
     {
-      "round": "28^ Giornata",
+      "round": "Matchday 28",
       "date": "2019-03-17",
+      "time": "20:30",
       "team1": "AC Milan",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           3
@@ -3350,11 +4666,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-29",
-      "team1": "AC Chievo Verona",
+      "time": "20:30",
+      "team1": "Chievo Verona",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           3
@@ -3362,11 +4683,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-30",
+      "time": "15:00",
       "team1": "Udinese Calcio",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3374,11 +4700,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-30",
+      "time": "18:00",
       "team1": "Juventus",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3386,11 +4717,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-30",
-      "team1": "UC Sampdoria",
+      "time": "20:30",
+      "team1": "Sampdoria",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3398,11 +4734,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-31",
-      "team1": "Parma",
-      "team2": "Atalanta Bergamo",
+      "time": "12:30",
+      "team1": "Parma Calcio 1913",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3410,23 +4751,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-31",
-      "team1": "ACF Fiorentina",
-      "team2": "Torino FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "29^ Giornata",
-      "date": "2019-03-31",
+      "time": "15:00",
       "team1": "AS Roma",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           4
@@ -3434,11 +4768,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-31",
-      "team1": "Frosinone",
-      "team2": "SPAL Ferrara",
+      "time": "15:00",
+      "team1": "Frosinone Calcio",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3446,11 +4785,33 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-31",
-      "team1": "Bologna FC",
-      "team2": "US Sassuolo Calcio",
+      "time": "15:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Torino FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-31",
+      "time": "18:00",
+      "team1": "Bologna FC",
+      "team2": "Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3458,11 +4819,16 @@
       }
     },
     {
-      "round": "29^ Giornata",
+      "round": "Matchday 29",
       "date": "2019-03-31",
-      "team1": "FC Internazionale Milano",
-      "team2": "SS Lazio",
+      "time": "20:30",
+      "team1": "Inter",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3470,11 +4836,16 @@
       }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 30",
       "date": "2019-04-02",
+      "time": "19:00",
       "team1": "AC Milan",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3482,11 +4853,16 @@
       }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 30",
       "date": "2019-04-02",
+      "time": "21:00",
       "team1": "Cagliari Calcio",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3494,11 +4870,16 @@
       }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 30",
       "date": "2019-04-03",
-      "team1": "Empoli",
+      "time": "19:00",
+      "team1": "Empoli FC",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3506,59 +4887,33 @@
       }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 30",
       "date": "2019-04-03",
+      "time": "21:00",
       "team1": "AS Roma",
       "team2": "ACF Fiorentina",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2019-04-03",
-      "team1": "Torino FC",
-      "team2": "UC Sampdoria",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2019-04-03",
-      "team1": "SPAL Ferrara",
-      "team2": "SS Lazio",
-      "score": {
-        "ft": [
+        "ht": [
           1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "30^ Giornata",
-      "date": "2019-04-03",
-      "team1": "Frosinone",
-      "team2": "Parma",
-      "score": {
+          1
+        ],
         "ft": [
-          3,
+          2,
           2
         ]
       }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 30",
       "date": "2019-04-03",
+      "time": "21:00",
       "team1": "Genoa CFC",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -3566,11 +4921,67 @@
       }
     },
     {
-      "round": "30^ Giornata",
-      "date": "2019-04-04",
-      "team1": "US Sassuolo Calcio",
-      "team2": "AC Chievo Verona",
+      "round": "Matchday 30",
+      "date": "2019-04-03",
+      "time": "21:00",
+      "team1": "SPAL 2013 Ferrara",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-03",
+      "time": "21:00",
+      "team1": "Frosinone Calcio",
+      "team2": "Parma Calcio 1913",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-03",
+      "time": "21:00",
+      "team1": "Torino FC",
+      "team2": "Sampdoria",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-04",
+      "time": "19:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Chievo Verona",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3578,11 +4989,16 @@
       }
     },
     {
-      "round": "30^ Giornata",
+      "round": "Matchday 30",
       "date": "2019-04-04",
-      "team1": "Atalanta Bergamo",
+      "time": "21:00",
+      "team1": "Atalanta",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           1
@@ -3590,9 +5006,10 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-06",
-      "team1": "Parma",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
       "team2": "Torino FC",
       "score": {
         "ft": [
@@ -3602,11 +5019,16 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-06",
+      "time": "18:00",
       "team1": "Juventus",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3614,11 +5036,16 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-06",
-      "team1": "UC Sampdoria",
+      "time": "20:30",
+      "team1": "Sampdoria",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3626,11 +5053,16 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-07",
+      "time": "12:30",
       "team1": "ACF Fiorentina",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3638,11 +5070,16 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-07",
+      "time": "15:00",
       "team1": "Udinese Calcio",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           3,
           2
@@ -3650,11 +5087,16 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-07",
+      "time": "15:00",
       "team1": "Cagliari Calcio",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3662,22 +5104,11 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-07",
-      "team1": "SS Lazio",
-      "team2": "US Sassuolo Calcio",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "31^ Giornata",
-      "date": "2019-04-07",
-      "team1": "FC Internazionale Milano",
-      "team2": "Atalanta Bergamo",
+      "time": "18:00",
+      "team1": "Inter",
+      "team2": "Atalanta",
       "score": {
         "ft": [
           0,
@@ -3686,11 +5117,33 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-07",
+      "time": "18:00",
+      "team1": "Lazio Roma",
+      "team2": "Sassuolo Calcio",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-04-07",
+      "time": "20:30",
       "team1": "SSC Napoli",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3698,11 +5151,16 @@
       }
     },
     {
-      "round": "31^ Giornata",
+      "round": "Matchday 31",
       "date": "2019-04-08",
+      "time": "20:30",
       "team1": "Bologna FC",
-      "team2": "AC Chievo Verona",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3710,11 +5168,16 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-13",
-      "team1": "SPAL Ferrara",
+      "time": "15:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3722,11 +5185,16 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-13",
+      "time": "18:00",
       "team1": "AS Roma",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3734,11 +5202,16 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-13",
+      "time": "20:30",
       "team1": "AC Milan",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3746,11 +5219,16 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-14",
+      "time": "12:30",
       "team1": "Torino FC",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3758,20 +5236,9 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-14",
-      "team1": "UC Sampdoria",
-      "team2": "Genoa CFC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "32^ Giornata",
-      "date": "2019-04-14",
+      "time": "15:00",
       "team1": "ACF Fiorentina",
       "team2": "Bologna FC",
       "score": {
@@ -3782,10 +5249,28 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-14",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Genoa CFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-04-14",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Parma Calcio 1913",
       "score": {
         "ft": [
           0,
@@ -3794,11 +5279,16 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-14",
-      "team1": "AC Chievo Verona",
+      "time": "18:00",
+      "team1": "Chievo Verona",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3806,11 +5296,16 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-14",
-      "team1": "Frosinone",
-      "team2": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Frosinone Calcio",
+      "team2": "Inter",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -3818,10 +5313,11 @@
       }
     },
     {
-      "round": "32^ Giornata",
+      "round": "Matchday 32",
       "date": "2019-04-15",
-      "team1": "Atalanta Bergamo",
-      "team2": "Empoli",
+      "time": "20:30",
+      "team1": "Atalanta",
+      "team2": "Empoli FC",
       "score": {
         "ft": [
           0,
@@ -3830,71 +5326,33 @@
       }
     },
     {
-      "round": "25^ Giornata",
-      "date": "2019-04-17",
-      "team1": "SS Lazio",
-      "team2": "Udinese Calcio",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-20",
-      "team1": "Parma",
+      "time": "12:30",
+      "team1": "Parma Calcio 1913",
       "team2": "AC Milan",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "33^ Giornata",
-      "date": "2019-04-20",
-      "team1": "Cagliari Calcio",
-      "team2": "Frosinone",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "33^ Giornata",
-      "date": "2019-04-20",
-      "team1": "Genoa CFC",
-      "team2": "Torino FC",
-      "score": {
-        "ft": [
+        "ht": [
           0,
+          0
+        ],
+        "ft": [
+          1,
           1
         ]
       }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-20",
-      "team1": "Empoli",
-      "team2": "SPAL Ferrara",
+      "time": "15:00",
+      "team1": "Lazio Roma",
+      "team2": "Chievo Verona",
       "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "round": "33^ Giornata",
-      "date": "2019-04-20",
-      "team1": "SS Lazio",
-      "team2": "AC Chievo Verona",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3902,11 +5360,33 @@
       }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-20",
-      "team1": "Bologna FC",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-20",
+      "time": "15:00",
+      "team1": "Bologna FC",
+      "team2": "Sampdoria",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3914,11 +5394,16 @@
       }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-20",
+      "time": "15:00",
       "team1": "Udinese Calcio",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3926,11 +5411,50 @@
       }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-20",
+      "time": "15:00",
+      "team1": "Empoli FC",
+      "team2": "SPAL 2013 Ferrara",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-20",
+      "time": "15:00",
+      "team1": "Genoa CFC",
+      "team2": "Torino FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-20",
+      "time": "18:00",
       "team1": "Juventus",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3938,11 +5462,16 @@
       }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-20",
-      "team1": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Inter",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3950,11 +5479,16 @@
       }
     },
     {
-      "round": "33^ Giornata",
+      "round": "Matchday 33",
       "date": "2019-04-22",
+      "time": "19:00",
       "team1": "SSC Napoli",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3962,11 +5496,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-27",
+      "time": "15:00",
       "team1": "Bologna FC",
-      "team2": "Empoli",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3974,11 +5513,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-27",
+      "time": "18:00",
       "team1": "AS Roma",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3986,11 +5530,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-27",
-      "team1": "FC Internazionale Milano",
+      "time": "20:30",
+      "team1": "Inter",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3998,11 +5547,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-28",
-      "team1": "Frosinone",
+      "time": "12:30",
+      "team1": "Frosinone Calcio",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -4010,11 +5564,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-28",
-      "team1": "SPAL Ferrara",
+      "time": "15:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4022,11 +5581,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-28",
-      "team1": "AC Chievo Verona",
-      "team2": "Parma",
+      "time": "15:00",
+      "team1": "Chievo Verona",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4034,11 +5598,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-28",
-      "team1": "UC Sampdoria",
-      "team2": "SS Lazio",
+      "time": "18:00",
+      "team1": "Sampdoria",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -4046,11 +5615,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-28",
+      "time": "20:30",
       "team1": "Torino FC",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4058,11 +5632,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-29",
-      "team1": "Atalanta Bergamo",
+      "time": "19:00",
+      "team1": "Atalanta",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4070,11 +5649,16 @@
       }
     },
     {
-      "round": "34^ Giornata",
+      "round": "Matchday 34",
       "date": "2019-04-29",
+      "time": "21:00",
       "team1": "ACF Fiorentina",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -4082,11 +5666,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-03",
+      "time": "20:30",
       "team1": "Juventus",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4094,11 +5683,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-04",
-      "team1": "AC Chievo Verona",
-      "team2": "SPAL Ferrara",
+      "time": "18:00",
+      "team1": "Chievo Verona",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -4106,10 +5700,11 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-04",
+      "time": "20:30",
       "team1": "Udinese Calcio",
-      "team2": "FC Internazionale Milano",
+      "team2": "Inter",
       "score": {
         "ft": [
           0,
@@ -4118,11 +5713,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-05",
-      "team1": "Empoli",
+      "time": "12:30",
+      "team1": "Empoli FC",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4130,23 +5730,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-05",
-      "team1": "Parma",
-      "team2": "UC Sampdoria",
+      "time": "15:00",
+      "team1": "Lazio Roma",
+      "team2": "Atalanta",
       "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "35^ Giornata",
-      "date": "2019-05-05",
-      "team1": "SS Lazio",
-      "team2": "Atalanta Bergamo",
-      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -4154,11 +5747,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-05",
-      "team1": "US Sassuolo Calcio",
-      "team2": "Frosinone",
+      "time": "15:00",
+      "team1": "Sassuolo Calcio",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -4166,11 +5764,33 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-05",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Sampdoria",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-05-05",
+      "time": "18:00",
       "team1": "Genoa CFC",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4178,11 +5798,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-05",
+      "time": "20:30",
       "team1": "SSC Napoli",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4190,11 +5815,16 @@
       }
     },
     {
-      "round": "35^ Giornata",
+      "round": "Matchday 35",
       "date": "2019-05-06",
+      "time": "20:30",
       "team1": "AC Milan",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4202,11 +5832,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-11",
-      "team1": "Atalanta Bergamo",
+      "time": "15:00",
+      "team1": "Atalanta",
       "team2": "Genoa CFC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4214,11 +5849,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-11",
+      "time": "18:00",
       "team1": "Cagliari Calcio",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4226,11 +5866,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-11",
+      "time": "20:30",
       "team1": "ACF Fiorentina",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -4238,11 +5883,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-12",
+      "time": "12:30",
       "team1": "Torino FC",
-      "team2": "US Sassuolo Calcio",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -4250,11 +5900,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-12",
-      "team1": "UC Sampdoria",
-      "team2": "Empoli",
+      "time": "15:00",
+      "team1": "Sampdoria",
+      "team2": "Empoli FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -4262,11 +5917,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-12",
-      "team1": "Frosinone",
+      "time": "15:00",
+      "team1": "Frosinone Calcio",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           1,
           3
@@ -4274,11 +5934,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-12",
-      "team1": "SPAL Ferrara",
+      "time": "18:00",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -4286,11 +5951,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-12",
+      "time": "20:30",
       "team1": "AS Roma",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4298,11 +5968,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-13",
+      "time": "19:00",
       "team1": "Bologna FC",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           1
@@ -4310,11 +5985,16 @@
       }
     },
     {
-      "round": "36^ Giornata",
+      "round": "Matchday 36",
       "date": "2019-05-13",
-      "team1": "FC Internazionale Milano",
-      "team2": "AC Chievo Verona",
+      "time": "21:00",
+      "team1": "Inter",
+      "team2": "Chievo Verona",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4322,11 +6002,16 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-18",
+      "time": "15:00",
       "team1": "Udinese Calcio",
-      "team2": "SPAL Ferrara",
+      "team2": "SPAL 2013 Ferrara",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           2
@@ -4334,11 +6019,16 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-18",
+      "time": "18:00",
       "team1": "Genoa CFC",
       "team2": "Cagliari Calcio",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4346,9 +6036,10 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-18",
-      "team1": "US Sassuolo Calcio",
+      "time": "20:30",
+      "team1": "Sassuolo Calcio",
       "team2": "AS Roma",
       "score": {
         "ft": [
@@ -4358,10 +6049,11 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-19",
-      "team1": "AC Chievo Verona",
-      "team2": "UC Sampdoria",
+      "time": "12:30",
+      "team1": "Chievo Verona",
+      "team2": "Sampdoria",
       "score": {
         "ft": [
           0,
@@ -4370,11 +6062,33 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-19",
-      "team1": "Empoli",
+      "time": "15:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "ACF Fiorentina",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-05-19",
+      "time": "15:00",
+      "team1": "Empoli FC",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -4382,23 +6096,16 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-19",
-      "team1": "Parma",
-      "team2": "ACF Fiorentina",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "37^ Giornata",
-      "date": "2019-05-19",
+      "time": "18:00",
       "team1": "AC Milan",
-      "team2": "Frosinone",
+      "team2": "Frosinone Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4406,23 +6113,16 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
       "date": "2019-05-19",
-      "team1": "SSC Napoli",
-      "team2": "FC Internazionale Milano",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "37^ Giornata",
-      "date": "2019-05-19",
+      "time": "20:30",
       "team1": "Juventus",
-      "team2": "Atalanta Bergamo",
+      "team2": "Atalanta",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4430,11 +6130,33 @@
       }
     },
     {
-      "round": "37^ Giornata",
+      "round": "Matchday 37",
+      "date": "2019-05-19",
+      "time": "20:30",
+      "team1": "SSC Napoli",
+      "team2": "Inter",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
       "date": "2019-05-20",
-      "team1": "SS Lazio",
+      "time": "20:30",
+      "team1": "Lazio Roma",
       "team2": "Bologna FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           3
@@ -4442,10 +6164,11 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-25",
-      "team1": "Frosinone",
-      "team2": "AC Chievo Verona",
+      "time": "18:00",
+      "team1": "Frosinone Calcio",
+      "team2": "Chievo Verona",
       "score": {
         "ft": [
           0,
@@ -4454,11 +6177,16 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-25",
+      "time": "20:30",
       "team1": "Bologna FC",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -4466,11 +6194,16 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
+      "time": "15:00",
       "team1": "Torino FC",
-      "team2": "SS Lazio",
+      "team2": "Lazio Roma",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -4478,11 +6211,16 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
-      "team1": "UC Sampdoria",
+      "time": "18:00",
+      "team1": "Sampdoria",
       "team2": "Juventus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4490,8 +6228,26 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
+      "time": "20:30",
+      "team1": "Inter",
+      "team2": "Empoli FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-26",
+      "time": "20:30",
       "team1": "ACF Fiorentina",
       "team2": "Genoa CFC",
       "score": {
@@ -4502,23 +6258,16 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
-      "team1": "Atalanta Bergamo",
-      "team2": "US Sassuolo Calcio",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "38^ Giornata",
-      "date": "2019-05-26",
-      "team1": "SPAL Ferrara",
+      "time": "20:30",
+      "team1": "SPAL 2013 Ferrara",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -4526,11 +6275,16 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
+      "time": "20:30",
       "team1": "AS Roma",
-      "team2": "Parma",
+      "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4538,23 +6292,33 @@
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
-      "team1": "FC Internazionale Milano",
-      "team2": "Empoli",
+      "time": "20:30",
+      "team1": "Atalanta",
+      "team2": "Sassuolo Calcio",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          2,
+          3,
           1
         ]
       }
     },
     {
-      "round": "38^ Giornata",
+      "round": "Matchday 38",
       "date": "2019-05-26",
+      "time": "20:30",
       "team1": "Cagliari Calcio",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2

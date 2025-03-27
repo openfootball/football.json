@@ -1,12 +1,17 @@
 {
-  "name": "Premier League 2019/20",
+  "name": "English Premier League 2019/20",
   "matches": [
     {
       "round": "Matchday 1",
       "date": "2019-08-09",
+      "time": "20:00",
       "team1": "Liverpool FC",
-      "team2": "Norwich City FC",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           1
@@ -16,9 +21,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "West Ham United FC",
-      "team2": "Manchester City FC",
+      "time": "12:30",
+      "team1": "West Ham United",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           5
@@ -28,21 +38,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "Burnley FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 1",
-      "date": "2019-08-10",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
-      "team2": "Sheffield United FC",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -52,7 +55,25 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2019-08-10",
+      "time": "15:00",
+      "team1": "Crystal Palace",
       "team2": "Everton FC",
       "score": {
         "ft": [
@@ -64,9 +85,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-10",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -76,9 +102,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Aston Villa FC",
+      "time": "17:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           1
@@ -88,21 +119,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-11",
-      "team1": "Leicester City FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 1",
-      "date": "2019-08-11",
-      "team1": "Newcastle United FC",
+      "time": "14:00",
+      "team1": "Newcastle United",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -112,9 +136,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-11",
-      "team1": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Manchester United",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -122,11 +151,29 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2019-08-11",
+      "time": "14:00",
+      "team1": "Leicester City",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
       "round": "Matchday 2",
       "date": "2019-08-17",
+      "time": "12:30",
       "team1": "Arsenal FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -136,33 +183,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-17",
-      "team1": "Everton FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2019-08-17",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "West Ham United FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2019-08-17",
-      "team1": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Aston Villa",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -172,9 +200,48 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-17",
-      "team1": "Norwich City FC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "15:00",
+      "team1": "Norwich City",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -184,9 +251,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-17",
+      "time": "15:00",
       "team1": "Southampton FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -196,9 +268,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-17",
-      "team1": "Manchester City FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "17:30",
+      "team1": "Manchester City",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -208,21 +285,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-18",
-      "team1": "Sheffield United FC",
-      "team2": "Crystal Palace FC",
+      "time": "16:30",
+      "team1": "Chelsea FC",
+      "team2": "Leicester City",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2019-08-18",
-      "team1": "Chelsea FC",
-      "team2": "Leicester City FC",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -231,10 +301,32 @@
     },
     {
       "round": "Matchday 2",
-      "date": "2019-08-19",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Manchester United FC",
+      "date": "2019-08-18",
+      "time": "14:00",
+      "team1": "Sheffield United",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-19",
+      "time": "20:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Manchester United",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -244,9 +336,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-23",
-      "team1": "Aston Villa FC",
+      "time": "20:00",
+      "team1": "Aston Villa",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -256,9 +353,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-24",
-      "team1": "Norwich City FC",
+      "time": "12:30",
+      "team1": "Norwich City",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -268,9 +370,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-24",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -280,9 +387,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-24",
-      "team1": "Manchester United FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -292,9 +404,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-24",
-      "team1": "Sheffield United FC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Sheffield United",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -304,9 +421,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-24",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -316,9 +438,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-24",
+      "time": "17:30",
       "team1": "Liverpool FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -328,21 +455,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-25",
-      "team1": "AFC Bournemouth",
-      "team2": "Manchester City FC",
+      "time": "16:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Newcastle United",
       "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 3",
-      "date": "2019-08-25",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Newcastle United FC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -352,9 +472,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-25",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "16:30",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -362,11 +487,33 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "14:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
       "round": "Matchday 4",
       "date": "2019-08-31",
+      "time": "12:30",
       "team1": "Southampton FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -376,9 +523,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
+      "time": "15:00",
       "team1": "Chelsea FC",
-      "team2": "Sheffield United FC",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -388,9 +540,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
-      "team1": "Crystal Palace FC",
-      "team2": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -400,9 +557,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
-      "team1": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Leicester City",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -412,9 +574,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
-      "team1": "Manchester City FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Manchester City",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -424,9 +591,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
-      "team1": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -436,9 +608,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
-      "team1": "West Ham United FC",
-      "team2": "Norwich City FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -448,9 +625,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-08-31",
+      "time": "17:30",
       "team1": "Burnley FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -460,21 +642,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-01",
-      "team1": "Everton FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 4",
-      "date": "2019-09-01",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -482,11 +657,33 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2019-09-01",
+      "time": "14:00",
+      "team1": "Everton FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
       "round": "Matchday 5",
       "date": "2019-09-14",
+      "time": "12:30",
       "team1": "Liverpool FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -496,9 +693,48 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-14",
-      "team1": "Sheffield United FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Burnley FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-09-14",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-09-14",
+      "time": "15:00",
+      "team1": "Sheffield United",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -508,33 +744,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-14",
-      "team1": "Manchester United FC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Crystal Palace",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          4,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2019-09-14",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Burnley FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2019-09-14",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Crystal Palace FC",
-      "score": {
+        ],
         "ft": [
           4,
           0
@@ -544,9 +761,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-14",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           2,
           5
@@ -556,9 +778,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-14",
-      "team1": "Norwich City FC",
-      "team2": "Manchester City FC",
+      "time": "17:30",
+      "team1": "Norwich City",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -568,21 +795,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-15",
-      "team1": "AFC Bournemouth",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2019-09-15",
+      "time": "16:30",
       "team1": "Watford FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -591,9 +811,27 @@
     },
     {
       "round": "Matchday 5",
+      "date": "2019-09-15",
+      "time": "14:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2019-09-16",
-      "team1": "Aston Villa FC",
-      "team2": "West Ham United FC",
+      "time": "20:00",
+      "team1": "Aston Villa",
+      "team2": "West Ham United",
       "score": {
         "ft": [
           0,
@@ -604,9 +842,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-20",
+      "time": "20:00",
       "team1": "Southampton FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -616,9 +859,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-21",
-      "team1": "Leicester City FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "Leicester City",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -628,9 +876,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-21",
+      "time": "15:00",
       "team1": "Burnley FC",
-      "team2": "Norwich City FC",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -640,9 +893,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-21",
+      "time": "15:00",
       "team1": "Everton FC",
-      "team2": "Sheffield United FC",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -652,9 +910,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-21",
-      "team1": "Manchester City FC",
+      "time": "15:00",
+      "team1": "Manchester City",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          5,
+          0
+        ],
         "ft": [
           8,
           0
@@ -664,8 +927,9 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-21",
-      "team1": "Newcastle United FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "17:30",
+      "team1": "Newcastle United",
+      "team2": "Brighton & Hove Albion",
       "score": {
         "ft": [
           0,
@@ -676,9 +940,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-22",
-      "team1": "Crystal Palace FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "14:00",
+      "team1": "Crystal Palace",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -688,9 +957,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-22",
-      "team1": "West Ham United FC",
-      "team2": "Manchester United FC",
+      "time": "14:00",
+      "team1": "West Ham United",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -700,9 +974,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-22",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Aston Villa FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -712,9 +991,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-22",
+      "time": "16:30",
       "team1": "Chelsea FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -724,9 +1008,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "Sheffield United FC",
+      "time": "12:30",
+      "team1": "Sheffield United",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -736,21 +1025,31 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "Chelsea FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
-          0
+          2
         ]
       }
     },
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Aston Villa",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -760,21 +1059,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "AFC Bournemouth",
-      "team2": "West Ham United FC",
+      "time": "15:00",
+      "team1": "Chelsea FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2019-09-28",
-      "team1": "Crystal Palace FC",
-      "team2": "Norwich City FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -784,9 +1076,31 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Norwich City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-09-28",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -796,9 +1110,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -808,9 +1127,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "17:30",
       "team1": "Everton FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -820,9 +1144,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-29",
-      "team1": "Leicester City FC",
-      "team2": "Newcastle United FC",
+      "time": "16:30",
+      "team1": "Leicester City",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           5,
           0
@@ -832,9 +1161,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-09-30",
-      "team1": "Manchester United FC",
+      "time": "20:00",
+      "team1": "Manchester United",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -844,9 +1178,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-05",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -856,9 +1195,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "15:00",
       "team1": "Burnley FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -868,9 +1212,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "15:00",
       "team1": "Liverpool FC",
-      "team2": "Leicester City FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -880,9 +1229,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-05",
-      "team1": "Norwich City FC",
-      "team2": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Norwich City",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           5
@@ -892,8 +1246,9 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "Sheffield United FC",
+      "team2": "Sheffield United",
       "score": {
         "ft": [
           0,
@@ -904,9 +1259,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-05",
-      "team1": "West Ham United FC",
-      "team2": "Crystal Palace FC",
+      "time": "17:30",
+      "team1": "West Ham United",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -916,21 +1276,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-06",
-      "team1": "Arsenal FC",
-      "team2": "AFC Bournemouth",
+      "time": "14:00",
+      "team1": "Manchester City",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2019-10-06",
-      "team1": "Manchester City FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
+        ],
         "ft": [
           0,
           2
@@ -940,9 +1293,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-06",
+      "time": "14:00",
       "team1": "Southampton FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           4
@@ -952,9 +1310,31 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-06",
-      "team1": "Newcastle United FC",
-      "team2": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Newcastle United",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-10-06",
+      "time": "14:00",
+      "team1": "Arsenal FC",
+      "team2": "AFC Bournemouth",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -964,9 +1344,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "12:30",
       "team1": "Everton FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -976,8 +1361,9 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
-      "team2": "Norwich City FC",
+      "team2": "Norwich City",
       "score": {
         "ft": [
           0,
@@ -988,9 +1374,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
-      "team1": "Aston Villa FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Aston Villa",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1000,9 +1391,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "15:00",
       "team1": "Chelsea FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1012,9 +1408,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
-      "team1": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Leicester City",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1024,9 +1425,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
-      "team1": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1036,9 +1442,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1048,9 +1459,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-19",
-      "team1": "Crystal Palace FC",
-      "team2": "Manchester City FC",
+      "time": "17:30",
+      "team1": "Crystal Palace",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -1060,9 +1476,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-20",
-      "team1": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Manchester United",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1072,9 +1493,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-21",
-      "team1": "Sheffield United FC",
+      "time": "20:00",
+      "team1": "Sheffield United",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1084,9 +1510,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-25",
+      "time": "20:00",
       "team1": "Southampton FC",
-      "team2": "Leicester City FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          5
+        ],
         "ft": [
           0,
           9
@@ -1096,9 +1527,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-26",
-      "team1": "Manchester City FC",
-      "team2": "Aston Villa FC",
+      "time": "12:30",
+      "team1": "Manchester City",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1108,9 +1544,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-26",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1120,6 +1561,7 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-26",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "AFC Bournemouth",
       "score": {
@@ -1132,9 +1574,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-26",
-      "team1": "West Ham United FC",
-      "team2": "Sheffield United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1144,9 +1591,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-26",
+      "time": "17:30",
       "team1": "Burnley FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           4
@@ -1156,21 +1608,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-27",
-      "team1": "Newcastle United FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2019-10-27",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1180,9 +1625,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-27",
+      "time": "16:30",
       "team1": "Liverpool FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1192,9 +1642,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-10-27",
-      "team1": "Norwich City FC",
-      "team2": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Norwich City",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1202,23 +1657,16 @@
       }
     },
     {
-      "round": "Matchday 11",
-      "date": "2019-11-02",
-      "team1": "AFC Bournemouth",
-      "team2": "Manchester United FC",
+      "round": "Matchday 10",
+      "date": "2019-10-27",
+      "time": "14:00",
+      "team1": "Newcastle United",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 11",
-      "date": "2019-11-02",
-      "team1": "Arsenal FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -1228,9 +1676,48 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-02",
-      "team1": "Aston Villa FC",
+      "time": "12:30",
+      "team1": "AFC Bournemouth",
+      "team2": "Manchester United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-11-02",
+      "time": "15:00",
+      "team1": "Arsenal FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-11-02",
+      "time": "15:00",
+      "team1": "Aston Villa",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1240,9 +1727,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-02",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Norwich City FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1252,9 +1744,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-02",
-      "team1": "Manchester City FC",
+      "time": "15:00",
+      "team1": "Manchester City",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1264,21 +1761,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-02",
-      "team1": "West Ham United FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 11",
-      "date": "2019-11-02",
-      "team1": "Sheffield United FC",
+      "time": "15:00",
+      "team1": "Sheffield United",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1288,9 +1778,31 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-02",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-11-02",
+      "time": "17:30",
       "team1": "Watford FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1300,33 +1812,48 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-03",
-      "team1": "Crystal Palace FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 11",
-      "date": "2019-11-03",
+      "time": "16:30",
       "team1": "Everton FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-11-03",
+      "time": "14:00",
+      "team1": "Crystal Palace",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
         ]
       }
     },
     {
       "round": "Matchday 12",
       "date": "2019-11-08",
-      "team1": "Norwich City FC",
+      "time": "20:00",
+      "team1": "Norwich City",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1336,9 +1863,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-09",
+      "time": "12:30",
       "team1": "Chelsea FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1348,9 +1880,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-09",
+      "time": "15:00",
       "team1": "Burnley FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1360,9 +1897,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-09",
-      "team1": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1372,9 +1914,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-09",
+      "time": "15:00",
       "team1": "Southampton FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1384,9 +1931,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-09",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Sheffield United FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1396,9 +1948,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-09",
-      "team1": "Leicester City FC",
+      "time": "17:30",
+      "team1": "Leicester City",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1408,9 +1965,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-10",
-      "team1": "Manchester United FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "14:00",
+      "team1": "Manchester United",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1420,9 +1982,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-10",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Aston Villa FC",
+      "time": "14:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1432,9 +1999,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-10",
+      "time": "16:30",
       "team1": "Liverpool FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1444,9 +2016,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-23",
-      "team1": "West Ham United FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "West Ham United",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1456,11 +2033,16 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-23",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          2
+        ],
+        "ft": [
+          1,
           2
         ]
       }
@@ -1468,9 +2050,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-23",
+      "time": "15:00",
       "team1": "Arsenal FC",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1480,33 +2067,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-23",
-      "team1": "AFC Bournemouth",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Leicester City",
       "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2019-11-23",
-      "team1": "Crystal Palace FC",
-      "team2": "Liverpool FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2019-11-23",
-      "team1": "Everton FC",
-      "team2": "Norwich City FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1516,9 +2084,48 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-23",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Liverpool FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-23",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Norwich City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-23",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -1528,9 +2135,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-23",
-      "team1": "Manchester City FC",
+      "time": "17:30",
+      "team1": "Manchester City",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1540,9 +2152,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-24",
-      "team1": "Sheffield United FC",
-      "team2": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Sheffield United",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           3
@@ -1552,9 +2169,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-25",
-      "team1": "Aston Villa FC",
-      "team2": "Newcastle United FC",
+      "time": "20:00",
+      "team1": "Aston Villa",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1564,9 +2186,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-11-30",
-      "team1": "Newcastle United FC",
-      "team2": "Manchester City FC",
+      "time": "12:30",
+      "team1": "Newcastle United",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1576,9 +2203,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-11-30",
+      "time": "15:00",
       "team1": "Burnley FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1588,9 +2220,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-11-30",
+      "time": "15:00",
       "team1": "Chelsea FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1600,9 +2237,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-11-30",
+      "time": "15:00",
       "team1": "Liverpool FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1612,9 +2254,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-11-30",
-      "team1": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -1624,9 +2271,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-11-30",
+      "time": "17:30",
       "team1": "Southampton FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1636,21 +2288,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-01",
-      "team1": "Norwich City FC",
-      "team2": "Arsenal FC",
+      "time": "14:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Sheffield United",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2019-12-01",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Sheffield United FC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1660,9 +2305,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-01",
-      "team1": "Leicester City FC",
+      "time": "16:30",
+      "team1": "Leicester City",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1672,9 +2322,31 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-01",
-      "team1": "Manchester United FC",
-      "team2": "Aston Villa FC",
+      "time": "16:30",
+      "team1": "Manchester United",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-12-01",
+      "time": "14:00",
+      "team1": "Norwich City",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1684,21 +2356,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-03",
-      "team1": "Crystal Palace FC",
-      "team2": "AFC Bournemouth",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2019-12-03",
+      "time": "20:15",
       "team1": "Burnley FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           4
@@ -1707,10 +2372,32 @@
     },
     {
       "round": "Matchday 15",
+      "date": "2019-12-03",
+      "time": "19:30",
+      "team1": "Crystal Palace",
+      "team2": "AFC Bournemouth",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
       "date": "2019-12-04",
-      "team1": "Leicester City FC",
+      "time": "19:30",
+      "team1": "Leicester City",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1720,9 +2407,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-04",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "West Ham United FC",
+      "time": "19:30",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1732,9 +2424,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-04",
-      "team1": "Manchester United FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "19:30",
+      "team1": "Manchester United",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1744,9 +2441,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-04",
+      "time": "19:30",
       "team1": "Chelsea FC",
-      "team2": "Aston Villa FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1756,9 +2458,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-04",
+      "time": "19:30",
       "team1": "Southampton FC",
-      "team2": "Norwich City FC",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1768,9 +2475,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-04",
+      "time": "20:15",
       "team1": "Liverpool FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          4,
+          2
+        ],
         "ft": [
           5,
           2
@@ -1780,21 +2492,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-05",
-      "team1": "Sheffield United FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2019-12-05",
+      "time": "20:15",
       "team1": "Arsenal FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1802,23 +2507,33 @@
       }
     },
     {
-      "round": "Matchday 16",
-      "date": "2019-12-07",
-      "team1": "Everton FC",
-      "team2": "Chelsea FC",
+      "round": "Matchday 15",
+      "date": "2019-12-05",
+      "time": "19:30",
+      "team1": "Sheffield United",
+      "team2": "Newcastle United",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          0,
           1
+        ],
+        "ft": [
+          0,
+          2
         ]
       }
     },
     {
       "round": "Matchday 16",
       "date": "2019-12-07",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -1828,9 +2543,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-07",
-      "team1": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           0
@@ -1840,8 +2560,9 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-07",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
         "ft": [
           0,
@@ -1852,9 +2573,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-07",
-      "team1": "Manchester City FC",
-      "team2": "Manchester United FC",
+      "time": "17:30",
+      "team1": "Manchester City",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1863,10 +2589,32 @@
     },
     {
       "round": "Matchday 16",
-      "date": "2019-12-08",
-      "team1": "Aston Villa FC",
-      "team2": "Leicester City FC",
+      "date": "2019-12-07",
+      "time": "12:30",
+      "team1": "Everton FC",
+      "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-08",
+      "time": "14:00",
+      "team1": "Aston Villa",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           4
@@ -1876,9 +2624,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-08",
-      "team1": "Newcastle United FC",
+      "time": "14:00",
+      "team1": "Newcastle United",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1888,9 +2641,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-08",
-      "team1": "Norwich City FC",
-      "team2": "Sheffield United FC",
+      "time": "14:00",
+      "team1": "Norwich City",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1900,9 +2658,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-08",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "16:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1912,9 +2675,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-09",
-      "team1": "West Ham United FC",
+      "time": "20:00",
+      "team1": "West Ham United",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           3
@@ -1924,9 +2692,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-14",
+      "time": "12:30",
       "team1": "Liverpool FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1936,9 +2709,31 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-14",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-14",
+      "time": "15:00",
       "team1": "Chelsea FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1948,21 +2743,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-14",
-      "team1": "Burnley FC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Norwich City",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 17",
-      "date": "2019-12-14",
-      "team1": "Leicester City FC",
-      "team2": "Norwich City FC",
-      "score": {
+          1
+        ],
         "ft": [
           1,
           1
@@ -1972,9 +2760,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-14",
-      "team1": "Sheffield United FC",
-      "team2": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Sheffield United",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1984,9 +2777,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-14",
+      "time": "17:30",
       "team1": "Southampton FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1996,21 +2794,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-15",
-      "team1": "Manchester United FC",
-      "team2": "Everton FC",
+      "time": "14:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Tottenham Hotspur",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 17",
-      "date": "2019-12-15",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
+        ],
         "ft": [
           1,
           2
@@ -2020,9 +2811,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-15",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           3
@@ -2031,10 +2827,32 @@
     },
     {
       "round": "Matchday 17",
-      "date": "2019-12-16",
-      "team1": "Crystal Palace FC",
-      "team2": "Brighton & Hove Albion FC",
+      "date": "2019-12-15",
+      "time": "14:00",
+      "team1": "Manchester United",
+      "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-16",
+      "time": "19:45",
+      "team1": "Crystal Palace",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2044,6 +2862,7 @@
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
+      "time": "12:30",
       "team1": "Everton FC",
       "team2": "Arsenal FC",
       "score": {
@@ -2056,21 +2875,31 @@
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
-      "team1": "Newcastle United FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Burnley FC",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
+        ],
+        "ft": [
+          0,
+          1
         ]
       }
     },
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
-      "team1": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Aston Villa",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -2080,9 +2909,14 @@
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Sheffield United FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2092,21 +2926,31 @@
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
-      "team1": "AFC Bournemouth",
-      "team2": "Burnley FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Crystal Palace",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
+          0
+        ],
+        "ft": [
+          1,
+          0
         ]
       }
     },
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
-      "team1": "Norwich City FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Norwich City",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2116,9 +2960,14 @@
     {
       "round": "Matchday 18",
       "date": "2019-12-21",
-      "team1": "Manchester City FC",
-      "team2": "Leicester City FC",
+      "time": "17:30",
+      "team1": "Manchester City",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -2128,71 +2977,33 @@
     {
       "round": "Matchday 18",
       "date": "2019-12-22",
-      "team1": "Watford FC",
-      "team2": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
-          2,
-          0
+          0,
+          2
         ]
       }
     },
     {
       "round": "Matchday 18",
       "date": "2019-12-22",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Chelsea FC",
+      "time": "14:00",
+      "team1": "Watford FC",
+      "team2": "Manchester United",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Brighton & Hove Albion FC",
-      "score": {
+          0
+        ],
         "ft": [
           2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Sheffield United FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "AFC Bournemouth",
-      "team2": "Arsenal FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Everton FC",
-      "team2": "Burnley FC",
-      "score": {
-        "ft": [
-          1,
           0
         ]
       }
@@ -2200,57 +3011,14 @@
     {
       "round": "Matchday 19",
       "date": "2019-12-26",
-      "team1": "Chelsea FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Crystal Palace FC",
-      "team2": "West Ham United FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Aston Villa FC",
-      "team2": "Norwich City FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Manchester United FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2019-12-26",
-      "team1": "Leicester City FC",
+      "time": "20:00",
+      "team1": "Leicester City",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -2259,58 +3027,32 @@
     },
     {
       "round": "Matchday 19",
-      "date": "2019-12-27",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Manchester City FC",
+      "date": "2019-12-26",
+      "time": "12:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Brighton & Hove Albion",
       "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2019-12-28",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "AFC Bournemouth",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
-          0
+          1
         ]
       }
     },
     {
-      "round": "Matchday 20",
-      "date": "2019-12-28",
-      "team1": "Watford FC",
-      "team2": "Aston Villa FC",
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Arsenal FC",
       "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2019-12-28",
-      "team1": "Newcastle United FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
+        "ht": [
           1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2019-12-28",
-      "team1": "Southampton FC",
-      "team2": "Crystal Palace FC",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           1
@@ -2318,25 +3060,120 @@
       }
     },
     {
-      "round": "Matchday 20",
-      "date": "2019-12-28",
-      "team1": "Norwich City FC",
-      "team2": "Tottenham Hotspur FC",
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "15:00",
+      "team1": "Aston Villa",
+      "team2": "Norwich City",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2019-12-28",
-      "team1": "West Ham United FC",
-      "team2": "Leicester City FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "15:00",
+      "team1": "Chelsea FC",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Burnley FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "15:00",
+      "team1": "Sheffield United",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-26",
+      "time": "17:30",
+      "team1": "Manchester United",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-27",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
           2
         ]
       }
@@ -2344,9 +3181,14 @@
     {
       "round": "Matchday 20",
       "date": "2019-12-28",
+      "time": "19:45",
       "team1": "Burnley FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2355,10 +3197,100 @@
     },
     {
       "round": "Matchday 20",
-      "date": "2019-12-29",
-      "team1": "Arsenal FC",
-      "team2": "Chelsea FC",
+      "date": "2019-12-28",
+      "time": "12:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-12-28",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-12-28",
+      "time": "15:00",
+      "team1": "Southampton FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-12-28",
+      "time": "15:00",
+      "team1": "Watford FC",
+      "team2": "Aston Villa",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-12-28",
+      "time": "17:30",
+      "team1": "Norwich City",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-12-28",
+      "time": "17:30",
+      "team1": "West Ham United",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2368,9 +3300,31 @@
     {
       "round": "Matchday 20",
       "date": "2019-12-29",
-      "team1": "Liverpool FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "14:00",
+      "team1": "Arsenal FC",
+      "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-12-29",
+      "time": "16:30",
+      "team1": "Liverpool FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2380,9 +3334,14 @@
     {
       "round": "Matchday 20",
       "date": "2019-12-29",
-      "team1": "Manchester City FC",
-      "team2": "Sheffield United FC",
+      "time": "18:00",
+      "team1": "Manchester City",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2392,21 +3351,14 @@
     {
       "round": "Matchday 21",
       "date": "2020-01-01",
-      "team1": "Burnley FC",
-      "team2": "Aston Villa FC",
+      "time": "17:30",
+      "team1": "Norwich City",
+      "team2": "Crystal Palace",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2020-01-01",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Chelsea FC",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           1
@@ -2416,21 +3368,48 @@
     {
       "round": "Matchday 21",
       "date": "2020-01-01",
-      "team1": "Southampton FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
-          0
+          1
         ]
       }
     },
     {
       "round": "Matchday 21",
       "date": "2020-01-01",
-      "team1": "Newcastle United FC",
-      "team2": "Leicester City FC",
+      "time": "12:30",
+      "team1": "Burnley FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-01",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -2440,9 +3419,31 @@
     {
       "round": "Matchday 21",
       "date": "2020-01-01",
-      "team1": "Watford FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Southampton FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-01",
+      "time": "15:00",
+      "team1": "Watford FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2452,9 +3453,48 @@
     {
       "round": "Matchday 21",
       "date": "2020-01-01",
-      "team1": "West Ham United FC",
+      "time": "17:30",
+      "team1": "Manchester City",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-01",
+      "time": "20:00",
+      "team1": "Arsenal FC",
+      "team2": "Manchester United",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-01",
+      "time": "17:30",
+      "team1": "West Ham United",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2463,46 +3503,15 @@
     },
     {
       "round": "Matchday 21",
-      "date": "2020-01-01",
-      "team1": "Norwich City FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2020-01-01",
-      "team1": "Manchester City FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2020-01-01",
-      "team1": "Arsenal FC",
-      "team2": "Manchester United FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 21",
       "date": "2020-01-02",
+      "time": "20:00",
       "team1": "Liverpool FC",
-      "team2": "Sheffield United FC",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2512,9 +3521,14 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-10",
-      "team1": "Sheffield United FC",
-      "team2": "West Ham United FC",
+      "time": "20:00",
+      "team1": "Sheffield United",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2524,9 +3538,31 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-11",
-      "team1": "Crystal Palace FC",
+      "time": "17:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Liverpool FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-01-11",
+      "time": "12:30",
+      "team1": "Crystal Palace",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2536,21 +3572,14 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-11",
-      "team1": "Manchester United FC",
-      "team2": "Norwich City FC",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
-      "date": "2020-01-11",
+      "time": "15:00",
       "team1": "Chelsea FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2560,9 +3589,14 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-11",
+      "time": "15:00",
       "team1": "Everton FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2572,9 +3606,14 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-11",
-      "team1": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Leicester City",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2584,9 +3623,31 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-11",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-01-11",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2595,22 +3656,15 @@
     },
     {
       "round": "Matchday 22",
-      "date": "2020-01-11",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Liverpool FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
       "date": "2020-01-12",
+      "time": "14:00",
       "team1": "AFC Bournemouth",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -2620,9 +3674,14 @@
     {
       "round": "Matchday 22",
       "date": "2020-01-12",
-      "team1": "Aston Villa FC",
-      "team2": "Manchester City FC",
+      "time": "16:30",
+      "team1": "Aston Villa",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          4
+        ],
         "ft": [
           1,
           6
@@ -2632,8 +3691,9 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
+      "time": "12:30",
       "team1": "Watford FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
         "ft": [
           0,
@@ -2644,21 +3704,14 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
-      "team1": "Norwich City FC",
-      "team2": "AFC Bournemouth",
+      "time": "15:00",
+      "team1": "Arsenal FC",
+      "team2": "Sheffield United",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2020-01-18",
-      "team1": "Arsenal FC",
-      "team2": "Sheffield United FC",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -2668,9 +3721,14 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Aston Villa FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2680,9 +3738,14 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
-      "team1": "Manchester City FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Manchester City",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2692,21 +3755,31 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
-      "team1": "West Ham United FC",
-      "team2": "Everton FC",
+      "time": "15:00",
+      "team1": "Norwich City",
+      "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
-          1
+          0
         ]
       }
     },
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
+      "time": "15:00",
       "team1": "Southampton FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           3
@@ -2716,9 +3789,31 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-18",
-      "team1": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-01-18",
+      "time": "17:30",
+      "team1": "Newcastle United",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2728,21 +3823,14 @@
     {
       "round": "Matchday 23",
       "date": "2020-01-19",
-      "team1": "Burnley FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2020-01-19",
+      "time": "16:30",
       "team1": "Liverpool FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2750,11 +3838,33 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2020-01-19",
+      "time": "14:00",
+      "team1": "Burnley FC",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
       "round": "Matchday 24",
       "date": "2020-01-21",
+      "time": "19:30",
       "team1": "AFC Bournemouth",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2764,21 +3874,14 @@
     {
       "round": "Matchday 24",
       "date": "2020-01-21",
-      "team1": "Crystal Palace FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2020-01-21",
-      "team1": "Aston Villa FC",
+      "time": "19:30",
+      "team1": "Aston Villa",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2788,21 +3891,14 @@
     {
       "round": "Matchday 24",
       "date": "2020-01-21",
-      "team1": "Sheffield United FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2020-01-21",
+      "time": "19:30",
       "team1": "Everton FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2812,9 +3908,48 @@
     {
       "round": "Matchday 24",
       "date": "2020-01-21",
+      "time": "19:30",
+      "team1": "Sheffield United",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-01-21",
+      "time": "19:30",
+      "team1": "Crystal Palace",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-01-21",
+      "time": "20:15",
       "team1": "Chelsea FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2824,21 +3959,31 @@
     {
       "round": "Matchday 24",
       "date": "2020-01-22",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Norwich City FC",
+      "time": "20:15",
+      "team1": "Manchester United",
+      "team2": "Burnley FC",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           1
+        ],
+        "ft": [
+          0,
+          2
         ]
       }
     },
     {
       "round": "Matchday 24",
       "date": "2020-01-22",
-      "team1": "Leicester City FC",
-      "team2": "West Ham United FC",
+      "time": "19:30",
+      "team1": "Leicester City",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -2848,21 +3993,31 @@
     {
       "round": "Matchday 24",
       "date": "2020-01-22",
-      "team1": "Manchester United FC",
-      "team2": "Burnley FC",
+      "time": "19:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          0,
-          2
+          2,
+          1
         ]
       }
     },
     {
       "round": "Matchday 24",
       "date": "2020-01-23",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "20:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2872,9 +4027,14 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-29",
-      "team1": "West Ham United FC",
+      "time": "19:45",
+      "team1": "West Ham United",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2884,9 +4044,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
-      "team1": "Leicester City FC",
+      "time": "12:30",
+      "team1": "Leicester City",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2896,21 +4061,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
-      "team1": "Crystal Palace FC",
-      "team2": "Sheffield United FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2020-02-01",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
-      "team2": "Aston Villa FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2920,9 +4078,31 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Sheffield United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-01",
+      "time": "15:00",
       "team1": "Liverpool FC",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2932,8 +4112,9 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
-      "team1": "Newcastle United FC",
-      "team2": "Norwich City FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Norwich City",
       "score": {
         "ft": [
           0,
@@ -2944,9 +4125,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -2956,9 +4142,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
-      "team1": "West Ham United FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           3
@@ -2968,8 +4159,9 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-01",
-      "team1": "Manchester United FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "17:30",
+      "team1": "Manchester United",
+      "team2": "Wolverhampton Wanderers",
       "score": {
         "ft": [
           0,
@@ -2980,6 +4172,24 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-02",
+      "time": "16:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-02",
+      "time": "14:00",
       "team1": "Burnley FC",
       "team2": "Arsenal FC",
       "score": {
@@ -2990,35 +4200,16 @@
       }
     },
     {
-      "round": "Matchday 25",
-      "date": "2020-02-02",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
       "round": "Matchday 26",
       "date": "2020-02-08",
-      "team1": "Everton FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 26",
-      "date": "2020-02-08",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "17:30",
+      "team1": "Brighton & Hove Albion",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3027,10 +4218,32 @@
     },
     {
       "round": "Matchday 26",
+      "date": "2020-02-08",
+      "time": "12:30",
+      "team1": "Everton FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
       "date": "2020-02-09",
-      "team1": "Sheffield United FC",
+      "time": "14:00",
+      "team1": "Sheffield United",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3040,8 +4253,9 @@
     {
       "round": "Matchday 26",
       "date": "2020-02-14",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Leicester City FC",
+      "time": "20:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Leicester City",
       "score": {
         "ft": [
           0,
@@ -3052,21 +4266,14 @@
     {
       "round": "Matchday 26",
       "date": "2020-02-15",
-      "team1": "Southampton FC",
-      "team2": "Burnley FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 26",
-      "date": "2020-02-15",
-      "team1": "Norwich City FC",
+      "time": "17:30",
+      "team1": "Norwich City",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3075,10 +4282,32 @@
     },
     {
       "round": "Matchday 26",
-      "date": "2020-02-16",
-      "team1": "Aston Villa FC",
-      "team2": "Tottenham Hotspur FC",
+      "date": "2020-02-15",
+      "time": "12:30",
+      "team1": "Southampton FC",
+      "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-16",
+      "time": "14:00",
+      "team1": "Aston Villa",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -3088,9 +4317,14 @@
     {
       "round": "Matchday 26",
       "date": "2020-02-16",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3100,9 +4334,14 @@
     {
       "round": "Matchday 26",
       "date": "2020-02-17",
+      "time": "20:00",
       "team1": "Chelsea FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3112,45 +4351,31 @@
     {
       "round": "Matchday 26",
       "date": "2020-02-19",
-      "team1": "Manchester City FC",
-      "team2": "West Ham United FC",
+      "time": "19:30",
+      "team1": "Manchester City",
+      "team2": "West Ham United",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 27",
-      "date": "2020-02-22",
-      "team1": "Chelsea FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 27",
-      "date": "2020-02-22",
-      "team1": "Crystal Palace FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
+        "ht": [
           1,
           0
+        ],
+        "ft": [
+          2,
+          0
         ]
       }
     },
     {
       "round": "Matchday 27",
       "date": "2020-02-22",
+      "time": "15:00",
       "team1": "Burnley FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3160,9 +4385,31 @@
     {
       "round": "Matchday 27",
       "date": "2020-02-22",
-      "team1": "Sheffield United FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-02-22",
+      "time": "15:00",
+      "team1": "Sheffield United",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3172,9 +4419,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-02-22",
+      "time": "15:00",
       "team1": "Southampton FC",
-      "team2": "Aston Villa FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3184,9 +4436,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-02-22",
-      "team1": "Leicester City FC",
-      "team2": "Manchester City FC",
+      "time": "17:30",
+      "team1": "Leicester City",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3195,10 +4452,32 @@
     },
     {
       "round": "Matchday 27",
+      "date": "2020-02-22",
+      "time": "12:30",
+      "team1": "Chelsea FC",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
       "date": "2020-02-23",
-      "team1": "Manchester United FC",
+      "time": "14:00",
+      "team1": "Manchester United",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3208,9 +4487,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-02-23",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Norwich City FC",
+      "time": "14:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3220,9 +4504,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-02-23",
+      "time": "16:30",
       "team1": "Arsenal FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -3232,9 +4521,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-02-24",
+      "time": "20:00",
       "team1": "Liverpool FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -3244,9 +4538,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-02-28",
-      "team1": "Norwich City FC",
-      "team2": "Leicester City FC",
+      "time": "20:00",
+      "team1": "Norwich City",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3256,9 +4555,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-02-29",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Crystal Palace FC",
+      "time": "12:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3268,9 +4572,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-02-29",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3280,7 +4589,8 @@
     {
       "round": "Matchday 28",
       "date": "2020-02-29",
-      "team1": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
       "team2": "Burnley FC",
       "score": {
         "ft": [
@@ -3292,9 +4602,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-02-29",
-      "team1": "West Ham United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3304,9 +4619,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-02-29",
+      "time": "17:30",
       "team1": "Watford FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3316,9 +4636,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-01",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "14:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           3
@@ -3328,9 +4653,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-01",
+      "time": "14:00",
       "team1": "Everton FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3340,9 +4670,44 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-07",
+      "time": "17:30",
+      "team1": "Burnley FC",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-03-07",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-03-07",
+      "time": "12:30",
       "team1": "Liverpool FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3352,9 +4717,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-07",
+      "time": "15:00",
       "team1": "Arsenal FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3364,9 +4734,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-07",
-      "team1": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3376,11 +4751,16 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-07",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Sheffield United",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          0,
+          1,
           0
         ]
       }
@@ -3388,35 +4768,16 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-07",
+      "time": "15:00",
       "team1": "Southampton FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2020-03-07",
-      "team1": "Sheffield United FC",
-      "team2": "Norwich City FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2020-03-07",
-      "team1": "Burnley FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
-        "ft": [
-          1,
           1
         ]
       }
@@ -3424,23 +4785,33 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-08",
+      "time": "16:30",
+      "team1": "Manchester United",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-03-08",
+      "time": "14:00",
       "team1": "Chelsea FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2020-03-08",
-      "team1": "Manchester United FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
-          2,
           0
         ]
       }
@@ -3448,9 +4819,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-03-09",
-      "team1": "Leicester City FC",
-      "team2": "Aston Villa FC",
+      "time": "20:00",
+      "team1": "Leicester City",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3460,8 +4836,9 @@
     {
       "round": "Matchday 28",
       "date": "2020-06-17",
-      "team1": "Aston Villa FC",
-      "team2": "Sheffield United FC",
+      "time": "18:00",
+      "team1": "Aston Villa",
+      "team2": "Sheffield United",
       "score": {
         "ft": [
           0,
@@ -3472,9 +4849,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-06-17",
-      "team1": "Manchester City FC",
+      "time": "20:15",
+      "team1": "Manchester City",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3484,9 +4866,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-19",
-      "team1": "Norwich City FC",
+      "time": "18:00",
+      "team1": "Norwich City",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -3496,9 +4883,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-19",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Manchester United FC",
+      "time": "20:15",
+      "team1": "Tottenham Hotspur",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3508,21 +4900,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-20",
-      "team1": "Watford FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 30",
-      "date": "2020-06-20",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3532,9 +4917,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-20",
-      "team1": "West Ham United FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "17:30",
+      "team1": "West Ham United",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -3544,9 +4934,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-20",
+      "time": "19:45",
       "team1": "AFC Bournemouth",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -3555,10 +4950,32 @@
     },
     {
       "round": "Matchday 30",
-      "date": "2020-06-21",
-      "team1": "Newcastle United FC",
-      "team2": "Sheffield United FC",
+      "date": "2020-06-20",
+      "time": "12:30",
+      "team1": "Watford FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2020-06-21",
+      "time": "14:00",
+      "team1": "Newcastle United",
+      "team2": "Sheffield United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3568,9 +4985,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-21",
-      "team1": "Aston Villa FC",
+      "time": "16:15",
+      "team1": "Aston Villa",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3580,6 +5002,7 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-21",
+      "time": "19:00",
       "team1": "Everton FC",
       "team2": "Liverpool FC",
       "score": {
@@ -3592,9 +5015,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-22",
-      "team1": "Manchester City FC",
+      "time": "20:00",
+      "team1": "Manchester City",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           0
@@ -3604,8 +5032,26 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-23",
-      "team1": "Leicester City FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "20:15",
+      "team1": "Tottenham Hotspur",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-06-23",
+      "time": "18:00",
+      "team1": "Leicester City",
+      "team2": "Brighton & Hove Albion",
       "score": {
         "ft": [
           0,
@@ -3615,22 +5061,15 @@
     },
     {
       "round": "Matchday 31",
-      "date": "2020-06-23",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "West Ham United FC",
+      "date": "2020-06-24",
+      "time": "18:00",
+      "team1": "Manchester United",
+      "team2": "Sheffield United",
       "score": {
-        "ft": [
+        "ht": [
           2,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
-      "date": "2020-06-24",
-      "team1": "Manchester United FC",
-      "team2": "Sheffield United FC",
-      "score": {
+        ],
         "ft": [
           3,
           0
@@ -3640,9 +5079,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-24",
-      "team1": "Newcastle United FC",
-      "team2": "Aston Villa FC",
+      "time": "18:00",
+      "team1": "Newcastle United",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3652,9 +5096,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-24",
-      "team1": "Norwich City FC",
+      "time": "18:00",
+      "team1": "Norwich City",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3664,9 +5113,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-24",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "18:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3676,9 +5130,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-24",
+      "time": "20:15",
       "team1": "Liverpool FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3688,21 +5147,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-25",
-      "team1": "Burnley FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
-      "date": "2020-06-25",
+      "time": "18:00",
       "team1": "Southampton FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3712,9 +5164,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-25",
+      "time": "20:15",
       "team1": "Chelsea FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3722,11 +5179,33 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2020-06-25",
+      "time": "18:00",
+      "team1": "Burnley FC",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
       "round": "Matchday 32",
       "date": "2020-06-27",
-      "team1": "Aston Villa FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "12:30",
+      "team1": "Aston Villa",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3736,9 +5215,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-06-28",
+      "time": "16:30",
       "team1": "Watford FC",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3748,9 +5232,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-06-29",
-      "team1": "Crystal Palace FC",
+      "time": "20:00",
+      "team1": "Crystal Palace",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3760,9 +5249,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-06-30",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Manchester United FC",
+      "time": "20:15",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -3771,10 +5265,15 @@
     },
     {
       "round": "Matchday 32",
-      "date": "2020-07-01",
+      "date": "2019-07-01",
+      "time": "18:00",
       "team1": "AFC Bournemouth",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -3783,10 +5282,32 @@
     },
     {
       "round": "Matchday 32",
-      "date": "2020-07-01",
-      "team1": "Everton FC",
-      "team2": "Leicester City FC",
+      "date": "2019-07-01",
+      "time": "18:00",
+      "team1": "Arsenal FC",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-07-01",
+      "time": "18:00",
+      "team1": "Everton FC",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3795,22 +5316,15 @@
     },
     {
       "round": "Matchday 32",
-      "date": "2020-07-01",
-      "team1": "Arsenal FC",
-      "team2": "Norwich City FC",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2020-07-01",
-      "team1": "West Ham United FC",
+      "date": "2019-07-01",
+      "time": "20:15",
+      "team1": "West Ham United",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -3819,22 +5333,15 @@
     },
     {
       "round": "Matchday 32",
-      "date": "2020-07-02",
-      "team1": "Sheffield United FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2020-07-02",
-      "team1": "Manchester City FC",
+      "date": "2019-07-02",
+      "time": "20:15",
+      "team1": "Manchester City",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3842,11 +5349,33 @@
       }
     },
     {
-      "round": "Matchday 33",
-      "date": "2020-07-04",
-      "team1": "Norwich City FC",
-      "team2": "Brighton & Hove Albion FC",
+      "round": "Matchday 32",
+      "date": "2019-07-02",
+      "time": "18:00",
+      "team1": "Sheffield United",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-07-04",
+      "time": "12:30",
+      "team1": "Norwich City",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3855,10 +5384,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-04",
-      "team1": "Leicester City FC",
-      "team2": "Crystal Palace FC",
+      "date": "2019-07-04",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3867,10 +5401,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-04",
-      "team1": "Manchester United FC",
+      "date": "2019-07-04",
+      "time": "15:00",
+      "team1": "Manchester United",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           5,
           2
@@ -3879,10 +5418,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-04",
-      "team1": "Wolverhampton Wanderers FC",
+      "date": "2019-07-04",
+      "time": "17:30",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3891,10 +5435,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-04",
+      "date": "2019-07-04",
+      "time": "20:00",
       "team1": "Chelsea FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3903,22 +5452,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-05",
-      "team1": "Burnley FC",
-      "team2": "Sheffield United FC",
+      "date": "2019-07-05",
+      "time": "14:15",
+      "team1": "Newcastle United",
+      "team2": "West Ham United",
       "score": {
-        "ft": [
+        "ht": [
           1,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-05",
-      "team1": "Newcastle United FC",
-      "team2": "West Ham United FC",
-      "score": {
+        ],
         "ft": [
           2,
           2
@@ -3927,10 +5469,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-05",
+      "date": "2019-07-05",
+      "time": "16:30",
       "team1": "Liverpool FC",
-      "team2": "Aston Villa FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3939,10 +5486,15 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-05",
+      "date": "2019-07-05",
+      "time": "19:00",
       "team1": "Southampton FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3951,10 +5503,32 @@
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-06",
-      "team1": "Tottenham Hotspur FC",
+      "date": "2019-07-05",
+      "time": "12:00",
+      "team1": "Burnley FC",
+      "team2": "Sheffield United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-07-06",
+      "time": "20:00",
+      "team1": "Tottenham Hotspur",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3963,10 +5537,49 @@
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-07",
-      "team1": "Crystal Palace FC",
+      "date": "2019-07-07",
+      "time": "18:00",
+      "team1": "Watford FC",
+      "team2": "Norwich City",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-07-07",
+      "time": "20:15",
+      "team1": "Arsenal FC",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-07-07",
+      "time": "18:00",
+      "team1": "Crystal Palace",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -3975,34 +5588,15 @@
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-07",
-      "team1": "Watford FC",
-      "team2": "Norwich City FC",
+      "date": "2019-07-08",
+      "time": "18:00",
+      "team1": "Manchester City",
+      "team2": "Newcastle United",
       "score": {
-        "ft": [
+        "ht": [
           2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2020-07-07",
-      "team1": "Arsenal FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2020-07-08",
-      "team1": "Manchester City FC",
-      "team2": "Newcastle United FC",
-      "score": {
+          0
+        ],
         "ft": [
           5,
           0
@@ -4011,10 +5605,32 @@
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-08",
-      "team1": "West Ham United FC",
+      "date": "2019-07-08",
+      "time": "18:00",
+      "team1": "Sheffield United",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-07-08",
+      "time": "18:00",
+      "team1": "West Ham United",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -4023,22 +5639,15 @@
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-08",
-      "team1": "Sheffield United FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2020-07-08",
-      "team1": "Brighton & Hove Albion FC",
+      "date": "2019-07-08",
+      "time": "20:15",
+      "team1": "Brighton & Hove Albion",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -4047,22 +5656,15 @@
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-09",
-      "team1": "AFC Bournemouth",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2020-07-09",
+      "date": "2019-07-09",
+      "time": "18:00",
       "team1": "Everton FC",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4071,22 +5673,45 @@
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-09",
-      "team1": "Aston Villa FC",
-      "team2": "Manchester United FC",
+      "date": "2019-07-09",
+      "time": "20:15",
+      "team1": "Aston Villa",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-07-09",
+      "time": "18:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ft": [
+          0,
+          0
         ]
       }
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-11",
+      "date": "2019-07-11",
+      "time": "12:30",
       "team1": "Watford FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4095,22 +5720,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-11",
-      "team1": "Norwich City FC",
-      "team2": "West Ham United FC",
-      "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Matchday 35",
-      "date": "2020-07-11",
+      "date": "2019-07-11",
+      "time": "15:00",
       "team1": "Liverpool FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4119,10 +5737,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-11",
-      "team1": "Sheffield United FC",
+      "date": "2019-07-11",
+      "time": "17:30",
+      "team1": "Sheffield United",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4131,10 +5754,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-11",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Manchester City FC",
+      "date": "2019-07-11",
+      "time": "20:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           5
@@ -4143,10 +5771,32 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-12",
-      "team1": "Wolverhampton Wanderers FC",
+      "date": "2019-07-11",
+      "time": "12:30",
+      "team1": "Norwich City",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-07-12",
+      "time": "12:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4155,10 +5805,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-12",
-      "team1": "Aston Villa FC",
-      "team2": "Crystal Palace FC",
+      "date": "2019-07-12",
+      "time": "14:15",
+      "team1": "Aston Villa",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4167,10 +5822,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-12",
-      "team1": "Tottenham Hotspur FC",
+      "date": "2019-07-12",
+      "time": "16:30",
+      "team1": "Tottenham Hotspur",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4179,10 +5839,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-12",
+      "date": "2019-07-12",
+      "time": "19:00",
       "team1": "AFC Bournemouth",
-      "team2": "Leicester City FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           4,
           1
@@ -4191,10 +5856,15 @@
     },
     {
       "round": "Matchday 35",
-      "date": "2020-07-13",
-      "team1": "Manchester United FC",
+      "date": "2019-07-13",
+      "time": "20:00",
+      "team1": "Manchester United",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -4203,10 +5873,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-14",
+      "date": "2019-07-14",
+      "time": "20:15",
       "team1": "Chelsea FC",
-      "team2": "Norwich City FC",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4215,22 +5890,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-15",
-      "team1": "Burnley FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 36",
-      "date": "2020-07-15",
-      "team1": "Manchester City FC",
+      "date": "2019-07-15",
+      "time": "18:00",
+      "team1": "Manchester City",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4239,10 +5907,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-15",
-      "team1": "Newcastle United FC",
-      "team2": "Tottenham Hotspur FC",
+      "date": "2019-07-15",
+      "time": "18:00",
+      "team1": "Newcastle United",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -4251,10 +5924,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-15",
+      "date": "2019-07-15",
+      "time": "20:15",
       "team1": "Arsenal FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4263,10 +5941,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-16",
-      "team1": "Everton FC",
-      "team2": "Aston Villa FC",
+      "date": "2019-07-15",
+      "time": "18:00",
+      "team1": "Burnley FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4275,10 +5958,32 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-16",
-      "team1": "Leicester City FC",
-      "team2": "Sheffield United FC",
+      "date": "2019-07-16",
+      "time": "18:00",
+      "team1": "Everton FC",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2019-07-16",
+      "time": "18:00",
+      "team1": "Leicester City",
+      "team2": "Sheffield United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4287,10 +5992,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-16",
-      "team1": "Crystal Palace FC",
-      "team2": "Manchester United FC",
+      "date": "2019-07-16",
+      "time": "20:15",
+      "team1": "Crystal Palace",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -4299,10 +6009,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-16",
+      "date": "2019-07-16",
+      "time": "20:15",
       "team1": "Southampton FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4311,10 +6026,15 @@
     },
     {
       "round": "Matchday 36",
-      "date": "2020-07-17",
-      "team1": "West Ham United FC",
+      "date": "2019-07-17",
+      "time": "20:00",
+      "team1": "West Ham United",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           1
@@ -4323,10 +6043,15 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-18",
-      "team1": "Norwich City FC",
+      "date": "2019-07-18",
+      "time": "17:30",
+      "team1": "Norwich City",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -4335,10 +6060,32 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-19",
+      "date": "2019-07-19",
+      "time": "16:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-07-19",
+      "time": "14:00",
       "team1": "AFC Bournemouth",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -4347,21 +6094,10 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-19",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2020-07-20",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Newcastle United FC",
+      "date": "2019-07-20",
+      "time": "18:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Newcastle United",
       "score": {
         "ft": [
           0,
@@ -4371,10 +6107,15 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-20",
-      "team1": "Sheffield United FC",
+      "date": "2019-07-20",
+      "time": "18:00",
+      "team1": "Sheffield United",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4383,10 +6124,15 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-20",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Crystal Palace FC",
+      "date": "2019-07-20",
+      "time": "20:15",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4395,10 +6141,32 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-21",
-      "team1": "Watford FC",
-      "team2": "Manchester City FC",
+      "date": "2019-07-21",
+      "time": "20:15",
+      "team1": "Aston Villa",
+      "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-07-21",
+      "time": "18:00",
+      "team1": "Watford FC",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -4407,22 +6175,15 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-21",
-      "team1": "Aston Villa FC",
-      "team2": "Arsenal FC",
+      "date": "2019-07-22",
+      "time": "18:00",
+      "team1": "Manchester United",
+      "team2": "West Ham United",
       "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2020-07-22",
-      "team1": "Manchester United FC",
-      "team2": "West Ham United FC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4431,10 +6192,15 @@
     },
     {
       "round": "Matchday 37",
-      "date": "2020-07-22",
+      "date": "2019-07-22",
+      "time": "20:15",
       "team1": "Liverpool FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           5,
           3
@@ -4443,10 +6209,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
+      "date": "2019-07-26",
+      "time": "16:00",
       "team1": "Arsenal FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           2
@@ -4455,10 +6226,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
+      "date": "2019-07-26",
+      "time": "16:00",
       "team1": "Burnley FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4467,10 +6243,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
+      "date": "2019-07-26",
+      "time": "16:00",
       "team1": "Chelsea FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4479,10 +6260,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
-      "team1": "Crystal Palace FC",
-      "team2": "Tottenham Hotspur FC",
+      "date": "2019-07-26",
+      "time": "16:00",
+      "team1": "Crystal Palace",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4491,10 +6277,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
+      "date": "2019-07-26",
+      "time": "16:00",
       "team1": "Everton FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -4503,10 +6294,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
-      "team1": "Leicester City FC",
-      "team2": "Manchester United FC",
+      "date": "2019-07-26",
+      "time": "16:00",
+      "team1": "Leicester City",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4515,10 +6311,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
-      "team1": "Manchester City FC",
-      "team2": "Norwich City FC",
+      "date": "2019-07-26",
+      "time": "16:00",
+      "team1": "Manchester City",
+      "team2": "Norwich City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -4527,10 +6328,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
-      "team1": "Newcastle United FC",
+      "date": "2019-07-26",
+      "time": "16:00",
+      "team1": "Newcastle United",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -4539,10 +6345,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
+      "date": "2019-07-26",
+      "time": "16:00",
       "team1": "Southampton FC",
-      "team2": "Sheffield United FC",
+      "team2": "Sheffield United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           1
@@ -4551,10 +6362,15 @@
     },
     {
       "round": "Matchday 38",
-      "date": "2020-07-26",
-      "team1": "West Ham United FC",
-      "team2": "Aston Villa FC",
+      "date": "2019-07-26",
+      "time": "16:00",
+      "team1": "West Ham United",
+      "team2": "Aston Villa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1

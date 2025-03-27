@@ -1,12 +1,17 @@
 {
-  "name": "Primera División 2019/20",
+  "name": "Primera División de España 2019/20",
   "matches": [
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-16",
-      "team1": "Athletic Club Bilbao",
+      "time": "21:00",
+      "team1": "Athletic Club",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-17",
-      "team1": "RC Celta Vigo",
+      "time": "17:00",
+      "team1": "RC Celta",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-17",
+      "time": "19:00",
       "team1": "Valencia CF",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -38,11 +53,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-17",
+      "time": "20:00",
       "team1": "RCD Mallorca",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-17",
+      "time": "21:00",
       "team1": "CD Leganés",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -62,11 +87,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-17",
+      "time": "21:00",
       "team1": "Villarreal CF",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           4
@@ -74,11 +104,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-18",
-      "team1": "Deportivo Alavés",
+      "time": "17:00",
+      "team1": "CD Alavés",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -86,11 +121,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-18",
-      "team1": "RCD Espanyol",
+      "time": "19:00",
+      "team1": "Espanyol Barcelona",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -98,11 +138,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-18",
+      "time": "21:00",
       "team1": "Real Betis",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -110,11 +155,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-18",
+      "time": "22:00",
       "team1": "Atlético Madrid",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -122,11 +172,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-23",
+      "time": "20:00",
       "team1": "Granada CF",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -134,11 +189,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-23",
+      "time": "22:00",
       "team1": "Levante UD",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -146,8 +206,9 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-24",
+      "time": "17:00",
       "team1": "CA Osasuna",
       "team2": "SD Eibar",
       "score": {
@@ -158,11 +219,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-24",
+      "time": "19:00",
       "team1": "Real Madrid",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -170,11 +236,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-24",
-      "team1": "RC Celta Vigo",
+      "time": "21:00",
+      "team1": "RC Celta",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -182,11 +253,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-24",
+      "time": "21:00",
       "team1": "Getafe CF",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -194,10 +270,11 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-25",
-      "team1": "Deportivo Alavés",
-      "team2": "RCD Espanyol",
+      "time": "17:00",
+      "team1": "CD Alavés",
+      "team2": "Espanyol Barcelona",
       "score": {
         "ft": [
           0,
@@ -206,11 +283,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-25",
+      "time": "17:00",
       "team1": "RCD Mallorca",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -218,11 +300,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-25",
+      "time": "19:00",
       "team1": "CD Leganés",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -230,11 +317,16 @@
       }
     },
     {
-      "round": "Jornada 2",
+      "round": "Matchday 2",
       "date": "2019-08-25",
+      "time": "21:00",
       "team1": "FC Barcelona",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           5,
           2
@@ -242,11 +334,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-08-30",
+      "time": "20:00",
       "team1": "Sevilla FC",
-      "team2": "RC Celta Vigo",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -254,11 +351,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-08-30",
-      "team1": "Athletic Club Bilbao",
+      "time": "22:00",
+      "team1": "Athletic Club",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -266,11 +368,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-08-31",
+      "time": "17:00",
       "team1": "CA Osasuna",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -278,11 +385,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-08-31",
+      "time": "19:00",
       "team1": "Getafe CF",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -290,11 +402,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-08-31",
+      "time": "19:00",
       "team1": "Levante UD",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -302,11 +419,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-08-31",
+      "time": "21:00",
       "team1": "Real Betis",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -314,11 +436,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "17:00",
       "team1": "Valencia CF",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -326,11 +453,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "19:00",
       "team1": "Atlético Madrid",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           2
@@ -338,11 +470,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-09-01",
-      "team1": "RCD Espanyol",
+      "time": "19:00",
+      "team1": "Espanyol Barcelona",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -350,11 +487,16 @@
       }
     },
     {
-      "round": "Jornada 3",
+      "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "21:00",
       "team1": "Villarreal CF",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -362,10 +504,11 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-13",
+      "time": "21:00",
       "team1": "RCD Mallorca",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
         "ft": [
           0,
@@ -374,11 +517,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-14",
+      "time": "13:00",
       "team1": "Real Madrid",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           2
@@ -386,11 +534,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-14",
+      "time": "16:00",
       "team1": "CD Leganés",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -398,11 +551,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-14",
+      "time": "18:30",
       "team1": "Real Sociedad",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -410,11 +568,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-14",
+      "time": "21:00",
       "team1": "FC Barcelona",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           5,
           2
@@ -422,11 +585,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-15",
+      "time": "12:00",
       "team1": "SD Eibar",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -434,11 +602,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-15",
-      "team1": "Deportivo Alavés",
+      "time": "14:00",
+      "team1": "CD Alavés",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -446,11 +619,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-15",
-      "team1": "RC Celta Vigo",
+      "time": "16:00",
+      "team1": "RC Celta",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -458,11 +636,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-15",
-      "team1": "Real Valladolid CF",
+      "time": "18:30",
+      "team1": "Real Valladolid",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -470,11 +653,16 @@
       }
     },
     {
-      "round": "Jornada 4",
+      "round": "Matchday 4",
       "date": "2019-09-15",
+      "time": "21:00",
       "team1": "Real Betis",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -482,8 +670,9 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-20",
+      "time": "21:00",
       "team1": "CA Osasuna",
       "team2": "Real Betis",
       "score": {
@@ -494,11 +683,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-21",
+      "time": "13:00",
       "team1": "Villarreal CF",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -506,8 +700,9 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-21",
+      "time": "16:00",
       "team1": "Levante UD",
       "team2": "SD Eibar",
       "score": {
@@ -518,10 +713,11 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-21",
+      "time": "18:30",
       "team1": "Atlético Madrid",
-      "team2": "RC Celta Vigo",
+      "team2": "RC Celta",
       "score": {
         "ft": [
           0,
@@ -530,11 +726,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-21",
+      "time": "21:00",
       "team1": "Granada CF",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -542,11 +743,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-22",
+      "time": "12:00",
       "team1": "Getafe CF",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -554,11 +760,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-22",
-      "team1": "RCD Espanyol",
+      "time": "14:00",
+      "team1": "Espanyol Barcelona",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -566,11 +777,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-22",
+      "time": "16:00",
       "team1": "Valencia CF",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -578,11 +794,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-22",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Deportivo Alavés",
+      "time": "18:30",
+      "team1": "Athletic Club",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -590,11 +811,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-22",
+      "time": "21:00",
       "team1": "Sevilla FC",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -602,11 +828,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-24",
-      "team1": "Real Valladolid CF",
+      "time": "19:00",
+      "team1": "Real Valladolid",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -614,11 +845,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-24",
+      "time": "20:00",
       "team1": "Real Betis",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -626,11 +862,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-24",
+      "time": "21:00",
       "team1": "FC Barcelona",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -638,11 +879,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-25",
+      "time": "19:00",
       "team1": "CD Leganés",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -650,11 +896,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-25",
+      "time": "19:00",
       "team1": "RCD Mallorca",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -662,11 +913,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-25",
+      "time": "20:00",
       "team1": "Valencia CF",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           3
@@ -674,11 +930,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-25",
+      "time": "21:00",
       "team1": "Real Madrid",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -686,11 +947,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-26",
+      "time": "19:00",
       "team1": "SD Eibar",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           3,
           2
@@ -698,11 +964,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-26",
-      "team1": "RC Celta Vigo",
-      "team2": "RCD Espanyol",
+      "time": "20:00",
+      "team1": "RC Celta",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -710,11 +981,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-26",
+      "time": "21:00",
       "team1": "Real Sociedad",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -722,11 +998,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-27",
+      "time": "21:00",
       "team1": "Villarreal CF",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           5,
           1
@@ -734,11 +1015,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
-      "team1": "Athletic Club Bilbao",
+      "time": "13:00",
+      "team1": "Athletic Club",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -746,11 +1032,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "16:00",
       "team1": "Getafe CF",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -758,11 +1049,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "18:30",
       "team1": "Granada CF",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -770,8 +1066,9 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "21:00",
       "team1": "Atlético Madrid",
       "team2": "Real Madrid",
       "score": {
@@ -782,11 +1079,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
-      "team1": "RCD Espanyol",
-      "team2": "Real Valladolid CF",
+      "time": "12:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -794,11 +1096,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
+      "time": "14:00",
       "team1": "SD Eibar",
-      "team2": "RC Celta Vigo",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -806,11 +1113,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
-      "team1": "Deportivo Alavés",
+      "time": "16:00",
+      "team1": "CD Alavés",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -818,11 +1130,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
+      "time": "18:30",
       "team1": "Levante UD",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -830,11 +1147,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
+      "time": "21:00",
       "team1": "Sevilla FC",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -842,11 +1164,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-04",
+      "time": "21:00",
       "team1": "Real Betis",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -854,11 +1181,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "13:00",
       "team1": "CD Leganés",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -866,11 +1198,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "16:00",
       "team1": "Real Madrid",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -878,11 +1215,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "18:30",
       "team1": "Valencia CF",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -890,11 +1232,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-05",
+      "time": "21:00",
       "team1": "CA Osasuna",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -902,11 +1249,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-06",
+      "time": "12:00",
       "team1": "RCD Mallorca",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -914,11 +1266,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-06",
-      "team1": "RC Celta Vigo",
-      "team2": "Athletic Club Bilbao",
+      "time": "14:00",
+      "team1": "RC Celta",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -926,9 +1283,10 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-06",
-      "team1": "Real Valladolid CF",
+      "time": "16:00",
+      "team1": "Real Valladolid",
       "team2": "Atlético Madrid",
       "score": {
         "ft": [
@@ -938,11 +1296,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-06",
+      "time": "18:30",
       "team1": "Real Sociedad",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -950,11 +1313,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-06",
+      "time": "21:00",
       "team1": "FC Barcelona",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -962,11 +1330,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-18",
+      "time": "21:00",
       "team1": "Granada CF",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -974,11 +1347,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "13:00",
       "team1": "SD Eibar",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -986,11 +1364,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "16:00",
       "team1": "Atlético Madrid",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -998,11 +1381,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "18:30",
       "team1": "Getafe CF",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1010,11 +1398,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-19",
+      "time": "21:00",
       "team1": "RCD Mallorca",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1022,11 +1415,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-20",
-      "team1": "Deportivo Alavés",
-      "team2": "RC Celta Vigo",
+      "time": "12:00",
+      "team1": "CD Alavés",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1034,11 +1432,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-20",
+      "time": "14:00",
       "team1": "Real Sociedad",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1046,11 +1449,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-20",
-      "team1": "RCD Espanyol",
+      "time": "16:00",
+      "team1": "Espanyol Barcelona",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1058,11 +1466,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-20",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Real Valladolid CF",
+      "time": "18:30",
+      "team1": "Athletic Club",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1070,11 +1483,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-20",
+      "time": "21:00",
       "team1": "Sevilla FC",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1082,11 +1500,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-25",
+      "time": "21:00",
       "team1": "Villarreal CF",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1094,11 +1517,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-26",
+      "time": "16:00",
       "team1": "CD Leganés",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1106,11 +1534,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-26",
-      "team1": "Real Valladolid CF",
+      "time": "18:30",
+      "team1": "Real Valladolid",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1118,11 +1551,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-26",
+      "time": "21:00",
       "team1": "Atlético Madrid",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1130,11 +1568,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-27",
-      "team1": "RC Celta Vigo",
+      "time": "12:00",
+      "team1": "RC Celta",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1142,11 +1585,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-27",
+      "time": "14:00",
       "team1": "Granada CF",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1154,11 +1602,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-27",
+      "time": "16:00",
       "team1": "Levante UD",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1166,11 +1619,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-27",
+      "time": "18:30",
       "team1": "Sevilla FC",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1178,11 +1636,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-10-27",
+      "time": "21:00",
       "team1": "CA Osasuna",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1190,848 +1653,9 @@
       }
     },
     {
-      "round": "Jornada 11",
-      "date": "2019-10-29",
-      "team1": "Deportivo Alavés",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-29",
-      "team1": "FC Barcelona",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          5,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-30",
-      "team1": "Real Sociedad",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-30",
-      "team1": "Valencia CF",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-30",
-      "team1": "Athletic Club Bilbao",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-30",
-      "team1": "Real Betis",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-30",
-      "team1": "Real Madrid",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          5,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-31",
-      "team1": "RCD Mallorca",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-31",
-      "team1": "SD Eibar",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 11",
-      "date": "2019-10-31",
-      "team1": "Getafe CF",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-02",
-      "team1": "RCD Espanyol",
-      "team2": "Valencia CF",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-02",
-      "team1": "Levante UD",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-02",
-      "team1": "Sevilla FC",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-02",
-      "team1": "Real Madrid",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-03",
-      "team1": "Real Valladolid CF",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-03",
-      "team1": "Villarreal CF",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-03",
-      "team1": "CA Osasuna",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          4,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-03",
-      "team1": "CD Leganés",
-      "team2": "SD Eibar",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-03",
-      "team1": "RC Celta Vigo",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 12",
-      "date": "2019-11-03",
-      "team1": "Granada CF",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-08",
-      "team1": "Real Sociedad",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-09",
-      "team1": "Deportivo Alavés",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-09",
-      "team1": "Valencia CF",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-09",
-      "team1": "SD Eibar",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-09",
-      "team1": "FC Barcelona",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-10",
-      "team1": "RCD Mallorca",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-10",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-10",
-      "team1": "Atlético Madrid",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-10",
-      "team1": "Getafe CF",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 13",
-      "date": "2019-11-10",
-      "team1": "Real Betis",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-22",
-      "team1": "Levante UD",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-23",
-      "team1": "CD Leganés",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-23",
-      "team1": "Real Betis",
-      "team2": "Valencia CF",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-23",
-      "team1": "Granada CF",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-23",
-      "team1": "Real Madrid",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-24",
-      "team1": "RCD Espanyol",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-24",
-      "team1": "CA Osasuna",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-24",
-      "team1": "SD Eibar",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-24",
-      "team1": "Villarreal CF",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 14",
-      "date": "2019-11-24",
-      "team1": "Real Valladolid CF",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-11-29",
-      "team1": "RC Celta Vigo",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-11-30",
-      "team1": "Deportivo Alavés",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-11-30",
-      "team1": "Real Sociedad",
-      "team2": "SD Eibar",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-11-30",
-      "team1": "RCD Mallorca",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-11-30",
-      "team1": "Valencia CF",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-12-01",
-      "team1": "Sevilla FC",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-12-01",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-12-01",
-      "team1": "RCD Espanyol",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-12-01",
-      "team1": "Getafe CF",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 15",
-      "date": "2019-12-01",
-      "team1": "Atlético Madrid",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-06",
-      "team1": "Villarreal CF",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-07",
-      "team1": "Real Madrid",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-07",
-      "team1": "Granada CF",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-07",
-      "team1": "Levante UD",
-      "team2": "Valencia CF",
-      "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-07",
-      "team1": "FC Barcelona",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          5,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-08",
-      "team1": "SD Eibar",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-08",
-      "team1": "Real Betis",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-08",
-      "team1": "Real Valladolid CF",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-08",
-      "team1": "CD Leganés",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 16",
-      "date": "2019-12-08",
-      "team1": "CA Osasuna",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-13",
-      "team1": "Deportivo Alavés",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-14",
-      "team1": "Granada CF",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-14",
-      "team1": "Real Sociedad",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-14",
-      "team1": "Athletic Club Bilbao",
-      "team2": "SD Eibar",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-14",
-      "team1": "Atlético Madrid",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-15",
-      "team1": "Getafe CF",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-15",
-      "team1": "RC Celta Vigo",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-15",
-      "team1": "RCD Espanyol",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-15",
-      "team1": "Sevilla FC",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 17",
-      "date": "2019-12-15",
-      "team1": "Valencia CF",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-12-18",
+      "time": "20:00",
       "team1": "FC Barcelona",
       "team2": "Real Madrid",
       "score": {
@@ -2042,59 +1666,67 @@
       }
     },
     {
-      "round": "Jornada 18",
-      "date": "2019-12-20",
-      "team1": "SD Eibar",
-      "team2": "Granada CF",
+      "round": "Matchday 11",
+      "date": "2019-10-29",
+      "time": "19:00",
+      "team1": "CD Alavés",
+      "team2": "Atlético Madrid",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          0,
           0
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Jornada 18",
-      "date": "2019-12-21",
-      "team1": "RCD Mallorca",
+      "round": "Matchday 11",
+      "date": "2019-10-29",
+      "time": "21:15",
+      "team1": "FC Barcelona",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-30",
+      "time": "19:00",
+      "team1": "Real Sociedad",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-30",
+      "time": "19:00",
+      "team1": "Valencia CF",
       "team2": "Sevilla FC",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-21",
-      "team1": "FC Barcelona",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          4,
           1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-21",
-      "team1": "Villarreal CF",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-21",
-      "team1": "Real Valladolid CF",
-      "team2": "Valencia CF",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -2102,803 +1734,50 @@
       }
     },
     {
-      "round": "Jornada 18",
-      "date": "2019-12-22",
-      "team1": "CD Leganés",
-      "team2": "RCD Espanyol",
+      "round": "Matchday 11",
+      "date": "2019-10-30",
+      "time": "20:00",
+      "team1": "Athletic Club",
+      "team2": "Espanyol Barcelona",
       "score": {
-        "ft": [
+        "ht": [
           2,
           0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-22",
-      "team1": "CA Osasuna",
-      "team2": "Real Sociedad",
-      "score": {
+        ],
         "ft": [
           3,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-22",
-      "team1": "Real Betis",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-22",
-      "team1": "Levante UD",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2019-12-22",
-      "team1": "Real Madrid",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          0,
           0
         ]
       }
     },
     {
-      "round": "Jornada 19",
-      "date": "2020-01-03",
-      "team1": "Real Valladolid CF",
+      "round": "Matchday 11",
+      "date": "2019-10-30",
+      "time": "21:00",
+      "team1": "Real Betis",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-30",
+      "time": "21:15",
+      "team1": "Real Madrid",
       "team2": "CD Leganés",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-03",
-      "team1": "Sevilla FC",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-04",
-      "team1": "Valencia CF",
-      "team2": "SD Eibar",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-04",
-      "team1": "Getafe CF",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-04",
-      "team1": "Atlético Madrid",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-04",
-      "team1": "RCD Espanyol",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-05",
-      "team1": "Granada CF",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-05",
-      "team1": "Real Sociedad",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-05",
-      "team1": "Deportivo Alavés",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 19",
-      "date": "2020-01-05",
-      "team1": "RC Celta Vigo",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-17",
-      "team1": "CD Leganés",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-18",
-      "team1": "Levante UD",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-18",
-      "team1": "Real Madrid",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-18",
-      "team1": "CA Osasuna",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-18",
-      "team1": "SD Eibar",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-19",
-      "team1": "RCD Mallorca",
-      "team2": "Valencia CF",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-19",
-      "team1": "Real Betis",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
+        "ht": [
           3,
           0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-19",
-      "team1": "Villarreal CF",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-19",
-      "team1": "Athletic Club Bilbao",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 20",
-      "date": "2020-01-19",
-      "team1": "FC Barcelona",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-24",
-      "team1": "CA Osasuna",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-25",
-      "team1": "RCD Espanyol",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-25",
-      "team1": "Valencia CF",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-25",
-      "team1": "Deportivo Alavés",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-25",
-      "team1": "Sevilla FC",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-26",
-      "team1": "Atlético Madrid",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-26",
-      "team1": "RC Celta Vigo",
-      "team2": "SD Eibar",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-26",
-      "team1": "Getafe CF",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-26",
-      "team1": "Real Sociedad",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 21",
-      "date": "2020-01-26",
-      "team1": "Real Valladolid CF",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-01",
-      "team1": "Granada CF",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-01",
-      "team1": "Real Madrid",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-01",
-      "team1": "RCD Mallorca",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-01",
-      "team1": "Valencia CF",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-02",
-      "team1": "CD Leganés",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-02",
-      "team1": "SD Eibar",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-02",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-02",
-      "team1": "Sevilla FC",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-02",
-      "team1": "Villarreal CF",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-02",
-      "team1": "FC Barcelona",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-07",
-      "team1": "Deportivo Alavés",
-      "team2": "SD Eibar",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-08",
-      "team1": "Levante UD",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-08",
-      "team1": "Getafe CF",
-      "team2": "Valencia CF",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-08",
-      "team1": "Real Valladolid CF",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-08",
-      "team1": "Atlético Madrid",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-09",
-      "team1": "RCD Espanyol",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-09",
-      "team1": "Real Sociedad",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-09",
-      "team1": "CA Osasuna",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-09",
-      "team1": "RC Celta Vigo",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 23",
-      "date": "2020-02-09",
-      "team1": "Real Betis",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-14",
-      "team1": "Valencia CF",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-15",
-      "team1": "RCD Mallorca",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-15",
-      "team1": "FC Barcelona",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-15",
-      "team1": "Villarreal CF",
-      "team2": "Levante UD",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-15",
-      "team1": "Granada CF",
-      "team2": "Real Valladolid CF",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-16",
-      "team1": "Sevilla FC",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-16",
-      "team1": "CD Leganés",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-16",
-      "team1": "Athletic Club Bilbao",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-02-16",
-      "team1": "Real Madrid",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-21",
-      "team1": "Real Betis",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-22",
-      "team1": "RC Celta Vigo",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-22",
-      "team1": "FC Barcelona",
-      "team2": "SD Eibar",
-      "score": {
+        ],
         "ft": [
           5,
           0
@@ -2906,83 +1785,50 @@
       }
     },
     {
-      "round": "Jornada 25",
-      "date": "2020-02-22",
-      "team1": "Real Sociedad",
-      "team2": "Valencia CF",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-22",
-      "team1": "Levante UD",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-23",
-      "team1": "CA Osasuna",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-23",
-      "team1": "Deportivo Alavés",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-23",
-      "team1": "Real Valladolid CF",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-23",
-      "team1": "Getafe CF",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 25",
-      "date": "2020-02-23",
-      "team1": "Atlético Madrid",
+      "round": "Matchday 11",
+      "date": "2019-10-31",
+      "time": "19:00",
+      "team1": "SD Eibar",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-31",
+      "time": "19:00",
+      "team1": "RCD Mallorca",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-31",
+      "time": "21:15",
+      "team1": "Getafe CF",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2990,58 +1836,92 @@
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-02-28",
-      "team1": "Real Sociedad",
-      "team2": "Real Valladolid CF",
+      "round": "Matchday 12",
+      "date": "2019-11-02",
+      "time": "13:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "Valencia CF",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-02-29",
-      "team1": "SD Eibar",
-      "team2": "Levante UD",
+      "round": "Matchday 12",
+      "date": "2019-11-02",
+      "time": "16:00",
+      "team1": "Levante UD",
+      "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
-          0
+          1
         ]
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-02-29",
-      "team1": "Valencia CF",
+      "round": "Matchday 12",
+      "date": "2019-11-02",
+      "time": "18:30",
+      "team1": "Sevilla FC",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-11-02",
+      "time": "21:00",
+      "team1": "Real Madrid",
       "team2": "Real Betis",
       "score": {
         "ft": [
-          2,
-          1
+          0,
+          0
         ]
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-02-29",
-      "team1": "CD Leganés",
-      "team2": "Deportivo Alavés",
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "12:00",
+      "team1": "Real Valladolid",
+      "team2": "RCD Mallorca",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
+          0
+        ],
+        "ft": [
+          3,
+          0
         ]
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-02-29",
-      "team1": "Granada CF",
-      "team2": "RC Celta Vigo",
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "14:00",
+      "team1": "Villarreal CF",
+      "team2": "Athletic Club",
       "score": {
         "ft": [
           0,
@@ -3050,155 +1930,731 @@
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-03-01",
-      "team1": "Sevilla FC",
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "16:00",
+      "team1": "CA Osasuna",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "18:30",
+      "team1": "RC Celta",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "18:30",
+      "team1": "CD Leganés",
+      "team2": "SD Eibar",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "21:00",
+      "team1": "Granada CF",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-08",
+      "time": "21:00",
+      "team1": "Real Sociedad",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-09",
+      "time": "13:00",
+      "team1": "CD Alavés",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-09",
+      "time": "16:00",
+      "team1": "Valencia CF",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-09",
+      "time": "18:30",
+      "team1": "SD Eibar",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-09",
+      "time": "21:00",
+      "team1": "FC Barcelona",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "12:00",
+      "team1": "RCD Mallorca",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "14:00",
+      "team1": "Athletic Club",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "16:00",
+      "team1": "Atlético Madrid",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "18:30",
+      "team1": "Getafe CF",
       "team2": "CA Osasuna",
       "score": {
         "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "21:00",
+      "team1": "Real Betis",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-22",
+      "time": "21:00",
+      "team1": "Levante UD",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-23",
+      "time": "13:00",
+      "team1": "CD Leganés",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-23",
+      "time": "16:00",
+      "team1": "Real Betis",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-23",
+      "time": "18:30",
+      "team1": "Granada CF",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-23",
+      "time": "21:00",
+      "team1": "Real Madrid",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-24",
+      "time": "12:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-24",
+      "time": "14:00",
+      "team1": "CA Osasuna",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-24",
+      "time": "16:00",
+      "team1": "SD Eibar",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-24",
+      "time": "18:30",
+      "team1": "Villarreal CF",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-24",
+      "time": "21:00",
+      "team1": "Real Valladolid",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-11-29",
+      "time": "21:00",
+      "team1": "RC Celta",
+      "team2": "Real Valladolid",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-11-30",
+      "time": "13:00",
+      "team1": "CD Alavés",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-11-30",
+      "time": "16:00",
+      "team1": "Real Sociedad",
+      "team2": "SD Eibar",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-11-30",
+      "time": "18:30",
+      "team1": "RCD Mallorca",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-11-30",
+      "time": "21:00",
+      "team1": "Valencia CF",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "12:00",
+      "team1": "Sevilla FC",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "14:00",
+      "team1": "Athletic Club",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "16:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "18:30",
+      "team1": "Getafe CF",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "21:00",
+      "team1": "Atlético Madrid",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-06",
+      "time": "21:00",
+      "team1": "Villarreal CF",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-07",
+      "time": "13:00",
+      "team1": "Real Madrid",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-07",
+      "time": "16:00",
+      "team1": "Granada CF",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-07",
+      "time": "18:30",
+      "team1": "Levante UD",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-07",
+      "time": "21:00",
+      "team1": "FC Barcelona",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          4,
+          1
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-08",
+      "time": "12:00",
+      "team1": "SD Eibar",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-08",
+      "time": "14:00",
+      "team1": "Real Betis",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
           3,
           2
         ]
       }
     },
     {
-      "round": "Jornada 26",
-      "date": "2020-03-01",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 26",
-      "date": "2020-03-01",
-      "team1": "RCD Espanyol",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 26",
-      "date": "2020-03-01",
-      "team1": "RCD Mallorca",
-      "team2": "Getafe CF",
+      "round": "Matchday 16",
+      "date": "2019-12-08",
+      "time": "16:00",
+      "team1": "Real Valladolid",
+      "team2": "Real Sociedad",
       "score": {
         "ft": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 26",
-      "date": "2020-03-01",
-      "team1": "Real Madrid",
-      "team2": "FC Barcelona",
-      "score": {
-        "ft": [
-          2,
           0
         ]
       }
     },
     {
-      "round": "Jornada 27",
-      "date": "2020-03-06",
-      "team1": "Deportivo Alavés",
-      "team2": "Valencia CF",
+      "round": "Matchday 16",
+      "date": "2019-12-08",
+      "time": "18:30",
+      "team1": "CD Leganés",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-07",
-      "team1": "SD Eibar",
-      "team2": "RCD Mallorca",
-      "score": {
-        "ft": [
-          1,
+          3,
           2
         ]
       }
     },
     {
-      "round": "Jornada 27",
-      "date": "2020-03-07",
-      "team1": "Atlético Madrid",
+      "round": "Matchday 16",
+      "date": "2019-12-08",
+      "time": "21:00",
+      "team1": "CA Osasuna",
       "team2": "Sevilla FC",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-07",
-      "team1": "FC Barcelona",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
+        "ht": [
           1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-07",
-      "team1": "Getafe CF",
-      "team2": "RC Celta Vigo",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-08",
-      "team1": "CA Osasuna",
-      "team2": "RCD Espanyol",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-08",
-      "team1": "Real Valladolid CF",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-08",
-      "team1": "Levante UD",
-      "team2": "Granada CF",
-      "score": {
+          1
+        ],
         "ft": [
           1,
           1
@@ -3206,107 +2662,33 @@
       }
     },
     {
-      "round": "Jornada 27",
-      "date": "2020-03-08",
-      "team1": "Villarreal CF",
+      "round": "Matchday 17",
+      "date": "2019-12-13",
+      "time": "21:00",
+      "team1": "CD Alavés",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 27",
-      "date": "2020-03-08",
-      "team1": "Real Betis",
-      "team2": "Real Madrid",
-      "score": {
-        "ft": [
-          2,
           1
         ]
       }
     },
     {
-      "round": "Jornada 24",
-      "date": "2020-03-10",
-      "team1": "SD Eibar",
-      "team2": "Real Sociedad",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-11",
-      "team1": "Sevilla FC",
-      "team2": "Real Betis",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-12",
+      "round": "Matchday 17",
+      "date": "2019-12-14",
+      "time": "13:00",
       "team1": "Granada CF",
-      "team2": "Getafe CF",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-12",
-      "team1": "Valencia CF",
       "team2": "Levante UD",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-13",
-      "team1": "RCD Espanyol",
-      "team2": "Deportivo Alavés",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-13",
-      "team1": "RC Celta Vigo",
-      "team2": "Villarreal CF",
-      "score": {
-        "ft": [
+        "ht": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-13",
-      "team1": "CD Leganés",
-      "team2": "Real Valladolid CF",
-      "score": {
+          0
+        ],
         "ft": [
           1,
           2
@@ -3314,82 +2696,296 @@
       }
     },
     {
-      "round": "Jornada 28",
-      "date": "2020-06-13",
-      "team1": "RCD Mallorca",
+      "round": "Matchday 17",
+      "date": "2019-12-14",
+      "time": "16:00",
+      "team1": "Real Sociedad",
       "team2": "FC Barcelona",
       "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 28",
-      "date": "2020-06-14",
-      "team1": "Athletic Club Bilbao",
-      "team2": "Atlético Madrid",
-      "score": {
-        "ft": [
+        "ht": [
           1,
           1
+        ],
+        "ft": [
+          2,
+          2
         ]
       }
     },
     {
-      "round": "Jornada 28",
-      "date": "2020-06-14",
-      "team1": "Real Madrid",
+      "round": "Matchday 17",
+      "date": "2019-12-14",
+      "time": "18:30",
+      "team1": "Athletic Club",
       "team2": "SD Eibar",
       "score": {
         "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-14",
+      "time": "21:00",
+      "team1": "Atlético Madrid",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-15",
+      "time": "12:00",
+      "team1": "Getafe CF",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-15",
+      "time": "14:00",
+      "team1": "RC Celta",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-15",
+      "time": "16:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-15",
+      "time": "18:30",
+      "team1": "Sevilla FC",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-15",
+      "time": "21:00",
+      "team1": "Valencia CF",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-20",
+      "time": "21:00",
+      "team1": "SD Eibar",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-21",
+      "time": "13:00",
+      "team1": "RCD Mallorca",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-21",
+      "time": "16:00",
+      "team1": "FC Barcelona",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-21",
+      "time": "18:30",
+      "team1": "Villarreal CF",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-21",
+      "time": "21:00",
+      "team1": "Real Valladolid",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-22",
+      "time": "12:00",
+      "team1": "CD Leganés",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-22",
+      "time": "14:00",
+      "team1": "CA Osasuna",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-22",
+      "time": "16:00",
+      "team1": "Real Betis",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-22",
+      "time": "18:30",
+      "team1": "Levante UD",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
           3,
           1
         ]
       }
     },
     {
-      "round": "Jornada 28",
-      "date": "2020-06-14",
-      "team1": "Real Sociedad",
-      "team2": "CA Osasuna",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 29",
-      "date": "2020-06-15",
-      "team1": "Levante UD",
-      "team2": "Sevilla FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 29",
-      "date": "2020-06-15",
-      "team1": "Real Betis",
-      "team2": "Granada CF",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 29",
-      "date": "2020-06-16",
-      "team1": "Getafe CF",
-      "team2": "RCD Espanyol",
+      "round": "Matchday 18",
+      "date": "2019-12-22",
+      "time": "21:00",
+      "team1": "Real Madrid",
+      "team2": "Athletic Club",
       "score": {
         "ft": [
           0,
@@ -3398,11 +2994,50 @@
       }
     },
     {
-      "round": "Jornada 29",
-      "date": "2020-06-16",
-      "team1": "Villarreal CF",
-      "team2": "RCD Mallorca",
+      "round": "Matchday 19",
+      "date": "2020-01-03",
+      "time": "19:00",
+      "team1": "Real Valladolid",
+      "team2": "CD Leganés",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-03",
+      "time": "21:00",
+      "team1": "Sevilla FC",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-04",
+      "time": "13:00",
+      "team1": "Valencia CF",
+      "team2": "SD Eibar",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3410,34 +3045,394 @@
       }
     },
     {
-      "round": "Jornada 29",
-      "date": "2020-06-16",
+      "round": "Matchday 19",
+      "date": "2020-01-04",
+      "time": "16:00",
+      "team1": "Getafe CF",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-04",
+      "time": "18:30",
+      "team1": "Atlético Madrid",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-04",
+      "time": "21:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-05",
+      "time": "12:00",
+      "team1": "Granada CF",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-05",
+      "time": "14:00",
+      "team1": "Real Sociedad",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-05",
+      "time": "16:00",
+      "team1": "CD Alavés",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-05",
+      "time": "21:00",
+      "team1": "RC Celta",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-17",
+      "time": "21:00",
+      "team1": "CD Leganés",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-18",
+      "time": "13:00",
+      "team1": "Levante UD",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-18",
+      "time": "16:00",
+      "team1": "Real Madrid",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-18",
+      "time": "18:30",
+      "team1": "CA Osasuna",
+      "team2": "Real Valladolid",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-18",
+      "time": "21:00",
+      "team1": "SD Eibar",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-19",
+      "time": "12:00",
+      "team1": "RCD Mallorca",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-19",
+      "time": "14:00",
+      "team1": "Real Betis",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-19",
+      "time": "16:00",
+      "team1": "Villarreal CF",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-19",
+      "time": "18:30",
+      "team1": "Athletic Club",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-19",
+      "time": "21:00",
       "team1": "FC Barcelona",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-24",
+      "time": "21:00",
+      "team1": "CA Osasuna",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "13:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "16:00",
+      "team1": "Valencia CF",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "18:30",
+      "team1": "CD Alavés",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "21:00",
+      "team1": "Sevilla FC",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-26",
+      "time": "12:00",
+      "team1": "Atlético Madrid",
       "team2": "CD Leganés",
       "score": {
         "ft": [
-          2,
+          0,
           0
         ]
       }
     },
     {
-      "round": "Jornada 29",
-      "date": "2020-06-17",
-      "team1": "SD Eibar",
-      "team2": "Athletic Club Bilbao",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 29",
-      "date": "2020-06-17",
-      "team1": "Real Valladolid CF",
-      "team2": "RC Celta Vigo",
+      "round": "Matchday 21",
+      "date": "2020-01-26",
+      "time": "14:00",
+      "team1": "RC Celta",
+      "team2": "SD Eibar",
       "score": {
         "ft": [
           0,
@@ -3446,11 +3441,1356 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 21",
+      "date": "2020-01-26",
+      "time": "16:00",
+      "team1": "Getafe CF",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-26",
+      "time": "18:30",
+      "team1": "Real Sociedad",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-26",
+      "time": "21:00",
+      "team1": "Real Valladolid",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-01",
+      "time": "13:00",
+      "team1": "Granada CF",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-01",
+      "time": "16:00",
+      "team1": "Real Madrid",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-01",
+      "time": "18:30",
+      "team1": "RCD Mallorca",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-01",
+      "time": "21:00",
+      "team1": "Valencia CF",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-02",
+      "time": "12:00",
+      "team1": "CD Leganés",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-02",
+      "time": "14:00",
+      "team1": "SD Eibar",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-02",
+      "time": "16:00",
+      "team1": "Athletic Club",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-02",
+      "time": "18:30",
+      "team1": "Sevilla FC",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-02",
+      "time": "18:30",
+      "team1": "Villarreal CF",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-02",
+      "time": "21:00",
+      "team1": "FC Barcelona",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-07",
+      "time": "21:00",
+      "team1": "CD Alavés",
+      "team2": "SD Eibar",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-08",
+      "time": "13:00",
+      "team1": "Levante UD",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-08",
+      "time": "16:00",
+      "team1": "Getafe CF",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-08",
+      "time": "18:30",
+      "team1": "Real Valladolid",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-08",
+      "time": "21:00",
+      "team1": "Atlético Madrid",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-09",
+      "time": "12:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-09",
+      "time": "14:00",
+      "team1": "Real Sociedad",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-09",
+      "time": "16:00",
+      "team1": "CA Osasuna",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-09",
+      "time": "18:30",
+      "team1": "RC Celta",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-09",
+      "time": "21:00",
+      "team1": "Real Betis",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-14",
+      "time": "21:00",
+      "team1": "Valencia CF",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-15",
+      "time": "13:00",
+      "team1": "RCD Mallorca",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-15",
+      "time": "16:00",
+      "team1": "FC Barcelona",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-15",
+      "time": "18:30",
+      "team1": "Villarreal CF",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-15",
+      "time": "21:00",
+      "team1": "Granada CF",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-16",
+      "time": "12:00",
+      "team1": "Sevilla FC",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-16",
+      "time": "14:00",
+      "team1": "CD Leganés",
+      "team2": "Real Betis",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-16",
+      "time": "18:30",
+      "team1": "Athletic Club",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-16",
+      "time": "21:00",
+      "team1": "Real Madrid",
+      "team2": "RC Celta",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-03-10",
+      "time": "20:00",
+      "team1": "SD Eibar",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-21",
+      "time": "21:00",
+      "team1": "Real Betis",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-22",
+      "time": "13:00",
+      "team1": "RC Celta",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-22",
+      "time": "16:00",
+      "team1": "FC Barcelona",
+      "team2": "SD Eibar",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-22",
+      "time": "18:30",
+      "team1": "Real Sociedad",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-22",
+      "time": "21:00",
+      "team1": "Levante UD",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-23",
+      "time": "12:00",
+      "team1": "CA Osasuna",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-23",
+      "time": "14:00",
+      "team1": "CD Alavés",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-23",
+      "time": "16:00",
+      "team1": "Real Valladolid",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-23",
+      "time": "18:30",
+      "team1": "Getafe CF",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-23",
+      "time": "21:00",
+      "team1": "Atlético Madrid",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-28",
+      "time": "21:00",
+      "team1": "Real Sociedad",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-29",
+      "time": "13:00",
+      "team1": "SD Eibar",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-29",
+      "time": "16:00",
+      "team1": "Valencia CF",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-29",
+      "time": "18:30",
+      "team1": "CD Leganés",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-29",
+      "time": "21:00",
+      "team1": "Granada CF",
+      "team2": "RC Celta",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-03-01",
+      "time": "12:00",
+      "team1": "Sevilla FC",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-03-01",
+      "time": "14:00",
+      "team1": "Athletic Club",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-03-01",
+      "time": "16:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-03-01",
+      "time": "18:30",
+      "team1": "RCD Mallorca",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-03-01",
+      "time": "21:00",
+      "team1": "Real Madrid",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-06",
+      "time": "21:00",
+      "team1": "CD Alavés",
+      "team2": "Valencia CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-07",
+      "time": "13:00",
+      "team1": "SD Eibar",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-07",
+      "time": "16:00",
+      "team1": "Atlético Madrid",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-07",
+      "time": "18:30",
+      "team1": "FC Barcelona",
+      "team2": "Real Sociedad",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-07",
+      "time": "21:00",
+      "team1": "Getafe CF",
+      "team2": "RC Celta",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-08",
+      "time": "12:00",
+      "team1": "CA Osasuna",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-08",
+      "time": "14:00",
+      "team1": "Real Valladolid",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-08",
+      "time": "16:00",
+      "team1": "Levante UD",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-08",
+      "time": "18:30",
+      "team1": "Villarreal CF",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-08",
+      "time": "21:00",
+      "team1": "Real Betis",
+      "team2": "Real Madrid",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-11",
+      "time": "22:00",
+      "team1": "Sevilla FC",
+      "team2": "Real Betis",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-12",
+      "time": "19:30",
+      "team1": "Granada CF",
+      "team2": "Getafe CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-12",
+      "time": "22:00",
+      "team1": "Valencia CF",
+      "team2": "Levante UD",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-13",
+      "time": "14:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "CD Alavés",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-13",
+      "time": "17:00",
+      "team1": "RC Celta",
+      "team2": "Villarreal CF",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-13",
+      "time": "19:30",
+      "team1": "CD Leganés",
+      "team2": "Real Valladolid",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-13",
+      "time": "22:00",
+      "team1": "RCD Mallorca",
+      "team2": "FC Barcelona",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-14",
+      "time": "14:00",
+      "team1": "Athletic Club",
+      "team2": "Atlético Madrid",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-14",
+      "time": "19:30",
+      "team1": "Real Madrid",
+      "team2": "SD Eibar",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-06-14",
+      "time": "22:00",
+      "team1": "Real Sociedad",
+      "team2": "CA Osasuna",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-15",
+      "time": "19:30",
+      "team1": "Levante UD",
+      "team2": "Sevilla FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-15",
+      "time": "22:00",
+      "team1": "Real Betis",
+      "team2": "Granada CF",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-16",
+      "time": "19:30",
+      "team1": "Getafe CF",
+      "team2": "Espanyol Barcelona",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-16",
+      "time": "19:30",
+      "team1": "Villarreal CF",
+      "team2": "RCD Mallorca",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-16",
+      "time": "22:00",
+      "team1": "FC Barcelona",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
       "date": "2020-06-17",
+      "time": "19:30",
+      "team1": "SD Eibar",
+      "team2": "Athletic Club",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-17",
+      "time": "19:30",
+      "team1": "Real Valladolid",
+      "team2": "RC Celta",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-17",
+      "time": "22:00",
       "team1": "CA Osasuna",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           5
@@ -3458,11 +4798,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-18",
-      "team1": "Deportivo Alavés",
+      "time": "19:30",
+      "team1": "CD Alavés",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3470,11 +4815,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-18",
+      "time": "22:00",
       "team1": "Real Madrid",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3482,23 +4832,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-19",
-      "team1": "RCD Mallorca",
-      "team2": "CD Leganés",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 30",
-      "date": "2020-06-19",
+      "time": "19:30",
       "team1": "Granada CF",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3506,8 +4849,26 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-19",
+      "time": "19:30",
+      "team1": "RCD Mallorca",
+      "team2": "CD Leganés",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2020-06-19",
+      "time": "22:00",
       "team1": "Sevilla FC",
       "team2": "FC Barcelona",
       "score": {
@@ -3518,11 +4879,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-20",
-      "team1": "RCD Espanyol",
+      "time": "14:00",
+      "team1": "Espanyol Barcelona",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3530,11 +4896,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-20",
-      "team1": "Athletic Club Bilbao",
+      "time": "17:00",
+      "team1": "Athletic Club",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3542,11 +4913,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-20",
+      "time": "19:30",
       "team1": "Getafe CF",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3554,11 +4930,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-20",
+      "time": "22:00",
       "team1": "Atlético Madrid",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3566,11 +4947,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-21",
-      "team1": "RC Celta Vigo",
-      "team2": "Deportivo Alavés",
+      "time": "14:00",
+      "team1": "RC Celta",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           6,
           0
@@ -3578,11 +4964,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-21",
+      "time": "19:30",
       "team1": "Valencia CF",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3590,11 +4981,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-06-21",
+      "time": "22:00",
       "team1": "Real Sociedad",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3602,11 +4998,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-22",
+      "time": "19:30",
       "team1": "Villarreal CF",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3614,8 +5015,9 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-22",
+      "time": "22:00",
       "team1": "CD Leganés",
       "team2": "Granada CF",
       "score": {
@@ -3626,11 +5028,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-23",
+      "time": "19:30",
       "team1": "Levante UD",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3638,11 +5045,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-23",
-      "team1": "Real Valladolid CF",
+      "time": "19:30",
+      "team1": "Real Valladolid",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3650,11 +5062,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-23",
+      "time": "22:00",
       "team1": "FC Barcelona",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3662,11 +5079,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-24",
-      "team1": "Deportivo Alavés",
+      "time": "19:30",
+      "team1": "CD Alavés",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3674,11 +5096,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-24",
+      "time": "19:30",
       "team1": "Real Sociedad",
-      "team2": "RC Celta Vigo",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3686,11 +5113,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-24",
+      "time": "22:00",
       "team1": "Real Madrid",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3698,11 +5130,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-25",
+      "time": "19:30",
       "team1": "SD Eibar",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3710,11 +5147,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-06-25",
+      "time": "22:00",
       "team1": "Real Betis",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3722,11 +5164,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-26",
+      "time": "22:00",
       "team1": "Sevilla FC",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3734,11 +5181,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-27",
-      "team1": "Athletic Club Bilbao",
+      "time": "14:00",
+      "team1": "Athletic Club",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -3746,11 +5198,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-27",
-      "team1": "RC Celta Vigo",
+      "time": "17:00",
+      "team1": "RC Celta",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3758,11 +5215,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-27",
+      "time": "19:30",
       "team1": "CA Osasuna",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3770,11 +5232,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-27",
+      "time": "22:00",
       "team1": "Atlético Madrid",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3782,11 +5249,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-28",
+      "time": "14:00",
       "team1": "Levante UD",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -3794,11 +5266,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-28",
+      "time": "17:00",
       "team1": "Villarreal CF",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3806,11 +5283,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-28",
+      "time": "19:30",
       "team1": "Granada CF",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3818,11 +5300,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-28",
-      "team1": "RCD Espanyol",
+      "time": "22:00",
+      "team1": "Espanyol Barcelona",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3830,11 +5317,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-06-29",
+      "time": "22:00",
       "team1": "Getafe CF",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3842,11 +5334,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-06-30",
+      "time": "19:30",
       "team1": "RCD Mallorca",
-      "team2": "RC Celta Vigo",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           1
@@ -3854,11 +5351,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-06-30",
+      "time": "21:00",
       "team1": "CD Leganés",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -3866,11 +5368,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-06-30",
+      "time": "22:00",
       "team1": "FC Barcelona",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3878,11 +5385,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-01",
-      "team1": "Deportivo Alavés",
+      "time": "19:30",
+      "team1": "CD Alavés",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3890,11 +5402,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-01",
+      "time": "19:30",
       "team1": "Valencia CF",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3902,11 +5419,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-01",
+      "time": "22:00",
       "team1": "Real Betis",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -3914,9 +5436,10 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-01",
-      "team1": "Real Valladolid CF",
+      "time": "22:00",
+      "team1": "Real Valladolid",
       "team2": "Levante UD",
       "score": {
         "ft": [
@@ -3926,11 +5449,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-02",
+      "time": "19:30",
       "team1": "SD Eibar",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3938,11 +5466,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-02",
+      "time": "19:30",
       "team1": "Real Sociedad",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3950,11 +5483,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-02",
+      "time": "22:00",
       "team1": "Real Madrid",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3962,11 +5500,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-03",
+      "time": "22:00",
       "team1": "Atlético Madrid",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3974,11 +5517,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-04",
-      "team1": "RC Celta Vigo",
+      "time": "17:00",
+      "team1": "RC Celta",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3986,11 +5534,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-04",
-      "team1": "Real Valladolid CF",
-      "team2": "Deportivo Alavés",
+      "time": "19:30",
+      "team1": "Real Valladolid",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3998,11 +5551,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-04",
+      "time": "22:00",
       "team1": "Granada CF",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -4010,11 +5568,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-05",
-      "team1": "Athletic Club Bilbao",
+      "time": "14:00",
+      "team1": "Athletic Club",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4022,11 +5585,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-05",
-      "team1": "RCD Espanyol",
+      "time": "17:00",
+      "team1": "Espanyol Barcelona",
       "team2": "CD Leganés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4034,8 +5602,9 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-05",
+      "time": "19:30",
       "team1": "CA Osasuna",
       "team2": "Getafe CF",
       "score": {
@@ -4046,11 +5615,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-05",
+      "time": "22:00",
       "team1": "Villarreal CF",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           4
@@ -4058,11 +5632,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-06",
+      "time": "19:30",
       "team1": "Levante UD",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4070,11 +5649,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-06",
+      "time": "22:00",
       "team1": "Sevilla FC",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4082,11 +5666,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-07",
+      "time": "19:30",
       "team1": "Valencia CF",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4094,11 +5683,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-07",
-      "team1": "RC Celta Vigo",
+      "time": "22:00",
+      "team1": "RC Celta",
       "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4106,11 +5700,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-08",
+      "time": "20:30",
       "team1": "Real Betis",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4118,11 +5717,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-08",
+      "time": "20:30",
       "team1": "Getafe CF",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           3
@@ -4130,11 +5734,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-08",
+      "time": "22:00",
       "team1": "FC Barcelona",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4142,8 +5751,9 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-09",
+      "time": "19:30",
       "team1": "SD Eibar",
       "team2": "CD Leganés",
       "score": {
@@ -4154,11 +5764,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-09",
+      "time": "19:30",
       "team1": "RCD Mallorca",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4166,11 +5781,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-09",
-      "team1": "Athletic Club Bilbao",
+      "time": "22:00",
+      "team1": "Athletic Club",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -4178,11 +5798,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-10",
+      "time": "19:30",
       "team1": "Real Sociedad",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           3
@@ -4190,11 +5815,16 @@
       }
     },
     {
-      "round": "Jornada 35",
+      "round": "Matchday 35",
       "date": "2020-07-10",
+      "time": "22:00",
       "team1": "Real Madrid",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4202,11 +5832,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-11",
+      "time": "17:00",
       "team1": "CA Osasuna",
-      "team2": "RC Celta Vigo",
+      "team2": "RC Celta",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -4214,11 +5849,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-11",
-      "team1": "Real Valladolid CF",
+      "time": "19:30",
+      "team1": "Real Valladolid",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -4226,11 +5866,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-11",
+      "time": "22:00",
       "team1": "Atlético Madrid",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4238,11 +5883,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-12",
-      "team1": "RCD Espanyol",
+      "time": "14:00",
+      "team1": "Espanyol Barcelona",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -4250,11 +5900,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-12",
+      "time": "17:00",
       "team1": "Levante UD",
-      "team2": "Athletic Club Bilbao",
+      "team2": "Athletic Club",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -4262,11 +5917,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-12",
+      "time": "19:30",
       "team1": "CD Leganés",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4274,11 +5934,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-12",
+      "time": "22:00",
       "team1": "Sevilla FC",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4286,9 +5951,10 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-13",
-      "team1": "Deportivo Alavés",
+      "time": "19:30",
+      "team1": "CD Alavés",
       "team2": "Getafe CF",
       "score": {
         "ft": [
@@ -4298,11 +5964,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-13",
+      "time": "19:30",
       "team1": "Villarreal CF",
       "team2": "Real Sociedad",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -4310,11 +5981,16 @@
       }
     },
     {
-      "round": "Jornada 36",
+      "round": "Matchday 36",
       "date": "2020-07-13",
+      "time": "22:00",
       "team1": "Granada CF",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -4322,11 +5998,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "18:30",
       "team1": "SD Eibar",
-      "team2": "Real Valladolid CF",
+      "team2": "Real Valladolid",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -4334,11 +6015,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
-      "team1": "Getafe CF",
-      "team2": "Atlético Madrid",
+      "time": "21:00",
+      "team1": "Athletic Club",
+      "team2": "CD Leganés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4346,11 +6032,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "21:00",
       "team1": "FC Barcelona",
       "team2": "CA Osasuna",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4358,11 +6049,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "21:00",
       "team1": "Real Betis",
-      "team2": "Deportivo Alavés",
+      "team2": "CD Alavés",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -4370,11 +6066,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
-      "team1": "RC Celta Vigo",
+      "time": "21:00",
+      "team1": "RC Celta",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -4382,11 +6083,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
-      "team1": "Athletic Club Bilbao",
-      "team2": "CD Leganés",
+      "time": "21:00",
+      "team1": "Getafe CF",
+      "team2": "Atlético Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4394,11 +6100,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "21:00",
       "team1": "RCD Mallorca",
       "team2": "Granada CF",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4406,11 +6117,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "21:00",
       "team1": "Real Madrid",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -4418,8 +6134,9 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "21:00",
       "team1": "Real Sociedad",
       "team2": "Sevilla FC",
       "score": {
@@ -4430,11 +6147,16 @@
       }
     },
     {
-      "round": "Jornada 37",
+      "round": "Matchday 37",
       "date": "2020-07-16",
+      "time": "21:00",
       "team1": "Valencia CF",
-      "team2": "RCD Espanyol",
+      "team2": "Espanyol Barcelona",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4442,11 +6164,16 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
-      "team1": "Deportivo Alavés",
+      "time": "17:00",
+      "team1": "CD Alavés",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           5
@@ -4454,11 +6181,16 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
+      "time": "18:30",
       "team1": "Villarreal CF",
       "team2": "SD Eibar",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -4466,11 +6198,16 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
-      "team1": "Real Valladolid CF",
+      "time": "18:30",
+      "team1": "Real Valladolid",
       "team2": "Real Betis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4478,22 +6215,28 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
-      "team1": "Granada CF",
-      "team2": "Athletic Club Bilbao",
+      "time": "21:00",
+      "team1": "Atlético Madrid",
+      "team2": "Real Sociedad",
       "score": {
-        "ft": [
-          4,
+        "ht": [
+          1,
           0
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
-      "team1": "RCD Espanyol",
-      "team2": "RC Celta Vigo",
+      "time": "21:00",
+      "team1": "Espanyol Barcelona",
+      "team2": "RC Celta",
       "score": {
         "ft": [
           0,
@@ -4502,23 +6245,33 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
-      "team1": "Atlético Madrid",
-      "team2": "Real Sociedad",
+      "time": "21:00",
+      "team1": "Granada CF",
+      "team2": "Athletic Club",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
+          0
+        ],
+        "ft": [
+          4,
+          0
         ]
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
+      "time": "21:00",
       "team1": "CD Leganés",
       "team2": "Real Madrid",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -4526,11 +6279,16 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
+      "time": "21:00",
       "team1": "Levante UD",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4538,11 +6296,16 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
+      "time": "21:00",
       "team1": "CA Osasuna",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -4550,11 +6313,16 @@
       }
     },
     {
-      "round": "Jornada 38",
+      "round": "Matchday 38",
       "date": "2020-07-19",
+      "time": "21:00",
       "team1": "Sevilla FC",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0

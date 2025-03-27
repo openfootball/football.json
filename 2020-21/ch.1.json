@@ -1,12 +1,17 @@
 {
-  "name": "Super League 2020/21",
+  "name": "Swiss Super League 2020/21",
   "matches": [
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2020-09-19",
+      "time": "19:00",
       "team1": "FC Lugano",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2020-09-19",
+      "time": "19:00",
       "team1": "BSC Young Boys",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2020-09-20",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Vaduz",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -38,11 +53,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2020-09-20",
-      "team1": "FC Lausanne",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
       "team2": "Servette FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2020-09-20",
+      "time": "16:00",
       "team1": "FC St. Gallen",
       "team2": "FC Sion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -62,8 +87,9 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2020-09-26",
+      "time": "19:00",
       "team1": "FC Sion",
       "team2": "BSC Young Boys",
       "score": {
@@ -74,11 +100,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2020-09-26",
+      "time": "19:00",
       "team1": "FC Zürich",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -86,11 +117,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2020-09-27",
+      "time": "16:00",
       "team1": "FC Luzern",
-      "team2": "FC Lausanne",
+      "team2": "FC Lausanne-Sport",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -98,11 +134,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2020-09-27",
+      "time": "16:00",
       "team1": "FC Vaduz",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -110,11 +151,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2020-09-27",
+      "time": "16:00",
       "team1": "Servette FC",
-      "team2": "FC Basel",
+      "team2": "FC Basel 1893",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -122,23 +168,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2020-10-03",
-      "team1": "FC Lugano",
-      "team2": "FC Sion",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
-      "date": "2020-10-03",
-      "team1": "FC Lausanne",
+      "time": "19:00",
+      "team1": "FC Lausanne-Sport",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -146,11 +185,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
+      "date": "2020-10-03",
+      "time": "19:00",
+      "team1": "FC Lugano",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
       "date": "2020-10-04",
-      "team1": "FC Basel",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -158,11 +219,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2020-10-04",
+      "time": "16:00",
       "team1": "FC St. Gallen",
       "team2": "Servette FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -170,11 +236,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2020-10-04",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC Vaduz",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -182,8 +253,26 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2020-10-17",
+      "time": "19:00",
+      "team1": "FC Vaduz",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-10-17",
+      "time": "19:00",
       "team1": "Servette FC",
       "team2": "BSC Young Boys",
       "score": {
@@ -194,35 +283,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2020-10-17",
-      "team1": "FC Vaduz",
-      "team2": "FC Lugano",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2020-10-18",
-      "team1": "FC Sion",
-      "team2": "FC Lausanne",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
-      "date": "2020-10-18",
+      "time": "16:00",
       "team1": "FC Luzern",
       "team2": "FC St. Gallen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -230,11 +300,29 @@
       }
     },
     {
-      "round": "Spieltag 5",
-      "date": "2020-10-24",
-      "team1": "FC Lugano",
-      "team2": "FC St. Gallen",
+      "round": "Matchday 4",
+      "date": "2020-10-18",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "FC Lausanne-Sport",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-11-04",
+      "time": "18:00",
+      "team1": "FC Zürich",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -242,11 +330,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2020-10-24",
+      "time": "19:00",
       "team1": "FC Vaduz",
       "team2": "FC Zürich",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -254,11 +347,33 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
+      "date": "2020-10-24",
+      "time": "19:00",
+      "team1": "FC Lugano",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2020-10-25",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC Luzern",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -266,17 +381,50 @@
       }
     },
     {
-      "round": "Spieltag 6",
-      "date": "2020-11-01",
-      "team1": "FC Lugano",
-      "team2": "BSC Young Boys"
+      "round": "Matchday 5",
+      "date": "2020-11-25",
+      "time": "18:15",
+      "team1": "FC Basel 1893",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 6",
-      "date": "2020-11-01",
-      "team1": "FC St. Gallen",
-      "team2": "FC Basel",
+      "round": "Matchday 5",
+      "date": "2020-11-25",
+      "time": "18:15",
+      "team1": "FC Sion",
+      "team2": "Servette FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-11-01",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -284,23 +432,33 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2020-11-04",
-      "team1": "FC Zürich",
-      "team2": "FC Basel",
+      "round": "Matchday 6",
+      "date": "2020-12-02",
+      "time": "18:15",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Vaduz",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          1,
+          3,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 7",
-      "date": "2020-11-07",
-      "team1": "FC Zürich",
-      "team2": "FC Luzern",
+      "round": "Matchday 6",
+      "date": "2020-12-02",
+      "time": "18:15",
+      "team1": "FC Luzern",
+      "team2": "FC Sion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -308,11 +466,50 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 6",
+      "date": "2020-12-02",
+      "time": "18:15",
+      "team1": "Servette FC",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2021-01-20",
+      "time": "18:00",
+      "team1": "FC Lugano",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
       "date": "2020-11-07",
-      "team1": "FC Lausanne",
+      "time": "19:00",
+      "team1": "FC Lausanne-Sport",
       "team2": "FC Lugano",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -320,8 +517,26 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
+      "date": "2020-11-07",
+      "time": "19:00",
+      "team1": "FC Zürich",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
       "date": "2020-11-08",
+      "time": "16:00",
       "team1": "BSC Young Boys",
       "team2": "FC St. Gallen",
       "score": {
@@ -332,376 +547,2471 @@
       }
     },
     {
-      "round": "Spieltag 8",
-      "date": "2020-11-21",
-      "team1": "FC Luzern",
-      "team2": "FC Vaduz"
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2020-11-21",
-      "team1": "BSC Young Boys",
-      "team2": "FC Basel"
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2020-11-22",
-      "team1": "Servette FC",
-      "team2": "FC Lugano"
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2020-11-22",
-      "team1": "FC St. Gallen",
-      "team2": "FC Lausanne"
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2020-11-22",
-      "team1": "FC Sion",
-      "team2": "FC Zürich"
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2020-11-25",
-      "team1": "FC Sion",
-      "team2": "Servette FC"
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2020-11-25",
-      "team1": "FC Basel",
-      "team2": "FC Lausanne"
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2020-11-28",
-      "team1": "FC Vaduz",
-      "team2": "FC Sion"
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2020-11-28",
-      "team1": "Servette FC",
-      "team2": "FC Luzern"
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2020-11-29",
-      "team1": "FC Zürich",
-      "team2": "FC St. Gallen"
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2020-11-29",
-      "team1": "FC Lausanne",
-      "team2": "BSC Young Boys"
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2020-11-29",
-      "team1": "FC Lugano",
-      "team2": "FC Basel"
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2020-12-02",
-      "team1": "Servette FC",
-      "team2": "FC Zürich"
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2020-12-02",
-      "team1": "FC Luzern",
-      "team2": "FC Sion"
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2020-12-02",
-      "team1": "FC Lausanne",
-      "team2": "FC Vaduz"
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2020-12-05",
-      "team1": "FC St. Gallen",
-      "team2": "FC Vaduz"
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2020-12-05",
-      "team1": "FC Basel",
-      "team2": "Servette FC"
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2020-12-06",
-      "team1": "FC Luzern",
-      "team2": "BSC Young Boys"
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2020-12-06",
-      "team1": "FC Zürich",
-      "team2": "FC Lausanne"
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2020-12-06",
-      "team1": "FC Sion",
-      "team2": "FC Lugano"
-    },
-    {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2020-12-09",
-      "team1": "FC Vaduz",
-      "team2": "Servette FC"
+      "time": "18:15",
+      "team1": "FC Basel 1893",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2020-12-09",
-      "team1": "FC Basel",
-      "team2": "FC Sion"
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2020-12-12",
-      "team1": "FC Lugano",
-      "team2": "FC Zürich"
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2020-12-12",
+      "time": "18:15",
       "team1": "FC Vaduz",
-      "team2": "FC Basel"
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 11",
-      "date": "2020-12-13",
-      "team1": "BSC Young Boys",
-      "team2": "Servette FC"
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2020-12-13",
-      "team1": "FC Sion",
-      "team2": "FC Luzern"
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2020-12-13",
-      "team1": "FC Lausanne",
-      "team2": "FC St. Gallen"
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2020-12-16",
+      "round": "Matchday 8",
+      "date": "2020-11-21",
+      "time": "18:15",
       "team1": "FC Luzern",
-      "team2": "FC Zürich"
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 12",
-      "date": "2020-12-16",
-      "team1": "FC Basel",
-      "team2": "BSC Young Boys"
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2020-12-16",
-      "team1": "FC St. Gallen",
-      "team2": "FC Lugano"
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2020-12-17",
-      "team1": "FC Vaduz",
-      "team2": "FC Lausanne"
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2020-12-17",
-      "team1": "Servette FC",
-      "team2": "FC Sion"
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2020-12-19",
+      "round": "Matchday 8",
+      "date": "2020-11-21",
+      "time": "20:30",
       "team1": "BSC Young Boys",
-      "team2": "FC Lugano"
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 13",
-      "date": "2020-12-19",
-      "team1": "FC Basel",
-      "team2": "FC St. Gallen"
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2020-12-20",
+      "round": "Matchday 8",
+      "date": "2020-11-22",
+      "time": "16:00",
       "team1": "FC Sion",
-      "team2": "FC Vaduz"
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 13",
-      "date": "2020-12-20",
+      "round": "Matchday 8",
+      "date": "2020-11-22",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-11-22",
+      "time": "16:00",
+      "team1": "Servette FC",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-11-28",
+      "time": "18:15",
+      "team1": "FC Vaduz",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-11-28",
+      "time": "20:30",
+      "team1": "Servette FC",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-11-29",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-11-29",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-12-09",
+      "time": "18:15",
       "team1": "FC Zürich",
-      "team2": "Servette FC"
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 10",
+      "date": "2020-12-05",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-12-06",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-12-06",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2021-01-17",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2021-01-20",
+      "time": "18:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-12",
+      "time": "18:45",
+      "team1": "FC Sion",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-12",
+      "time": "20:30",
+      "team1": "FC Vaduz",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-13",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-13",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-13",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-16",
+      "time": "18:15",
+      "team1": "FC Luzern",
+      "team2": "FC Zürich",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-16",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-16",
+      "time": "20:30",
+      "team1": "FC St. Gallen",
+      "team2": "FC Lugano",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-17",
+      "time": "18:15",
+      "team1": "FC Vaduz",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-17",
+      "time": "20:30",
+      "team1": "Servette FC",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-19",
+      "time": "18:15",
+      "team1": "BSC Young Boys",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-19",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2020-12-20",
-      "team1": "FC Lausanne",
-      "team2": "FC Luzern"
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 13",
+      "date": "2020-12-20",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-20",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
       "date": "2020-12-22",
+      "time": "20:30",
       "team1": "FC St. Gallen",
-      "team2": "BSC Young Boys"
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
+      "time": "18:15",
       "team1": "FC Luzern",
-      "team2": "FC Basel"
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
+      "time": "18:15",
       "team1": "Servette FC",
-      "team2": "FC Vaduz"
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
+      "time": "20:30",
       "team1": "FC Lugano",
-      "team2": "FC Lausanne"
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
+      "time": "20:30",
       "team1": "FC Zürich",
-      "team2": "FC Sion"
+      "team2": "FC Sion",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Spieltag 15",
-      "date": "2021-01-24",
-      "team1": "FC Lausanne",
-      "team2": "FC Sion"
+      "round": "Matchday 15",
+      "date": "2021-01-23",
+      "time": "18:15",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 15",
-      "date": "2021-01-24",
-      "team1": "FC Basel",
-      "team2": "FC Zürich"
+      "round": "Matchday 15",
+      "date": "2021-01-23",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2021-01-24",
-      "team1": "FC Luzern",
-      "team2": "FC Lugano"
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2021-01-24",
-      "team1": "Servette FC",
-      "team2": "FC St. Gallen"
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2021-01-24",
+      "time": "16:00",
       "team1": "FC Vaduz",
-      "team2": "BSC Young Boys"
+      "team2": "BSC Young Boys",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Spieltag 16",
-      "date": "2021-01-28",
-      "team1": "FC Lugano",
-      "team2": "Servette FC"
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2021-01-28",
-      "team1": "FC Sion",
-      "team2": "FC Basel"
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2021-01-28",
-      "team1": "BSC Young Boys",
-      "team2": "FC Lausanne"
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2021-01-28",
-      "team1": "FC Zürich",
-      "team2": "FC Vaduz"
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2021-01-28",
-      "team1": "FC St. Gallen",
-      "team2": "FC Luzern"
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2021-01-31",
-      "team1": "BSC Young Boys",
-      "team2": "FC Sion"
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2021-01-31",
-      "team1": "FC St. Gallen",
-      "team2": "FC Zürich"
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2021-01-31",
-      "team1": "FC Vaduz",
-      "team2": "FC Luzern"
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2021-01-31",
-      "team1": "Servette FC",
-      "team2": "FC Lausanne"
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2021-01-31",
-      "team1": "FC Basel",
-      "team2": "FC Lugano"
-    },
-    {
-      "round": "Spieltag 18",
-      "date": "2021-02-04",
-      "team1": "FC Lausanne",
-      "team2": "FC Basel"
-    },
-    {
-      "round": "Spieltag 18",
-      "date": "2021-02-04",
-      "team1": "FC Lugano",
-      "team2": "FC Vaduz"
-    },
-    {
-      "round": "Spieltag 18",
-      "date": "2021-02-04",
+      "round": "Matchday 15",
+      "date": "2021-02-10",
+      "time": "18:15",
       "team1": "FC Luzern",
-      "team2": "Servette FC"
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Spieltag 18",
-      "date": "2021-02-04",
-      "team1": "FC Sion",
-      "team2": "FC St. Gallen"
+      "round": "Matchday 15",
+      "date": "2021-02-10",
+      "time": "18:15",
+      "team1": "Servette FC",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Spieltag 18",
-      "date": "2021-02-04",
+      "round": "Matchday 16",
+      "date": "2021-01-27",
+      "time": "18:15",
       "team1": "FC Zürich",
-      "team2": "BSC Young Boys"
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-28",
+      "time": "20:30",
+      "team1": "FC Sion",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-02-10",
+      "time": "20:30",
+      "team1": "BSC Young Boys",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-02-17",
+      "time": "18:15",
+      "team1": "FC Lugano",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-02-17",
+      "time": "18:15",
+      "team1": "FC St. Gallen",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-30",
+      "time": "20:30",
+      "team1": "FC St. Gallen",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          2,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "Servette FC",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-02-24",
+      "time": "18:15",
+      "team1": "FC Vaduz",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-02-03",
+      "time": "18:15",
+      "team1": "FC Zürich",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-02-03",
+      "time": "20:30",
+      "team1": "FC Lugano",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-02-03",
+      "time": "20:30",
+      "team1": "FC Sion",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-02-04",
+      "time": "18:15",
+      "team1": "FC Luzern",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-02-04",
+      "time": "20:30",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-24",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-02-06",
+      "time": "20:30",
+      "team1": "FC Vaduz",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-02-07",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-02-07",
+      "time": "16:00",
+      "team1": "Servette FC",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-02-07",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-02-13",
+      "time": "18:15",
+      "team1": "FC Lausanne-Sport",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-02-13",
+      "time": "20:30",
+      "team1": "FC Sion",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-20",
+      "time": "18:15",
+      "team1": "FC Vaduz",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-20",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-27",
+      "time": "18:15",
+      "team1": "Servette FC",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-27",
+      "time": "20:30",
+      "team1": "FC St. Gallen",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-28",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-28",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-28",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-03-03",
+      "time": "18:15",
+      "team1": "FC St. Gallen",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-03-03",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-03-03",
+      "time": "20:30",
+      "team1": "FC Vaduz",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-03-04",
+      "time": "18:15",
+      "team1": "FC Sion",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-03-04",
+      "time": "20:30",
+      "team1": "FC Zürich",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-06",
+      "time": "18:15",
+      "team1": "BSC Young Boys",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-06",
+      "time": "20:30",
+      "team1": "Servette FC",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-07",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-07",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-07",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-13",
+      "time": "18:15",
+      "team1": "FC Zürich",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-13",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-14",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-14",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-14",
+      "time": "16:00",
+      "team1": "FC Vaduz",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-20",
+      "time": "18:15",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-20",
+      "time": "20:30",
+      "team1": "FC Lugano",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-21",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-21",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-21",
+      "time": "16:00",
+      "team1": "Servette FC",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-04-03",
+      "time": "18:15",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-04-03",
+      "time": "20:30",
+      "team1": "FC St. Gallen",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-04-04",
+      "time": "16:00",
+      "team1": "Servette FC",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-04-04",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-04-05",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-10",
+      "time": "18:15",
+      "team1": "FC Lugano",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-10",
+      "time": "20:30",
+      "team1": "FC Luzern",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-11",
+      "time": "16:00",
+      "team1": "FC Vaduz",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-11",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-11",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-17",
+      "time": "18:15",
+      "team1": "FC Sion",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-17",
+      "time": "20:30",
+      "team1": "FC St. Gallen",
+      "team2": "FC Luzern",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-18",
+      "time": "16:00",
+      "team1": "FC Basel 1893",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-18",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-18",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "18:15",
+      "team1": "FC Luzern",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "20:30",
+      "team1": "FC Lugano",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "20:30",
+      "team1": "FC Vaduz",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-22",
+      "time": "18:15",
+      "team1": "Servette FC",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-22",
+      "time": "20:30",
+      "team1": "FC Zürich",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-24",
+      "time": "18:15",
+      "team1": "FC St. Gallen",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-24",
+      "time": "20:30",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-25",
+      "time": "16:00",
+      "team1": "FC Lugano",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-25",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-25",
+      "time": "16:00",
+      "team1": "BSC Young Boys",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-01",
+      "time": "18:15",
+      "team1": "FC Vaduz",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-01",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-02",
+      "time": "16:00",
+      "team1": "Servette FC",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-02",
+      "time": "16:00",
+      "team1": "FC Sion",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-02",
+      "time": "16:00",
+      "team1": "FC Zürich",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-08",
+      "time": "18:15",
+      "team1": "FC Lugano",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "BSC Young Boys",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-09",
+      "time": "16:00",
+      "team1": "FC Lausanne-Sport",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-09",
+      "time": "16:00",
+      "team1": "FC Luzern",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-09",
+      "time": "16:00",
+      "team1": "FC St. Gallen",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-11",
+      "time": "18:15",
+      "team1": "FC Vaduz",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-12",
+      "time": "18:15",
+      "team1": "Servette FC",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-12",
+      "time": "20:30",
+      "team1": "FC Sion",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-12",
+      "time": "20:30",
+      "team1": "FC Zürich",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "FC Basel 1893",
+      "team2": "FC Zürich",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "FC Lugano",
+      "team2": "FC Sion",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "FC St. Gallen",
+      "team2": "FC Lausanne-Sport",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "FC Vaduz",
+      "team2": "Servette FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "BSC Young Boys",
+      "team2": "FC Luzern",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-21",
+      "time": "20:30",
+      "team1": "FC Lausanne-Sport",
+      "team2": "BSC Young Boys",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-21",
+      "time": "20:30",
+      "team1": "FC Luzern",
+      "team2": "FC Lugano",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-21",
+      "time": "20:30",
+      "team1": "Servette FC",
+      "team2": "FC St. Gallen",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-21",
+      "time": "20:30",
+      "team1": "FC Sion",
+      "team2": "FC Basel 1893",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-05-21",
+      "time": "20:30",
+      "team1": "FC Zürich",
+      "team2": "FC Vaduz",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     }
   ]
 }

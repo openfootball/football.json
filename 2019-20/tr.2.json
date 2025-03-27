@@ -1,12 +1,17 @@
 {
-  "name": "1. Lig 2019/20",
+  "name": "Turkish 1. Lig 2019/20",
   "matches": [
     {
       "round": "Matchday 1",
       "date": "2019-08-16",
+      "time": "20:00",
       "team1": "Giresunspor",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -16,9 +21,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-17",
+      "time": "19:15",
       "team1": "Fatih Karagümrük",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -28,9 +38,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-17",
+      "time": "21:45",
       "team1": "Adana Demirspor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -40,9 +55,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-17",
-      "team1": "Osmanlıspor Ankara",
+      "time": "21:45",
+      "team1": "Osmanlıspor FK",
       "team2": "Boluspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -52,9 +72,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-18",
+      "time": "16:30",
       "team1": "Hatayspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -64,9 +89,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-18",
+      "time": "19:15",
       "team1": "BB Erzurumspor",
-      "team2": "İstanbulspor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -76,21 +106,14 @@
     {
       "round": "Matchday 1",
       "date": "2019-08-18",
-      "team1": "Altay SK",
-      "team2": "Ümraniyespor",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 1",
-      "date": "2019-08-18",
-      "team1": "Akhisarspor",
+      "time": "21:45",
+      "team1": "Akhisar Belediyespor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -99,10 +122,32 @@
     },
     {
       "round": "Matchday 1",
+      "date": "2019-08-18",
+      "time": "21:45",
+      "team1": "Altay Izmir",
+      "team2": "Ümraniyespor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
       "date": "2019-08-19",
+      "time": "20:00",
       "team1": "Eskişehirspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -112,6 +157,7 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-23",
+      "time": "20:00",
       "team1": "Boluspor",
       "team2": "Adana Demirspor",
       "score": {
@@ -124,9 +170,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-24",
+      "time": "16:30",
       "team1": "Keçiörengücü",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -136,21 +187,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-24",
-      "team1": "Balıkesirspor",
-      "team2": "BB Erzurumspor",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2019-08-24",
-      "team1": "Altınordu",
+      "time": "21:45",
+      "team1": "Altınordu FK",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -159,10 +203,32 @@
     },
     {
       "round": "Matchday 2",
+      "date": "2019-08-24",
+      "time": "21:45",
+      "team1": "Balıkesirspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2019-08-25",
+      "time": "17:00",
       "team1": "Ümraniyespor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -172,9 +238,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-25",
-      "team1": "Menemenspor",
+      "time": "19:15",
+      "team1": "Menemen Belediyespor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -184,9 +255,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-25",
+      "time": "21:45",
       "team1": "Adanaspor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -196,9 +272,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-25",
+      "time": "21:45",
       "team1": "Bursaspor",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -208,9 +289,14 @@
     {
       "round": "Matchday 2",
       "date": "2019-08-26",
-      "team1": "İstanbulspor",
-      "team2": "Altay SK",
+      "time": "20:00",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -220,9 +306,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-30",
-      "team1": "Osmanlıspor Ankara",
+      "time": "20:00",
+      "team1": "Osmanlıspor FK",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -232,21 +323,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-31",
-      "team1": "Altay SK",
-      "team2": "Balıkesirspor",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 3",
-      "date": "2019-08-31",
+      "time": "17:00",
       "team1": "Ümraniyespor",
-      "team2": "İstanbulspor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -256,8 +340,26 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-31",
-      "team1": "Akhisarspor",
-      "team2": "Altınordu",
+      "time": "19:15",
+      "team1": "BB Erzurumspor",
+      "team2": "Boluspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-31",
+      "time": "21:45",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Altınordu FK",
       "score": {
         "ft": [
           0,
@@ -268,9 +370,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-08-31",
-      "team1": "BB Erzurumspor",
-      "team2": "Boluspor",
+      "time": "21:45",
+      "team1": "Altay Izmir",
+      "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -280,9 +387,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "19:15",
       "team1": "Giresunspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -292,9 +404,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "19:15",
       "team1": "Fatih Karagümrük",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -304,6 +421,7 @@
     {
       "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "21:45",
       "team1": "Adana Demirspor",
       "team2": "Keçiörengücü",
       "score": {
@@ -316,9 +434,14 @@
     {
       "round": "Matchday 3",
       "date": "2019-09-01",
+      "time": "21:45",
       "team1": "Eskişehirspor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -328,9 +451,14 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-13",
+      "time": "19:00",
       "team1": "Balıkesirspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -340,21 +468,31 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-14",
-      "team1": "Boluspor",
-      "team2": "Altay SK",
+      "time": "15:30",
+      "team1": "Keçiörengücü",
+      "team2": "BB Erzurumspor",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          2
+          0
+        ],
+        "ft": [
+          1,
+          0
         ]
       }
     },
     {
       "round": "Matchday 4",
       "date": "2019-09-14",
-      "team1": "Altınordu",
+      "time": "19:00",
+      "team1": "Altınordu FK",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -364,21 +502,31 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-14",
-      "team1": "Keçiörengücü",
-      "team2": "BB Erzurumspor",
+      "time": "19:00",
+      "team1": "Boluspor",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          1,
-          0
+          0,
+          2
         ]
       }
     },
     {
       "round": "Matchday 4",
       "date": "2019-09-15",
+      "time": "16:30",
       "team1": "Bursaspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -388,11 +536,16 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-15",
-      "team1": "Menemenspor",
-      "team2": "Akhisarspor",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Giresunspor",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          0
+        ],
+        "ft": [
+          2,
           1
         ]
       }
@@ -400,6 +553,7 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-15",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "Adana Demirspor",
       "score": {
@@ -412,11 +566,16 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-15",
-      "team1": "İstanbulspor",
-      "team2": "Giresunspor",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          2,
+          0,
           1
         ]
       }
@@ -424,6 +583,7 @@
     {
       "round": "Matchday 4",
       "date": "2019-09-16",
+      "time": "19:00",
       "team1": "Hatayspor",
       "team2": "Fatih Karagümrük",
       "score": {
@@ -436,9 +596,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-20",
+      "time": "19:00",
       "team1": "BB Erzurumspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -448,9 +613,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-20",
-      "team1": "İstanbulspor",
+      "time": "19:00",
+      "team1": "İstanbulspor AŞ",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -460,11 +630,16 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-21",
-      "team1": "Adana Demirspor",
-      "team2": "Bursaspor",
+      "time": "14:00",
+      "team1": "Ümraniyespor",
+      "team2": "Boluspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          4,
+          1,
           1
         ]
       }
@@ -472,7 +647,8 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-21",
-      "team1": "Altay SK",
+      "time": "16:30",
+      "team1": "Altay Izmir",
       "team2": "Keçiörengücü",
       "score": {
         "ft": [
@@ -484,9 +660,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-21",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Altınordu",
+      "time": "16:30",
+      "team1": "Osmanlıspor FK",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -496,11 +677,16 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-21",
-      "team1": "Ümraniyespor",
-      "team2": "Boluspor",
+      "time": "19:00",
+      "team1": "Adana Demirspor",
+      "team2": "Bursaspor",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
-          1,
+          4,
           1
         ]
       }
@@ -508,9 +694,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-22",
+      "time": "14:00",
       "team1": "Giresunspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -520,9 +711,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-22",
+      "time": "16:30",
       "team1": "Eskişehirspor",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -532,9 +728,14 @@
     {
       "round": "Matchday 5",
       "date": "2019-09-22",
-      "team1": "Akhisarspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -544,9 +745,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-28",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -556,9 +762,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-28",
+      "time": "16:30",
       "team1": "Boluspor",
-      "team2": "İstanbulspor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -568,21 +779,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-28",
-      "team1": "Bursaspor",
-      "team2": "BB Erzurumspor",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2019-09-28",
+      "time": "19:00",
       "team1": "Adanaspor",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           3
@@ -591,10 +795,15 @@
     },
     {
       "round": "Matchday 6",
-      "date": "2019-09-29",
-      "team1": "Hatayspor",
-      "team2": "Eskişehirspor",
+      "date": "2019-09-28",
+      "time": "19:00",
+      "team1": "Bursaspor",
+      "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -604,9 +813,31 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-29",
-      "team1": "Fatih Karagümrük",
-      "team2": "Akhisarspor",
+      "time": "14:00",
+      "team1": "Hatayspor",
+      "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2019-09-29",
+      "time": "14:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           2,
           3
@@ -616,9 +847,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-29",
+      "time": "16:30",
       "team1": "Balıkesirspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -628,9 +864,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-29",
-      "team1": "Menemenspor",
-      "team2": "Osmanlıspor Ankara",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -640,9 +881,14 @@
     {
       "round": "Matchday 6",
       "date": "2019-09-30",
-      "team1": "Altınordu",
+      "time": "19:00",
+      "team1": "Altınordu FK",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -652,9 +898,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-04",
-      "team1": "Altay SK",
+      "time": "19:00",
+      "team1": "Altay Izmir",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -664,9 +915,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-05",
+      "time": "14:00",
       "team1": "Giresunspor",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -676,9 +932,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-05",
+      "time": "16:30",
       "team1": "Eskişehirspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -688,21 +949,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-05",
-      "team1": "Balıkesirspor",
-      "team2": "Boluspor",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2019-10-05",
-      "team1": "İstanbulspor",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -711,12 +965,34 @@
     },
     {
       "round": "Matchday 7",
-      "date": "2019-10-06",
-      "team1": "Adana Demirspor",
-      "team2": "Menemenspor",
+      "date": "2019-10-05",
+      "time": "19:00",
+      "team1": "Balıkesirspor",
+      "team2": "Boluspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          0,
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-10-06",
+      "time": "14:00",
+      "team1": "Ümraniyespor",
+      "team2": "Adanaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
           1
         ]
       }
@@ -724,9 +1000,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-06",
+      "time": "16:30",
       "team1": "BB Erzurumspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -736,9 +1017,14 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-06",
-      "team1": "Osmanlıspor Ankara",
+      "time": "16:30",
+      "team1": "Osmanlıspor FK",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -748,11 +1034,16 @@
     {
       "round": "Matchday 7",
       "date": "2019-10-06",
-      "team1": "Ümraniyespor",
-      "team2": "Adanaspor",
+      "time": "19:00",
+      "team1": "Adana Demirspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          2,
+          0,
           1
         ]
       }
@@ -760,9 +1051,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-18",
-      "team1": "Akhisarspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -772,9 +1068,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-19",
+      "time": "14:00",
       "team1": "Hatayspor",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -784,9 +1085,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-19",
+      "time": "16:30",
       "team1": "Bursaspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -796,7 +1102,8 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-19",
-      "team1": "Menemenspor",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
       "team2": "BB Erzurumspor",
       "score": {
         "ft": [
@@ -808,9 +1115,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-20",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -820,9 +1132,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-20",
+      "time": "16:30",
       "team1": "Boluspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -832,21 +1149,14 @@
     {
       "round": "Matchday 8",
       "date": "2019-10-20",
-      "team1": "Altınordu",
-      "team2": "Altay SK",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2019-10-20",
+      "time": "19:00",
       "team1": "Adanaspor",
-      "team2": "İstanbulspor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -855,10 +1165,32 @@
     },
     {
       "round": "Matchday 8",
-      "date": "2019-10-21",
-      "team1": "Fatih Karagümrük",
-      "team2": "Osmanlıspor Ankara",
+      "date": "2019-10-20",
+      "time": "19:00",
+      "team1": "Altınordu FK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-10-21",
+      "time": "19:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Osmanlıspor FK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -868,9 +1200,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-25",
+      "time": "19:00",
       "team1": "Boluspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -880,9 +1217,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-26",
+      "time": "14:00",
       "team1": "Ümraniyespor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           0
@@ -892,9 +1234,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-26",
+      "time": "16:30",
       "team1": "Balıkesirspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -904,9 +1251,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-26",
-      "team1": "İstanbulspor",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -916,9 +1268,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-26",
-      "team1": "Altay SK",
-      "team2": "Menemenspor",
+      "time": "19:00",
+      "team1": "Altay Izmir",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -928,9 +1285,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-27",
+      "time": "14:00",
       "team1": "BB Erzurumspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -940,9 +1302,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-27",
+      "time": "16:30",
       "team1": "Giresunspor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -952,9 +1319,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-27",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -964,9 +1336,14 @@
     {
       "round": "Matchday 9",
       "date": "2019-10-28",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Akhisarspor",
+      "time": "19:00",
+      "team1": "Osmanlıspor FK",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -976,9 +1353,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-11-02",
+      "time": "14:00",
       "team1": "Hatayspor",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -988,30 +1370,7 @@
     {
       "round": "Matchday 10",
       "date": "2019-11-02",
-      "team1": "Akhisarspor",
-      "team2": "Adana Demirspor",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2019-11-02",
-      "team1": "Menemenspor",
-      "team2": "Ümraniyespor",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2019-11-02",
+      "time": "16:30",
       "team1": "Adanaspor",
       "team2": "Boluspor",
       "score": {
@@ -1023,7 +1382,42 @@
     },
     {
       "round": "Matchday 10",
+      "date": "2019-11-02",
+      "time": "16:30",
+      "team1": "Menemen Belediyespor",
+      "team2": "Ümraniyespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-11-02",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Adana Demirspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
       "date": "2019-11-03",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Giresunspor",
       "score": {
@@ -1036,9 +1430,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-11-03",
+      "time": "16:30",
       "team1": "Eskişehirspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1048,21 +1447,14 @@
     {
       "round": "Matchday 10",
       "date": "2019-11-03",
-      "team1": "Altınordu",
-      "team2": "İstanbulspor",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2019-11-03",
+      "time": "16:30",
       "team1": "Fatih Karagümrük",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1071,7 +1463,25 @@
     },
     {
       "round": "Matchday 10",
+      "date": "2019-11-03",
+      "time": "19:00",
+      "team1": "Altınordu FK",
+      "team2": "İstanbulspor AŞ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
       "date": "2019-11-04",
+      "time": "19:00",
       "team1": "Bursaspor",
       "team2": "Balıkesirspor",
       "score": {
@@ -1084,9 +1494,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-08",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -1096,8 +1511,9 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-09",
+      "time": "14:00",
       "team1": "BB Erzurumspor",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
         "ft": [
           0,
@@ -1108,9 +1524,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-09",
+      "time": "16:30",
       "team1": "Giresunspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1120,21 +1541,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-09",
-      "team1": "Altay SK",
-      "team2": "Fatih Karagümrük",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Menemen Belediyespor",
       "score": {
-        "ft": [
+        "ht": [
           0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 11",
-      "date": "2019-11-09",
-      "team1": "İstanbulspor",
-      "team2": "Menemenspor",
-      "score": {
+        ],
         "ft": [
           1,
           2
@@ -1143,10 +1557,32 @@
     },
     {
       "round": "Matchday 11",
+      "date": "2019-11-09",
+      "time": "19:00",
+      "team1": "Altay Izmir",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
       "date": "2019-11-10",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1156,8 +1592,9 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-10",
-      "team1": "Balıkesirspor",
-      "team2": "Altınordu",
+      "time": "14:00",
+      "team1": "Ümraniyespor",
+      "team2": "Hatayspor",
       "score": {
         "ft": [
           0,
@@ -1168,9 +1605,14 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-10",
+      "time": "16:30",
       "team1": "Boluspor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1180,8 +1622,9 @@
     {
       "round": "Matchday 11",
       "date": "2019-11-10",
-      "team1": "Ümraniyespor",
-      "team2": "Hatayspor",
+      "time": "19:00",
+      "team1": "Balıkesirspor",
+      "team2": "Altınordu FK",
       "score": {
         "ft": [
           0,
@@ -1192,9 +1635,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-22",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1204,9 +1652,31 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-23",
+      "time": "14:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Ümraniyespor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-11-23",
+      "time": "16:30",
       "team1": "Eskişehirspor",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1216,21 +1686,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-23",
-      "team1": "Fatih Karagümrük",
-      "team2": "Ümraniyespor",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 12",
-      "date": "2019-11-23",
+      "time": "19:00",
       "team1": "Bursaspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1240,9 +1703,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-24",
+      "time": "14:00",
       "team1": "Hatayspor",
-      "team2": "İstanbulspor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1252,9 +1720,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-24",
-      "team1": "Menemenspor",
+      "time": "16:30",
+      "team1": "Menemen Belediyespor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1264,9 +1737,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-24",
-      "team1": "Osmanlıspor Ankara",
+      "time": "16:30",
+      "team1": "Osmanlıspor FK",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           2,
           3
@@ -1276,9 +1754,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-24",
-      "team1": "Akhisarspor",
-      "team2": "Altay SK",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1288,9 +1771,14 @@
     {
       "round": "Matchday 12",
       "date": "2019-11-25",
-      "team1": "Altınordu",
+      "time": "19:00",
+      "team1": "Altınordu FK",
       "team2": "Boluspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1300,9 +1788,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-29",
-      "team1": "İstanbulspor",
+      "time": "19:00",
+      "team1": "İstanbulspor AŞ",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1312,9 +1805,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-30",
+      "time": "14:00",
       "team1": "Keçiörengücü",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1324,9 +1822,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-30",
+      "time": "16:30",
       "team1": "BB Erzurumspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1336,9 +1839,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-11-30",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1348,9 +1856,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-12-01",
+      "time": "14:00",
       "team1": "Giresunspor",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1360,9 +1873,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-12-01",
+      "time": "14:00",
       "team1": "Ümraniyespor",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1372,9 +1890,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-12-01",
+      "time": "16:30",
       "team1": "Boluspor",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1384,9 +1907,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-12-01",
-      "team1": "Altay SK",
+      "time": "19:00",
+      "team1": "Altay Izmir",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1396,9 +1924,14 @@
     {
       "round": "Matchday 13",
       "date": "2019-12-02",
+      "time": "19:00",
       "team1": "Balıkesirspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1408,9 +1941,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-06",
+      "time": "19:00",
       "team1": "Eskişehirspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1420,9 +1958,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-07",
+      "time": "14:00",
       "team1": "Hatayspor",
       "team2": "Boluspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1432,6 +1975,7 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-07",
+      "time": "16:30",
       "team1": "Fatih Karagümrük",
       "team2": "Balıkesirspor",
       "score": {
@@ -1444,9 +1988,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-07",
-      "team1": "Akhisarspor",
-      "team2": "İstanbulspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           3
@@ -1456,8 +2005,9 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-08",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Altay SK",
+      "time": "14:00",
+      "team1": "Osmanlıspor FK",
+      "team2": "Altay Izmir",
       "score": {
         "ft": [
           0,
@@ -1468,9 +2018,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-08",
-      "team1": "Altınordu",
+      "time": "16:30",
+      "team1": "Altınordu FK",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1480,9 +2035,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-08",
+      "time": "16:30",
       "team1": "Bursaspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1492,9 +2052,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-08",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1504,9 +2069,14 @@
     {
       "round": "Matchday 14",
       "date": "2019-12-09",
-      "team1": "Menemenspor",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1516,9 +2086,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-13",
-      "team1": "Altay SK",
+      "time": "19:00",
+      "team1": "Altay Izmir",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1528,9 +2103,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-14",
+      "time": "14:00",
       "team1": "Boluspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -1540,9 +2120,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-14",
+      "time": "14:00",
       "team1": "BB Erzurumspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1552,9 +2137,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-14",
-      "team1": "İstanbulspor",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1564,9 +2154,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-14",
+      "time": "19:00",
       "team1": "Adanaspor",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1576,9 +2171,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-15",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1588,9 +2188,14 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-15",
+      "time": "14:00",
       "team1": "Ümraniyespor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1600,8 +2205,9 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-15",
+      "time": "16:30",
       "team1": "Balıkesirspor",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
         "ft": [
           0,
@@ -1612,7 +2218,8 @@
     {
       "round": "Matchday 15",
       "date": "2019-12-15",
-      "team1": "Altınordu",
+      "time": "19:00",
+      "team1": "Altınordu FK",
       "team2": "Bursaspor",
       "score": {
         "ft": [
@@ -1624,9 +2231,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-20",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           2
@@ -1636,9 +2248,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-21",
+      "time": "14:00",
       "team1": "Hatayspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1648,9 +2265,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-21",
+      "time": "16:30",
       "team1": "Eskişehirspor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1660,7 +2282,8 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-21",
-      "team1": "Akhisarspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
       "team2": "Boluspor",
       "score": {
         "ft": [
@@ -1672,21 +2295,31 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-22",
-      "team1": "Menemenspor",
-      "team2": "Bursaspor",
+      "time": "14:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
-          2,
-          1
+          1,
+          3
         ]
       }
     },
     {
       "round": "Matchday 16",
       "date": "2019-12-22",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "İstanbulspor",
+      "time": "14:00",
+      "team1": "Osmanlıspor FK",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1696,9 +2329,14 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-22",
+      "time": "16:30",
       "team1": "Fatih Karagümrük",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1708,21 +2346,31 @@
     {
       "round": "Matchday 16",
       "date": "2019-12-22",
-      "team1": "BB Erzurumspor",
-      "team2": "Altay SK",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          1,
-          3
+          2,
+          1
         ]
       }
     },
     {
       "round": "Matchday 16",
       "date": "2019-12-23",
+      "time": "19:00",
       "team1": "Giresunspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1732,9 +2380,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-27",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1744,9 +2397,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-28",
+      "time": "14:00",
       "team1": "Ümraniyespor",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1756,9 +2414,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-28",
+      "time": "16:30",
       "team1": "Balıkesirspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1768,9 +2431,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-28",
+      "time": "16:30",
       "team1": "Bursaspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1780,9 +2448,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-28",
-      "team1": "Altınordu",
-      "team2": "Menemenspor",
+      "time": "19:00",
+      "team1": "Altınordu FK",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1792,9 +2465,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-29",
+      "time": "14:00",
       "team1": "Boluspor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1804,9 +2482,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-29",
+      "time": "14:00",
       "team1": "Keçiörengücü",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1816,9 +2499,14 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-29",
-      "team1": "İstanbulspor",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -1828,7 +2516,8 @@
     {
       "round": "Matchday 17",
       "date": "2019-12-29",
-      "team1": "Altay SK",
+      "time": "19:00",
+      "team1": "Altay Izmir",
       "team2": "Giresunspor",
       "score": {
         "ft": [
@@ -1840,9 +2529,14 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-17",
-      "team1": "Menemenspor",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1852,9 +2546,14 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-18",
+      "time": "14:00",
       "team1": "Ümraniyespor",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1864,8 +2563,9 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-18",
+      "time": "16:30",
       "team1": "Adanaspor",
-      "team2": "Akhisarspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
         "ft": [
           0,
@@ -1876,9 +2576,14 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-18",
-      "team1": "Altınordu",
+      "time": "19:00",
+      "team1": "Altınordu FK",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1888,9 +2593,14 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-19",
-      "team1": "İstanbulspor",
+      "time": "14:00",
+      "team1": "İstanbulspor AŞ",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1900,9 +2610,14 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-19",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1912,33 +2627,48 @@
     {
       "round": "Matchday 18",
       "date": "2020-01-19",
-      "team1": "Bursaspor",
-      "team2": "Fatih Karagümrük",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 18",
-      "date": "2020-01-19",
+      "time": "16:30",
       "team1": "Boluspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-01-19",
+      "time": "19:00",
+      "team1": "Bursaspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
         ]
       }
     },
     {
       "round": "Matchday 18",
       "date": "2020-01-20",
+      "time": "19:00",
       "team1": "Balıkesirspor",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          4
+        ],
         "ft": [
           1,
           6
@@ -1948,9 +2678,14 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-24",
-      "team1": "Akhisarspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1960,9 +2695,14 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-25",
+      "time": "14:00",
       "team1": "Giresunspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1972,19 +2712,8 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-25",
-      "team1": "Altay SK",
-      "team2": "İstanbulspor",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2020-01-25",
-      "team1": "Osmanlıspor Ankara",
+      "time": "16:30",
+      "team1": "Osmanlıspor FK",
       "team2": "Keçiörengücü",
       "score": {
         "ft": [
@@ -1995,10 +2724,15 @@
     },
     {
       "round": "Matchday 19",
-      "date": "2020-01-26",
-      "team1": "BB Erzurumspor",
-      "team2": "Balıkesirspor",
+      "date": "2020-01-25",
+      "time": "19:00",
+      "team1": "Altay Izmir",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2008,9 +2742,31 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-26",
-      "team1": "Hatayspor",
-      "team2": "Menemenspor",
+      "time": "14:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-26",
+      "time": "14:00",
+      "team1": "Hatayspor",
+      "team2": "Menemen Belediyespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2020,6 +2776,7 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-26",
+      "time": "16:30",
       "team1": "Eskişehirspor",
       "team2": "Adanaspor",
       "score": {
@@ -2032,9 +2789,14 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-26",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "Boluspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2044,9 +2806,14 @@
     {
       "round": "Matchday 19",
       "date": "2020-01-27",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           3
@@ -2056,9 +2823,14 @@
     {
       "round": "Matchday 20",
       "date": "2020-01-31",
+      "time": "19:00",
       "team1": "Adanaspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2068,33 +2840,14 @@
     {
       "round": "Matchday 20",
       "date": "2020-02-01",
-      "team1": "Menemenspor",
-      "team2": "Fatih Karagümrük",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2020-02-01",
-      "team1": "Boluspor",
-      "team2": "BB Erzurumspor",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2020-02-01",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           3
@@ -2103,10 +2856,49 @@
     },
     {
       "round": "Matchday 20",
+      "date": "2020-02-01",
+      "time": "16:30",
+      "team1": "Boluspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-02-01",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
       "date": "2020-02-02",
+      "time": "14:00",
       "team1": "Hatayspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2116,9 +2908,14 @@
     {
       "round": "Matchday 20",
       "date": "2020-02-02",
-      "team1": "Altınordu",
-      "team2": "Akhisarspor",
+      "time": "16:30",
+      "team1": "Altınordu FK",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2128,20 +2925,9 @@
     {
       "round": "Matchday 20",
       "date": "2020-02-02",
-      "team1": "Bursaspor",
-      "team2": "Eskişehirspor",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2020-02-02",
+      "time": "16:30",
       "team1": "Balıkesirspor",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
         "ft": [
           0,
@@ -2151,10 +2937,32 @@
     },
     {
       "round": "Matchday 20",
+      "date": "2020-02-02",
+      "time": "19:00",
+      "team1": "Bursaspor",
+      "team2": "Eskişehirspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
       "date": "2020-02-03",
-      "team1": "İstanbulspor",
+      "time": "19:00",
+      "team1": "İstanbulspor AŞ",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2164,9 +2972,14 @@
     {
       "round": "Matchday 21",
       "date": "2020-02-07",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2176,9 +2989,14 @@
     {
       "round": "Matchday 21",
       "date": "2020-02-08",
+      "time": "16:30",
       "team1": "Eskişehirspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2188,9 +3006,14 @@
     {
       "round": "Matchday 21",
       "date": "2020-02-08",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -2200,21 +3023,31 @@
     {
       "round": "Matchday 21",
       "date": "2020-02-09",
-      "team1": "Altay SK",
-      "team2": "Boluspor",
+      "time": "14:00",
+      "team1": "Ümraniyespor",
+      "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          2,
-          1
+          0,
+          3
         ]
       }
     },
     {
       "round": "Matchday 21",
       "date": "2020-02-09",
-      "team1": "Osmanlıspor Ankara",
+      "time": "16:30",
+      "team1": "Osmanlıspor FK",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           4
@@ -2224,21 +3057,31 @@
     {
       "round": "Matchday 21",
       "date": "2020-02-09",
-      "team1": "Ümraniyespor",
-      "team2": "Balıkesirspor",
+      "time": "19:00",
+      "team1": "Altay Izmir",
+      "team2": "Boluspor",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          3
+          1
+        ],
+        "ft": [
+          2,
+          1
         ]
       }
     },
     {
       "round": "Matchday 21",
       "date": "2020-02-10",
+      "time": "14:00",
       "team1": "BB Erzurumspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2248,45 +3091,65 @@
     {
       "round": "Matchday 21",
       "date": "2020-02-10",
-      "team1": "Akhisarspor",
-      "team2": "Menemenspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Menemen Belediyespor",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
-      "date": "2020-02-14",
-      "team1": "Altınordu",
-      "team2": "Osmanlıspor Ankara",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
-      "date": "2020-02-15",
-      "team1": "Boluspor",
-      "team2": "Ümraniyespor",
-      "score": {
-        "ft": [
+        "ht": [
           1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-06-23",
+      "time": "17:30",
+      "team1": "Giresunspor",
+      "team2": "İstanbulspor AŞ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
           1
         ]
       }
     },
     {
       "round": "Matchday 22",
-      "date": "2020-02-15",
-      "team1": "Hatayspor",
-      "team2": "Akhisarspor",
+      "date": "2020-02-14",
+      "time": "19:00",
+      "team1": "Altınordu FK",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-15",
+      "time": "14:00",
+      "team1": "Hatayspor",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           2,
           3
@@ -2296,9 +3159,31 @@
     {
       "round": "Matchday 22",
       "date": "2020-02-15",
-      "team1": "Menemenspor",
+      "time": "16:30",
+      "team1": "Boluspor",
+      "team2": "Ümraniyespor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-15",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2308,21 +3193,14 @@
     {
       "round": "Matchday 22",
       "date": "2020-02-16",
-      "team1": "Fatih Karagümrük",
-      "team2": "Giresunspor",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
-      "date": "2020-02-16",
+      "time": "14:00",
       "team1": "Keçiörengücü",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2332,9 +3210,48 @@
     {
       "round": "Matchday 22",
       "date": "2020-02-16",
-      "team1": "Balıkesirspor",
-      "team2": "İstanbulspor",
+      "time": "16:30",
+      "team1": "Bursaspor",
+      "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-16",
+      "time": "16:30",
+      "team1": "Fatih Karagümrük",
+      "team2": "Giresunspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-16",
+      "time": "19:00",
+      "team1": "Balıkesirspor",
+      "team2": "İstanbulspor AŞ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           5
@@ -2343,19 +3260,8 @@
     },
     {
       "round": "Matchday 22",
-      "date": "2020-02-16",
-      "team1": "Bursaspor",
-      "team2": "Adana Demirspor",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
       "date": "2020-02-17",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "BB Erzurumspor",
       "score": {
@@ -2368,21 +3274,14 @@
     {
       "round": "Matchday 23",
       "date": "2020-02-21",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Menemenspor",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2020-02-21",
+      "time": "19:00",
       "team1": "Eskişehirspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2391,10 +3290,32 @@
     },
     {
       "round": "Matchday 23",
+      "date": "2020-02-21",
+      "time": "19:00",
+      "team1": "Osmanlıspor FK",
+      "team2": "Menemen Belediyespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
       "date": "2020-02-22",
+      "time": "14:00",
       "team1": "BB Erzurumspor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2404,9 +3325,48 @@
     {
       "round": "Matchday 23",
       "date": "2020-02-22",
-      "team1": "Adana Demirspor",
-      "team2": "Altınordu",
+      "time": "14:00",
+      "team1": "Ümraniyespor",
+      "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-22",
+      "time": "16:30",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-22",
+      "time": "19:00",
+      "team1": "Adana Demirspor",
+      "team2": "Altınordu FK",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           2
@@ -2415,46 +3375,15 @@
     },
     {
       "round": "Matchday 23",
-      "date": "2020-02-22",
-      "team1": "Ümraniyespor",
-      "team2": "Keçiörengücü",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2020-02-22",
-      "team1": "Akhisarspor",
-      "team2": "Fatih Karagümrük",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
       "date": "2020-02-23",
-      "team1": "İstanbulspor",
-      "team2": "Boluspor",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2020-02-23",
+      "time": "14:00",
       "team1": "Giresunspor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -2464,9 +3393,14 @@
     {
       "round": "Matchday 23",
       "date": "2020-02-23",
-      "team1": "Altay SK",
+      "time": "16:30",
+      "team1": "Altay Izmir",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2474,47 +3408,97 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2020-02-23",
+      "time": "19:00",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Boluspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
       "round": "Matchday 24",
       "date": "2020-02-25",
+      "time": "14:00",
+      "team1": "Hatayspor",
+      "team2": "Osmanlıspor FK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-25",
+      "time": "16:30",
+      "team1": "Menemen Belediyespor",
+      "team2": "Adana Demirspor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-25",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
       "team2": "Eskişehirspor",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2020-02-25",
-      "team1": "Hatayspor",
-      "team2": "Osmanlıspor Ankara",
-      "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2020-02-25",
-      "team1": "Menemenspor",
-      "team2": "Adana Demirspor",
-      "score": {
+        ],
         "ft": [
           2,
-          3
+          0
         ]
       }
     },
     {
       "round": "Matchday 24",
       "date": "2020-02-26",
-      "team1": "Altınordu",
+      "time": "16:30",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Giresunspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-26",
+      "time": "16:30",
+      "team1": "Altınordu FK",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2524,21 +3508,14 @@
     {
       "round": "Matchday 24",
       "date": "2020-02-26",
-      "team1": "Akhisarspor",
-      "team2": "Giresunspor",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2020-02-26",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2548,21 +3525,27 @@
     {
       "round": "Matchday 24",
       "date": "2020-02-27",
-      "team1": "Bursaspor",
-      "team2": "Altay SK",
+      "time": "14:00",
+      "team1": "Keçiörengücü",
+      "team2": "İstanbulspor AŞ",
       "score": {
         "ft": [
-          2,
-          2
+          0,
+          0
         ]
       }
     },
     {
       "round": "Matchday 24",
       "date": "2020-02-27",
+      "time": "16:30",
       "team1": "Boluspor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2572,23 +3555,16 @@
     {
       "round": "Matchday 24",
       "date": "2020-02-27",
-      "team1": "Keçiörengücü",
-      "team2": "İstanbulspor",
+      "time": "19:00",
+      "team1": "Bursaspor",
+      "team2": "Altay Izmir",
       "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2020-02-29",
-      "team1": "Eskişehirspor",
-      "team2": "Akhisarspor",
-      "score": {
-        "ft": [
+        "ht": [
           1,
+          2
+        ],
+        "ft": [
+          2,
           2
         ]
       }
@@ -2596,9 +3572,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-29",
-      "team1": "Osmanlıspor Ankara",
+      "time": "14:00",
+      "team1": "Osmanlıspor FK",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2608,9 +3589,31 @@
     {
       "round": "Matchday 25",
       "date": "2020-02-29",
+      "time": "16:30",
+      "team1": "Eskişehirspor",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-29",
+      "time": "19:00",
       "team1": "Adana Demirspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2620,21 +3623,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-03-01",
-      "team1": "Altay SK",
-      "team2": "Altınordu",
+      "time": "14:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Menemen Belediyespor",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2020-03-01",
-      "team1": "BB Erzurumspor",
-      "team2": "Menemenspor",
-      "score": {
+        ],
         "ft": [
           2,
           0
@@ -2644,9 +3640,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-03-01",
+      "time": "14:00",
       "team1": "Ümraniyespor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2656,9 +3657,31 @@
     {
       "round": "Matchday 25",
       "date": "2020-03-01",
-      "team1": "İstanbulspor",
+      "time": "16:30",
+      "team1": "İstanbulspor AŞ",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-03-01",
+      "time": "19:00",
+      "team1": "Altay Izmir",
+      "team2": "Altınordu FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2668,21 +3691,14 @@
     {
       "round": "Matchday 25",
       "date": "2020-03-02",
-      "team1": "Giresunspor",
-      "team2": "Boluspor",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2020-03-02",
+      "time": "19:00",
       "team1": "Balıkesirspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2690,23 +3706,33 @@
       }
     },
     {
-      "round": "Matchday 26",
-      "date": "2020-03-06",
-      "team1": "Menemenspor",
-      "team2": "Altay SK",
+      "round": "Matchday 25",
+      "date": "2020-03-02",
+      "time": "19:00",
+      "team1": "Giresunspor",
+      "team2": "Boluspor",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
+          0
+        ],
+        "ft": [
+          2,
+          0
         ]
       }
     },
     {
       "round": "Matchday 26",
       "date": "2020-03-06",
+      "time": "19:00",
       "team1": "Adanaspor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2715,10 +3741,15 @@
     },
     {
       "round": "Matchday 26",
-      "date": "2020-03-07",
-      "team1": "Bursaspor",
-      "team2": "İstanbulspor",
+      "date": "2020-03-06",
+      "time": "19:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2728,6 +3759,7 @@
     {
       "round": "Matchday 26",
       "date": "2020-03-07",
+      "time": "14:00",
       "team1": "Hatayspor",
       "team2": "BB Erzurumspor",
       "score": {
@@ -2740,9 +3772,14 @@
     {
       "round": "Matchday 26",
       "date": "2020-03-07",
+      "time": "14:00",
       "team1": "Keçiörengücü",
       "team2": "Boluspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2752,9 +3789,14 @@
     {
       "round": "Matchday 26",
       "date": "2020-03-07",
+      "time": "16:30",
       "team1": "Eskişehirspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2764,21 +3806,48 @@
     {
       "round": "Matchday 26",
       "date": "2020-03-07",
+      "time": "16:30",
       "team1": "Fatih Karagümrük",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-03-07",
+      "time": "19:00",
+      "team1": "Bursaspor",
+      "team2": "İstanbulspor AŞ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
     {
       "round": "Matchday 26",
       "date": "2020-03-08",
-      "team1": "Akhisarspor",
-      "team2": "Osmanlıspor Ankara",
+      "time": "16:30",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -2788,9 +3857,14 @@
     {
       "round": "Matchday 26",
       "date": "2020-03-08",
-      "team1": "Altınordu",
+      "time": "19:00",
+      "team1": "Altınordu FK",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2800,9 +3874,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-10",
+      "time": "14:00",
       "team1": "Boluspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2812,21 +3891,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-10",
-      "team1": "Balıkesirspor",
-      "team2": "Bursaspor",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 27",
-      "date": "2020-03-10",
-      "team1": "Altay SK",
+      "time": "16:30",
+      "team1": "Altay Izmir",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2836,9 +3908,31 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-10",
+      "time": "16:30",
       "team1": "BB Erzurumspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-10",
+      "time": "19:00",
+      "team1": "Balıkesirspor",
+      "team2": "Bursaspor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -2848,21 +3942,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-11",
-      "team1": "Adana Demirspor",
-      "team2": "Akhisarspor",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 27",
-      "date": "2020-03-11",
+      "time": "14:00",
       "team1": "Ümraniyespor",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2872,9 +3959,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-11",
+      "time": "16:30",
       "team1": "Giresunspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2884,9 +3976,31 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-11",
-      "team1": "İstanbulspor",
-      "team2": "Altınordu",
+      "time": "19:00",
+      "team1": "Adana Demirspor",
+      "team2": "Akhisar Belediyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-11",
+      "time": "19:00",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Altınordu FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -2896,9 +4010,14 @@
     {
       "round": "Matchday 27",
       "date": "2020-03-12",
-      "team1": "Osmanlıspor Ankara",
+      "time": "19:00",
+      "team1": "Osmanlıspor FK",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2908,21 +4027,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-14",
-      "team1": "Bursaspor",
-      "team2": "Boluspor",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2020-03-14",
+      "time": "16:30",
       "team1": "Fatih Karagümrük",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2931,10 +4043,32 @@
     },
     {
       "round": "Matchday 28",
+      "date": "2020-03-14",
+      "time": "19:00",
+      "team1": "Bursaspor",
+      "team2": "Boluspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
       "date": "2020-03-15",
+      "time": "14:00",
       "team1": "Hatayspor",
       "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2944,21 +4078,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-15",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Giresunspor",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2020-03-15",
+      "time": "16:30",
       "team1": "Adanaspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2968,9 +4095,14 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-15",
-      "team1": "Menemenspor",
-      "team2": "İstanbulspor",
+      "time": "16:30",
+      "team1": "Menemen Belediyespor",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2980,7 +4112,8 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-15",
-      "team1": "Akhisarspor",
+      "time": "19:00",
+      "team1": "Akhisar Belediyespor",
       "team2": "BB Erzurumspor",
       "score": {
         "ft": [
@@ -2991,10 +4124,15 @@
     },
     {
       "round": "Matchday 28",
-      "date": "2020-03-16",
-      "team1": "Altınordu",
-      "team2": "Balıkesirspor",
+      "date": "2020-03-15",
+      "time": "19:00",
+      "team1": "Osmanlıspor FK",
+      "team2": "Giresunspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3004,9 +4142,31 @@
     {
       "round": "Matchday 28",
       "date": "2020-03-16",
+      "time": "19:00",
+      "team1": "Altınordu FK",
+      "team2": "Balıkesirspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-03-16",
+      "time": "19:00",
       "team1": "Eskişehirspor",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -3016,9 +4176,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-19",
+      "time": "20:00",
       "team1": "Giresunspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -3028,9 +4193,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-19",
-      "team1": "İstanbulspor",
+      "time": "20:00",
+      "team1": "İstanbulspor AŞ",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3040,9 +4210,31 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-20",
-      "team1": "Balıkesirspor",
-      "team2": "Menemenspor",
+      "time": "17:30",
+      "team1": "Keçiörengücü",
+      "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-20",
+      "time": "20:00",
+      "team1": "Balıkesirspor",
+      "team2": "Menemen Belediyespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3052,21 +4244,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-20",
+      "time": "20:00",
       "team1": "BB Erzurumspor",
       "team2": "Eskişehirspor",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2020-06-20",
-      "team1": "Keçiörengücü",
-      "team2": "Bursaspor",
-      "score": {
+        ],
         "ft": [
           1,
           0
@@ -3076,9 +4261,31 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-21",
-      "team1": "Altay SK",
-      "team2": "Akhisarspor",
+      "time": "17:30",
+      "team1": "Ümraniyespor",
+      "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-06-21",
+      "time": "20:00",
+      "team1": "Altay Izmir",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3088,20 +4295,9 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-21",
-      "team1": "Ümraniyespor",
-      "team2": "Fatih Karagümrük",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2020-06-21",
+      "time": "20:00",
       "team1": "Boluspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
         "ft": [
           0,
@@ -3112,9 +4308,14 @@
     {
       "round": "Matchday 29",
       "date": "2020-06-22",
+      "time": "20:00",
       "team1": "Adana Demirspor",
-      "team2": "Osmanlıspor Ankara",
+      "team2": "Osmanlıspor FK",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3122,17 +4323,16 @@
       }
     },
     {
-      "round": "Matchday 21",
-      "date": "2020-06-23",
-      "team1": "Giresunspor",
-      "team2": "İstanbulspor"
-    },
-    {
       "round": "Matchday 30",
       "date": "2020-06-26",
-      "team1": "Altınordu",
+      "time": "20:00",
+      "team1": "Altınordu FK",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3142,9 +4342,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-26",
+      "time": "20:00",
       "team1": "Bursaspor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3154,9 +4359,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-27",
+      "time": "17:30",
       "team1": "Eskişehirspor",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3166,9 +4376,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-27",
-      "team1": "Osmanlıspor Ankara",
+      "time": "17:30",
+      "team1": "Osmanlıspor FK",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -3178,21 +4393,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-27",
-      "team1": "Menemenspor",
-      "team2": "Boluspor",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 30",
-      "date": "2020-06-27",
+      "time": "20:00",
       "team1": "Adana Demirspor",
       "team2": "Giresunspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -3201,10 +4409,32 @@
     },
     {
       "round": "Matchday 30",
+      "date": "2020-06-27",
+      "time": "20:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Boluspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
       "date": "2020-06-28",
+      "time": "17:30",
       "team1": "Hatayspor",
       "team2": "Balıkesirspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3214,9 +4444,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-28",
-      "team1": "Fatih Karagümrük",
-      "team2": "İstanbulspor",
+      "time": "20:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Ümraniyespor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3226,9 +4461,14 @@
     {
       "round": "Matchday 30",
       "date": "2020-06-28",
-      "team1": "Akhisarspor",
-      "team2": "Ümraniyespor",
+      "time": "20:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "İstanbulspor AŞ",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3238,9 +4478,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-30",
+      "time": "17:30",
       "team1": "Keçiörengücü",
-      "team2": "Menemenspor",
+      "team2": "Menemen Belediyespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3250,8 +4495,9 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-30",
+      "time": "19:00",
       "team1": "Adanaspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
         "ft": [
           0,
@@ -3262,9 +4508,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-06-30",
+      "time": "20:00",
       "team1": "Giresunspor",
       "team2": "Bursaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3274,9 +4525,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-07-01",
+      "time": "17:30",
       "team1": "Boluspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3286,9 +4542,31 @@
     {
       "round": "Matchday 31",
       "date": "2020-07-01",
+      "time": "20:00",
+      "team1": "Altay Izmir",
+      "team2": "Osmanlıspor FK",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-07-01",
+      "time": "20:00",
       "team1": "BB Erzurumspor",
       "team2": "Adana Demirspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3297,22 +4575,15 @@
     },
     {
       "round": "Matchday 31",
-      "date": "2020-07-01",
-      "team1": "Altay SK",
-      "team2": "Osmanlıspor Ankara",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
       "date": "2020-07-02",
+      "time": "17:30",
       "team1": "Ümraniyespor",
       "team2": "Eskişehirspor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3322,21 +4593,14 @@
     {
       "round": "Matchday 31",
       "date": "2020-07-02",
-      "team1": "İstanbulspor",
-      "team2": "Akhisarspor",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
-      "date": "2020-07-02",
+      "time": "20:00",
       "team1": "Balıkesirspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           5
@@ -3344,11 +4608,33 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2020-07-02",
+      "time": "20:00",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
       "round": "Matchday 32",
       "date": "2020-07-04",
+      "time": "20:00",
       "team1": "Bursaspor",
-      "team2": "Altınordu",
+      "team2": "Altınordu FK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3358,9 +4644,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-07-04",
-      "team1": "Menemenspor",
+      "time": "20:00",
+      "team1": "Menemen Belediyespor",
       "team2": "Adanaspor",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           2
@@ -3370,9 +4661,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-07-05",
+      "time": "17:30",
       "team1": "Giresunspor",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -3382,9 +4678,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-07-05",
+      "time": "17:30",
       "team1": "Hatayspor",
       "team2": "Keçiörengücü",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3394,21 +4695,14 @@
     {
       "round": "Matchday 32",
       "date": "2020-07-05",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Ümraniyespor",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2020-07-05",
+      "time": "20:00",
       "team1": "Adana Demirspor",
-      "team2": "Altay SK",
+      "team2": "Altay Izmir",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3417,10 +4711,32 @@
     },
     {
       "round": "Matchday 32",
+      "date": "2020-07-05",
+      "time": "20:00",
+      "team1": "Osmanlıspor FK",
+      "team2": "Ümraniyespor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
       "date": "2020-07-06",
+      "time": "17:30",
       "team1": "Fatih Karagümrük",
       "team2": "Boluspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -3430,122 +4746,431 @@
     {
       "round": "Matchday 32",
       "date": "2020-07-06",
-      "team1": "Akhisarspor",
-      "team2": "Balıkesirspor"
+      "time": "20:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Balıkesirspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "round": "Matchday 32",
       "date": "2020-07-06",
+      "time": "20:00",
       "team1": "Eskişehirspor",
-      "team2": "İstanbulspor"
+      "team2": "İstanbulspor AŞ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "round": "Matchday 33",
-      "date": "2020-07-12",
-      "team1": "Altınordu",
-      "team2": "Giresunspor"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
-      "team1": "Altay SK",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
-      "team1": "Ümraniyespor",
-      "team2": "Adana Demirspor"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
+      "date": "2020-07-11",
+      "time": "20:00",
       "team1": "Balıkesirspor",
-      "team2": "Eskişehirspor"
+      "team2": "Eskişehirspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
       "round": "Matchday 33",
       "date": "2020-07-12",
-      "team1": "Boluspor",
-      "team2": "Akhisarspor"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
-      "team1": "Bursaspor",
-      "team2": "Menemenspor"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
-      "team1": "İstanbulspor",
-      "team2": "Osmanlıspor Ankara"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
-      "team1": "Keçiörengücü",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2020-07-12",
+      "time": "17:30",
       "team1": "Adanaspor",
-      "team2": "Hatayspor"
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "Altay Izmir",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "Altınordu FK",
+      "team2": "Giresunspor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "Boluspor",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "Bursaspor",
+      "team2": "Menemen Belediyespor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "İstanbulspor AŞ",
+      "team2": "Osmanlıspor FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "Keçiörengücü",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2020-07-12",
+      "time": "17:30",
+      "team1": "Ümraniyespor",
+      "team2": "Adana Demirspor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-19",
+      "date": "2020-07-17",
+      "time": "20:00",
+      "team1": "Menemen Belediyespor",
+      "team2": "Altınordu FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2020-07-18",
+      "time": "17:30",
       "team1": "Adana Demirspor",
-      "team2": "İstanbulspor"
+      "team2": "İstanbulspor AŞ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-19",
-      "team1": "Akhisarspor",
-      "team2": "Keçiörengücü"
+      "date": "2020-07-18",
+      "time": "17:30",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Keçiörengücü",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-19",
+      "date": "2020-07-18",
+      "time": "17:30",
       "team1": "BB Erzurumspor",
-      "team2": "Ümraniyespor"
+      "team2": "Ümraniyespor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-19",
-      "team1": "Eskişehirspor",
-      "team2": "Boluspor"
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2020-07-19",
+      "date": "2020-07-18",
+      "time": "17:30",
       "team1": "Giresunspor",
-      "team2": "Altay SK"
+      "team2": "Altay Izmir",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-19",
+      "date": "2020-07-18",
+      "time": "17:30",
       "team1": "Hatayspor",
-      "team2": "Bursaspor"
+      "team2": "Bursaspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
       "round": "Matchday 34",
-      "date": "2020-07-19",
+      "date": "2020-07-18",
+      "time": "17:30",
       "team1": "Fatih Karagümrük",
-      "team2": "Adanaspor"
+      "team2": "Adanaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
       "round": "Matchday 34",
       "date": "2020-07-19",
-      "team1": "Menemenspor",
-      "team2": "Altınordu"
+      "time": "17:30",
+      "team1": "Eskişehirspor",
+      "team2": "Boluspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
       "round": "Matchday 34",
       "date": "2020-07-19",
-      "team1": "Osmanlıspor Ankara",
-      "team2": "Balıkesirspor"
+      "time": "17:30",
+      "team1": "Osmanlıspor FK",
+      "team2": "Balıkesirspor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Playoffs, Semifinals",
+      "date": "2020-07-22",
+      "time": "21:00",
+      "team1": "Bursaspor",
+      "team2": "Adana Demirspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Playoffs, Semifinals",
+      "date": "2020-07-22",
+      "time": "21:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Akhisar Belediyespor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Playoffs, Semifinals",
+      "date": "2020-07-26",
+      "time": "21:00",
+      "team1": "Adana Demirspor",
+      "team2": "Bursaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Playoffs, Semifinals",
+      "date": "2020-07-26",
+      "time": "21:00",
+      "team1": "Akhisar Belediyespor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Playoffs, Final",
+      "date": "2020-07-30",
+      "time": "21:00",
+      "team1": "Adana Demirspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          1
+        ],
+        "p": [
+          5,
+          6
+        ]
+      }
     }
   ]
 }

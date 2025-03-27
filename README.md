@@ -60,7 +60,7 @@ Use the "raw" links served by GitHub (
 otherwise you get the complete "formatted" GitHub page). Example:
 
 ```
-$ curl https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.clubs.json
+$ curl https://raw.githubusercontent.com/openfootball/football.json/master/2015-16/en.1.json
 ```
 
 

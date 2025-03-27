@@ -1,12 +1,17 @@
 {
-  "name": "Premier League 2018/19",
+  "name": "English Premier League 2018/19",
   "matches": [
     {
       "round": "Matchday 1",
       "date": "2018-08-10",
-      "team1": "Manchester United FC",
-      "team2": "Leicester City FC",
+      "time": "20:00",
+      "team1": "Manchester United",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -16,9 +21,14 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-11",
-      "team1": "Newcastle United FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "Newcastle United",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -28,9 +38,31 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-11",
-      "team1": "Fulham FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-08-11",
+      "time": "15:00",
+      "team1": "Fulham FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -40,9 +72,14 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-11",
-      "team1": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -52,9 +89,14 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-11",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -64,21 +106,14 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-11",
-      "team1": "AFC Bournemouth",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 1",
-      "date": "2018-08-11",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "17:30",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -88,9 +123,14 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-12",
+      "time": "13:30",
       "team1": "Liverpool FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -100,6 +140,24 @@
     {
       "round": "Matchday 1",
       "date": "2018-08-12",
+      "time": "16:00",
+      "team1": "Arsenal FC",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2018-08-12",
+      "time": "13:30",
       "team1": "Southampton FC",
       "team2": "Burnley FC",
       "score": {
@@ -110,22 +168,11 @@
       }
     },
     {
-      "round": "Matchday 1",
-      "date": "2018-08-12",
-      "team1": "Arsenal FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
       "round": "Matchday 2",
       "date": "2018-08-18",
-      "team1": "Cardiff City FC",
-      "team2": "Newcastle United FC",
+      "time": "12:30",
+      "team1": "Cardiff City",
+      "team2": "Newcastle United",
       "score": {
         "ft": [
           0,
@@ -136,9 +183,48 @@
     {
       "round": "Matchday 2",
       "date": "2018-08-18",
-      "team1": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-18",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-18",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -148,33 +234,14 @@
     {
       "round": "Matchday 2",
       "date": "2018-08-18",
-      "team1": "Everton FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2018-08-18",
-      "team1": "Leicester City FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2018-08-18",
-      "team1": "West Ham United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -184,9 +251,14 @@
     {
       "round": "Matchday 2",
       "date": "2018-08-18",
+      "time": "17:30",
       "team1": "Chelsea FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -196,9 +268,14 @@
     {
       "round": "Matchday 2",
       "date": "2018-08-19",
-      "team1": "Manchester City FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "13:30",
+      "team1": "Manchester City",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           6,
           1
@@ -208,33 +285,48 @@
     {
       "round": "Matchday 2",
       "date": "2018-08-19",
-      "team1": "Burnley FC",
-      "team2": "Watford FC",
+      "time": "16:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
-          1,
-          3
+          3,
+          2
         ]
       }
     },
     {
       "round": "Matchday 2",
       "date": "2018-08-19",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Manchester United FC",
+      "time": "13:30",
+      "team1": "Burnley FC",
+      "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          3,
-          2
+          1,
+          3
         ]
       }
     },
     {
       "round": "Matchday 2",
       "date": "2018-08-20",
-      "team1": "Crystal Palace FC",
+      "time": "20:00",
+      "team1": "Crystal Palace",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -244,9 +336,14 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-25",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Manchester City FC",
+      "time": "12:30",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -256,9 +353,14 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-25",
+      "time": "15:00",
       "team1": "Arsenal FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -268,8 +370,26 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-25",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-25",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Cardiff City",
       "score": {
         "ft": [
           0,
@@ -280,9 +400,14 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-25",
+      "time": "15:00",
       "team1": "Southampton FC",
-      "team2": "Leicester City FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -292,21 +417,14 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-25",
-      "team1": "AFC Bournemouth",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 3",
-      "date": "2018-08-25",
+      "time": "17:30",
       "team1": "Liverpool FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -316,21 +434,14 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-26",
-      "team1": "Watford FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 3",
-      "date": "2018-08-26",
+      "time": "16:00",
       "team1": "Fulham FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           4,
           2
@@ -340,21 +451,48 @@
     {
       "round": "Matchday 3",
       "date": "2018-08-26",
-      "team1": "Newcastle United FC",
+      "time": "16:00",
+      "team1": "Newcastle United",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-26",
+      "time": "13:30",
+      "team1": "Watford FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
         ]
       }
     },
     {
       "round": "Matchday 3",
       "date": "2018-08-27",
-      "team1": "Manchester United FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "20:00",
+      "team1": "Manchester United",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -364,9 +502,14 @@
     {
       "round": "Matchday 4",
       "date": "2018-09-01",
-      "team1": "Leicester City FC",
+      "time": "12:30",
+      "team1": "Leicester City",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -376,9 +519,31 @@
     {
       "round": "Matchday 4",
       "date": "2018-09-01",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Fulham FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-01",
+      "time": "15:00",
       "team1": "Chelsea FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -388,9 +553,31 @@
     {
       "round": "Matchday 4",
       "date": "2018-09-01",
-      "team1": "Everton FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-01",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -400,9 +587,14 @@
     {
       "round": "Matchday 4",
       "date": "2018-09-01",
-      "team1": "West Ham United FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -412,33 +604,14 @@
     {
       "round": "Matchday 4",
       "date": "2018-09-01",
-      "team1": "Crystal Palace FC",
-      "team2": "Southampton FC",
+      "time": "17:30",
+      "team1": "Manchester City",
+      "team2": "Newcastle United",
       "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 4",
-      "date": "2018-09-01",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Fulham FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 4",
-      "date": "2018-09-01",
-      "team1": "Manchester City FC",
-      "team2": "Newcastle United FC",
-      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -448,9 +621,48 @@
     {
       "round": "Matchday 4",
       "date": "2018-09-02",
-      "team1": "Cardiff City FC",
+      "time": "16:00",
+      "team1": "Burnley FC",
+      "team2": "Manchester United",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-02",
+      "time": "16:00",
+      "team1": "Watford FC",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-02",
+      "time": "13:30",
+      "team1": "Cardiff City",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -458,35 +670,16 @@
       }
     },
     {
-      "round": "Matchday 4",
-      "date": "2018-09-02",
-      "team1": "Burnley FC",
-      "team2": "Manchester United FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 4",
-      "date": "2018-09-02",
-      "team1": "Watford FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
       "round": "Matchday 5",
       "date": "2018-09-15",
-      "team1": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "Tottenham Hotspur",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -496,9 +689,65 @@
     {
       "round": "Matchday 5",
       "date": "2018-09-15",
-      "team1": "Manchester City FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "15:00",
+      "team1": "Chelsea FC",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "15:00",
+      "team1": "Manchester City",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -508,93 +757,82 @@
     {
       "round": "Matchday 5",
       "date": "2018-09-15",
-      "team1": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
       "team2": "Arsenal FC",
       "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2018-09-15",
-      "team1": "Chelsea FC",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2018-09-15",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
+        "ht": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2018-09-15",
-      "team1": "AFC Bournemouth",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          4,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2018-09-15",
-      "team1": "Watford FC",
-      "team2": "Manchester United FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2018-09-16",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Burnley FC",
-      "score": {
-        "ft": [
-          1,
           0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "17:30",
+      "team1": "Watford FC",
+      "team2": "Manchester United",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
       "round": "Matchday 5",
       "date": "2018-09-16",
+      "time": "16:00",
       "team1": "Everton FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-16",
+      "time": "13:30",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Burnley FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
         ]
       }
     },
     {
       "round": "Matchday 5",
       "date": "2018-09-17",
+      "time": "20:00",
       "team1": "Southampton FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -604,9 +842,14 @@
     {
       "round": "Matchday 6",
       "date": "2018-09-22",
+      "time": "12:30",
       "team1": "Fulham FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -616,45 +859,14 @@
     {
       "round": "Matchday 6",
       "date": "2018-09-22",
-      "team1": "Liverpool FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2018-09-22",
-      "team1": "Manchester United FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2018-09-22",
-      "team1": "Leicester City FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2018-09-22",
+      "time": "15:00",
       "team1": "Burnley FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -664,9 +876,14 @@
     {
       "round": "Matchday 6",
       "date": "2018-09-22",
-      "team1": "Cardiff City FC",
-      "team2": "Manchester City FC",
+      "time": "15:00",
+      "team1": "Cardiff City",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           5
@@ -676,8 +893,9 @@
     {
       "round": "Matchday 6",
       "date": "2018-09-22",
-      "team1": "Crystal Palace FC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Newcastle United",
       "score": {
         "ft": [
           0,
@@ -688,9 +906,65 @@
     {
       "round": "Matchday 6",
       "date": "2018-09-22",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-22",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-22",
+      "time": "15:00",
+      "team1": "Liverpool FC",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-22",
+      "time": "17:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -700,7 +974,25 @@
     {
       "round": "Matchday 6",
       "date": "2018-09-23",
-      "team1": "West Ham United FC",
+      "time": "16:00",
+      "team1": "Arsenal FC",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-23",
+      "time": "13:30",
+      "team1": "West Ham United",
       "team2": "Chelsea FC",
       "score": {
         "ft": [
@@ -710,23 +1002,16 @@
       }
     },
     {
-      "round": "Matchday 6",
-      "date": "2018-09-23",
-      "team1": "Arsenal FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
       "round": "Matchday 7",
       "date": "2018-09-29",
-      "team1": "West Ham United FC",
-      "team2": "Manchester United FC",
+      "time": "12:30",
+      "team1": "West Ham United",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -736,45 +1021,14 @@
     {
       "round": "Matchday 7",
       "date": "2018-09-29",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2018-09-29",
-      "team1": "Manchester City FC",
-      "team2": "Brighton & Hove Albion FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2018-09-29",
-      "team1": "Newcastle United FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2018-09-29",
+      "time": "15:00",
       "team1": "Arsenal FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -784,9 +1038,14 @@
     {
       "round": "Matchday 7",
       "date": "2018-09-29",
+      "time": "15:00",
       "team1": "Everton FC",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -796,9 +1055,14 @@
     {
       "round": "Matchday 7",
       "date": "2018-09-29",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -808,9 +1072,65 @@
     {
       "round": "Matchday 7",
       "date": "2018-09-29",
+      "time": "15:00",
+      "team1": "Manchester City",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-29",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-29",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-29",
+      "time": "17:30",
       "team1": "Chelsea FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -820,9 +1140,14 @@
     {
       "round": "Matchday 7",
       "date": "2018-09-30",
-      "team1": "Cardiff City FC",
+      "time": "16:00",
+      "team1": "Cardiff City",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -832,9 +1157,14 @@
     {
       "round": "Matchday 7",
       "date": "2018-10-01",
+      "time": "20:00",
       "team1": "AFC Bournemouth",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -844,9 +1174,14 @@
     {
       "round": "Matchday 8",
       "date": "2018-10-05",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "West Ham United FC",
+      "time": "20:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -856,45 +1191,14 @@
     {
       "round": "Matchday 8",
       "date": "2018-10-06",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2018-10-06",
-      "team1": "Leicester City FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2018-10-06",
-      "team1": "Burnley FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2018-10-06",
-      "team1": "Crystal Palace FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
+        ],
         "ft": [
           0,
           1
@@ -904,9 +1208,48 @@
     {
       "round": "Matchday 8",
       "date": "2018-10-06",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-10-06",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-10-06",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           4
@@ -916,9 +1259,14 @@
     {
       "round": "Matchday 8",
       "date": "2018-10-06",
-      "team1": "Manchester United FC",
-      "team2": "Newcastle United FC",
+      "time": "17:30",
+      "team1": "Manchester United",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           3,
           2
@@ -927,10 +1275,32 @@
     },
     {
       "round": "Matchday 8",
+      "date": "2018-10-06",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
       "date": "2018-10-07",
+      "time": "12:00",
       "team1": "Fulham FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           5
@@ -940,9 +1310,14 @@
     {
       "round": "Matchday 8",
       "date": "2018-10-07",
+      "time": "14:15",
       "team1": "Southampton FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -952,8 +1327,9 @@
     {
       "round": "Matchday 8",
       "date": "2018-10-07",
+      "time": "16:30",
       "team1": "Liverpool FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
         "ft": [
           0,
@@ -964,9 +1340,14 @@
     {
       "round": "Matchday 9",
       "date": "2018-10-20",
+      "time": "12:30",
       "team1": "Chelsea FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -976,66 +1357,7 @@
     {
       "round": "Matchday 9",
       "date": "2018-10-20",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2018-10-20",
-      "team1": "Manchester City FC",
-      "team2": "Burnley FC",
-      "score": {
-        "ft": [
-          5,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2018-10-20",
-      "team1": "Newcastle United FC",
-      "team2": "Brighton & Hove Albion FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2018-10-20",
-      "team1": "Cardiff City FC",
-      "team2": "Fulham FC",
-      "score": {
-        "ft": [
-          4,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2018-10-20",
-      "team1": "West Ham United FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 9",
-      "date": "2018-10-20",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
       "team2": "Southampton FC",
       "score": {
@@ -1048,9 +1370,99 @@
     {
       "round": "Matchday 9",
       "date": "2018-10-20",
-      "team1": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Cardiff City",
+      "team2": "Fulham FC",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-10-20",
+      "time": "15:00",
+      "team1": "Manchester City",
+      "team2": "Burnley FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-10-20",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-10-20",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-10-20",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-10-20",
+      "time": "17:30",
+      "team1": "Huddersfield Town",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1060,9 +1472,14 @@
     {
       "round": "Matchday 9",
       "date": "2018-10-21",
+      "time": "16:00",
       "team1": "Everton FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1072,9 +1489,14 @@
     {
       "round": "Matchday 9",
       "date": "2018-10-22",
+      "time": "20:00",
       "team1": "Arsenal FC",
-      "team2": "Leicester City FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1084,9 +1506,31 @@
     {
       "round": "Matchday 10",
       "date": "2018-10-27",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-10-27",
+      "time": "15:00",
       "team1": "Fulham FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1096,9 +1540,14 @@
     {
       "round": "Matchday 10",
       "date": "2018-10-27",
+      "time": "15:00",
       "team1": "Liverpool FC",
-      "team2": "Cardiff City FC",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1108,8 +1557,9 @@
     {
       "round": "Matchday 10",
       "date": "2018-10-27",
+      "time": "15:00",
       "team1": "Southampton FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
         "ft": [
           0,
@@ -1120,21 +1570,14 @@
     {
       "round": "Matchday 10",
       "date": "2018-10-27",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2018-10-27",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "Huddersfield Town AFC",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1144,9 +1587,14 @@
     {
       "round": "Matchday 10",
       "date": "2018-10-27",
-      "team1": "Leicester City FC",
-      "team2": "West Ham United FC",
+      "time": "17:30",
+      "team1": "Leicester City",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1156,9 +1604,48 @@
     {
       "round": "Matchday 10",
       "date": "2018-10-28",
+      "time": "13:30",
+      "team1": "Crystal Palace",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-10-28",
+      "time": "16:00",
+      "team1": "Manchester United",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2018-10-28",
+      "time": "13:30",
       "team1": "Burnley FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -1167,34 +1654,15 @@
     },
     {
       "round": "Matchday 10",
-      "date": "2018-10-28",
-      "team1": "Crystal Palace FC",
-      "team2": "Arsenal FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2018-10-28",
-      "team1": "Manchester United FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
       "date": "2018-10-29",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Manchester City FC",
+      "time": "20:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1204,9 +1672,14 @@
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
+      "time": "12:30",
       "team1": "AFC Bournemouth",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1216,21 +1689,31 @@
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
-      "team1": "Newcastle United FC",
-      "team2": "Watford FC",
+      "time": "15:00",
+      "team1": "Cardiff City",
+      "team2": "Leicester City",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
+        ],
+        "ft": [
+          0,
+          1
         ]
       }
     },
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
+      "time": "15:00",
       "team1": "Everton FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1240,21 +1723,31 @@
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
-      "team1": "Cardiff City FC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Watford FC",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
+          0
+        ],
+        "ft": [
+          1,
+          0
         ]
       }
     },
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
-      "team1": "West Ham United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           2
@@ -1264,9 +1757,14 @@
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
+      "time": "17:30",
       "team1": "Arsenal FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1276,9 +1774,14 @@
     {
       "round": "Matchday 11",
       "date": "2018-11-03",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1288,9 +1791,31 @@
     {
       "round": "Matchday 11",
       "date": "2018-11-04",
-      "team1": "Manchester City FC",
+      "time": "16:00",
+      "team1": "Chelsea FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-11-04",
+      "time": "15:00",
+      "team1": "Manchester City",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          4,
+          1
+        ],
         "ft": [
           6,
           1
@@ -1299,22 +1824,15 @@
     },
     {
       "round": "Matchday 11",
-      "date": "2018-11-04",
-      "team1": "Chelsea FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 11",
       "date": "2018-11-05",
-      "team1": "Huddersfield Town AFC",
+      "time": "20:00",
+      "team1": "Huddersfield Town",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1324,9 +1842,14 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-10",
-      "team1": "Cardiff City FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "12:30",
+      "team1": "Cardiff City",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1336,11 +1859,16 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-10",
-      "team1": "Newcastle United FC",
-      "team2": "AFC Bournemouth",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          2,
+          1,
           1
         ]
       }
@@ -1348,7 +1876,8 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-10",
-      "team1": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Leicester City",
       "team2": "Burnley FC",
       "score": {
         "ft": [
@@ -1360,11 +1889,16 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-10",
-      "team1": "Huddersfield Town AFC",
-      "team2": "West Ham United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
-          1,
+          2,
           1
         ]
       }
@@ -1372,9 +1906,14 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-10",
+      "time": "15:00",
       "team1": "Southampton FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1384,9 +1923,14 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-10",
-      "team1": "Crystal Palace FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "17:30",
+      "team1": "Crystal Palace",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1396,9 +1940,14 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-11",
+      "time": "12:00",
       "team1": "Liverpool FC",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1408,6 +1957,7 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-11",
+      "time": "14:15",
       "team1": "Chelsea FC",
       "team2": "Everton FC",
       "score": {
@@ -1420,11 +1970,16 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-11",
-      "team1": "Manchester City FC",
-      "team2": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Arsenal FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          3,
+          1,
           1
         ]
       }
@@ -1432,9 +1987,31 @@
     {
       "round": "Matchday 12",
       "date": "2018-11-11",
-      "team1": "Arsenal FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "16:30",
+      "team1": "Manchester City",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-11-24",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1444,9 +2021,31 @@
     {
       "round": "Matchday 13",
       "date": "2018-11-24",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-11-24",
+      "time": "15:00",
       "team1": "Fulham FC",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1456,20 +2055,9 @@
     {
       "round": "Matchday 13",
       "date": "2018-11-24",
-      "team1": "Everton FC",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2018-11-24",
-      "team1": "Manchester United FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Crystal Palace",
       "score": {
         "ft": [
           0,
@@ -1480,33 +2068,14 @@
     {
       "round": "Matchday 13",
       "date": "2018-11-24",
-      "team1": "West Ham United FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2018-11-24",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2018-11-24",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -1516,9 +2085,31 @@
     {
       "round": "Matchday 13",
       "date": "2018-11-24",
-      "team1": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-11-24",
+      "time": "17:30",
+      "team1": "Tottenham Hotspur",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1528,21 +2119,14 @@
     {
       "round": "Matchday 13",
       "date": "2018-11-25",
-      "team1": "AFC Bournemouth",
-      "team2": "Arsenal FC",
+      "time": "16:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Huddersfield Town",
       "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 13",
-      "date": "2018-11-25",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1551,10 +2135,32 @@
     },
     {
       "round": "Matchday 13",
-      "date": "2018-11-26",
-      "team1": "Burnley FC",
-      "team2": "Newcastle United FC",
+      "date": "2018-11-25",
+      "time": "13:30",
+      "team1": "AFC Bournemouth",
+      "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-11-26",
+      "time": "20:30",
+      "team1": "Burnley FC",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1564,9 +2170,14 @@
     {
       "round": "Matchday 14",
       "date": "2018-11-30",
-      "team1": "Cardiff City FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "20:00",
+      "team1": "Cardiff City",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1576,9 +2187,65 @@
     {
       "round": "Matchday 14",
       "date": "2018-12-01",
-      "team1": "Manchester City FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Burnley FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-12-01",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-12-01",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-12-01",
+      "time": "15:00",
+      "team1": "Manchester City",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1588,9 +2255,14 @@
     {
       "round": "Matchday 14",
       "date": "2018-12-01",
-      "team1": "Newcastle United FC",
-      "team2": "West Ham United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1600,69 +2272,31 @@
     {
       "round": "Matchday 14",
       "date": "2018-12-01",
-      "team1": "Leicester City FC",
-      "team2": "Watford FC",
+      "time": "17:30",
+      "team1": "Southampton FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
-          0
+          2
         ]
       }
     },
     {
       "round": "Matchday 14",
-      "date": "2018-12-01",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Brighton & Hove Albion FC",
+      "date": "2018-12-02",
+      "time": "14:05",
+      "team1": "Arsenal FC",
+      "team2": "Tottenham Hotspur",
       "score": {
-        "ft": [
+        "ht": [
           1,
           2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2018-12-01",
-      "team1": "Crystal Palace FC",
-      "team2": "Burnley FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2018-12-01",
-      "team1": "Southampton FC",
-      "team2": "Manchester United FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2018-12-02",
-      "team1": "Chelsea FC",
-      "team2": "Fulham FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2018-12-02",
-      "team1": "Arsenal FC",
-      "team2": "Tottenham Hotspur FC",
-      "score": {
+        ],
         "ft": [
           4,
           2
@@ -1672,9 +2306,14 @@
     {
       "round": "Matchday 14",
       "date": "2018-12-02",
+      "time": "16:15",
       "team1": "Liverpool FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1682,35 +2321,33 @@
       }
     },
     {
-      "round": "Matchday 15",
-      "date": "2018-12-04",
-      "team1": "West Ham United FC",
-      "team2": "Cardiff City FC",
+      "round": "Matchday 14",
+      "date": "2018-12-02",
+      "time": "12:00",
+      "team1": "Chelsea FC",
+      "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          3,
-          1
+          2,
+          0
         ]
       }
     },
     {
       "round": "Matchday 15",
       "date": "2018-12-04",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2018-12-04",
+      "time": "19:45",
       "team1": "AFC Bournemouth",
-      "team2": "Huddersfield Town AFC",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1720,9 +2357,48 @@
     {
       "round": "Matchday 15",
       "date": "2018-12-04",
-      "team1": "Watford FC",
-      "team2": "Manchester City FC",
+      "time": "19:45",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-04",
+      "time": "19:45",
+      "team1": "West Ham United",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-04",
+      "time": "20:00",
+      "team1": "Watford FC",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1732,21 +2408,14 @@
     {
       "round": "Matchday 15",
       "date": "2018-12-05",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Chelsea FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2018-12-05",
+      "time": "19:45",
       "team1": "Fulham FC",
-      "team2": "Leicester City FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1756,9 +2425,82 @@
     {
       "round": "Matchday 15",
       "date": "2018-12-05",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Chelsea FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-05",
+      "time": "19:45",
+      "team1": "Everton FC",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-05",
+      "time": "20:00",
+      "team1": "Manchester United",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-05",
+      "time": "20:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-05",
+      "time": "19:45",
       "team1": "Burnley FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           3
@@ -1766,47 +2508,16 @@
       }
     },
     {
-      "round": "Matchday 15",
-      "date": "2018-12-05",
-      "team1": "Everton FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2018-12-05",
-      "team1": "Manchester United FC",
-      "team2": "Arsenal FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2018-12-05",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
       "round": "Matchday 16",
       "date": "2018-12-08",
+      "time": "12:30",
       "team1": "AFC Bournemouth",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -1816,9 +2527,14 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-08",
+      "time": "15:00",
       "team1": "Arsenal FC",
-      "team2": "Huddersfield Town AFC",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1828,9 +2544,48 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-08",
-      "team1": "Manchester United FC",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-12-08",
+      "time": "15:00",
+      "team1": "Cardiff City",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-12-08",
+      "time": "15:00",
+      "team1": "Manchester United",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1840,33 +2595,14 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-08",
-      "team1": "Burnley FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Crystal Palace",
       "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 16",
-      "date": "2018-12-08",
-      "team1": "Cardiff City FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 16",
-      "date": "2018-12-08",
-      "team1": "West Ham United FC",
-      "team2": "Crystal Palace FC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1876,9 +2612,14 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-08",
+      "time": "17:30",
       "team1": "Chelsea FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1888,9 +2629,14 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-08",
-      "team1": "Leicester City FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "19:45",
+      "team1": "Leicester City",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1900,9 +2646,14 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-09",
-      "team1": "Newcastle United FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "16:00",
+      "team1": "Newcastle United",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1912,9 +2663,14 @@
     {
       "round": "Matchday 16",
       "date": "2018-12-10",
+      "time": "20:00",
       "team1": "Everton FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1924,9 +2680,14 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-15",
-      "team1": "Manchester City FC",
+      "time": "12:30",
+      "team1": "Manchester City",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1936,21 +2697,14 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-15",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "AFC Bournemouth",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Leicester City",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 17",
-      "date": "2018-12-15",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Burnley FC",
-      "score": {
+        ],
         "ft": [
           1,
           0
@@ -1960,9 +2714,14 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-15",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1972,9 +2731,14 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-15",
-      "team1": "Crystal Palace FC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1984,9 +2748,14 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-15",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "Cardiff City FC",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -1996,9 +2765,31 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-15",
-      "team1": "Fulham FC",
-      "team2": "West Ham United FC",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-15",
+      "time": "17:30",
+      "team1": "Fulham FC",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -2008,9 +2799,31 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-16",
+      "time": "13:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Chelsea FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-16",
+      "time": "13:30",
       "team1": "Southampton FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -2020,21 +2833,14 @@
     {
       "round": "Matchday 17",
       "date": "2018-12-16",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Chelsea FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 17",
-      "date": "2018-12-16",
+      "time": "16:00",
       "team1": "Liverpool FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -2044,9 +2850,14 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-21",
-      "team1": "Wolverhampton Wanderers FC",
+      "time": "20:00",
+      "team1": "Wolverhampton Wanderers",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2056,9 +2867,14 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-22",
+      "time": "12:30",
       "team1": "Arsenal FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2068,9 +2884,65 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-22",
-      "team1": "Manchester City FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-22",
+      "time": "15:00",
+      "team1": "Chelsea FC",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-22",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-22",
+      "time": "15:00",
+      "team1": "Manchester City",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -2080,7 +2952,8 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-22",
-      "team1": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
       "team2": "Fulham FC",
       "score": {
         "ft": [
@@ -2092,33 +2965,14 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-22",
-      "team1": "Chelsea FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 18",
-      "date": "2018-12-22",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 18",
-      "date": "2018-12-22",
-      "team1": "West Ham United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2128,21 +2982,14 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-22",
-      "team1": "AFC Bournemouth",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "17:30",
+      "team1": "Cardiff City",
+      "team2": "Manchester United",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 18",
-      "date": "2018-12-22",
-      "team1": "Cardiff City FC",
-      "team2": "Manchester United FC",
-      "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           5
@@ -2152,9 +2999,14 @@
     {
       "round": "Matchday 18",
       "date": "2018-12-23",
+      "time": "16:00",
       "team1": "Everton FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           2,
           6
@@ -2164,9 +3016,14 @@
     {
       "round": "Matchday 19",
       "date": "2018-12-26",
+      "time": "12:30",
       "team1": "Fulham FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2176,57 +3033,14 @@
     {
       "round": "Matchday 19",
       "date": "2018-12-26",
-      "team1": "Liverpool FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2018-12-26",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "AFC Bournemouth",
-      "score": {
-        "ft": [
-          5,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2018-12-26",
-      "team1": "Manchester United FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2018-12-26",
-      "team1": "Leicester City FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2018-12-26",
+      "time": "15:00",
       "team1": "Burnley FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           5
@@ -2236,8 +3050,9 @@
     {
       "round": "Matchday 19",
       "date": "2018-12-26",
-      "team1": "Crystal Palace FC",
-      "team2": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Cardiff City",
       "score": {
         "ft": [
           0,
@@ -2248,9 +3063,82 @@
     {
       "round": "Matchday 19",
       "date": "2018-12-26",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-26",
+      "time": "15:00",
+      "team1": "Liverpool FC",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-26",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-26",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "AFC Bournemouth",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2018-12-26",
+      "time": "17:15",
+      "team1": "Brighton & Hove Albion",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2260,9 +3148,14 @@
     {
       "round": "Matchday 19",
       "date": "2018-12-26",
+      "time": "19:30",
       "team1": "Watford FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2272,9 +3165,14 @@
     {
       "round": "Matchday 19",
       "date": "2018-12-27",
+      "time": "19:45",
       "team1": "Southampton FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2284,9 +3182,48 @@
     {
       "round": "Matchday 20",
       "date": "2018-12-29",
-      "team1": "Leicester City FC",
-      "team2": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Fulham FC",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2296,45 +3233,14 @@
     {
       "round": "Matchday 20",
       "date": "2018-12-29",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Everton FC",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2018-12-29",
-      "team1": "Watford FC",
-      "team2": "Newcastle United FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2018-12-29",
-      "team1": "Fulham FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2018-12-29",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
+        ],
         "ft": [
           1,
           3
@@ -2344,9 +3250,31 @@
     {
       "round": "Matchday 20",
       "date": "2018-12-29",
+      "time": "15:00",
+      "team1": "Watford FC",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2018-12-29",
+      "time": "17:30",
       "team1": "Liverpool FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          4,
+          1
+        ],
         "ft": [
           5,
           1
@@ -2356,21 +3284,14 @@
     {
       "round": "Matchday 20",
       "date": "2018-12-30",
-      "team1": "Crystal Palace FC",
-      "team2": "Chelsea FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2018-12-30",
+      "time": "14:15",
       "team1": "Burnley FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2380,9 +3301,14 @@
     {
       "round": "Matchday 20",
       "date": "2018-12-30",
+      "time": "14:15",
       "team1": "Southampton FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           3
@@ -2392,9 +3318,14 @@
     {
       "round": "Matchday 20",
       "date": "2018-12-30",
-      "team1": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Manchester United",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           1
@@ -2402,11 +3333,16 @@
       }
     },
     {
-      "round": "Matchday 21",
-      "date": "2019-01-01",
-      "team1": "Everton FC",
-      "team2": "Leicester City FC",
+      "round": "Matchday 20",
+      "date": "2018-12-30",
+      "time": "12:00",
+      "team1": "Crystal Palace",
+      "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2416,9 +3352,14 @@
     {
       "round": "Matchday 21",
       "date": "2019-01-01",
+      "time": "15:00",
       "team1": "Arsenal FC",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -2428,9 +3369,14 @@
     {
       "round": "Matchday 21",
       "date": "2019-01-01",
-      "team1": "Cardiff City FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "17:30",
+      "team1": "Cardiff City",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           3
@@ -2439,19 +3385,42 @@
     },
     {
       "round": "Matchday 21",
-      "date": "2019-01-02",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Crystal Palace FC",
+      "date": "2019-01-01",
+      "time": "12:30",
+      "team1": "Everton FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
-          2
+          1
         ]
       }
     },
     {
       "round": "Matchday 21",
       "date": "2019-01-02",
+      "time": "19:45",
+      "team1": "AFC Bournemouth",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          3,
+          3
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-01-02",
+      "time": "19:45",
       "team1": "Chelsea FC",
       "team2": "Southampton FC",
       "score": {
@@ -2464,9 +3433,14 @@
     {
       "round": "Matchday 21",
       "date": "2019-01-02",
-      "team1": "Huddersfield Town AFC",
+      "time": "19:45",
+      "team1": "Huddersfield Town",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2476,9 +3450,14 @@
     {
       "round": "Matchday 21",
       "date": "2019-01-02",
-      "team1": "West Ham United FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "19:45",
+      "team1": "West Ham United",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2488,21 +3467,31 @@
     {
       "round": "Matchday 21",
       "date": "2019-01-02",
-      "team1": "AFC Bournemouth",
-      "team2": "Watford FC",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          3,
-          3
+          0,
+          2
         ]
       }
     },
     {
       "round": "Matchday 21",
       "date": "2019-01-02",
-      "team1": "Newcastle United FC",
-      "team2": "Manchester United FC",
+      "time": "20:00",
+      "team1": "Newcastle United",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -2512,9 +3501,14 @@
     {
       "round": "Matchday 21",
       "date": "2019-01-03",
-      "team1": "Manchester City FC",
+      "time": "20:00",
+      "team1": "Manchester City",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2524,33 +3518,31 @@
     {
       "round": "Matchday 22",
       "date": "2019-01-12",
-      "team1": "West Ham United FC",
-      "team2": "Arsenal FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Liverpool FC",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
-      "date": "2019-01-12",
-      "team1": "Leicester City FC",
-      "team2": "Southampton FC",
-      "score": {
+        ],
         "ft": [
-          1,
-          2
+          0,
+          1
         ]
       }
     },
     {
       "round": "Matchday 22",
       "date": "2019-01-12",
+      "time": "15:00",
       "team1": "Burnley FC",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2560,8 +3552,9 @@
     {
       "round": "Matchday 22",
       "date": "2019-01-12",
-      "team1": "Cardiff City FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Cardiff City",
+      "team2": "Huddersfield Town",
       "score": {
         "ft": [
           0,
@@ -2572,9 +3565,14 @@
     {
       "round": "Matchday 22",
       "date": "2019-01-12",
-      "team1": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2584,21 +3582,31 @@
     {
       "round": "Matchday 22",
       "date": "2019-01-12",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Liverpool FC",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Southampton FC",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
+          2
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
       "round": "Matchday 22",
       "date": "2019-01-12",
+      "time": "17:30",
       "team1": "Chelsea FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2607,10 +3615,32 @@
     },
     {
       "round": "Matchday 22",
+      "date": "2019-01-12",
+      "time": "12:30",
+      "team1": "West Ham United",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
       "date": "2019-01-13",
+      "time": "14:15",
       "team1": "Everton FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2620,9 +3650,14 @@
     {
       "round": "Matchday 22",
       "date": "2019-01-13",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2632,9 +3667,14 @@
     {
       "round": "Matchday 22",
       "date": "2019-01-14",
-      "team1": "Manchester City FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "20:00",
+      "team1": "Manchester City",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2644,9 +3684,14 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-19",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Leicester City FC",
+      "time": "12:30",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           3
@@ -2656,9 +3701,31 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-19",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-01-19",
+      "time": "15:00",
       "team1": "Liverpool FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           4,
           3
@@ -2668,21 +3735,14 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-19",
-      "team1": "Newcastle United FC",
-      "team2": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Brighton & Hove Albion",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          2,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2019-01-19",
-      "team1": "Manchester United FC",
-      "team2": "Brighton & Hove Albion FC",
-      "score": {
+        ],
         "ft": [
           2,
           1
@@ -2692,9 +3752,31 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-19",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-01-19",
+      "time": "15:00",
       "team1": "Southampton FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2704,6 +3786,7 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-19",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "Burnley FC",
       "score": {
@@ -2716,21 +3799,14 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-19",
-      "team1": "AFC Bournemouth",
-      "team2": "West Ham United FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 23",
-      "date": "2019-01-19",
+      "time": "17:30",
       "team1": "Arsenal FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2740,9 +3816,14 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-20",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Manchester City FC",
+      "time": "13:30",
+      "team1": "Huddersfield Town",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -2752,9 +3833,14 @@
     {
       "round": "Matchday 23",
       "date": "2019-01-20",
+      "time": "16:00",
       "team1": "Fulham FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2764,21 +3850,14 @@
     {
       "round": "Matchday 24",
       "date": "2019-01-29",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "West Ham United FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2019-01-29",
+      "time": "19:45",
       "team1": "Fulham FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           4,
           2
@@ -2788,9 +3867,14 @@
     {
       "round": "Matchday 24",
       "date": "2019-01-29",
+      "time": "19:45",
       "team1": "Arsenal FC",
-      "team2": "Cardiff City FC",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2800,9 +3884,14 @@
     {
       "round": "Matchday 24",
       "date": "2019-01-29",
-      "team1": "Huddersfield Town AFC",
+      "time": "19:45",
+      "team1": "Huddersfield Town",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2812,9 +3901,31 @@
     {
       "round": "Matchday 24",
       "date": "2019-01-29",
-      "team1": "Manchester United FC",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-01-29",
+      "time": "20:00",
+      "team1": "Manchester United",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2824,9 +3935,14 @@
     {
       "round": "Matchday 24",
       "date": "2019-01-29",
-      "team1": "Newcastle United FC",
-      "team2": "Manchester City FC",
+      "time": "20:00",
+      "team1": "Newcastle United",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2836,9 +3952,65 @@
     {
       "round": "Matchday 24",
       "date": "2019-01-30",
+      "time": "19:45",
+      "team1": "Southampton FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-01-30",
+      "time": "20:00",
+      "team1": "Liverpool FC",
+      "team2": "Leicester City",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-01-30",
+      "time": "20:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-01-30",
+      "time": "19:45",
       "team1": "AFC Bournemouth",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2846,47 +4018,16 @@
       }
     },
     {
-      "round": "Matchday 24",
-      "date": "2019-01-30",
-      "team1": "Southampton FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2019-01-30",
-      "team1": "Liverpool FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2019-01-30",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
       "round": "Matchday 25",
       "date": "2019-02-02",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Newcastle United FC",
+      "time": "12:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2896,9 +4037,48 @@
     {
       "round": "Matchday 25",
       "date": "2019-02-02",
-      "team1": "Chelsea FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-02",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-02",
+      "time": "15:00",
+      "team1": "Chelsea FC",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -2908,43 +4088,8 @@
     {
       "round": "Matchday 25",
       "date": "2019-02-02",
-      "team1": "Everton FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2019-02-02",
-      "team1": "Burnley FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2019-02-02",
-      "team1": "Crystal Palace FC",
-      "team2": "Fulham FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2019-02-02",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
       "team2": "Watford FC",
       "score": {
         "ft": [
@@ -2956,9 +4101,31 @@
     {
       "round": "Matchday 25",
       "date": "2019-02-02",
-      "team1": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "Everton FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-02-02",
+      "time": "17:30",
+      "team1": "Cardiff City",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2968,21 +4135,14 @@
     {
       "round": "Matchday 25",
       "date": "2019-02-03",
-      "team1": "Leicester City FC",
-      "team2": "Manchester United FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2019-02-03",
-      "team1": "Manchester City FC",
+      "time": "16:30",
+      "team1": "Manchester City",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -2991,10 +4151,32 @@
     },
     {
       "round": "Matchday 25",
+      "date": "2019-02-03",
+      "time": "14:05",
+      "team1": "Leicester City",
+      "team2": "Manchester United",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
       "date": "2019-02-04",
-      "team1": "West Ham United FC",
+      "time": "20:00",
+      "team1": "West Ham United",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3004,9 +4186,14 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-06",
+      "time": "19:45",
       "team1": "Everton FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3016,21 +4203,31 @@
     {
       "round": "Matchday 26",
       "date": "2019-02-09",
-      "team1": "Fulham FC",
-      "team2": "Manchester United FC",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Arsenal FC",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          3
+          2
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
       "round": "Matchday 26",
       "date": "2019-02-09",
+      "time": "15:00",
       "team1": "Liverpool FC",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3040,45 +4237,31 @@
     {
       "round": "Matchday 26",
       "date": "2019-02-09",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Arsenal FC",
+      "time": "12:30",
+      "team1": "Fulham FC",
+      "team2": "Manchester United",
       "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 26",
-      "date": "2019-02-09",
-      "team1": "Southampton FC",
-      "team2": "Cardiff City FC",
-      "score": {
+        ],
         "ft": [
-          1,
-          2
+          0,
+          3
         ]
       }
     },
     {
       "round": "Matchday 26",
       "date": "2019-02-09",
-      "team1": "Crystal Palace FC",
-      "team2": "West Ham United FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 26",
-      "date": "2019-02-09",
+      "time": "15:00",
       "team1": "Watford FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3088,9 +4271,31 @@
     {
       "round": "Matchday 26",
       "date": "2019-02-09",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-02-09",
+      "time": "17:30",
+      "team1": "Brighton & Hove Albion",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3099,22 +4304,32 @@
     },
     {
       "round": "Matchday 26",
-      "date": "2019-02-10",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Leicester City FC",
+      "date": "2019-02-09",
+      "time": "15:00",
+      "team1": "Southampton FC",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          3,
-          1
+          1,
+          2
         ]
       }
     },
     {
       "round": "Matchday 26",
       "date": "2019-02-10",
-      "team1": "Manchester City FC",
+      "time": "16:00",
+      "team1": "Manchester City",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           6,
           0
@@ -3123,10 +4338,32 @@
     },
     {
       "round": "Matchday 26",
-      "date": "2019-02-11",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Newcastle United FC",
+      "date": "2019-02-10",
+      "time": "13:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-02-11",
+      "time": "20:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3136,9 +4373,14 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-22",
-      "team1": "Cardiff City FC",
+      "time": "19:45",
+      "team1": "Cardiff City",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           5
@@ -3148,9 +4390,14 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-22",
-      "team1": "West Ham United FC",
+      "time": "19:45",
+      "team1": "West Ham United",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3160,21 +4407,14 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-23",
-      "team1": "Burnley FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Huddersfield Town",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 27",
-      "date": "2019-02-23",
-      "team1": "Newcastle United FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3184,9 +4424,14 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-23",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
-      "team2": "Wolverhampton Wanderers FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3196,9 +4441,14 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-23",
-      "team1": "Leicester City FC",
-      "team2": "Crystal Palace FC",
+      "time": "17:30",
+      "team1": "Leicester City",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           4
@@ -3207,12 +4457,30 @@
     },
     {
       "round": "Matchday 27",
-      "date": "2019-02-24",
-      "team1": "Arsenal FC",
-      "team2": "Southampton FC",
+      "date": "2019-02-23",
+      "time": "12:30",
+      "team1": "Burnley FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-02-24",
+      "time": "14:05",
+      "team1": "Manchester United",
+      "team2": "Liverpool FC",
+      "score": {
+        "ft": [
+          0,
           0
         ]
       }
@@ -3220,11 +4488,16 @@
     {
       "round": "Matchday 27",
       "date": "2019-02-24",
-      "team1": "Manchester United FC",
-      "team2": "Liverpool FC",
+      "time": "14:05",
+      "team1": "Arsenal FC",
+      "team2": "Southampton FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          0,
+          2,
           0
         ]
       }
@@ -3232,9 +4505,14 @@
     {
       "round": "Matchday 28",
       "date": "2019-02-26",
-      "team1": "Leicester City FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "19:45",
+      "team1": "Leicester City",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3244,21 +4522,14 @@
     {
       "round": "Matchday 28",
       "date": "2019-02-26",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2019-02-26",
-      "team1": "Cardiff City FC",
+      "time": "19:45",
+      "team1": "Cardiff City",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -3268,57 +4539,48 @@
     {
       "round": "Matchday 28",
       "date": "2019-02-26",
-      "team1": "Newcastle United FC",
-      "team2": "Burnley FC",
+      "time": "19:45",
+      "team1": "Huddersfield Town",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2019-02-27",
-      "team1": "Arsenal FC",
-      "team2": "AFC Bournemouth",
-      "score": {
-        "ft": [
-          5,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2019-02-27",
-      "team1": "Southampton FC",
-      "team2": "Fulham FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2019-02-27",
-      "team1": "Crystal Palace FC",
-      "team2": "Manchester United FC",
-      "score": {
+        ],
         "ft": [
           1,
-          3
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-02-26",
+      "time": "20:00",
+      "team1": "Newcastle United",
+      "team2": "Burnley FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
         ]
       }
     },
     {
       "round": "Matchday 28",
       "date": "2019-02-27",
+      "time": "20:00",
       "team1": "Liverpool FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -3328,11 +4590,33 @@
     {
       "round": "Matchday 28",
       "date": "2019-02-27",
-      "team1": "Manchester City FC",
-      "team2": "West Ham United FC",
+      "time": "19:45",
+      "team1": "Arsenal FC",
+      "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
-          1,
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-02-27",
+      "time": "19:45",
+      "team1": "Southampton FC",
+      "team2": "Fulham FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
           0
         ]
       }
@@ -3340,9 +4624,65 @@
     {
       "round": "Matchday 28",
       "date": "2019-02-27",
-      "team1": "Chelsea FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "20:00",
+      "team1": "Crystal Palace",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-02-27",
+      "time": "20:00",
+      "team1": "Chelsea FC",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-02-27",
+      "time": "20:00",
+      "team1": "Manchester City",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-02",
+      "time": "17:30",
+      "team1": "West Ham United",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3352,9 +4692,14 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-02",
-      "team1": "Tottenham Hotspur FC",
+      "time": "12:30",
+      "team1": "Tottenham Hotspur",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3364,9 +4709,14 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-02",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Cardiff City FC",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3376,21 +4726,14 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-02",
-      "team1": "Manchester United FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2019-03-02",
+      "time": "15:00",
       "team1": "Burnley FC",
-      "team2": "Crystal Palace FC",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3400,9 +4743,14 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-02",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3412,9 +4760,14 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-02",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3424,35 +4777,16 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-02",
-      "team1": "West Ham United FC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Southampton FC",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2019-03-03",
-      "team1": "Watford FC",
-      "team2": "Leicester City FC",
-      "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2019-03-03",
-      "team1": "Fulham FC",
-      "team2": "Chelsea FC",
-      "score": {
+        ],
         "ft": [
-          1,
+          3,
           2
         ]
       }
@@ -3460,6 +4794,7 @@
     {
       "round": "Matchday 29",
       "date": "2019-03-03",
+      "time": "16:15",
       "team1": "Everton FC",
       "team2": "Liverpool FC",
       "score": {
@@ -3470,11 +4805,33 @@
       }
     },
     {
-      "round": "Matchday 30",
-      "date": "2019-03-09",
-      "team1": "Crystal Palace FC",
-      "team2": "Brighton & Hove Albion FC",
+      "round": "Matchday 29",
+      "date": "2019-03-03",
+      "time": "12:00",
+      "team1": "Watford FC",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-03-03",
+      "time": "14:05",
+      "team1": "Fulham FC",
+      "team2": "Chelsea FC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -3484,21 +4841,14 @@
     {
       "round": "Matchday 30",
       "date": "2019-03-09",
-      "team1": "Newcastle United FC",
-      "team2": "Everton FC",
+      "time": "17:30",
+      "team1": "Manchester City",
+      "team2": "Watford FC",
       "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 30",
-      "date": "2019-03-09",
-      "team1": "Leicester City FC",
-      "team2": "Fulham FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -3508,9 +4858,31 @@
     {
       "round": "Matchday 30",
       "date": "2019-03-09",
-      "team1": "Huddersfield Town AFC",
+      "time": "12:30",
+      "team1": "Crystal Palace",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3520,9 +4892,31 @@
     {
       "round": "Matchday 30",
       "date": "2019-03-09",
-      "team1": "Cardiff City FC",
-      "team2": "West Ham United FC",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "Cardiff City",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3532,9 +4926,31 @@
     {
       "round": "Matchday 30",
       "date": "2019-03-09",
-      "team1": "Southampton FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-03-09",
+      "time": "15:00",
+      "team1": "Southampton FC",
+      "team2": "Tottenham Hotspur",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3543,22 +4959,15 @@
     },
     {
       "round": "Matchday 30",
-      "date": "2019-03-09",
-      "team1": "Manchester City FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 30",
       "date": "2019-03-10",
+      "time": "12:00",
       "team1": "Liverpool FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           2
@@ -3568,9 +4977,14 @@
     {
       "round": "Matchday 30",
       "date": "2019-03-10",
+      "time": "14:05",
       "team1": "Chelsea FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3580,9 +4994,14 @@
     {
       "round": "Matchday 30",
       "date": "2019-03-10",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3592,11 +5011,16 @@
     {
       "round": "Matchday 31",
       "date": "2019-03-16",
-      "team1": "Burnley FC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          1,
+          2,
           2
         ]
       }
@@ -3604,9 +5028,14 @@
     {
       "round": "Matchday 31",
       "date": "2019-03-16",
-      "team1": "West Ham United FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           4,
           3
@@ -3616,21 +5045,14 @@
     {
       "round": "Matchday 31",
       "date": "2019-03-16",
-      "team1": "AFC Bournemouth",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Leicester City",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
-      "date": "2019-03-17",
-      "team1": "Fulham FC",
-      "team2": "Liverpool FC",
-      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3640,9 +5062,14 @@
     {
       "round": "Matchday 31",
       "date": "2019-03-17",
+      "time": "16:30",
       "team1": "Everton FC",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3650,11 +5077,33 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2019-03-17",
+      "time": "14:15",
+      "team1": "Fulham FC",
+      "team2": "Liverpool FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
       "round": "Matchday 32",
       "date": "2019-03-30",
+      "time": "12:30",
       "team1": "Fulham FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -3664,81 +5113,116 @@
     {
       "round": "Matchday 32",
       "date": "2019-03-30",
-      "team1": "Manchester United FC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2019-03-30",
-      "team1": "Leicester City FC",
-      "team2": "AFC Bournemouth",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2019-03-30",
-      "team1": "Burnley FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2019-03-30",
-      "team1": "Crystal Palace FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2019-03-30",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Southampton FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2019-03-30",
-      "team1": "West Ham United FC",
+      "time": "17:30",
+      "team1": "West Ham United",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-03-30",
+      "time": "15:00",
+      "team1": "Leicester City",
+      "team2": "AFC Bournemouth",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
         ]
       }
     },
     {
       "round": "Matchday 32",
       "date": "2019-03-31",
-      "team1": "Cardiff City FC",
+      "time": "14:05",
+      "team1": "Cardiff City",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3748,9 +5232,14 @@
     {
       "round": "Matchday 32",
       "date": "2019-03-31",
+      "time": "16:30",
       "team1": "Liverpool FC",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3760,9 +5249,14 @@
     {
       "round": "Matchday 32",
       "date": "2019-04-01",
+      "time": "20:00",
       "team1": "Arsenal FC",
-      "team2": "Newcastle United FC",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3772,9 +5266,14 @@
     {
       "round": "Matchday 33",
       "date": "2019-04-02",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Manchester United FC",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3784,9 +5283,14 @@
     {
       "round": "Matchday 33",
       "date": "2019-04-02",
+      "time": "19:45",
       "team1": "Watford FC",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           1
@@ -3794,11 +5298,50 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2019-04-03",
+      "time": "19:45",
+      "team1": "Tottenham Hotspur",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-04-03",
+      "time": "19:45",
+      "team1": "Manchester City",
+      "team2": "Cardiff City",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
       "round": "Matchday 27",
       "date": "2019-04-03",
+      "time": "19:45",
       "team1": "Chelsea FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3806,35 +5349,16 @@
       }
     },
     {
-      "round": "Matchday 31",
-      "date": "2019-04-03",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2019-04-03",
-      "team1": "Manchester City FC",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
       "round": "Matchday 33",
       "date": "2019-04-05",
+      "time": "20:00",
       "team1": "Southampton FC",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -3844,21 +5368,31 @@
     {
       "round": "Matchday 33",
       "date": "2019-04-06",
-      "team1": "Newcastle United FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "AFC Bournemouth",
+      "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
-          0,
-          1
+          1,
+          3
         ]
       }
     },
     {
       "round": "Matchday 33",
       "date": "2019-04-06",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           4
@@ -3868,21 +5402,31 @@
     {
       "round": "Matchday 33",
       "date": "2019-04-06",
-      "team1": "AFC Bournemouth",
-      "team2": "Burnley FC",
+      "time": "15:00",
+      "team1": "Newcastle United",
+      "team2": "Crystal Palace",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          1,
-          3
+          0,
+          1
         ]
       }
     },
     {
       "round": "Matchday 33",
       "date": "2019-04-07",
+      "time": "14:05",
       "team1": "Everton FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3892,9 +5436,14 @@
     {
       "round": "Matchday 33",
       "date": "2019-04-08",
+      "time": "20:00",
       "team1": "Chelsea FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3904,9 +5453,14 @@
     {
       "round": "Matchday 34",
       "date": "2019-04-12",
-      "team1": "Leicester City FC",
-      "team2": "Newcastle United FC",
+      "time": "20:00",
+      "team1": "Leicester City",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3916,45 +5470,14 @@
     {
       "round": "Matchday 34",
       "date": "2019-04-13",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Huddersfield Town AFC",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2019-04-13",
-      "team1": "Fulham FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2019-04-13",
-      "team1": "Burnley FC",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2019-04-13",
+      "time": "15:00",
       "team1": "Southampton FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -3964,9 +5487,31 @@
     {
       "round": "Matchday 34",
       "date": "2019-04-13",
-      "team1": "Brighton & Hove Albion FC",
+      "time": "15:00",
+      "team1": "Fulham FC",
+      "team2": "Everton FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-04-13",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
       "team2": "AFC Bournemouth",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           5
@@ -3976,33 +5521,14 @@
     {
       "round": "Matchday 34",
       "date": "2019-04-13",
-      "team1": "Manchester United FC",
-      "team2": "West Ham United FC",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Cardiff City",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2019-04-14",
-      "team1": "Crystal Palace FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
+        "ht": [
           1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2019-04-14",
-      "team1": "Liverpool FC",
-      "team2": "Chelsea FC",
-      "score": {
+          0
+        ],
         "ft": [
           2,
           0
@@ -4011,10 +5537,83 @@
     },
     {
       "round": "Matchday 34",
+      "date": "2019-04-13",
+      "time": "17:30",
+      "team1": "Manchester United",
+      "team2": "West Ham United",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-04-13",
+      "time": "12:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-04-14",
+      "time": "16:30",
+      "team1": "Liverpool FC",
+      "team2": "Chelsea FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-04-14",
+      "time": "14:05",
+      "team1": "Crystal Palace",
+      "team2": "Manchester City",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
       "date": "2019-04-15",
+      "time": "20:00",
       "team1": "Watford FC",
       "team2": "Arsenal FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -4024,9 +5623,14 @@
     {
       "round": "Matchday 31",
       "date": "2019-04-16",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Cardiff City FC",
+      "time": "19:45",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -4036,45 +5640,14 @@
     {
       "round": "Matchday 35",
       "date": "2019-04-20",
-      "team1": "Manchester City FC",
-      "team2": "Tottenham Hotspur FC",
+      "time": "15:00",
+      "team1": "West Ham United",
+      "team2": "Leicester City",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 35",
-      "date": "2019-04-20",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Brighton & Hove Albion FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 35",
-      "date": "2019-04-20",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Watford FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 35",
-      "date": "2019-04-20",
-      "team1": "West Ham United FC",
-      "team2": "Leicester City FC",
-      "score": {
+        ],
         "ft": [
           2,
           2
@@ -4084,9 +5657,44 @@
     {
       "round": "Matchday 35",
       "date": "2019-04-20",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Brighton & Hove Albion",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-04-20",
+      "time": "17:30",
+      "team1": "Newcastle United",
+      "team2": "Southampton FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-04-20",
+      "time": "15:00",
       "team1": "AFC Bournemouth",
       "team2": "Fulham FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4096,21 +5704,48 @@
     {
       "round": "Matchday 35",
       "date": "2019-04-20",
-      "team1": "Newcastle United FC",
-      "team2": "Southampton FC",
+      "time": "12:30",
+      "team1": "Manchester City",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          3,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2019-04-20",
+      "time": "15:00",
+      "team1": "Huddersfield Town",
+      "team2": "Watford FC",
+      "score": {
+        "ht": [
+          0,
           1
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
       "round": "Matchday 35",
       "date": "2019-04-21",
+      "time": "13:30",
       "team1": "Everton FC",
-      "team2": "Manchester United FC",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -4120,21 +5755,14 @@
     {
       "round": "Matchday 35",
       "date": "2019-04-21",
-      "team1": "Arsenal FC",
-      "team2": "Crystal Palace FC",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 35",
-      "date": "2019-04-21",
-      "team1": "Cardiff City FC",
+      "time": "16:00",
+      "team1": "Cardiff City",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4143,10 +5771,32 @@
     },
     {
       "round": "Matchday 35",
+      "date": "2019-04-21",
+      "time": "16:00",
+      "team1": "Arsenal FC",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
       "date": "2019-04-22",
+      "time": "20:00",
       "team1": "Chelsea FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           2
@@ -4156,9 +5806,14 @@
     {
       "round": "Matchday 31",
       "date": "2019-04-23",
+      "time": "19:45",
       "team1": "Watford FC",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4168,9 +5823,14 @@
     {
       "round": "Matchday 33",
       "date": "2019-04-23",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Brighton & Hove Albion FC",
+      "time": "19:45",
+      "team1": "Tottenham Hotspur",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4180,21 +5840,14 @@
     {
       "round": "Matchday 31",
       "date": "2019-04-24",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Arsenal FC",
+      "time": "20:00",
+      "team1": "Manchester United",
+      "team2": "Manchester City",
       "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
-      "date": "2019-04-24",
-      "team1": "Manchester United FC",
-      "team2": "Manchester City FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -4202,11 +5855,33 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2019-04-24",
+      "time": "19:45",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
       "round": "Matchday 36",
       "date": "2019-04-26",
+      "time": "20:00",
       "team1": "Liverpool FC",
-      "team2": "Huddersfield Town AFC",
+      "team2": "Huddersfield Town",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           0
@@ -4216,9 +5891,14 @@
     {
       "round": "Matchday 36",
       "date": "2019-04-27",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "West Ham United FC",
+      "time": "12:30",
+      "team1": "Tottenham Hotspur",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4228,31 +5908,8 @@
     {
       "round": "Matchday 36",
       "date": "2019-04-27",
-      "team1": "Fulham FC",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 36",
-      "date": "2019-04-27",
-      "team1": "Southampton FC",
-      "team2": "AFC Bournemouth",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 36",
-      "date": "2019-04-27",
-      "team1": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Crystal Palace",
       "team2": "Everton FC",
       "score": {
         "ft": [
@@ -4264,9 +5921,48 @@
     {
       "round": "Matchday 36",
       "date": "2019-04-27",
-      "team1": "Watford FC",
-      "team2": "Wolverhampton Wanderers FC",
+      "time": "15:00",
+      "team1": "Fulham FC",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2019-04-27",
+      "time": "15:00",
+      "team1": "Southampton FC",
+      "team2": "AFC Bournemouth",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2019-04-27",
+      "time": "15:00",
+      "team1": "Watford FC",
+      "team2": "Wolverhampton Wanderers",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -4276,9 +5972,14 @@
     {
       "round": "Matchday 36",
       "date": "2019-04-27",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Newcastle United FC",
+      "time": "17:30",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Newcastle United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4288,21 +5989,14 @@
     {
       "round": "Matchday 36",
       "date": "2019-04-28",
-      "team1": "Leicester City FC",
-      "team2": "Arsenal FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 36",
-      "date": "2019-04-28",
+      "time": "14:05",
       "team1": "Burnley FC",
-      "team2": "Manchester City FC",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -4312,21 +6006,48 @@
     {
       "round": "Matchday 36",
       "date": "2019-04-28",
-      "team1": "Manchester United FC",
+      "time": "16:30",
+      "team1": "Manchester United",
       "team2": "Chelsea FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2019-04-28",
+      "time": "12:00",
+      "team1": "Leicester City",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
         ]
       }
     },
     {
       "round": "Matchday 37",
       "date": "2019-05-03",
+      "time": "20:00",
       "team1": "Everton FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -4336,9 +6057,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-04",
+      "time": "12:30",
       "team1": "AFC Bournemouth",
-      "team2": "Tottenham Hotspur FC",
+      "team2": "Tottenham Hotspur",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4348,21 +6074,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-04",
-      "team1": "Wolverhampton Wanderers FC",
-      "team2": "Fulham FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2019-05-04",
-      "team1": "West Ham United FC",
+      "time": "15:00",
+      "team1": "West Ham United",
       "team2": "Southampton FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4372,9 +6091,31 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-04",
-      "team1": "Cardiff City FC",
-      "team2": "Crystal Palace FC",
+      "time": "15:00",
+      "team1": "Wolverhampton Wanderers",
+      "team2": "Fulham FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2019-05-04",
+      "time": "17:30",
+      "team1": "Cardiff City",
+      "team2": "Crystal Palace",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -4384,9 +6125,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-04",
-      "team1": "Newcastle United FC",
+      "time": "19:45",
+      "team1": "Newcastle United",
       "team2": "Liverpool FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -4396,9 +6142,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-05",
+      "time": "14:00",
       "team1": "Chelsea FC",
       "team2": "Watford FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -4408,9 +6159,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-05",
-      "team1": "Huddersfield Town AFC",
-      "team2": "Manchester United FC",
+      "time": "14:00",
+      "team1": "Huddersfield Town",
+      "team2": "Manchester United",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -4420,9 +6176,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-05",
+      "time": "16:30",
       "team1": "Arsenal FC",
-      "team2": "Brighton & Hove Albion FC",
+      "team2": "Brighton & Hove Albion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4432,9 +6193,14 @@
     {
       "round": "Matchday 37",
       "date": "2019-05-06",
-      "team1": "Manchester City FC",
-      "team2": "Leicester City FC",
+      "time": "20:00",
+      "team1": "Manchester City",
+      "team2": "Leicester City",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -4444,9 +6210,65 @@
     {
       "round": "Matchday 38",
       "date": "2019-05-12",
-      "team1": "Fulham FC",
-      "team2": "Newcastle United FC",
+      "time": "15:00",
+      "team1": "Brighton & Hove Albion",
+      "team2": "Manchester City",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-12",
+      "time": "15:00",
+      "team1": "Burnley FC",
+      "team2": "Arsenal FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-12",
+      "time": "15:00",
+      "team1": "Crystal Palace",
+      "team2": "AFC Bournemouth",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-12",
+      "time": "15:00",
+      "team1": "Fulham FC",
+      "team2": "Newcastle United",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -4456,43 +6278,8 @@
     {
       "round": "Matchday 38",
       "date": "2019-05-12",
-      "team1": "Liverpool FC",
-      "team2": "Wolverhampton Wanderers FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 38",
-      "date": "2019-05-12",
-      "team1": "Tottenham Hotspur FC",
-      "team2": "Everton FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 38",
-      "date": "2019-05-12",
-      "team1": "Manchester United FC",
-      "team2": "Cardiff City FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 38",
-      "date": "2019-05-12",
-      "team1": "Leicester City FC",
+      "time": "15:00",
+      "team1": "Leicester City",
       "team2": "Chelsea FC",
       "score": {
         "ft": [
@@ -4504,21 +6291,48 @@
     {
       "round": "Matchday 38",
       "date": "2019-05-12",
-      "team1": "Burnley FC",
-      "team2": "Arsenal FC",
+      "time": "15:00",
+      "team1": "Liverpool FC",
+      "team2": "Wolverhampton Wanderers",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          3
+          0
+        ],
+        "ft": [
+          2,
+          0
         ]
       }
     },
     {
       "round": "Matchday 38",
       "date": "2019-05-12",
-      "team1": "Southampton FC",
-      "team2": "Huddersfield Town AFC",
+      "time": "15:00",
+      "team1": "Manchester United",
+      "team2": "Cardiff City",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2019-05-12",
+      "time": "15:00",
+      "team1": "Southampton FC",
+      "team2": "Huddersfield Town",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -4528,33 +6342,31 @@
     {
       "round": "Matchday 38",
       "date": "2019-05-12",
-      "team1": "Crystal Palace FC",
-      "team2": "AFC Bournemouth",
+      "time": "15:00",
+      "team1": "Tottenham Hotspur",
+      "team2": "Everton FC",
       "score": {
-        "ft": [
-          5,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 38",
-      "date": "2019-05-12",
-      "team1": "Brighton & Hove Albion FC",
-      "team2": "Manchester City FC",
-      "score": {
-        "ft": [
+        "ht": [
           1,
-          4
+          0
+        ],
+        "ft": [
+          2,
+          2
         ]
       }
     },
     {
       "round": "Matchday 38",
       "date": "2019-05-12",
+      "time": "15:00",
       "team1": "Watford FC",
-      "team2": "West Ham United FC",
+      "team2": "West Ham United",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4

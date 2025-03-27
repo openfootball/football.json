@@ -1,12 +1,17 @@
 {
-  "name": "2. Bundesliga 2018/19",
+  "name": "Deutsche 2. Bundesliga 2018/19",
   "matches": [
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-03",
+      "time": "20:30",
       "team1": "Hamburger SV",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-04",
+      "time": "13:00",
       "team1": "VfL Bochum",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-04",
-      "team1": "SSV Jahn Regensburg",
+      "time": "15:30",
+      "team1": "Jahn Regensburg",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -38,11 +53,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-04",
+      "time": "15:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-05",
+      "time": "13:30",
       "team1": "1. FC Magdeburg",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -62,11 +87,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-05",
+      "time": "15:30",
       "team1": "1. FC Union Berlin",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -74,23 +104,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
+      "round": "Matchday 1",
       "date": "2018-08-05",
-      "team1": "1. FC Heidenheim",
-      "team2": "Arminia Bielefeld",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 1",
-      "date": "2018-08-05",
+      "time": "15:30",
       "team1": "SV Darmstadt 98",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -98,23 +121,16 @@
       }
     },
     {
-      "round": "Spieltag 1",
-      "date": "2018-08-06",
-      "team1": "Dynamo Dresden",
-      "team2": "MSV Duisburg",
+      "round": "Matchday 1",
+      "date": "2018-08-05",
+      "time": "15:30",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "Arminia Bielefeld",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 2",
-      "date": "2018-08-10",
-      "team1": "FC Ingolstadt 04",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
+          1
+        ],
         "ft": [
           1,
           1
@@ -122,11 +138,50 @@
       }
     },
     {
-      "round": "Spieltag 2",
-      "date": "2018-08-10",
-      "team1": "SC Paderborn 07",
-      "team2": "SSV Jahn Regensburg",
+      "round": "Matchday 1",
+      "date": "2018-08-06",
+      "time": "20:30",
+      "team1": "Dynamo Dresden",
+      "team2": "MSV Duisburg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-10",
+      "time": "18:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-10",
+      "time": "18:30",
+      "team1": "SC Paderborn 07",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -134,11 +189,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-10",
+      "time": "20:30",
       "team1": "FC St. Pauli",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -146,11 +206,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-11",
+      "time": "13:00",
       "team1": "MSV Duisburg",
       "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -158,11 +223,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-11",
+      "time": "15:30",
       "team1": "Arminia Bielefeld",
       "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -170,11 +240,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-12",
+      "time": "13:30",
       "team1": "SV Sandhausen",
       "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -182,9 +257,27 @@
       }
     },
     {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-12",
-      "team1": "FC Erzgebirge Aue",
+      "time": "15:30",
+      "team1": "Holstein Kiel",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2018-08-12",
+      "time": "15:30",
+      "team1": "Erzgebirge Aue",
       "team2": "1. FC Magdeburg",
       "score": {
         "ft": [
@@ -194,23 +287,16 @@
       }
     },
     {
-      "round": "Spieltag 2",
-      "date": "2018-08-12",
-      "team1": "Holstein Kiel",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 2",
+      "round": "Matchday 2",
       "date": "2018-08-13",
+      "time": "20:30",
       "team1": "1. FC Köln",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -218,23 +304,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-24",
-      "team1": "SV Darmstadt 98",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
-      "date": "2018-08-24",
+      "time": "18:30",
       "team1": "VfL Bochum",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -242,11 +321,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
-      "date": "2018-08-25",
-      "team1": "1. FC Köln",
-      "team2": "FC Erzgebirge Aue",
+      "round": "Matchday 3",
+      "date": "2018-08-24",
+      "time": "18:30",
+      "team1": "SV Darmstadt 98",
+      "team2": "MSV Duisburg",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-25",
+      "time": "13:00",
+      "team1": "1. FC Köln",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -254,11 +355,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-25",
+      "time": "13:00",
       "team1": "SpVgg Greuther Fürth",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -266,11 +372,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-25",
+      "time": "13:00",
       "team1": "1. FC Magdeburg",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -278,21 +389,10 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-26",
-      "team1": "1. FC Union Berlin",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 3",
-      "date": "2018-08-26",
-      "team1": "SSV Jahn Regensburg",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
       "team2": "Holstein Kiel",
       "score": {
         "ft": [
@@ -302,11 +402,33 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-26",
-      "team1": "Dynamo Dresden",
-      "team2": "1. FC Heidenheim",
+      "time": "13:30",
+      "team1": "1. FC Union Berlin",
+      "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2018-08-26",
+      "time": "13:30",
+      "team1": "Dynamo Dresden",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -314,11 +436,16 @@
       }
     },
     {
-      "round": "Spieltag 3",
+      "round": "Matchday 3",
       "date": "2018-08-27",
+      "time": "20:30",
       "team1": "Hamburger SV",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -326,23 +453,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-08-31",
-      "team1": "SC Paderborn 07",
-      "team2": "VfL Bochum",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
-      "date": "2018-08-31",
+      "time": "18:30",
       "team1": "FC Ingolstadt 04",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -350,11 +470,33 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2018-09-01",
-      "team1": "Arminia Bielefeld",
-      "team2": "SSV Jahn Regensburg",
+      "round": "Matchday 4",
+      "date": "2018-08-31",
+      "time": "18:30",
+      "team1": "SC Paderborn 07",
+      "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-01",
+      "time": "13:00",
+      "team1": "Arminia Bielefeld",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           5,
           3
@@ -362,11 +504,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-09-01",
+      "time": "13:00",
       "team1": "MSV Duisburg",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -374,32 +521,9 @@
       }
     },
     {
-      "round": "Spieltag 4",
+      "round": "Matchday 4",
       "date": "2018-09-02",
-      "team1": "1. FC Heidenheim",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
-      "date": "2018-09-02",
-      "team1": "FC St. Pauli",
-      "team2": "1. FC Köln",
-      "score": {
-        "ft": [
-          3,
-          5
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 4",
-      "date": "2018-09-02",
+      "time": "13:30",
       "team1": "SV Sandhausen",
       "team2": "1. FC Union Berlin",
       "score": {
@@ -410,83 +534,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2018-09-03",
-      "team1": "Holstein Kiel",
-      "team2": "1. FC Magdeburg",
+      "round": "Matchday 4",
+      "date": "2018-09-02",
+      "time": "13:30",
+      "team1": "FC St. Pauli",
+      "team2": "1. FC Köln",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-09-14",
-      "team1": "1. FC Union Berlin",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
+        "ht": [
           2,
           2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-09-14",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "Dynamo Dresden",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-09-15",
-      "team1": "SV Darmstadt 98",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-09-15",
-      "team1": "Hamburger SV",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-09-15",
-      "team1": "SpVgg Greuther Fürth",
-      "team2": "Holstein Kiel",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 5",
-      "date": "2018-09-16",
-      "team1": "1. FC Köln",
-      "team2": "SC Paderborn 07",
-      "score": {
+        ],
         "ft": [
           3,
           5
@@ -494,11 +551,169 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 4",
+      "date": "2018-09-02",
+      "time": "13:30",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-03",
+      "time": "20:30",
+      "team1": "Holstein Kiel",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2018-09-18",
+      "time": "18:30",
+      "team1": "Dynamo Dresden",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-14",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-14",
+      "time": "18:30",
+      "team1": "1. FC Union Berlin",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "13:00",
+      "team1": "Hamburger SV",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "13:00",
+      "team1": "SV Darmstadt 98",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-15",
+      "time": "13:00",
+      "team1": "SpVgg Greuther Fürth",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2018-09-16",
+      "time": "13:30",
+      "team1": "1. FC Köln",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2018-09-16",
+      "time": "13:30",
       "team1": "VfL Bochum",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           6,
           0
@@ -506,11 +721,16 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-09-16",
-      "team1": "FC Erzgebirge Aue",
+      "time": "13:30",
+      "team1": "Erzgebirge Aue",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -518,8 +738,9 @@
       }
     },
     {
-      "round": "Spieltag 5",
+      "round": "Matchday 5",
       "date": "2018-09-17",
+      "time": "20:30",
       "team1": "1. FC Magdeburg",
       "team2": "Arminia Bielefeld",
       "score": {
@@ -530,11 +751,16 @@
       }
     },
     {
-      "round": "Spieltag 4",
-      "date": "2018-09-18",
-      "team1": "Dynamo Dresden",
-      "team2": "Hamburger SV",
+      "round": "Matchday 6",
+      "date": "2018-09-21",
+      "time": "18:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -542,11 +768,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-21",
+      "time": "18:30",
       "team1": "SV Sandhausen",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -554,23 +785,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
-      "date": "2018-09-21",
-      "team1": "FC Ingolstadt 04",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-22",
+      "time": "13:00",
       "team1": "Holstein Kiel",
       "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -578,23 +802,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-22",
-      "team1": "Dynamo Dresden",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 6",
-      "date": "2018-09-22",
+      "time": "13:00",
       "team1": "Arminia Bielefeld",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -602,11 +819,33 @@
       }
     },
     {
-      "round": "Spieltag 6",
-      "date": "2018-09-23",
-      "team1": "Hamburger SV",
-      "team2": "SSV Jahn Regensburg",
+      "round": "Matchday 6",
+      "date": "2018-09-22",
+      "time": "13:00",
+      "team1": "Dynamo Dresden",
+      "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2018-09-23",
+      "time": "13:30",
+      "team1": "Hamburger SV",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           5
@@ -614,11 +853,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-23",
+      "time": "13:30",
       "team1": "MSV Duisburg",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -626,11 +870,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-23",
-      "team1": "1. FC Heidenheim",
+      "time": "13:30",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -638,11 +887,16 @@
       }
     },
     {
-      "round": "Spieltag 6",
+      "round": "Matchday 6",
       "date": "2018-09-23",
+      "time": "13:30",
       "team1": "SC Paderborn 07",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           4
@@ -650,23 +904,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-25",
-      "team1": "SV Darmstadt 98",
-      "team2": "Arminia Bielefeld",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
-      "date": "2018-09-25",
+      "time": "18:30",
       "team1": "1. FC Köln",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -674,11 +921,33 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-25",
+      "time": "18:30",
+      "team1": "VfL Bochum",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2018-09-25",
+      "time": "18:30",
       "team1": "1. FC Union Berlin",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -686,23 +955,33 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-25",
-      "team1": "VfL Bochum",
-      "team2": "Dynamo Dresden",
+      "time": "18:30",
+      "team1": "SV Darmstadt 98",
+      "team2": "Arminia Bielefeld",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          1
+          0
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-26",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "1. FC Heidenheim",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
+      "team2": "1. FC Heidenheim 1846",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -710,23 +989,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-26",
-      "team1": "1. FC Magdeburg",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 7",
-      "date": "2018-09-26",
+      "time": "18:30",
       "team1": "FC St. Pauli",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -734,11 +1006,16 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
       "date": "2018-09-26",
-      "team1": "FC Erzgebirge Aue",
+      "time": "18:30",
+      "team1": "Erzgebirge Aue",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -746,8 +1023,26 @@
       }
     },
     {
-      "round": "Spieltag 7",
+      "round": "Matchday 7",
+      "date": "2018-09-26",
+      "time": "18:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
       "date": "2018-09-27",
+      "time": "20:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Hamburger SV",
       "score": {
@@ -758,11 +1053,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-28",
+      "time": "18:30",
       "team1": "Holstein Kiel",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           4,
           2
@@ -770,11 +1070,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-28",
+      "time": "18:30",
       "team1": "Arminia Bielefeld",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -782,11 +1087,33 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-29",
-      "team1": "1. FC Heidenheim",
+      "time": "13:00",
+      "team1": "MSV Duisburg",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2018-09-29",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           2
@@ -794,23 +1121,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-29",
-      "team1": "MSV Duisburg",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2018-09-29",
+      "time": "13:00",
       "team1": "SC Paderborn 07",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -818,20 +1138,9 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-30",
-      "team1": "Dynamo Dresden",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 8",
-      "date": "2018-09-30",
+      "time": "13:30",
       "team1": "Hamburger SV",
       "team2": "FC St. Pauli",
       "score": {
@@ -842,11 +1151,16 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
       "date": "2018-09-30",
+      "time": "13:30",
       "team1": "SV Sandhausen",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -854,11 +1168,33 @@
       }
     },
     {
-      "round": "Spieltag 8",
+      "round": "Matchday 8",
+      "date": "2018-09-30",
+      "time": "13:30",
+      "team1": "Dynamo Dresden",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
       "date": "2018-10-01",
+      "time": "20:30",
       "team1": "FC Ingolstadt 04",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -866,23 +1202,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-05",
-      "team1": "SV Darmstadt 98",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 9",
-      "date": "2018-10-05",
+      "time": "18:30",
       "team1": "VfL Bochum",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -890,23 +1219,33 @@
       }
     },
     {
-      "round": "Spieltag 9",
-      "date": "2018-10-06",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "Holstein Kiel",
+      "round": "Matchday 9",
+      "date": "2018-10-05",
+      "time": "18:30",
+      "team1": "SV Darmstadt 98",
+      "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
-          2,
-          1
+          1,
+          2
         ]
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-06",
+      "time": "13:00",
       "team1": "SpVgg Greuther Fürth",
-      "team2": "SSV Jahn Regensburg",
+      "team2": "Jahn Regensburg",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -914,11 +1253,33 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-06",
+      "time": "13:00",
+      "team1": "Erzgebirge Aue",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2018-10-06",
+      "time": "13:00",
       "team1": "1. FC Magdeburg",
       "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -926,11 +1287,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-07",
+      "time": "13:30",
       "team1": "1. FC Union Berlin",
-      "team2": "1. FC Heidenheim",
+      "team2": "1. FC Heidenheim 1846",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -938,11 +1304,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-07",
+      "time": "13:30",
       "team1": "FC Ingolstadt 04",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -950,11 +1321,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-07",
+      "time": "13:30",
       "team1": "FC St. Pauli",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -962,11 +1338,16 @@
       }
     },
     {
-      "round": "Spieltag 9",
+      "round": "Matchday 9",
       "date": "2018-10-08",
+      "time": "20:30",
       "team1": "1. FC Köln",
       "team2": "MSV Duisburg",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -974,11 +1355,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-19",
+      "time": "18:30",
       "team1": "SV Sandhausen",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -986,11 +1372,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-19",
+      "time": "18:30",
       "team1": "Dynamo Dresden",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -998,23 +1389,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-20",
-      "team1": "1. FC Heidenheim",
-      "team2": "1. FC Magdeburg",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 10",
-      "date": "2018-10-20",
+      "time": "13:00",
       "team1": "Holstein Kiel",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1022,11 +1406,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-20",
+      "time": "13:00",
       "team1": "Arminia Bielefeld",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           3
@@ -1034,8 +1423,26 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
+      "date": "2018-10-20",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
       "date": "2018-10-21",
+      "time": "13:30",
       "team1": "Hamburger SV",
       "team2": "VfL Bochum",
       "score": {
@@ -1046,11 +1453,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-21",
-      "team1": "SSV Jahn Regensburg",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1058,8 +1470,9 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-21",
+      "time": "13:30",
       "team1": "SC Paderborn 07",
       "team2": "1. FC Union Berlin",
       "score": {
@@ -1070,11 +1483,16 @@
       }
     },
     {
-      "round": "Spieltag 10",
+      "round": "Matchday 10",
       "date": "2018-10-22",
+      "time": "20:30",
       "team1": "MSV Duisburg",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1082,23 +1500,16 @@
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-26",
-      "team1": "1. FC Magdeburg",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-26",
+      "time": "18:30",
       "team1": "SV Darmstadt 98",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1106,11 +1517,33 @@
       }
     },
     {
-      "round": "Spieltag 11",
-      "date": "2018-10-27",
-      "team1": "1. FC Köln",
-      "team2": "1. FC Heidenheim",
+      "round": "Matchday 11",
+      "date": "2018-10-26",
+      "time": "18:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-27",
+      "time": "13:00",
+      "team1": "1. FC Köln",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1118,23 +1551,16 @@
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-27",
-      "team1": "SC Paderborn 07",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 11",
-      "date": "2018-10-27",
-      "team1": "FC Erzgebirge Aue",
+      "time": "13:00",
+      "team1": "Erzgebirge Aue",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1142,20 +1568,26 @@
       }
     },
     {
-      "round": "Spieltag 11",
-      "date": "2018-10-28",
-      "team1": "FC Ingolstadt 04",
-      "team2": "MSV Duisburg",
+      "round": "Matchday 11",
+      "date": "2018-10-27",
+      "time": "13:00",
+      "team1": "SC Paderborn 07",
+      "team2": "SV Sandhausen",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
+          2
+        ],
+        "ft": [
+          3,
+          3
         ]
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-28",
+      "time": "13:30",
       "team1": "1. FC Union Berlin",
       "team2": "Dynamo Dresden",
       "score": {
@@ -1166,11 +1598,33 @@
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-28",
+      "time": "13:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2018-10-28",
+      "time": "13:30",
       "team1": "FC St. Pauli",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1178,11 +1632,16 @@
       }
     },
     {
-      "round": "Spieltag 11",
+      "round": "Matchday 11",
       "date": "2018-10-29",
+      "time": "20:30",
       "team1": "VfL Bochum",
-      "team2": "SSV Jahn Regensburg",
+      "team2": "Jahn Regensburg",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -1190,11 +1649,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-11-02",
+      "time": "18:30",
       "team1": "Dynamo Dresden",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1202,11 +1666,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-11-02",
+      "time": "18:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1214,11 +1683,50 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-11-03",
+      "time": "13:00",
+      "team1": "Holstein Kiel",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-11-03",
+      "time": "13:00",
+      "team1": "MSV Duisburg",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2018-11-03",
+      "time": "13:00",
       "team1": "SV Darmstadt 98",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1226,47 +1734,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
-      "date": "2018-11-03",
-      "team1": "Holstein Kiel",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2018-11-03",
-      "team1": "MSV Duisburg",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-11-04",
-      "team1": "1. FC Heidenheim",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 12",
-      "date": "2018-11-04",
+      "time": "13:30",
       "team1": "Arminia Bielefeld",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1274,11 +1751,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
+      "round": "Matchday 12",
       "date": "2018-11-04",
-      "team1": "SSV Jahn Regensburg",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1286,11 +1768,16 @@
       }
     },
     {
-      "round": "Spieltag 12",
-      "date": "2018-11-05",
-      "team1": "Hamburger SV",
-      "team2": "1. FC Köln",
+      "round": "Matchday 12",
+      "date": "2018-11-04",
+      "time": "13:30",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1298,11 +1785,46 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 12",
+      "date": "2018-11-05",
+      "time": "20:30",
+      "team1": "Hamburger SV",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2018-11-09",
+      "time": "18:30",
+      "team1": "SV Sandhausen",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2018-11-09",
+      "time": "18:30",
       "team1": "SC Paderborn 07",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           4
@@ -1310,23 +1832,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
-      "date": "2018-11-09",
-      "team1": "SV Sandhausen",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-10",
+      "time": "13:00",
       "team1": "1. FC Köln",
       "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           8,
           1
@@ -1334,23 +1849,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-10",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2018-11-10",
+      "time": "13:00",
       "team1": "FC St. Pauli",
-      "team2": "1. FC Heidenheim",
+      "team2": "1. FC Heidenheim 1846",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1358,11 +1866,33 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
+      "date": "2018-11-10",
+      "time": "13:00",
+      "team1": "Erzgebirge Aue",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2018-11-11",
+      "time": "13:30",
       "team1": "1. FC Union Berlin",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1370,23 +1900,16 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
       "date": "2018-11-11",
-      "team1": "1. FC Magdeburg",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 13",
-      "date": "2018-11-11",
+      "time": "13:30",
       "team1": "FC Ingolstadt 04",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1394,11 +1917,33 @@
       }
     },
     {
-      "round": "Spieltag 13",
+      "round": "Matchday 13",
+      "date": "2018-11-11",
+      "time": "13:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2018-11-12",
+      "time": "20:30",
       "team1": "VfL Bochum",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1406,11 +1951,33 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-23",
+      "time": "18:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-23",
+      "time": "18:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1418,23 +1985,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
-      "date": "2018-11-23",
-      "team1": "Arminia Bielefeld",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-24",
+      "time": "13:00",
       "team1": "Holstein Kiel",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1442,11 +2002,33 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-24",
+      "time": "13:00",
+      "team1": "VfL Bochum",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2018-11-24",
+      "time": "13:00",
       "team1": "SV Darmstadt 98",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -1454,35 +2036,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
-      "date": "2018-11-24",
-      "team1": "VfL Bochum",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-25",
-      "team1": "Dynamo Dresden",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 14",
-      "date": "2018-11-25",
-      "team1": "SSV Jahn Regensburg",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1490,11 +2053,16 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
       "date": "2018-11-25",
-      "team1": "1. FC Heidenheim",
+      "time": "13:30",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           5
@@ -1502,11 +2070,33 @@
       }
     },
     {
-      "round": "Spieltag 14",
+      "round": "Matchday 14",
+      "date": "2018-11-25",
+      "time": "13:30",
+      "team1": "Dynamo Dresden",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
       "date": "2018-11-26",
+      "time": "20:30",
       "team1": "Hamburger SV",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1514,11 +2104,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-30",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "SSV Jahn Regensburg",
+      "time": "18:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "Jahn Regensburg",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1526,11 +2121,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-11-30",
+      "time": "18:30",
       "team1": "SC Paderborn 07",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1538,23 +2138,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-12-01",
-      "team1": "1. FC Union Berlin",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 15",
-      "date": "2018-12-01",
+      "time": "13:00",
       "team1": "1. FC Köln",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1562,11 +2155,33 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-12-01",
+      "time": "13:00",
+      "team1": "1. FC Union Berlin",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-01",
+      "time": "13:00",
       "team1": "FC Ingolstadt 04",
       "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1574,11 +2189,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-12-01",
+      "time": "13:00",
       "team1": "FC St. Pauli",
       "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1586,11 +2206,33 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-12-02",
-      "team1": "SV Sandhausen",
-      "team2": "1. FC Heidenheim",
+      "time": "13:30",
+      "team1": "MSV Duisburg",
+      "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2018-12-02",
+      "time": "13:30",
+      "team1": "SV Sandhausen",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1598,8 +2240,9 @@
       }
     },
     {
-      "round": "Spieltag 15",
+      "round": "Matchday 15",
       "date": "2018-12-02",
+      "time": "13:30",
       "team1": "1. FC Magdeburg",
       "team2": "VfL Bochum",
       "score": {
@@ -1610,35 +2253,16 @@
       }
     },
     {
-      "round": "Spieltag 15",
-      "date": "2018-12-02",
-      "team1": "MSV Duisburg",
-      "team2": "Holstein Kiel",
-      "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-07",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "1. FC Köln",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2018-12-07",
+      "time": "18:30",
       "team1": "Hamburger SV",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1646,11 +2270,50 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
+      "date": "2018-12-07",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
       "date": "2018-12-08",
-      "team1": "1. FC Heidenheim",
+      "time": "13:00",
+      "team1": "SV Darmstadt 98",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-12-08",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "MSV Duisburg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1658,23 +2321,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-08",
-      "team1": "SV Darmstadt 98",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
-      "date": "2018-12-08",
+      "time": "13:00",
       "team1": "SpVgg Greuther Fürth",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           5
@@ -1682,11 +2338,33 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-09",
+      "time": "13:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2018-12-09",
+      "time": "13:30",
       "team1": "Dynamo Dresden",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -1694,11 +2372,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-09",
+      "time": "13:30",
       "team1": "1. FC Magdeburg",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1706,23 +2389,16 @@
       }
     },
     {
-      "round": "Spieltag 16",
-      "date": "2018-12-09",
-      "team1": "Arminia Bielefeld",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 16",
+      "round": "Matchday 16",
       "date": "2018-12-10",
+      "time": "20:30",
       "team1": "VfL Bochum",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1730,23 +2406,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-14",
-      "team1": "MSV Duisburg",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2018-12-14",
+      "time": "18:30",
       "team1": "Holstein Kiel",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1754,11 +2423,33 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
+      "date": "2018-12-14",
+      "time": "18:30",
+      "team1": "MSV Duisburg",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2018-12-15",
+      "time": "13:00",
       "team1": "1. FC Union Berlin",
       "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1766,11 +2457,33 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-15",
+      "time": "13:00",
+      "team1": "FC St. Pauli",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-15",
+      "time": "13:00",
       "team1": "SC Paderborn 07",
       "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1778,47 +2491,16 @@
       }
     },
     {
-      "round": "Spieltag 17",
-      "date": "2018-12-15",
-      "team1": "FC St. Pauli",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
       "date": "2018-12-16",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2018-12-16",
-      "team1": "SV Sandhausen",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 17",
-      "date": "2018-12-16",
+      "time": "13:30",
       "team1": "FC Ingolstadt 04",
-      "team2": "1. FC Heidenheim",
+      "team2": "1. FC Heidenheim 1846",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1826,11 +2508,50 @@
       }
     },
     {
-      "round": "Spieltag 17",
+      "round": "Matchday 17",
+      "date": "2018-12-16",
+      "time": "13:30",
+      "team1": "SV Sandhausen",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2018-12-16",
+      "time": "13:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2018-12-17",
+      "time": "20:30",
       "team1": "1. FC Köln",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1838,8 +2559,26 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-21",
+      "time": "18:30",
+      "team1": "1. FC Köln",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-21",
+      "time": "18:30",
       "team1": "SV Sandhausen",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -1850,35 +2589,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
-      "date": "2018-12-21",
-      "team1": "1. FC Köln",
-      "team2": "VfL Bochum",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-22",
-      "team1": "Arminia Bielefeld",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 18",
-      "date": "2018-12-22",
+      "time": "13:00",
       "team1": "FC Ingolstadt 04",
-      "team2": "SSV Jahn Regensburg",
+      "team2": "Jahn Regensburg",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1886,11 +2606,33 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-22",
+      "time": "13:00",
+      "team1": "Arminia Bielefeld",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2018-12-22",
+      "time": "13:00",
       "team1": "FC St. Pauli",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           1
@@ -1898,23 +2640,33 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-23",
-      "team1": "MSV Duisburg",
-      "team2": "Dynamo Dresden",
+      "time": "13:30",
+      "team1": "Holstein Kiel",
+      "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          1,
-          3
+          3,
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-23",
-      "team1": "FC Erzgebirge Aue",
+      "time": "13:30",
+      "team1": "Erzgebirge Aue",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1922,11 +2674,16 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-23",
+      "time": "13:30",
       "team1": "SC Paderborn 07",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           6,
           2
@@ -1934,23 +2691,33 @@
       }
     },
     {
-      "round": "Spieltag 18",
+      "round": "Matchday 18",
       "date": "2018-12-23",
-      "team1": "Holstein Kiel",
-      "team2": "Hamburger SV",
+      "time": "13:30",
+      "team1": "MSV Duisburg",
+      "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
-          3,
-          1
+          1,
+          3
         ]
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-29",
+      "time": "18:30",
       "team1": "VfL Bochum",
       "team2": "MSV Duisburg",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1958,11 +2725,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-29",
+      "time": "20:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1970,11 +2742,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-29",
+      "time": "20:30",
       "team1": "SV Darmstadt 98",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1982,11 +2759,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-29",
+      "time": "20:30",
       "team1": "1. FC Magdeburg",
-      "team2": "FC Erzgebirge Aue",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1994,11 +2776,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-30",
-      "team1": "SSV Jahn Regensburg",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2006,11 +2793,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-30",
-      "team1": "1. FC Heidenheim",
+      "time": "20:30",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2018,23 +2810,16 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
       "date": "2019-01-30",
-      "team1": "Hamburger SV",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 19",
-      "date": "2019-01-30",
+      "time": "20:30",
       "team1": "Dynamo Dresden",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           4
@@ -2042,11 +2827,33 @@
       }
     },
     {
-      "round": "Spieltag 19",
+      "round": "Matchday 19",
+      "date": "2019-01-30",
+      "time": "20:30",
+      "team1": "Hamburger SV",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
       "date": "2019-01-31",
+      "time": "20:30",
       "team1": "1. FC Union Berlin",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2054,11 +2861,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2019-02-01",
+      "time": "18:30",
       "team1": "MSV Duisburg",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -2066,11 +2878,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2019-02-01",
+      "time": "18:30",
       "team1": "FC Ingolstadt 04",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2078,11 +2895,50 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2019-02-02",
+      "time": "13:00",
+      "team1": "Arminia Bielefeld",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-02",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2019-02-02",
+      "time": "13:00",
       "team1": "SC Paderborn 07",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           6,
           0
@@ -2090,23 +2946,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
-      "date": "2019-02-02",
-      "team1": "1. FC Heidenheim",
-      "team2": "Dynamo Dresden",
+      "round": "Matchday 20",
+      "date": "2019-02-03",
+      "time": "13:30",
+      "team1": "Holstein Kiel",
+      "team2": "Jahn Regensburg",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2019-02-02",
-      "team1": "Arminia Bielefeld",
-      "team2": "Hamburger SV",
-      "score": {
+        ],
         "ft": [
           2,
           0
@@ -2114,23 +2963,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2019-02-03",
-      "team1": "Holstein Kiel",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
-      "date": "2019-02-03",
+      "time": "13:30",
       "team1": "SV Sandhausen",
       "team2": "VfL Bochum",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2138,11 +2980,16 @@
       }
     },
     {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2019-02-04",
+      "time": "20:30",
       "team1": "FC St. Pauli",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -2150,335 +2997,16 @@
       }
     },
     {
-      "round": "Spieltag 21",
-      "date": "2019-02-08",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "Arminia Bielefeld",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-08",
-      "team1": "1. FC Köln",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-09",
-      "team1": "1. FC Union Berlin",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-09",
-      "team1": "VfL Bochum",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-09",
-      "team1": "SpVgg Greuther Fürth",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-10",
-      "team1": "SV Darmstadt 98",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-10",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-10",
-      "team1": "1. FC Magdeburg",
-      "team2": "Holstein Kiel",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 21",
-      "date": "2019-02-11",
-      "team1": "Hamburger SV",
-      "team2": "Dynamo Dresden",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-15",
-      "team1": "SV Sandhausen",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-15",
-      "team1": "SC Paderborn 07",
-      "team2": "1. FC Köln",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-16",
-      "team1": "FC St. Pauli",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-16",
-      "team1": "FC Ingolstadt 04",
-      "team2": "VfL Bochum",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-16",
-      "team1": "MSV Duisburg",
-      "team2": "1. FC Union Berlin",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-16",
-      "team1": "1. FC Heidenheim",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-17",
-      "team1": "Dynamo Dresden",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-17",
-      "team1": "Arminia Bielefeld",
-      "team2": "1. FC Magdeburg",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 22",
-      "date": "2019-02-17",
-      "team1": "Holstein Kiel",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-22",
-      "team1": "SpVgg Greuther Fürth",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-22",
-      "team1": "1. FC Union Berlin",
-      "team2": "Arminia Bielefeld",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-23",
-      "team1": "1. FC Köln",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-23",
-      "team1": "VfL Bochum",
-      "team2": "Holstein Kiel",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-23",
-      "team1": "FC St. Pauli",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-23",
-      "team1": "SV Darmstadt 98",
-      "team2": "Dynamo Dresden",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-24",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-24",
-      "team1": "1. FC Magdeburg",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 23",
-      "date": "2019-02-24",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 20",
+      "round": "Matchday 20",
       "date": "2019-02-27",
-      "team1": "FC Erzgebirge Aue",
+      "time": "19:30",
+      "team1": "Erzgebirge Aue",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2486,47 +3014,16 @@
       }
     },
     {
-      "round": "Spieltag 24",
-      "date": "2019-03-01",
-      "team1": "Holstein Kiel",
-      "team2": "1. FC Union Berlin",
+      "round": "Matchday 21",
+      "date": "2019-02-08",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
+      "team2": "Arminia Bielefeld",
       "score": {
-        "ft": [
+        "ht": [
           0,
           2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-03-01",
-      "team1": "MSV Duisburg",
-      "team2": "1. FC Magdeburg",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-03-02",
-      "team1": "1. FC Heidenheim",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-03-02",
-      "team1": "SV Sandhausen",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
+        ],
         "ft": [
           0,
           3
@@ -2534,35 +3031,33 @@
       }
     },
     {
-      "round": "Spieltag 24",
-      "date": "2019-03-02",
-      "team1": "SC Paderborn 07",
+      "round": "Matchday 21",
+      "date": "2019-02-08",
+      "time": "18:30",
+      "team1": "1. FC Köln",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          0,
+          4,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 24",
-      "date": "2019-03-03",
-      "team1": "Dynamo Dresden",
-      "team2": "VfL Bochum",
+      "round": "Matchday 21",
+      "date": "2019-02-09",
+      "time": "13:00",
+      "team1": "SpVgg Greuther Fürth",
+      "team2": "MSV Duisburg",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 24",
-      "date": "2019-03-03",
-      "team1": "Arminia Bielefeld",
-      "team2": "SV Darmstadt 98",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2570,11 +3065,33 @@
       }
     },
     {
-      "round": "Spieltag 24",
-      "date": "2019-03-03",
-      "team1": "FC Ingolstadt 04",
-      "team2": "1. FC Köln",
+      "round": "Matchday 21",
+      "date": "2019-02-09",
+      "time": "13:00",
+      "team1": "1. FC Union Berlin",
+      "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-09",
+      "time": "13:00",
+      "team1": "VfL Bochum",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -2582,11 +3099,514 @@
       }
     },
     {
-      "round": "Spieltag 24",
+      "round": "Matchday 21",
+      "date": "2019-02-10",
+      "time": "13:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-10",
+      "time": "13:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-10",
+      "time": "13:30",
+      "team1": "SV Darmstadt 98",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2019-02-11",
+      "time": "20:30",
+      "team1": "Hamburger SV",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-15",
+      "time": "18:30",
+      "team1": "SC Paderborn 07",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-15",
+      "time": "18:30",
+      "team1": "SV Sandhausen",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-16",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-16",
+      "time": "13:00",
+      "team1": "FC Ingolstadt 04",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-16",
+      "time": "13:00",
+      "team1": "MSV Duisburg",
+      "team2": "1. FC Union Berlin",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-16",
+      "time": "13:00",
+      "team1": "FC St. Pauli",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-17",
+      "time": "13:30",
+      "team1": "Dynamo Dresden",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-17",
+      "time": "13:30",
+      "team1": "Holstein Kiel",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2019-02-17",
+      "time": "13:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-22",
+      "time": "18:30",
+      "team1": "1. FC Union Berlin",
+      "team2": "Arminia Bielefeld",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-22",
+      "time": "18:30",
+      "team1": "SpVgg Greuther Fürth",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-23",
+      "time": "13:00",
+      "team1": "VfL Bochum",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-23",
+      "time": "13:00",
+      "team1": "FC St. Pauli",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-23",
+      "time": "13:00",
+      "team1": "1. FC Köln",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-23",
+      "time": "13:00",
+      "team1": "SV Darmstadt 98",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-24",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-24",
+      "time": "13:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2019-02-24",
+      "time": "13:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-01",
+      "time": "18:30",
+      "team1": "Holstein Kiel",
+      "team2": "1. FC Union Berlin",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-01",
+      "time": "18:30",
+      "team1": "MSV Duisburg",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-02",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-02",
+      "time": "13:00",
+      "team1": "SC Paderborn 07",
+      "team2": "FC St. Pauli",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-02",
+      "time": "13:00",
+      "team1": "SV Sandhausen",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-03",
+      "time": "13:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-03",
+      "time": "13:30",
+      "team1": "Dynamo Dresden",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2019-03-03",
+      "time": "13:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
       "date": "2019-03-04",
+      "time": "20:30",
       "team1": "Hamburger SV",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2594,11 +3614,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-08",
+      "time": "18:30",
       "team1": "1. FC Union Berlin",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2606,11 +3631,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-08",
+      "time": "18:30",
       "team1": "VfL Bochum",
-      "team2": "1. FC Heidenheim",
+      "team2": "1. FC Heidenheim 1846",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2618,23 +3648,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-09",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-03-09",
+      "time": "13:00",
       "team1": "SV Darmstadt 98",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -2642,11 +3665,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-09",
+      "time": "13:00",
       "team1": "1. FC Köln",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           1
@@ -2654,11 +3682,33 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-09",
-      "team1": "FC Erzgebirge Aue",
+      "time": "13:00",
+      "team1": "Jahn Regensburg",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2019-03-09",
+      "time": "13:00",
+      "team1": "Erzgebirge Aue",
       "team2": "SC Paderborn 07",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2666,23 +3716,16 @@
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-03-10",
-      "team1": "1. FC Magdeburg",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 25",
-      "date": "2019-03-10",
+      "time": "13:30",
       "team1": "FC St. Pauli",
       "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -2690,212 +3733,26 @@
       }
     },
     {
-      "round": "Spieltag 26",
-      "date": "2019-03-15",
-      "team1": "1. FC Heidenheim",
-      "team2": "1. FC Union Berlin",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-15",
-      "team1": "Holstein Kiel",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          5,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-16",
-      "team1": "Dynamo Dresden",
-      "team2": "1. FC Magdeburg",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-16",
-      "team1": "Hamburger SV",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-16",
-      "team1": "SV Sandhausen",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-17",
-      "team1": "SC Paderborn 07",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-17",
-      "team1": "Arminia Bielefeld",
-      "team2": "VfL Bochum",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 26",
-      "date": "2019-03-18",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-29",
+      "round": "Matchday 25",
+      "date": "2019-03-10",
+      "time": "13:30",
       "team1": "1. FC Magdeburg",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-29",
-      "team1": "FC St. Pauli",
-      "team2": "MSV Duisburg",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-30",
-      "team1": "1. FC Union Berlin",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-30",
-      "team1": "SV Darmstadt 98",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-30",
-      "team1": "VfL Bochum",
-      "team2": "Hamburger SV",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-31",
-      "team1": "FC Ingolstadt 04",
       "team2": "SV Sandhausen",
       "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-31",
-      "team1": "SpVgg Greuther Fürth",
-      "team2": "Arminia Bielefeld",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-03-31",
-      "team1": "1. FC Köln",
-      "team2": "Holstein Kiel",
-      "score": {
-        "ft": [
-          4,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 27",
-      "date": "2019-04-01",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "Dynamo Dresden",
-      "score": {
+        ],
         "ft": [
-          1,
-          3
+          0,
+          1
         ]
       }
     },
     {
-      "round": "Spieltag 25",
+      "round": "Matchday 25",
       "date": "2019-04-04",
+      "time": "19:00",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Dynamo Dresden",
       "score": {
@@ -2906,119 +3763,152 @@
       }
     },
     {
-      "round": "Spieltag 28",
-      "date": "2019-04-05",
-      "team1": "Arminia Bielefeld",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-05",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "VfL Bochum",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-06",
-      "team1": "MSV Duisburg",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-06",
-      "team1": "Holstein Kiel",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-06",
-      "team1": "SV Sandhausen",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-07",
-      "team1": "1. FC Heidenheim",
-      "team2": "1. FC Köln",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-07",
-      "team1": "SpVgg Greuther Fürth",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 28",
-      "date": "2019-04-07",
-      "team1": "Dynamo Dresden",
+      "round": "Matchday 26",
+      "date": "2019-03-15",
+      "time": "18:30",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "1. FC Union Berlin",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-15",
+      "time": "18:30",
+      "team1": "Holstein Kiel",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-16",
+      "time": "13:00",
+      "team1": "Hamburger SV",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-16",
+      "time": "13:00",
+      "team1": "SV Sandhausen",
+      "team2": "FC St. Pauli",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
           0
         ]
       }
     },
     {
-      "round": "Spieltag 28",
-      "date": "2019-04-08",
-      "team1": "Hamburger SV",
+      "round": "Matchday 26",
+      "date": "2019-03-16",
+      "time": "13:00",
+      "team1": "Dynamo Dresden",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-17",
+      "time": "13:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-17",
+      "time": "13:30",
+      "team1": "SC Paderborn 07",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2019-03-18",
+      "time": "20:30",
+      "team1": "Jahn Regensburg",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
           2
         ]
       }
     },
     {
-      "round": "Spieltag 26",
+      "round": "Matchday 26",
       "date": "2019-04-10",
+      "time": "18:45",
       "team1": "MSV Duisburg",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           4
@@ -3026,59 +3916,89 @@
       }
     },
     {
-      "round": "Spieltag 29",
-      "date": "2019-04-12",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-04-12",
-      "team1": "1. FC Union Berlin",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-04-13",
-      "team1": "1. FC Magdeburg",
-      "team2": "SV Darmstadt 98",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-04-13",
-      "team1": "SV Sandhausen",
-      "team2": "Dynamo Dresden",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
-      "date": "2019-04-13",
-      "team1": "SC Paderborn 07",
+      "round": "Matchday 27",
+      "date": "2019-03-29",
+      "time": "18:30",
+      "team1": "FC St. Pauli",
       "team2": "MSV Duisburg",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-29",
+      "time": "18:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-30",
+      "time": "13:00",
+      "team1": "VfL Bochum",
+      "team2": "Hamburger SV",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-30",
+      "time": "13:00",
+      "team1": "SV Darmstadt 98",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-30",
+      "time": "13:00",
+      "team1": "1. FC Union Berlin",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-31",
+      "time": "13:30",
+      "team1": "1. FC Köln",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3086,11 +4006,135 @@
       }
     },
     {
-      "round": "Spieltag 29",
-      "date": "2019-04-14",
-      "team1": "FC St. Pauli",
+      "round": "Matchday 27",
+      "date": "2019-03-31",
+      "time": "13:30",
+      "team1": "SpVgg Greuther Fürth",
       "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-03-31",
+      "time": "13:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2019-04-01",
+      "time": "20:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-05",
+      "time": "18:30",
+      "team1": "Jahn Regensburg",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-05",
+      "time": "18:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-06",
+      "time": "13:00",
+      "team1": "MSV Duisburg",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-06",
+      "time": "13:00",
+      "team1": "Holstein Kiel",
+      "team2": "FC St. Pauli",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-06",
+      "time": "13:00",
+      "team1": "SV Sandhausen",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3098,11 +4142,199 @@
       }
     },
     {
-      "round": "Spieltag 29",
+      "round": "Matchday 28",
+      "date": "2019-04-07",
+      "time": "13:30",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-07",
+      "time": "13:30",
+      "team1": "Dynamo Dresden",
+      "team2": "1. FC Union Berlin",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-07",
+      "time": "13:30",
+      "team1": "SpVgg Greuther Fürth",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2019-04-08",
+      "time": "20:30",
+      "team1": "Hamburger SV",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-12",
+      "time": "18:30",
+      "team1": "1. FC Union Berlin",
+      "team2": "Jahn Regensburg",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-12",
+      "time": "18:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-13",
+      "time": "13:00",
+      "team1": "SC Paderborn 07",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-13",
+      "time": "13:00",
+      "team1": "1. FC Magdeburg",
+      "team2": "SV Darmstadt 98",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-13",
+      "time": "13:00",
+      "team1": "SV Sandhausen",
+      "team2": "Dynamo Dresden",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
       "date": "2019-04-14",
+      "time": "13:30",
+      "team1": "FC Ingolstadt 04",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-14",
+      "time": "13:30",
+      "team1": "FC St. Pauli",
+      "team2": "Arminia Bielefeld",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2019-04-14",
+      "time": "13:30",
       "team1": "VfL Bochum",
       "team2": "SpVgg Greuther Fürth",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           2
@@ -3110,23 +4342,16 @@
       }
     },
     {
-      "round": "Spieltag 29",
-      "date": "2019-04-14",
-      "team1": "FC Ingolstadt 04",
-      "team2": "Holstein Kiel",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 29",
+      "round": "Matchday 29",
       "date": "2019-04-15",
+      "time": "20:30",
       "team1": "1. FC Köln",
       "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3134,23 +4359,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-20",
-      "team1": "Holstein Kiel",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
-      "date": "2019-04-20",
+      "time": "13:00",
       "team1": "SpVgg Greuther Fürth",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3158,23 +4376,16 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-20",
-      "team1": "Hamburger SV",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
-      "date": "2019-04-20",
+      "time": "13:00",
       "team1": "MSV Duisburg",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3182,11 +4393,50 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
+      "date": "2019-04-20",
+      "time": "13:00",
+      "team1": "Hamburger SV",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-20",
+      "time": "13:00",
+      "team1": "Holstein Kiel",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
       "date": "2019-04-21",
+      "time": "13:30",
       "team1": "Dynamo Dresden",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3194,32 +4444,9 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-21",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "1. FC Magdeburg",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
-      "date": "2019-04-21",
-      "team1": "Arminia Bielefeld",
-      "team2": "FC Ingolstadt 04",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 30",
-      "date": "2019-04-21",
+      "time": "13:30",
       "team1": "SV Darmstadt 98",
       "team2": "VfL Bochum",
       "score": {
@@ -3230,11 +4457,33 @@
       }
     },
     {
-      "round": "Spieltag 30",
+      "round": "Matchday 30",
       "date": "2019-04-21",
-      "team1": "1. FC Heidenheim",
+      "time": "13:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "FC Ingolstadt 04",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2019-04-21",
+      "time": "13:30",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3242,11 +4491,33 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 30",
+      "date": "2019-04-21",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
       "date": "2019-04-26",
+      "time": "18:30",
       "team1": "1. FC Köln",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3254,11 +4525,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-26",
+      "time": "18:30",
       "team1": "FC Ingolstadt 04",
       "team2": "Dynamo Dresden",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3266,35 +4542,16 @@
       }
     },
     {
-      "round": "Spieltag 31",
+      "round": "Matchday 31",
       "date": "2019-04-27",
-      "team1": "1. FC Magdeburg",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-04-27",
-      "team1": "FC St. Pauli",
-      "team2": "SSV Jahn Regensburg",
-      "score": {
-        "ft": [
-          4,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-04-27",
+      "time": "13:00",
       "team1": "SV Sandhausen",
       "team2": "Holstein Kiel",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -3302,95 +4559,152 @@
       }
     },
     {
-      "round": "Spieltag 31",
-      "date": "2019-04-28",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "VfL Bochum",
+      "round": "Matchday 31",
+      "date": "2019-04-27",
+      "time": "13:00",
+      "team1": "FC St. Pauli",
+      "team2": "Jahn Regensburg",
       "score": {
-        "ft": [
-          3,
+        "ht": [
+          1,
           2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-04-28",
-      "team1": "1. FC Union Berlin",
-      "team2": "Hamburger SV",
-      "score": {
+        ],
         "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-04-28",
-      "team1": "SC Paderborn 07",
-      "team2": "1. FC Heidenheim",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 31",
-      "date": "2019-04-29",
-      "team1": "MSV Duisburg",
-      "team2": "Arminia Bielefeld",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-05-03",
-      "team1": "Arminia Bielefeld",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-05-03",
-      "team1": "Dynamo Dresden",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-05-04",
-      "team1": "1. FC Heidenheim",
-      "team2": "SV Sandhausen",
-      "score": {
-        "ft": [
-          2,
+          4,
           3
         ]
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 31",
+      "date": "2019-04-27",
+      "time": "13:00",
+      "team1": "1. FC Magdeburg",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-04-28",
+      "time": "13:30",
+      "team1": "1. FC Union Berlin",
+      "team2": "Hamburger SV",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-04-28",
+      "time": "13:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "VfL Bochum",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-04-28",
+      "time": "13:30",
+      "team1": "SC Paderborn 07",
+      "team2": "1. FC Heidenheim 1846",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2019-04-29",
+      "time": "20:30",
+      "team1": "MSV Duisburg",
+      "team2": "Arminia Bielefeld",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-05-03",
+      "time": "18:30",
+      "team1": "Dynamo Dresden",
+      "team2": "FC St. Pauli",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-05-03",
+      "time": "18:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
       "date": "2019-05-04",
+      "time": "13:00",
       "team1": "Hamburger SV",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -3398,11 +4712,33 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-05-04",
+      "time": "13:00",
+      "team1": "1. FC Heidenheim 1846",
+      "team2": "SV Sandhausen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-05-04",
+      "time": "13:00",
       "team1": "VfL Bochum",
       "team2": "1. FC Magdeburg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           2
@@ -3410,35 +4746,16 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
       "date": "2019-05-05",
-      "team1": "SV Darmstadt 98",
-      "team2": "1. FC Union Berlin",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-05-05",
-      "team1": "SSV Jahn Regensburg",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 32",
-      "date": "2019-05-05",
+      "time": "13:30",
       "team1": "Holstein Kiel",
       "team2": "MSV Duisburg",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -3446,11 +4763,50 @@
       }
     },
     {
-      "round": "Spieltag 32",
+      "round": "Matchday 32",
+      "date": "2019-05-05",
+      "time": "13:30",
+      "team1": "SV Darmstadt 98",
+      "team2": "1. FC Union Berlin",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2019-05-05",
+      "time": "13:30",
+      "team1": "Jahn Regensburg",
+      "team2": "Erzgebirge Aue",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
       "date": "2019-05-06",
+      "time": "20:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "1. FC Köln",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           4
@@ -3458,47 +4814,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
-      "team1": "1. FC Union Berlin",
-      "team2": "1. FC Magdeburg",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-05-12",
-      "team1": "Holstein Kiel",
-      "team2": "Dynamo Dresden",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-05-12",
-      "team1": "FC Erzgebirge Aue",
-      "team2": "SpVgg Greuther Fürth",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 33",
-      "date": "2019-05-12",
+      "time": "15:30",
       "team1": "SC Paderborn 07",
       "team2": "Hamburger SV",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -3506,23 +4831,33 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
-      "team1": "FC St. Pauli",
-      "team2": "VfL Bochum",
+      "time": "15:30",
+      "team1": "SV Sandhausen",
+      "team2": "Arminia Bielefeld",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
-          0
+          3
         ]
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
+      "time": "15:30",
       "team1": "1. FC Köln",
-      "team2": "SSV Jahn Regensburg",
+      "team2": "Jahn Regensburg",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           3,
           5
@@ -3530,11 +4865,29 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
+      "time": "15:30",
+      "team1": "FC St. Pauli",
+      "team2": "VfL Bochum",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-05-12",
+      "time": "15:30",
       "team1": "FC Ingolstadt 04",
       "team2": "SV Darmstadt 98",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3542,11 +4895,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
+      "time": "15:30",
       "team1": "MSV Duisburg",
-      "team2": "1. FC Heidenheim",
+      "team2": "1. FC Heidenheim 1846",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           4
@@ -3554,35 +4912,16 @@
       }
     },
     {
-      "round": "Spieltag 33",
+      "round": "Matchday 33",
       "date": "2019-05-12",
-      "team1": "SV Sandhausen",
-      "team2": "Arminia Bielefeld",
+      "time": "15:30",
+      "team1": "Holstein Kiel",
+      "team2": "Dynamo Dresden",
       "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 34",
-      "date": "2019-05-19",
-      "team1": "SV Darmstadt 98",
-      "team2": "FC Erzgebirge Aue",
-      "score": {
-        "ft": [
+        "ht": [
           1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 34",
-      "date": "2019-05-19",
-      "team1": "Hamburger SV",
-      "team2": "MSV Duisburg",
-      "score": {
+        ],
         "ft": [
           3,
           0
@@ -3590,11 +4929,101 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 33",
+      "date": "2019-05-12",
+      "time": "15:30",
+      "team1": "Erzgebirge Aue",
+      "team2": "SpVgg Greuther Fürth",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2019-05-12",
+      "time": "15:30",
+      "team1": "1. FC Union Berlin",
+      "team2": "1. FC Magdeburg",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
       "date": "2019-05-19",
+      "time": "15:30",
+      "team1": "1. FC Magdeburg",
+      "team2": "1. FC Köln",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-05-19",
+      "time": "15:30",
+      "team1": "Arminia Bielefeld",
+      "team2": "Holstein Kiel",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-05-19",
+      "time": "15:30",
+      "team1": "Hamburger SV",
+      "team2": "MSV Duisburg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-05-19",
+      "time": "15:30",
       "team1": "VfL Bochum",
       "team2": "1. FC Union Berlin",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3602,11 +5031,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-19",
-      "team1": "1. FC Heidenheim",
+      "time": "15:30",
+      "team1": "1. FC Heidenheim 1846",
       "team2": "FC Ingolstadt 04",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -3614,35 +5048,16 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-19",
-      "team1": "Dynamo Dresden",
-      "team2": "SC Paderborn 07",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 34",
-      "date": "2019-05-19",
-      "team1": "SpVgg Greuther Fürth",
-      "team2": "FC St. Pauli",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Spieltag 34",
-      "date": "2019-05-19",
-      "team1": "SSV Jahn Regensburg",
+      "time": "15:30",
+      "team1": "Jahn Regensburg",
       "team2": "SV Sandhausen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3650,26 +5065,53 @@
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-19",
-      "team1": "1. FC Magdeburg",
-      "team2": "1. FC Köln",
+      "time": "15:30",
+      "team1": "SpVgg Greuther Fürth",
+      "team2": "FC St. Pauli",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          1,
+          2,
           1
         ]
       }
     },
     {
-      "round": "Spieltag 34",
+      "round": "Matchday 34",
       "date": "2019-05-19",
-      "team1": "Arminia Bielefeld",
-      "team2": "Holstein Kiel",
+      "time": "15:30",
+      "team1": "SV Darmstadt 98",
+      "team2": "Erzgebirge Aue",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2019-05-19",
+      "time": "15:30",
+      "team1": "Dynamo Dresden",
+      "team2": "SC Paderborn 07",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
         ]
       }
     }

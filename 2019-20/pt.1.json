@@ -1,11 +1,12 @@
 {
-  "name": "Primeira Liga 2019/20",
+  "name": "Portuguese Primeira Liga 2019/20",
   "matches": [
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-09",
+      "time": "20:30",
       "team1": "Portimonense SC",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
         "ft": [
           0,
@@ -14,11 +15,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-10",
+      "time": "16:30",
       "team1": "CD Santa Clara",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -26,11 +32,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "Gil Vicente FC",
+      "time": "19:00",
+      "team1": "Gil Vicente",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -38,11 +49,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-10",
+      "time": "21:30",
       "team1": "SL Benfica",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -50,11 +66,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-11",
-      "team1": "Boavista FC",
+      "time": "16:00",
+      "team1": "Boavista",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -62,11 +83,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-11",
+      "time": "18:30",
       "team1": "CS Marítimo",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -74,11 +100,16 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-11",
-      "team1": "SC Braga",
+      "time": "21:00",
+      "team1": "Sporting Braga",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -86,9 +117,10 @@
       }
     },
     {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-08-12",
-      "team1": "Vitória de Setúbal",
+      "time": "20:15",
+      "team1": "Vitória Setúbal",
       "team2": "CD Tondela",
       "score": {
         "ft": [
@@ -98,335 +130,16 @@
       }
     },
     {
-      "round": "Jornada 2",
-      "date": "2019-08-16",
-      "team1": "FC Famalicão",
-      "team2": "Rio Ave FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-17",
-      "team1": "Moreirense FC",
-      "team2": "Gil Vicente FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-17",
-      "team1": "Os Belenenses",
-      "team2": "SL Benfica",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-17",
-      "team1": "FC Porto",
-      "team2": "Vitória de Setúbal",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-18",
-      "team1": "CD Aves",
-      "team2": "CS Marítimo",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-18",
-      "team1": "FC Paços de Ferreira",
-      "team2": "CD Santa Clara",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-18",
-      "team1": "Vitória de Guimarães",
-      "team2": "Boavista FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-18",
-      "team1": "Sporting CP",
-      "team2": "SC Braga",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 2",
-      "date": "2019-08-19",
-      "team1": "CD Tondela",
-      "team2": "Portimonense SC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-23",
-      "team1": "Vitória de Setúbal",
-      "team2": "Moreirense FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-23",
-      "team1": "Rio Ave FC",
-      "team2": "CD Aves",
-      "score": {
-        "ft": [
-          5,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-24",
-      "team1": "SL Benfica",
-      "team2": "FC Porto",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-24",
-      "team1": "Boavista FC",
-      "team2": "FC Paços de Ferreira",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-25",
-      "team1": "CS Marítimo",
-      "team2": "CD Tondela",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-25",
-      "team1": "CD Santa Clara",
-      "team2": "Os Belenenses",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-25",
-      "team1": "Portimonense SC",
-      "team2": "Sporting CP",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-25",
-      "team1": "Gil Vicente FC",
-      "team2": "SC Braga",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 3",
-      "date": "2019-08-25",
-      "team1": "Vitória de Guimarães",
-      "team2": "FC Famalicão",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-08-30",
-      "team1": "Moreirense FC",
-      "team2": "Portimonense SC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-08-30",
-      "team1": "Os Belenenses",
-      "team2": "Boavista FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-08-31",
-      "team1": "FC Paços de Ferreira",
-      "team2": "CS Marítimo",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-08-31",
-      "team1": "CD Aves",
-      "team2": "FC Famalicão",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-08-31",
-      "team1": "Sporting CP",
-      "team2": "Rio Ave FC",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-08-31",
-      "team1": "Gil Vicente FC",
-      "team2": "Vitória de Setúbal",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-09-01",
-      "team1": "CD Tondela",
-      "team2": "CD Santa Clara",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-09-01",
-      "team1": "FC Porto",
-      "team2": "Vitória de Guimarães",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 4",
-      "date": "2019-09-01",
-      "team1": "SC Braga",
-      "team2": "SL Benfica",
-      "score": {
-        "ft": [
-          0,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Jornada 1",
+      "round": "Matchday 1",
       "date": "2019-09-08",
+      "time": "15:00",
       "team1": "Rio Ave FC",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -434,11 +147,459 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 2",
+      "date": "2019-08-16",
+      "time": "20:30",
+      "team1": "FC Famalicão",
+      "team2": "Rio Ave FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "16:30",
+      "team1": "Moreirense FC",
+      "team2": "Gil Vicente",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "19:00",
+      "team1": "Belenenses SAD",
+      "team2": "SL Benfica",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "21:30",
+      "team1": "FC Porto",
+      "team2": "Vitória Setúbal",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-18",
+      "time": "16:00",
+      "team1": "Paços de Ferreira",
+      "team2": "CD Santa Clara",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-18",
+      "time": "16:00",
+      "team1": "CD Aves",
+      "team2": "CS Marítimo",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-18",
+      "time": "18:30",
+      "team1": "Vitória Guimarães",
+      "team2": "Boavista",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-18",
+      "time": "21:00",
+      "team1": "Sporting CP",
+      "team2": "Sporting Braga",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-19",
+      "time": "20:15",
+      "team1": "CD Tondela",
+      "team2": "Portimonense SC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-23",
+      "time": "19:00",
+      "team1": "Vitória Setúbal",
+      "team2": "Moreirense FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-23",
+      "time": "21:15",
+      "team1": "Rio Ave FC",
+      "team2": "CD Aves",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-24",
+      "time": "19:00",
+      "team1": "SL Benfica",
+      "team2": "FC Porto",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-24",
+      "time": "21:30",
+      "team1": "Boavista",
+      "team2": "Paços de Ferreira",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "16:00",
+      "team1": "CS Marítimo",
+      "team2": "CD Tondela",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "16:00",
+      "team1": "CD Santa Clara",
+      "team2": "Belenenses SAD",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "18:30",
+      "team1": "Portimonense SC",
+      "team2": "Sporting CP",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "20:30",
+      "team1": "Gil Vicente",
+      "team2": "Sporting Braga",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "21:00",
+      "team1": "Vitória Guimarães",
+      "team2": "FC Famalicão",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-30",
+      "time": "19:00",
+      "team1": "Moreirense FC",
+      "team2": "Portimonense SC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-30",
+      "time": "21:15",
+      "team1": "Belenenses SAD",
+      "team2": "Boavista",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-31",
+      "time": "16:30",
+      "team1": "Paços de Ferreira",
+      "team2": "CS Marítimo",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-31",
+      "time": "16:30",
+      "team1": "CD Aves",
+      "team2": "FC Famalicão",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-31",
+      "time": "19:00",
+      "team1": "Sporting CP",
+      "team2": "Rio Ave FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-31",
+      "time": "21:30",
+      "team1": "Gil Vicente",
+      "team2": "Vitória Setúbal",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-09-01",
+      "time": "16:00",
+      "team1": "CD Tondela",
+      "team2": "CD Santa Clara",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-09-01",
+      "time": "18:30",
+      "team1": "FC Porto",
+      "team2": "Vitória Guimarães",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-09-01",
+      "time": "21:00",
+      "team1": "Sporting Braga",
+      "team2": "SL Benfica",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2019-09-13",
-      "team1": "Vitória de Setúbal",
-      "team2": "SC Braga",
+      "time": "20:30",
+      "team1": "Vitória Setúbal",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -446,11 +607,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-14",
+      "time": "16:30",
       "team1": "FC Famalicão",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           2
@@ -458,11 +624,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-14",
+      "time": "19:00",
       "team1": "SL Benfica",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -470,11 +641,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-14",
-      "team1": "Vitória de Guimarães",
+      "time": "21:30",
+      "team1": "Vitória Guimarães",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           5,
           1
@@ -482,11 +658,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-15",
+      "time": "16:00",
       "team1": "CD Santa Clara",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -494,11 +675,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-15",
+      "time": "16:00",
       "team1": "Rio Ave FC",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           4
@@ -506,11 +692,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-15",
+      "time": "16:00",
       "team1": "CS Marítimo",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -518,11 +709,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-15",
+      "time": "18:00",
       "team1": "Portimonense SC",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           3
@@ -530,11 +726,16 @@
       }
     },
     {
-      "round": "Jornada 5",
+      "round": "Matchday 5",
       "date": "2019-09-15",
-      "team1": "Boavista FC",
+      "time": "20:00",
+      "team1": "Boavista",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -542,11 +743,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-20",
-      "team1": "FC Paços de Ferreira",
+      "time": "20:30",
+      "team1": "Paços de Ferreira",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -554,11 +760,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-21",
-      "team1": "Os Belenenses",
+      "time": "18:00",
+      "team1": "Belenenses SAD",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -566,11 +777,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-21",
+      "time": "20:30",
       "team1": "Moreirense FC",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -578,10 +794,11 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
-      "team1": "Gil Vicente FC",
-      "team2": "Boavista FC",
+      "time": "15:30",
+      "team1": "Gil Vicente",
+      "team2": "Boavista",
       "score": {
         "ft": [
           0,
@@ -590,11 +807,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
+      "time": "18:00",
       "team1": "CD Tondela",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           3
@@ -602,9 +824,10 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
-      "team1": "Vitória de Setúbal",
+      "time": "18:00",
+      "team1": "Vitória Setúbal",
       "team2": "Portimonense SC",
       "score": {
         "ft": [
@@ -614,11 +837,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
+      "time": "20:30",
       "team1": "FC Porto",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -626,11 +854,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-23",
-      "team1": "SC Braga",
+      "time": "19:00",
+      "team1": "Sporting Braga",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -638,11 +871,16 @@
       }
     },
     {
-      "round": "Jornada 6",
+      "round": "Matchday 6",
       "date": "2019-09-23",
+      "time": "21:00",
       "team1": "Sporting CP",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -650,9 +888,10 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-27",
-      "team1": "Boavista FC",
+      "time": "20:30",
+      "team1": "Boavista",
       "team2": "CD Tondela",
       "score": {
         "ft": [
@@ -662,11 +901,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "16:30",
       "team1": "CS Marítimo",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -674,11 +918,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "19:00",
       "team1": "SL Benfica",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -686,11 +935,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-28",
+      "time": "21:30",
       "team1": "FC Famalicão",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           1
@@ -698,23 +952,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
-      "team1": "Vitória de Guimarães",
-      "team2": "FC Paços de Ferreira",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 7",
-      "date": "2019-09-29",
+      "time": "16:00",
       "team1": "CD Santa Clara",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -722,11 +969,33 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
-      "team1": "Portimonense SC",
-      "team2": "SC Braga",
+      "time": "16:00",
+      "team1": "Vitória Guimarães",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-09-29",
+      "time": "18:00",
+      "team1": "Portimonense SC",
+      "team2": "Sporting Braga",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -734,11 +1003,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-29",
+      "time": "20:00",
       "team1": "Rio Ave FC",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -746,11 +1020,16 @@
       }
     },
     {
-      "round": "Jornada 7",
+      "round": "Matchday 7",
       "date": "2019-09-30",
+      "time": "20:15",
       "team1": "CD Aves",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -758,21 +1037,10 @@
       }
     },
     {
-      "round": "Jornada 9",
-      "date": "2019-10-05",
-      "team1": "CD Aves",
-      "team2": "CD Tondela",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-25",
-      "team1": "FC Paços de Ferreira",
+      "time": "20:30",
+      "team1": "Paços de Ferreira",
       "team2": "Rio Ave FC",
       "score": {
         "ft": [
@@ -782,23 +1050,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-26",
-      "team1": "Os Belenenses",
-      "team2": "CD Aves",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 8",
-      "date": "2019-10-26",
-      "team1": "Gil Vicente FC",
+      "time": "15:30",
+      "team1": "Gil Vicente",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -806,9 +1067,27 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-26",
-      "team1": "Vitória de Setúbal",
+      "time": "15:30",
+      "team1": "Belenenses SAD",
+      "team2": "CD Aves",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-10-26",
+      "time": "18:00",
+      "team1": "Vitória Setúbal",
       "team2": "CS Marítimo",
       "score": {
         "ft": [
@@ -818,11 +1097,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-26",
+      "time": "20:30",
       "team1": "Moreirense FC",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -830,11 +1114,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-27",
+      "time": "15:00",
       "team1": "CD Tondela",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -842,11 +1131,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-27",
+      "time": "17:30",
       "team1": "FC Porto",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -854,11 +1148,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-27",
+      "time": "20:00",
       "team1": "Sporting CP",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -866,11 +1165,16 @@
       }
     },
     {
-      "round": "Jornada 8",
+      "round": "Matchday 8",
       "date": "2019-10-28",
-      "team1": "SC Braga",
+      "time": "20:15",
+      "team1": "Sporting Braga",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -878,11 +1182,33 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
+      "date": "2019-10-05",
+      "time": "15:30",
+      "team1": "CD Aves",
+      "team2": "CD Tondela",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
       "date": "2019-10-30",
+      "time": "17:00",
       "team1": "Rio Ave FC",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -890,11 +1216,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-30",
+      "time": "18:45",
       "team1": "CS Marítimo",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -902,11 +1233,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-30",
-      "team1": "Vitória de Guimarães",
-      "team2": "Os Belenenses",
+      "time": "20:00",
+      "team1": "Vitória Guimarães",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -914,11 +1250,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-30",
+      "time": "20:15",
       "team1": "SL Benfica",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -926,11 +1267,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-30",
+      "time": "21:00",
       "team1": "FC Famalicão",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -938,11 +1284,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-31",
-      "team1": "FC Paços de Ferreira",
+      "time": "19:45",
+      "team1": "Paços de Ferreira",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -950,11 +1301,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-31",
-      "team1": "Boavista FC",
-      "team2": "SC Braga",
+      "time": "20:15",
+      "team1": "Boavista",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -962,11 +1318,16 @@
       }
     },
     {
-      "round": "Jornada 9",
+      "round": "Matchday 9",
       "date": "2019-10-31",
+      "time": "20:15",
       "team1": "CD Santa Clara",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -974,11 +1335,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-02",
+      "time": "18:00",
       "team1": "SL Benfica",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -986,11 +1352,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-02",
+      "time": "20:30",
       "team1": "Moreirense FC",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -998,11 +1369,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-03",
-      "team1": "Gil Vicente FC",
+      "time": "15:00",
+      "team1": "Gil Vicente",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1010,11 +1386,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-03",
+      "time": "17:30",
       "team1": "CD Tondela",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1022,11 +1403,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-03",
+      "time": "20:00",
       "team1": "FC Porto",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1034,11 +1420,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-03",
-      "team1": "SC Braga",
+      "time": "20:15",
+      "team1": "Sporting Braga",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1046,11 +1437,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-04",
-      "team1": "Os Belenenses",
-      "team2": "FC Paços de Ferreira",
+      "time": "19:00",
+      "team1": "Belenenses SAD",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1058,11 +1454,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-04",
-      "team1": "Vitória de Setúbal",
-      "team2": "Boavista FC",
+      "time": "21:00",
+      "team1": "Vitória Setúbal",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1070,11 +1471,16 @@
       }
     },
     {
-      "round": "Jornada 10",
+      "round": "Matchday 10",
       "date": "2019-11-04",
+      "time": "21:00",
       "team1": "Portimonense SC",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1082,11 +1488,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-08",
+      "time": "20:30",
       "team1": "CD Aves",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1094,11 +1505,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-09",
+      "time": "15:30",
       "team1": "Rio Ave FC",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1106,11 +1522,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-09",
+      "time": "18:00",
       "team1": "CD Santa Clara",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -1118,11 +1539,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-09",
+      "time": "20:30",
       "team1": "FC Famalicão",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           3
@@ -1130,11 +1556,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-10",
-      "team1": "FC Paços de Ferreira",
+      "time": "15:00",
+      "team1": "Paços de Ferreira",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1142,11 +1573,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-10",
+      "time": "15:00",
       "team1": "CS Marítimo",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1154,11 +1590,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-10",
+      "time": "18:30",
       "team1": "Sporting CP",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1166,11 +1607,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-10",
-      "team1": "Vitória de Guimarães",
-      "team2": "SC Braga",
+      "time": "20:00",
+      "team1": "Vitória Guimarães",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1178,11 +1624,16 @@
       }
     },
     {
-      "round": "Jornada 11",
+      "round": "Matchday 11",
       "date": "2019-11-10",
-      "team1": "Boavista FC",
+      "time": "21:00",
+      "team1": "Boavista",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1190,11 +1641,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-11-29",
+      "time": "20:30",
       "team1": "CD Santa Clara",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1202,11 +1658,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-11-30",
+      "time": "15:30",
       "team1": "Moreirense FC",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1214,11 +1675,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-11-30",
+      "time": "18:00",
       "team1": "SL Benfica",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1226,11 +1692,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-11-30",
+      "time": "20:30",
       "team1": "Portimonense SC",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1238,11 +1709,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-12-01",
+      "time": "15:00",
       "team1": "CD Tondela",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1250,11 +1726,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-12-01",
-      "team1": "Vitória de Setúbal",
-      "team2": "Vitória de Guimarães",
+      "time": "17:30",
+      "team1": "Vitória Setúbal",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1262,11 +1743,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-12-01",
-      "team1": "Gil Vicente FC",
+      "time": "20:00",
+      "team1": "Gil Vicente",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1274,11 +1760,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-12-02",
-      "team1": "SC Braga",
+      "time": "18:45",
+      "team1": "Sporting Braga",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1286,11 +1777,16 @@
       }
     },
     {
-      "round": "Jornada 12",
+      "round": "Matchday 12",
       "date": "2019-12-02",
+      "time": "20:45",
       "team1": "FC Porto",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1298,11 +1794,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-06",
-      "team1": "Boavista FC",
+      "time": "20:30",
+      "team1": "Boavista",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           4
@@ -1310,11 +1811,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-07",
+      "time": "15:00",
       "team1": "CS Marítimo",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1322,11 +1828,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-07",
+      "time": "18:00",
       "team1": "FC Famalicão",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1334,11 +1845,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-07",
+      "time": "20:30",
       "team1": "CD Aves",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1346,11 +1862,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "FC Paços de Ferreira",
-      "team2": "Vitória de Setúbal",
+      "time": "15:00",
+      "team1": "Paços de Ferreira",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           3
@@ -1358,11 +1879,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "Vitória de Guimarães",
+      "time": "15:00",
+      "team1": "Vitória Guimarães",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1370,11 +1896,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
+      "time": "17:30",
       "team1": "Sporting CP",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1382,11 +1913,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "Os Belenenses",
+      "time": "20:00",
+      "team1": "Belenenses SAD",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1394,11 +1930,16 @@
       }
     },
     {
-      "round": "Jornada 13",
+      "round": "Matchday 13",
       "date": "2019-12-09",
+      "time": "20:15",
       "team1": "Rio Ave FC",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1406,11 +1947,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-13",
+      "time": "20:30",
       "team1": "Portimonense SC",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1418,11 +1964,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-14",
+      "time": "15:30",
       "team1": "CS Marítimo",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1430,11 +1981,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-14",
+      "time": "18:00",
       "team1": "SL Benfica",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1442,11 +1998,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-14",
-      "team1": "Vitória de Setúbal",
+      "time": "20:30",
+      "team1": "Vitória Setúbal",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1454,11 +2015,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-15",
+      "time": "15:00",
       "team1": "Moreirense FC",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1466,11 +2032,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-15",
-      "team1": "Gil Vicente FC",
-      "team2": "Vitória de Guimarães",
+      "time": "17:30",
+      "team1": "Gil Vicente",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1478,11 +2049,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-15",
-      "team1": "SC Braga",
-      "team2": "FC Paços de Ferreira",
+      "time": "20:00",
+      "team1": "Sporting Braga",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1490,11 +2066,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-16",
+      "time": "19:00",
       "team1": "CD Santa Clara",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -1502,11 +2083,16 @@
       }
     },
     {
-      "round": "Jornada 14",
+      "round": "Matchday 14",
       "date": "2019-12-16",
+      "time": "20:15",
       "team1": "FC Porto",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1514,11 +2100,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-04",
+      "time": "15:30",
       "team1": "CD Aves",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1526,11 +2117,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-04",
-      "team1": "Boavista FC",
+      "time": "15:30",
+      "team1": "Boavista",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1538,11 +2134,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-04",
-      "team1": "Os Belenenses",
-      "team2": "SC Braga",
+      "time": "18:00",
+      "team1": "Belenenses SAD",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          1,
+          4
+        ],
         "ft": [
           1,
           7
@@ -1550,11 +2151,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-04",
-      "team1": "Vitória de Guimarães",
+      "time": "20:30",
+      "team1": "Vitória Guimarães",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1562,11 +2168,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-05",
-      "team1": "FC Paços de Ferreira",
+      "time": "15:00",
+      "team1": "Paços de Ferreira",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1574,11 +2185,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-05",
+      "time": "15:00",
       "team1": "CD Tondela",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1586,11 +2202,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-05",
+      "time": "15:00",
       "team1": "Rio Ave FC",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1598,11 +2219,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-05",
+      "time": "17:30",
       "team1": "Sporting CP",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1610,11 +2236,16 @@
       }
     },
     {
-      "round": "Jornada 15",
+      "round": "Matchday 15",
       "date": "2020-01-05",
+      "time": "20:00",
       "team1": "FC Famalicão",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1622,11 +2253,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-10",
+      "time": "19:00",
       "team1": "CD Santa Clara",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1634,11 +2270,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-10",
+      "time": "19:00",
       "team1": "SL Benfica",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1646,11 +2287,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-10",
+      "time": "21:15",
       "team1": "Moreirense FC",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           4
@@ -1658,10 +2304,11 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-11",
+      "time": "15:30",
       "team1": "Portimonense SC",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
         "ft": [
           0,
@@ -1670,11 +2317,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-11",
-      "team1": "Boavista FC",
+      "time": "18:00",
+      "team1": "Boavista",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1682,11 +2334,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-11",
-      "team1": "Vitória de Setúbal",
+      "time": "20:30",
+      "team1": "Vitória Setúbal",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1694,11 +2351,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-12",
-      "team1": "Gil Vicente FC",
-      "team2": "Os Belenenses",
+      "time": "15:00",
+      "team1": "Gil Vicente",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1706,10 +2368,11 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-12",
+      "time": "17:30",
       "team1": "CS Marítimo",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
         "ft": [
           0,
@@ -1718,11 +2381,16 @@
       }
     },
     {
-      "round": "Jornada 16",
+      "round": "Matchday 16",
       "date": "2020-01-12",
-      "team1": "SC Braga",
+      "time": "20:00",
+      "team1": "Sporting Braga",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1730,11 +2398,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-17",
+      "time": "19:00",
       "team1": "FC Porto",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1742,11 +2415,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-17",
+      "time": "21:15",
       "team1": "Sporting CP",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1754,11 +2432,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-18",
+      "time": "15:30",
       "team1": "CD Aves",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1766,11 +2449,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-18",
-      "team1": "Vitória de Guimarães",
+      "time": "15:30",
+      "team1": "Vitória Guimarães",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1778,11 +2466,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-18",
+      "time": "18:00",
       "team1": "CD Tondela",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1790,11 +2483,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-18",
-      "team1": "Os Belenenses",
-      "team2": "Vitória de Setúbal",
+      "time": "20:30",
+      "team1": "Belenenses SAD",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1802,10 +2500,11 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-19",
-      "team1": "FC Paços de Ferreira",
-      "team2": "Gil Vicente FC",
+      "time": "15:00",
+      "team1": "Paços de Ferreira",
+      "team2": "Gil Vicente",
       "score": {
         "ft": [
           0,
@@ -1814,11 +2513,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-19",
+      "time": "17:30",
       "team1": "FC Famalicão",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1826,11 +2530,16 @@
       }
     },
     {
-      "round": "Jornada 17",
+      "round": "Matchday 17",
       "date": "2020-01-19",
+      "time": "20:00",
       "team1": "Rio Ave FC",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1838,35 +2547,16 @@
       }
     },
     {
-      "round": "Jornada 18",
+      "round": "Matchday 18",
       "date": "2020-01-26",
-      "team1": "Os Belenenses",
-      "team2": "Portimonense SC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2020-01-26",
-      "team1": "FC Famalicão",
-      "team2": "CD Santa Clara",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2020-01-26",
+      "time": "15:00",
       "team1": "CD Tondela",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -1874,23 +2564,16 @@
       }
     },
     {
-      "round": "Jornada 18",
+      "round": "Matchday 18",
       "date": "2020-01-26",
-      "team1": "FC Paços de Ferreira",
-      "team2": "SL Benfica",
+      "time": "15:00",
+      "team1": "FC Famalicão",
+      "team2": "CD Santa Clara",
       "score": {
-        "ft": [
+        "ht": [
           0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Jornada 18",
-      "date": "2020-01-26",
-      "team1": "CD Aves",
-      "team2": "Boavista FC",
-      "score": {
+          1
+        ],
         "ft": [
           0,
           1
@@ -1898,11 +2581,67 @@
       }
     },
     {
-      "round": "Jornada 18",
+      "round": "Matchday 18",
+      "date": "2020-01-26",
+      "time": "15:00",
+      "team1": "Belenenses SAD",
+      "team2": "Portimonense SC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-01-26",
+      "time": "17:30",
+      "team1": "Paços de Ferreira",
+      "team2": "SL Benfica",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-01-26",
+      "time": "20:00",
+      "team1": "CD Aves",
+      "team2": "Boavista",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
       "date": "2020-01-27",
-      "team1": "Vitória de Guimarães",
+      "time": "18:45",
+      "team1": "Vitória Guimarães",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1910,11 +2649,16 @@
       }
     },
     {
-      "round": "Jornada 18",
+      "round": "Matchday 18",
       "date": "2020-01-27",
+      "time": "21:00",
       "team1": "Sporting CP",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1922,11 +2666,16 @@
       }
     },
     {
-      "round": "Jornada 18",
+      "round": "Matchday 18",
       "date": "2020-01-28",
+      "time": "20:15",
       "team1": "FC Porto",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1934,11 +2683,16 @@
       }
     },
     {
-      "round": "Jornada 18",
+      "round": "Matchday 18",
       "date": "2020-01-29",
+      "time": "20:15",
       "team1": "Moreirense FC",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1946,11 +2700,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-01-31",
+      "time": "19:00",
       "team1": "SL Benfica",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -1958,11 +2717,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-01-31",
+      "time": "21:15",
       "team1": "Rio Ave FC",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1970,11 +2734,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-01",
+      "time": "15:30",
       "team1": "Portimonense SC",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1982,11 +2751,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-01",
-      "team1": "Vitória de Setúbal",
+      "time": "18:00",
+      "team1": "Vitória Setúbal",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -1994,11 +2768,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-02",
+      "time": "15:00",
       "team1": "CS Marítimo",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2006,11 +2785,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-02",
-      "team1": "Gil Vicente FC",
+      "time": "15:00",
+      "team1": "Gil Vicente",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           5
@@ -2018,11 +2802,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-02",
+      "time": "17:30",
       "team1": "CD Santa Clara",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2030,11 +2819,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-02",
-      "team1": "SC Braga",
+      "time": "17:30",
+      "team1": "Sporting Braga",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2042,11 +2836,16 @@
       }
     },
     {
-      "round": "Jornada 19",
+      "round": "Matchday 19",
       "date": "2020-02-02",
-      "team1": "Boavista FC",
-      "team2": "Vitória de Guimarães",
+      "time": "20:00",
+      "team1": "Boavista",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2054,11 +2853,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-07",
-      "team1": "FC Paços de Ferreira",
-      "team2": "Boavista FC",
+      "time": "20:30",
+      "team1": "Paços de Ferreira",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2066,11 +2870,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-08",
+      "time": "15:30",
       "team1": "FC Famalicão",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           7
@@ -2078,11 +2887,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-08",
-      "team1": "Os Belenenses",
+      "time": "15:30",
+      "team1": "Belenenses SAD",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -2090,11 +2904,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-08",
-      "team1": "SC Braga",
-      "team2": "Gil Vicente FC",
+      "time": "18:00",
+      "team1": "Sporting Braga",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2102,11 +2921,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-08",
+      "time": "20:30",
       "team1": "FC Porto",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           2
@@ -2114,8 +2938,9 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-09",
+      "time": "15:00",
       "team1": "CD Tondela",
       "team2": "CS Marítimo",
       "score": {
@@ -2126,11 +2951,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-09",
+      "time": "15:00",
       "team1": "Moreirense FC",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2138,11 +2968,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-09",
+      "time": "17:30",
       "team1": "Sporting CP",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2150,11 +2985,16 @@
       }
     },
     {
-      "round": "Jornada 20",
+      "round": "Matchday 20",
       "date": "2020-02-09",
+      "time": "20:00",
       "team1": "CD Aves",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -2162,11 +3002,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-14",
-      "team1": "Vitória de Setúbal",
-      "team2": "Gil Vicente FC",
+      "time": "20:30",
+      "team1": "Vitória Setúbal",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2174,11 +3019,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-15",
+      "time": "15:30",
       "team1": "Portimonense SC",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2186,11 +3036,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-15",
+      "time": "15:30",
       "team1": "CD Santa Clara",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2198,11 +3053,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-15",
+      "time": "18:00",
       "team1": "SL Benfica",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2210,11 +3070,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-15",
+      "time": "20:30",
       "team1": "Rio Ave FC",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2222,11 +3087,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-16",
+      "time": "15:00",
       "team1": "CS Marítimo",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2234,11 +3104,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-16",
-      "team1": "Boavista FC",
-      "team2": "Os Belenenses",
+      "time": "15:00",
+      "team1": "Boavista",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2246,11 +3121,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-16",
-      "team1": "Vitória de Guimarães",
+      "time": "17:30",
+      "team1": "Vitória Guimarães",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2258,11 +3138,16 @@
       }
     },
     {
-      "round": "Jornada 21",
+      "round": "Matchday 21",
       "date": "2020-02-16",
+      "time": "20:00",
       "team1": "FC Famalicão",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2270,11 +3155,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-21",
+      "time": "20:30",
       "team1": "CD Aves",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -2282,11 +3172,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-22",
+      "time": "18:00",
       "team1": "CD Tondela",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2294,11 +3189,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-22",
-      "team1": "Os Belenenses",
+      "time": "20:30",
+      "team1": "Belenenses SAD",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2306,11 +3206,33 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-23",
+      "time": "15:00",
+      "team1": "Paços de Ferreira",
+      "team2": "FC Famalicão",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-02-23",
+      "time": "15:00",
       "team1": "Moreirense FC",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2318,23 +3240,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-23",
-      "team1": "FC Paços de Ferreira",
-      "team2": "FC Famalicão",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 22",
-      "date": "2020-02-23",
+      "time": "17:30",
       "team1": "Sporting CP",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2342,11 +3257,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-23",
-      "team1": "SC Braga",
-      "team2": "Vitória de Setúbal",
+      "time": "20:00",
+      "team1": "Sporting Braga",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2354,11 +3274,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-23",
+      "time": "20:30",
       "team1": "FC Porto",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2366,11 +3291,16 @@
       }
     },
     {
-      "round": "Jornada 22",
+      "round": "Matchday 22",
       "date": "2020-02-24",
-      "team1": "Gil Vicente FC",
+      "time": "19:30",
+      "team1": "Gil Vicente",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2378,10 +3308,11 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-02-28",
+      "time": "20:30",
       "team1": "Portimonense SC",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
         "ft": [
           0,
@@ -2390,10 +3321,11 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-02-29",
+      "time": "18:00",
       "team1": "Rio Ave FC",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
         "ft": [
           0,
@@ -2402,11 +3334,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-02-29",
-      "team1": "Boavista FC",
-      "team2": "Gil Vicente FC",
+      "time": "20:30",
+      "team1": "Boavista",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2414,11 +3351,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-03-01",
+      "time": "15:00",
       "team1": "CD Aves",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           3
@@ -2426,11 +3368,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-03-01",
+      "time": "17:30",
       "team1": "CS Marítimo",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2438,11 +3385,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-03-01",
-      "team1": "Vitória de Guimarães",
+      "time": "20:00",
+      "team1": "Vitória Guimarães",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2450,11 +3402,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-03-02",
+      "time": "19:30",
       "team1": "CD Santa Clara",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2462,11 +3419,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-03-02",
+      "time": "20:45",
       "team1": "SL Benfica",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2474,11 +3436,16 @@
       }
     },
     {
-      "round": "Jornada 23",
+      "round": "Matchday 23",
       "date": "2020-03-03",
+      "time": "20:00",
       "team1": "FC Famalicão",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -2486,11 +3453,16 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-06",
-      "team1": "SC Braga",
+      "time": "20:30",
+      "team1": "Sporting Braga",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2498,11 +3470,16 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-07",
+      "time": "15:30",
       "team1": "CD Tondela",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2510,11 +3487,16 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-07",
-      "team1": "Vitória de Setúbal",
+      "time": "18:00",
+      "team1": "Vitória Setúbal",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2522,11 +3504,16 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-07",
+      "time": "20:30",
       "team1": "FC Porto",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2534,21 +3521,10 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-08",
-      "team1": "Moreirense FC",
-      "team2": "CS Marítimo",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-03-08",
-      "team1": "Os Belenenses",
+      "time": "15:00",
+      "team1": "Belenenses SAD",
       "team2": "FC Famalicão",
       "score": {
         "ft": [
@@ -2558,23 +3534,16 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-08",
-      "team1": "Gil Vicente FC",
-      "team2": "CD Santa Clara",
+      "time": "15:00",
+      "team1": "Moreirense FC",
+      "team2": "CS Marítimo",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Jornada 24",
-      "date": "2020-03-08",
-      "team1": "Sporting CP",
-      "team2": "CD Aves",
-      "score": {
+          0
+        ],
         "ft": [
           2,
           0
@@ -2582,11 +3551,50 @@
       }
     },
     {
-      "round": "Jornada 24",
+      "round": "Matchday 24",
       "date": "2020-03-08",
-      "team1": "FC Paços de Ferreira",
-      "team2": "Vitória de Guimarães",
+      "time": "17:00",
+      "team1": "Gil Vicente",
+      "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-03-08",
+      "time": "17:30",
+      "team1": "Sporting CP",
+      "team2": "CD Aves",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-03-08",
+      "time": "20:00",
+      "team1": "Paços de Ferreira",
+      "team2": "Vitória Guimarães",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2594,11 +3602,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-03",
+      "time": "19:00",
       "team1": "Portimonense SC",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2606,11 +3619,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-03",
+      "time": "21:15",
       "team1": "FC Famalicão",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2618,11 +3636,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-04",
+      "time": "18:00",
       "team1": "CS Marítimo",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2630,8 +3653,9 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-04",
+      "time": "19:15",
       "team1": "SL Benfica",
       "team2": "CD Tondela",
       "score": {
@@ -2642,11 +3666,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-04",
-      "team1": "Vitória de Guimarães",
+      "time": "21:15",
+      "team1": "Vitória Guimarães",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2654,11 +3683,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-05",
+      "time": "19:00",
       "team1": "CD Santa Clara",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -2666,11 +3700,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-05",
+      "time": "21:15",
       "team1": "CD Aves",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -2678,11 +3717,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-06",
-      "team1": "Boavista FC",
+      "time": "21:15",
+      "team1": "Boavista",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2690,11 +3734,16 @@
       }
     },
     {
-      "round": "Jornada 25",
+      "round": "Matchday 25",
       "date": "2020-06-07",
+      "time": "21:00",
       "team1": "Rio Ave FC",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -2702,11 +3751,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-09",
-      "team1": "Gil Vicente FC",
+      "time": "21:00",
+      "team1": "Gil Vicente",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -2714,11 +3768,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-10",
-      "team1": "Vitória de Setúbal",
+      "time": "17:00",
+      "team1": "Vitória Setúbal",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2726,11 +3785,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-10",
+      "time": "19:15",
       "team1": "Portimonense SC",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -2738,11 +3802,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-10",
+      "time": "21:30",
       "team1": "FC Porto",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2750,11 +3819,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-11",
-      "team1": "Os Belenenses",
-      "team2": "Vitória de Guimarães",
+      "time": "19:00",
+      "team1": "Belenenses SAD",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2762,11 +3836,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-11",
+      "time": "21:15",
       "team1": "CD Tondela",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2774,11 +3853,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-12",
+      "time": "19:00",
       "team1": "Moreirense FC",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2786,11 +3870,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-12",
+      "time": "21:15",
       "team1": "Sporting CP",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2798,11 +3887,16 @@
       }
     },
     {
-      "round": "Jornada 26",
+      "round": "Matchday 26",
       "date": "2020-06-13",
-      "team1": "SC Braga",
-      "team2": "Boavista FC",
+      "time": "21:00",
+      "team1": "Sporting Braga",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2810,11 +3904,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-15",
+      "time": "19:00",
       "team1": "CS Marítimo",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2822,11 +3921,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-16",
+      "time": "19:00",
       "team1": "CD Santa Clara",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2834,8 +3938,9 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-16",
+      "time": "21:15",
       "team1": "CD Aves",
       "team2": "FC Porto",
       "score": {
@@ -2846,11 +3951,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-17",
-      "team1": "FC Paços de Ferreira",
-      "team2": "Os Belenenses",
+      "time": "19:00",
+      "team1": "Paços de Ferreira",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2858,11 +3968,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-17",
+      "time": "21:15",
       "team1": "Rio Ave FC",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2870,11 +3985,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-18",
-      "team1": "Boavista FC",
-      "team2": "Vitória de Setúbal",
+      "time": "19:00",
+      "team1": "Boavista",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2882,11 +4002,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-18",
+      "time": "21:15",
       "team1": "Sporting CP",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2894,11 +4019,16 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-19",
-      "team1": "Vitória de Guimarães",
+      "time": "19:00",
+      "team1": "Vitória Guimarães",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2906,10 +4036,11 @@
       }
     },
     {
-      "round": "Jornada 27",
+      "round": "Matchday 27",
       "date": "2020-06-19",
+      "time": "21:15",
       "team1": "FC Famalicão",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
         "ft": [
           0,
@@ -2918,11 +4049,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-21",
-      "team1": "Gil Vicente FC",
+      "time": "21:00",
+      "team1": "Gil Vicente",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2930,11 +4066,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-22",
+      "time": "21:00",
       "team1": "Portimonense SC",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           2
@@ -2942,11 +4083,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-23",
-      "team1": "Vitória de Setúbal",
+      "time": "19:00",
+      "team1": "Vitória Setúbal",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2954,11 +4100,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-23",
+      "time": "19:15",
       "team1": "SL Benfica",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           4
@@ -2966,11 +4117,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-23",
+      "time": "21:15",
       "team1": "FC Porto",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2978,11 +4134,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-24",
+      "time": "19:00",
       "team1": "CD Tondela",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -2990,11 +4151,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-24",
+      "time": "21:15",
       "team1": "Moreirense FC",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3002,11 +4168,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-25",
-      "team1": "SC Braga",
-      "team2": "Vitória de Guimarães",
+      "time": "21:00",
+      "team1": "Sporting Braga",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           2
@@ -3014,11 +4185,16 @@
       }
     },
     {
-      "round": "Jornada 28",
+      "round": "Matchday 28",
       "date": "2020-06-26",
-      "team1": "Os Belenenses",
+      "time": "19:15",
+      "team1": "Belenenses SAD",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
         "ft": [
           1,
           3
@@ -3026,11 +4202,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-28",
-      "team1": "Boavista FC",
+      "time": "21:00",
+      "team1": "Boavista",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3038,11 +4219,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-29",
+      "time": "17:00",
       "team1": "CD Aves",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3050,11 +4236,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-29",
+      "time": "18:00",
       "team1": "CS Marítimo",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3062,11 +4253,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-29",
-      "team1": "FC Paços de Ferreira",
+      "time": "21:15",
+      "team1": "Paços de Ferreira",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3074,11 +4270,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-30",
+      "time": "17:00",
       "team1": "FC Famalicão",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3086,11 +4287,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-30",
-      "team1": "Vitória de Guimarães",
-      "team2": "Vitória de Setúbal",
+      "time": "19:15",
+      "team1": "Vitória Guimarães",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3098,11 +4304,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-06-30",
+      "time": "21:30",
       "team1": "Rio Ave FC",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           4,
           3
@@ -3110,11 +4321,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-07-01",
-      "team1": "Os Belenenses",
+      "time": "19:00",
+      "team1": "Belenenses SAD",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3122,11 +4338,16 @@
       }
     },
     {
-      "round": "Jornada 29",
+      "round": "Matchday 29",
       "date": "2020-07-01",
+      "time": "21:15",
       "team1": "Sporting CP",
-      "team2": "Gil Vicente FC",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3134,11 +4355,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-03",
+      "time": "19:15",
       "team1": "CD Santa Clara",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3146,11 +4372,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-04",
-      "team1": "Vitória de Setúbal",
-      "team2": "FC Paços de Ferreira",
+      "time": "17:00",
+      "team1": "Vitória Setúbal",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           3
@@ -3158,11 +4389,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-04",
+      "time": "19:15",
       "team1": "Portimonense SC",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3170,11 +4406,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-04",
+      "time": "21:15",
       "team1": "SL Benfica",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           1
@@ -3182,11 +4423,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-04",
-      "team1": "SC Braga",
+      "time": "21:30",
+      "team1": "Sporting Braga",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3194,11 +4440,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-05",
-      "team1": "Gil Vicente FC",
+      "time": "17:00",
+      "team1": "Gil Vicente",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3206,11 +4457,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-05",
+      "time": "19:15",
       "team1": "CD Tondela",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3218,11 +4474,16 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-05",
+      "time": "21:30",
       "team1": "FC Porto",
-      "team2": "Os Belenenses",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           5,
           0
@@ -3230,8 +4491,9 @@
       }
     },
     {
-      "round": "Jornada 30",
+      "round": "Matchday 30",
       "date": "2020-07-06",
+      "time": "21:00",
       "team1": "Moreirense FC",
       "team2": "Sporting CP",
       "score": {
@@ -3242,11 +4504,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-08",
-      "team1": "Boavista FC",
+      "time": "19:00",
+      "team1": "Boavista",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -3254,11 +4521,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-08",
+      "time": "21:15",
       "team1": "CD Aves",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3266,11 +4538,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-09",
+      "time": "17:00",
       "team1": "Rio Ave FC",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3278,11 +4555,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-09",
+      "time": "19:15",
       "team1": "CD Tondela",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           3
@@ -3290,11 +4572,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-09",
+      "time": "21:30",
       "team1": "FC Famalicão",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -3302,11 +4589,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-10",
-      "team1": "Vitória de Guimarães",
-      "team2": "Gil Vicente FC",
+      "time": "17:00",
+      "team1": "Vitória Guimarães",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -3314,11 +4606,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-10",
+      "time": "19:15",
       "team1": "Sporting CP",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3326,11 +4623,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-10",
-      "team1": "FC Paços de Ferreira",
-      "team2": "SC Braga",
+      "time": "21:30",
+      "team1": "Paços de Ferreira",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           1,
           5
@@ -3338,11 +4640,16 @@
       }
     },
     {
-      "round": "Jornada 31",
+      "round": "Matchday 31",
       "date": "2020-07-11",
-      "team1": "Os Belenenses",
+      "time": "19:15",
+      "team1": "Belenenses SAD",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -3350,8 +4657,9 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-13",
+      "time": "19:00",
       "team1": "CS Marítimo",
       "team2": "Rio Ave FC",
       "score": {
@@ -3362,11 +4670,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-13",
-      "team1": "Vitória de Setúbal",
+      "time": "21:15",
+      "team1": "Vitória Setúbal",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -3374,11 +4687,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-14",
+      "time": "17:00",
       "team1": "CD Santa Clara",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3386,11 +4704,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-14",
+      "time": "19:15",
       "team1": "Portimonense SC",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3398,11 +4721,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-14",
-      "team1": "Gil Vicente FC",
+      "time": "21:30",
+      "team1": "Gil Vicente",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           2
@@ -3410,11 +4738,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-14",
+      "time": "21:30",
       "team1": "SL Benfica",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3422,11 +4755,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-15",
+      "time": "17:00",
       "team1": "Moreirense FC",
-      "team2": "FC Paços de Ferreira",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3434,11 +4772,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-15",
-      "team1": "SC Braga",
-      "team2": "Os Belenenses",
+      "time": "19:15",
+      "team1": "Sporting Braga",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3446,11 +4789,16 @@
       }
     },
     {
-      "round": "Jornada 32",
+      "round": "Matchday 32",
       "date": "2020-07-15",
+      "time": "21:30",
       "team1": "FC Porto",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3458,11 +4806,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-18",
+      "time": "19:00",
       "team1": "Rio Ave FC",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3470,11 +4823,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-18",
+      "time": "21:15",
       "team1": "FC Famalicão",
-      "team2": "Boavista FC",
+      "team2": "Boavista",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3482,11 +4840,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-19",
-      "team1": "Os Belenenses",
-      "team2": "Gil Vicente FC",
+      "time": "19:00",
+      "team1": "Belenenses SAD",
+      "team2": "Gil Vicente",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3494,11 +4857,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-19",
-      "team1": "Vitória de Guimarães",
+      "time": "21:15",
+      "team1": "Vitória Guimarães",
       "team2": "CS Marítimo",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3506,11 +4874,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-20",
-      "team1": "FC Paços de Ferreira",
+      "time": "17:00",
+      "team1": "Paços de Ferreira",
       "team2": "Portimonense SC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3518,11 +4891,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-20",
+      "time": "19:15",
       "team1": "CD Tondela",
-      "team2": "SC Braga",
+      "team2": "Sporting Braga",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3530,11 +4908,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-20",
+      "time": "21:15",
       "team1": "FC Porto",
       "team2": "Moreirense FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           6,
           1
@@ -3542,10 +4925,11 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-21",
+      "time": "19:00",
       "team1": "Sporting CP",
-      "team2": "Vitória de Setúbal",
+      "team2": "Vitória Setúbal",
       "score": {
         "ft": [
           0,
@@ -3554,11 +4938,16 @@
       }
     },
     {
-      "round": "Jornada 33",
+      "round": "Matchday 33",
       "date": "2020-07-21",
+      "time": "21:15",
       "team1": "CD Aves",
       "team2": "SL Benfica",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -3566,11 +4955,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-24",
+      "time": "19:00",
       "team1": "CD Santa Clara",
-      "team2": "Vitória de Guimarães",
+      "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -3578,11 +4972,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-24",
-      "team1": "Gil Vicente FC",
-      "team2": "FC Paços de Ferreira",
+      "time": "21:15",
+      "team1": "Gil Vicente",
+      "team2": "Paços de Ferreira",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           3
@@ -3590,11 +4989,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-25",
+      "time": "19:00",
       "team1": "CS Marítimo",
       "team2": "FC Famalicão",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -3602,11 +5006,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-25",
-      "team1": "Boavista FC",
+      "time": "19:00",
+      "team1": "Boavista",
       "team2": "Rio Ave FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3614,11 +5023,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-25",
+      "time": "21:15",
       "team1": "SL Benfica",
       "team2": "Sporting CP",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -3626,11 +5040,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-25",
-      "team1": "SC Braga",
+      "time": "21:15",
+      "team1": "Sporting Braga",
       "team2": "FC Porto",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3638,11 +5057,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-26",
+      "time": "19:30",
       "team1": "Portimonense SC",
       "team2": "CD Aves",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3650,11 +5074,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-26",
-      "team1": "Vitória de Setúbal",
-      "team2": "Os Belenenses",
+      "time": "19:30",
+      "team1": "Vitória Setúbal",
+      "team2": "Belenenses SAD",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3662,11 +5091,16 @@
       }
     },
     {
-      "round": "Jornada 34",
+      "round": "Matchday 34",
       "date": "2020-07-26",
+      "time": "19:30",
       "team1": "Moreirense FC",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2

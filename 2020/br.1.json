@@ -1,78 +1,102 @@
 {
-  "name": "Campeonato Brasileiro Série A 2020",
+  "name": "Brasileiro Série A 2020",
   "matches": [
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
+      "date": "2020-08-08",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2020-08-08",
+      "time": "19:30",
+      "team1": "Coritiba PR",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2020-08-08",
+      "time": "21:00",
+      "team1": "Sport Recife PE",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
       "date": "2020-08-09",
-      "team1": "Fortaleza EC",
-      "team2": "Atlético PR",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Atlético Mineiro",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
-          2
+          1
         ]
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2020-08-09",
-      "team1": "Coritiba PR",
-      "team2": "Internacional Porto Alegre",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Red Bull Bragantino",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          0
+        ],
+        "ft": [
+          1,
           1
         ]
       }
     },
     {
-      "round": "Rodada 1",
+      "round": "Matchday 1",
       "date": "2020-08-09",
-      "team1": "Sport Recife",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2020-08-09",
-      "team1": "Flamengo RJ",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2020-08-09",
-      "team1": "Santos SP",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2020-08-10",
-      "team1": "Palmeiras SP",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2020-08-10",
-      "team1": "Grêmio RS",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
       "team2": "Fluminense RJ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -80,418 +104,28 @@
       }
     },
     {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "RB Bragantino",
-      "team2": "Botafogo RJ",
+      "round": "Matchday 1",
+      "date": "2020-09-30",
+      "time": "21:30",
+      "team1": "Botafogo RJ",
+      "team2": "Bahia BA",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "Atlético MG",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          3,
           2
         ]
       }
     },
     {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "Atlético PR",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "EC Bahia",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "Atlético GO",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "Fluminense RJ",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-13",
-      "team1": "Ceára SC",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-14",
-      "team1": "São Paulo FC",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-14",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 2",
-      "date": "2020-08-14",
-      "team1": "CR Vasco da Gama",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "Grêmio RS",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "Coritiba PR",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "Palmeiras SP",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "Atlético MG",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "CR Vasco da Gama",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "EC Bahia",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-16",
-      "team1": "Fluminense RJ",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-17",
-      "team1": "Atlético GO",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-17",
-      "team1": "Fortaleza EC",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 3",
-      "date": "2020-08-17",
-      "team1": "Santos SP",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
-      "team1": "Flamengo RJ",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
-      "team1": "RB Bragantino",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
-      "team1": "Atlético PR",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
-      "team1": "Goiás EC",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
-      "team1": "Botafogo RJ",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-20",
+      "round": "Matchday 1",
+      "date": "2020-09-30",
+      "time": "21:30",
       "team1": "Corinthians SP",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-21",
-      "team1": "Sport Recife",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-21",
-      "team1": "São Paulo FC",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 4",
-      "date": "2020-08-21",
-      "team1": "Ceára SC",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-22",
-      "team1": "Atlético PR",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-23",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-23",
-      "team1": "Goiás EC",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-23",
-      "team1": "Flamengo RJ",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-23",
-      "team1": "CR Vasco da Gama",
-      "team2": "Grêmio RS",
+      "team2": "Atlético Goianiense",
       "score": {
         "ft": [
           0,
@@ -500,3004 +134,6204 @@
       }
     },
     {
-      "round": "Rodada 5",
-      "date": "2020-08-23",
-      "team1": "Palmeiras SP",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-23",
-      "team1": "RB Bragantino",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-24",
-      "team1": "Sport Recife",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-24",
-      "team1": "Ceára SC",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-08-27",
-      "team1": "São Paulo FC",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 5",
-      "date": "2020-08-27",
-      "team1": "Corinthians SP",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-29",
-      "team1": "Botafogo RJ",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "Fluminense RJ",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "EC Bahia",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "Fortaleza EC",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "São Paulo FC",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "Santos SP",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "Coritiba PR",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-08-30",
-      "team1": "Atlético GO",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Ceára SC",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Fluminense RJ",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Goiás EC",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Botafogo RJ",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "EC Bahia",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          3,
-          5
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Atlético PR",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Palmeiras SP",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-03",
-      "team1": "Santos SP",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-04",
-      "team1": "Grêmio RS",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 7",
-      "date": "2020-09-04",
-      "team1": "Atlético MG",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-05",
-      "team1": "Flamengo RJ",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-06",
-      "team1": "Corinthians SP",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-06",
-      "team1": "Ceára SC",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-06",
-      "team1": "RB Bragantino",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-06",
-      "team1": "São Paulo FC",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-06",
-      "team1": "Internacional Porto Alegre",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-06",
-      "team1": "CR Vasco da Gama",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-07",
-      "team1": "Atlético GO",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-07",
-      "team1": "Sport Recife",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 8",
-      "date": "2020-09-07",
-      "team1": "Coritiba PR",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-09",
-      "team1": "Atlético PR",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-09",
-      "team1": "Fortaleza EC",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-09",
-      "team1": "Goiás EC",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-10",
-      "team1": "São Paulo FC",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-10",
-      "team1": "Fluminense RJ",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-10",
-      "team1": "Santos SP",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-11",
-      "team1": "Corinthians SP",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-11",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-11",
-      "team1": "EC Bahia",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 9",
-      "date": "2020-09-11",
-      "team1": "CR Vasco da Gama",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-12",
-      "team1": "Atlético PR",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "Santos SP",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "Fluminense RJ",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "Grêmio RS",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "Atlético MG",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "EC Bahia",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "Ceára SC",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-13",
-      "team1": "Goiás EC",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-14",
-      "team1": "Palmeiras SP",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 10",
-      "date": "2020-09-14",
-      "team1": "Botafogo RJ",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-17",
-      "team1": "Corinthians SP",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-20",
-      "team1": "RB Bragantino",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          4,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-20",
-      "team1": "Fortaleza EC",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-20",
-      "team1": "Atlético GO",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-20",
-      "team1": "Grêmio RS",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-20",
-      "team1": "Coritiba PR",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-20",
-      "team1": "Botafogo RJ",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-09-21",
-      "team1": "Sport Recife",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-24",
-      "team1": "Sport Recife",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "Internacional Porto Alegre",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "Atlético PR",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "Atlético MG",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "CR Vasco da Gama",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "Palmeiras SP",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "Ceára SC",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-27",
-      "team1": "Atlético GO",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-28",
-      "team1": "Santos SP",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 12",
-      "date": "2020-09-29",
-      "team1": "Fluminense RJ",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2020-10-01",
-      "team1": "Botafogo RJ",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 1",
-      "date": "2020-10-01",
-      "team1": "Corinthians SP",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-03",
-      "team1": "Grêmio RS",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "Palmeiras SP",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "RB Bragantino",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "Botafogo RJ",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "Flamengo RJ",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "Coritiba PR",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "EC Bahia",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "Fortaleza EC",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-04",
-      "team1": "Goiás EC",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 13",
-      "date": "2020-10-05",
-      "team1": "Atlético MG",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "Corinthians SP",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "Flamengo RJ",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "Grêmio RS",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "EC Bahia",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "São Paulo FC",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "Goiás EC",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "Botafogo RJ",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-08",
-      "team1": "Fortaleza EC",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-09",
-      "team1": "Atlético PR",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 14",
-      "date": "2020-10-09",
-      "team1": "RB Bragantino",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-10",
-      "team1": "CR Vasco da Gama",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Palmeiras SP",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Coritiba PR",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Atlético MG",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Fluminense RJ",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Santos SP",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Sport Recife",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-11",
-      "team1": "Atlético GO",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-12",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 15",
-      "date": "2020-10-12",
-      "team1": "Ceára SC",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 11",
-      "date": "2020-10-13",
-      "team1": "Flamengo RJ",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-14",
-      "team1": "Palmeiras SP",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-15",
-      "team1": "Grêmio RS",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-15",
-      "team1": "Santos SP",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-15",
-      "team1": "Atlético MG",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-15",
-      "team1": "Sport Recife",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          3,
-          5
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-15",
-      "team1": "Atlético PR",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-16",
-      "team1": "Flamengo RJ",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-10-17",
-      "team1": "Goiás EC",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-18",
-      "team1": "Fluminense RJ",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-18",
-      "team1": "Coritiba PR",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-18",
-      "team1": "Atlético GO",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-18",
-      "team1": "São Paulo FC",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-18",
-      "team1": "Corinthians SP",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          1,
-          5
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-18",
-      "team1": "Internacional Porto Alegre",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-19",
-      "team1": "RB Bragantino",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-19",
-      "team1": "Fortaleza EC",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-20",
-      "team1": "Botafogo RJ",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 17",
-      "date": "2020-10-20",
-      "team1": "EC Bahia",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-22",
-      "team1": "CR Vasco da Gama",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-24",
-      "team1": "RB Bragantino",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-25",
-      "team1": "Ceára SC",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-25",
-      "team1": "Atlético MG",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-25",
-      "team1": "Fluminense RJ",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-25",
-      "team1": "Atlético GO",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-25",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-10-25",
-      "team1": "Atlético PR",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-10-31",
-      "team1": "Botafogo RJ",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-10-31",
-      "team1": "Corinthians SP",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-10-31",
-      "team1": "Coritiba PR",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-01",
-      "team1": "Fortaleza EC",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-01",
-      "team1": "Flamengo RJ",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-01",
-      "team1": "Sport Recife",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-01",
-      "team1": "Santos SP",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-02",
-      "team1": "Goiás EC",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-02",
-      "team1": "Palmeiras SP",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 19",
-      "date": "2020-11-03",
-      "team1": "Grêmio RS",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-07",
-      "team1": "Atlético PR",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-07",
-      "team1": "São Paulo FC",
-      "team2": "Goiás EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-08",
-      "team1": "Atlético GO",
-      "team2": "Corinthians SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-08",
-      "team1": "CR Vasco da Gama",
-      "team2": "Palmeiras SP",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-08",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Coritiba PR",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-08",
-      "team1": "Atlético MG",
-      "team2": "Flamengo RJ",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-08",
-      "team1": "EC Bahia",
-      "team2": "Botafogo RJ",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-08",
-      "team1": "RB Bragantino",
-      "team2": "Santos SP",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-09",
-      "team1": "Fluminense RJ",
-      "team2": "Grêmio RS",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 20",
-      "date": "2020-11-09",
-      "team1": "Ceára SC",
-      "team2": "Sport Recife",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 18",
-      "date": "2020-11-11",
-      "team1": "EC Bahia",
-      "team2": "Fortaleza EC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-14",
-      "team1": "Sport Recife",
-      "team2": "CR Vasco da Gama",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-14",
-      "team1": "Santos SP",
-      "team2": "Internacional Porto Alegre",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-14",
-      "team1": "Goiás EC",
-      "team2": "Atlético PR",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-14",
-      "team1": "Fortaleza EC",
-      "team2": "São Paulo FC",
-      "score": {
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-14",
-      "team1": "Corinthians SP",
-      "team2": "Atlético MG",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-14",
-      "team1": "Grêmio RS",
-      "team2": "Ceára SC",
-      "score": {
-        "ft": [
-          4,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-15",
-      "team1": "Palmeiras SP",
-      "team2": "Fluminense RJ",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-15",
-      "team1": "Flamengo RJ",
-      "team2": "Atlético GO",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-16",
-      "team1": "Coritiba PR",
-      "team2": "EC Bahia",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 21",
-      "date": "2020-11-17",
-      "team1": "Botafogo RJ",
-      "team2": "RB Bragantino",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-11-18",
-      "team1": "Atlético MG",
-      "team2": "Atlético PR"
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-11-19",
-      "team1": "CR Vasco da Gama",
-      "team2": "Fortaleza EC"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-21",
-      "team1": "RB Bragantino",
-      "team2": "EC Bahia"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-21",
-      "team1": "Atlético PR",
-      "team2": "Santos SP"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-21",
-      "team1": "Flamengo RJ",
-      "team2": "Coritiba PR"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-22",
-      "team1": "Goiás EC",
-      "team2": "Palmeiras SP"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-22",
-      "team1": "São Paulo FC",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-22",
-      "team1": "Ceára SC",
-      "team2": "Atlético MG"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-22",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Fluminense RJ"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-22",
-      "team1": "Botafogo RJ",
-      "team2": "Fortaleza EC"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-23",
-      "team1": "Corinthians SP",
-      "team2": "Grêmio RS"
-    },
-    {
-      "round": "Rodada 22",
-      "date": "2020-11-24",
-      "team1": "Sport Recife",
-      "team2": "Atlético GO"
-    },
-    {
-      "round": "Rodada 16",
-      "date": "2020-11-25",
-      "team1": "Ceára SC",
-      "team2": "São Paulo FC"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-26",
-      "team1": "Atlético MG",
-      "team2": "Botafogo RJ"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-26",
-      "team1": "Coritiba PR",
-      "team2": "Corinthians SP"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-27",
-      "team1": "Fortaleza EC",
-      "team2": "Goiás EC"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-28",
-      "team1": "Santos SP",
-      "team2": "Sport Recife"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-28",
-      "team1": "Palmeiras SP",
-      "team2": "Atlético PR"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-28",
-      "team1": "Grêmio RS",
-      "team2": "Flamengo RJ"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-28",
-      "team1": "EC Bahia",
-      "team2": "São Paulo FC"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-11-29",
-      "team1": "Atlético GO",
-      "team2": "Internacional Porto Alegre"
-    },
-    {
-      "round": "Rodada 6",
-      "date": "2020-11-30",
-      "team1": "Grêmio RS",
-      "team2": "Goiás EC"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-12-01",
-      "team1": "Fluminense RJ",
-      "team2": "RB Bragantino"
-    },
-    {
-      "round": "Rodada 23",
-      "date": "2020-12-01",
-      "team1": "CR Vasco da Gama",
-      "team2": "Ceára SC"
-    },
-    {
-      "round": "Rodada 24",
+      "round": "Matchday 1",
       "date": "2020-12-03",
-      "team1": "Fortaleza EC",
-      "team2": "Corinthians SP"
+      "time": "19:00",
+      "team1": "Goiás GO",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 1",
-      "date": "2020-12-04",
-      "team1": "Goiás EC",
-      "team2": "São Paulo FC"
+      "round": "Matchday 1",
+      "date": "2021-01-26",
+      "time": "20:00",
+      "team1": "Palmeiras",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 24",
-      "date": "2020-12-05",
-      "team1": "Botafogo RJ",
-      "team2": "Flamengo RJ"
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "19:15",
+      "team1": "Red Bull Bragantino",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 24",
-      "date": "2020-12-05",
-      "team1": "Atlético MG",
-      "team2": "Internacional Porto Alegre"
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "19:15",
+      "team1": "Atlético Mineiro",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 24",
-      "date": "2020-12-05",
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "19:15",
+      "team1": "Athletico Paranaense",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "20:30",
+      "team1": "Bahia BA",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "20:30",
+      "team1": "Atlético Goianiense",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "21:30",
       "team1": "Fluminense RJ",
-      "team2": "Atlético PR"
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 24",
-      "date": "2020-12-05",
-      "team1": "EC Bahia",
-      "team2": "Ceára SC"
+      "round": "Matchday 2",
+      "date": "2020-08-12",
+      "time": "21:30",
+      "team1": "Ceará CE",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 24",
-      "date": "2020-12-06",
-      "team1": "Coritiba PR",
-      "team2": "RB Bragantino"
-    },
-    {
-      "round": "Rodada 24",
-      "date": "2020-12-06",
-      "team1": "Grêmio RS",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 24",
-      "date": "2020-12-06",
-      "team1": "Santos SP",
-      "team2": "Palmeiras SP"
-    },
-    {
-      "round": "Rodada 24",
-      "date": "2020-12-07",
+      "round": "Matchday 2",
+      "date": "2020-08-13",
+      "time": "19:15",
       "team1": "São Paulo FC",
-      "team2": "Sport Recife"
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 24",
-      "date": "2020-12-08",
-      "team1": "Atlético GO",
-      "team2": "Goiás EC"
+      "round": "Matchday 2",
+      "date": "2020-08-13",
+      "time": "19:30",
+      "team1": "Internacional",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 18",
+      "round": "Matchday 2",
+      "date": "2020-08-13",
+      "time": "20:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-15",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Corinthians SP",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-15",
+      "time": "19:30",
+      "team1": "Coritiba PR",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-15",
+      "time": "21:30",
+      "team1": "Palmeiras",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "11:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "16:00",
+      "team1": "Bahia BA",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "18:00",
+      "team1": "Fluminense RJ",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "19:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "19:30",
+      "team1": "Fortaleza CE",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-16",
+      "time": "19:45",
+      "team1": "Santos FC",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "19:15",
+      "team1": "Flamengo RJ",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "19:15",
+      "team1": "Red Bull Bragantino",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "19:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "20:30",
+      "team1": "Internacional",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "20:30",
+      "team1": "Goiás GO",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "21:30",
+      "team1": "Botafogo RJ",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-19",
+      "time": "21:30",
+      "team1": "Corinthians SP",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-20",
+      "time": "19:15",
+      "team1": "Sport Recife PE",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-20",
+      "time": "20:00",
+      "team1": "São Paulo FC",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2020-08-20",
+      "time": "20:00",
+      "team1": "Ceará CE",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-22",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-22",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-22",
+      "time": "21:00",
+      "team1": "Goiás GO",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-23",
+      "time": "11:00",
+      "team1": "Flamengo RJ",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-23",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-23",
+      "time": "16:00",
+      "team1": "Palmeiras",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-23",
+      "time": "16:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-23",
+      "time": "19:00",
+      "team1": "Sport Recife PE",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-23",
+      "time": "20:00",
+      "team1": "Ceará CE",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-08-26",
+      "time": "21:30",
+      "team1": "Corinthians SP",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-29",
+      "time": "17:00",
+      "team1": "Botafogo RJ",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-29",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-29",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-29",
+      "time": "21:00",
+      "team1": "Fortaleza CE",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-30",
+      "time": "11:00",
+      "team1": "São Paulo FC",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-30",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-30",
+      "time": "16:00",
+      "team1": "Coritiba PR",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-08-30",
+      "time": "18:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-11-18",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-11-30",
+      "time": "18:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "19:15",
+      "team1": "Fluminense RJ",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "19:15",
+      "team1": "Goiás GO",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "20:30",
+      "team1": "Botafogo RJ",
+      "team2": "Coritiba PR",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "20:30",
+      "team1": "Bahia BA",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          2,
+          3
+        ],
+        "ft": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "20:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "21:30",
+      "team1": "Palmeiras",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-02",
+      "time": "21:30",
+      "team1": "Santos FC",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-03",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-09-03",
+      "time": "20:00",
+      "team1": "Atlético Mineiro",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-05",
+      "time": "17:00",
+      "team1": "Flamengo RJ",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-05",
+      "time": "19:00",
+      "team1": "Corinthians SP",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-05",
+      "time": "21:00",
+      "team1": "Ceará CE",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "11:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "18:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "19:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "20:30",
+      "team1": "Sport Recife PE",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-09-06",
+      "time": "20:30",
+      "team1": "Coritiba PR",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-09",
+      "time": "17:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-09",
+      "time": "18:00",
+      "team1": "Fortaleza CE",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-09",
+      "time": "18:00",
+      "team1": "Goiás GO",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-09",
+      "time": "19:15",
+      "team1": "São Paulo FC",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-09",
+      "time": "21:30",
+      "team1": "Fluminense RJ",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-09",
+      "time": "21:30",
+      "team1": "Santos FC",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-10",
+      "time": "19:15",
+      "team1": "Corinthians SP",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-10",
+      "time": "19:15",
+      "team1": "Internacional",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-10",
+      "time": "19:15",
+      "team1": "Bahia BA",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2020-09-10",
+      "time": "21:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-12",
+      "time": "16:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-12",
+      "time": "19:00",
+      "team1": "Santos FC",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "16:00",
+      "team1": "Fluminense RJ",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "18:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "18:00",
+      "team1": "Bahia BA",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "18:00",
+      "team1": "Ceará CE",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "18:00",
+      "team1": "Goiás GO",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "19:45",
+      "team1": "Palmeiras",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-09-13",
+      "time": "20:30",
+      "team1": "Botafogo RJ",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-08-26",
+      "time": "19:00",
+      "team1": "São Paulo FC",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-16",
+      "time": "21:30",
+      "team1": "Corinthians SP",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-19",
+      "time": "19:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-19",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-19",
+      "time": "21:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-20",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-20",
+      "time": "16:00",
+      "team1": "Coritiba PR",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-20",
+      "time": "18:15",
+      "team1": "Botafogo RJ",
+      "team2": "Santos FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-09-20",
+      "time": "20:30",
+      "team1": "Sport Recife PE",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-10-13",
+      "time": "18:00",
+      "team1": "Flamengo RJ",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-23",
+      "time": "21:30",
+      "team1": "Sport Recife PE",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-26",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-26",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-26",
+      "time": "21:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-27",
+      "time": "11:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-27",
+      "time": "16:00",
+      "team1": "Palmeiras",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-27",
+      "time": "18:15",
+      "team1": "Ceará CE",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-27",
+      "time": "18:15",
+      "team1": "Atlético Goianiense",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-27",
+      "time": "20:30",
+      "team1": "Santos FC",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-09-28",
+      "time": "20:00",
+      "team1": "Fluminense RJ",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-03",
+      "time": "17:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-03",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-03",
+      "time": "21:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Corinthians SP",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "11:00",
+      "team1": "Botafogo RJ",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "16:00",
+      "team1": "Coritiba PR",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "18:15",
+      "team1": "Bahia BA",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "18:15",
+      "team1": "Fortaleza CE",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "18:15",
+      "team1": "Goiás GO",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-10-04",
+      "time": "20:30",
+      "team1": "Atlético Mineiro",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          4,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "19:00",
+      "team1": "Corinthians SP",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "19:15",
+      "team1": "Flamengo RJ",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "19:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "19:15",
+      "team1": "Bahia BA",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "20:30",
+      "team1": "São Paulo FC",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "20:30",
+      "team1": "Goiás GO",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "21:30",
+      "team1": "Botafogo RJ",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-07",
+      "time": "21:30",
+      "team1": "Fortaleza CE",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-08",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Ceará CE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-10-08",
+      "time": "21:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-10",
+      "time": "17:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-10",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-10",
+      "time": "19:00",
+      "team1": "Coritiba PR",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-10",
+      "time": "21:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-11",
+      "time": "16:00",
+      "team1": "Fluminense RJ",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-11",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-11",
+      "time": "18:15",
+      "team1": "Sport Recife PE",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-11",
+      "time": "18:15",
+      "team1": "Atlético Goianiense",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-11",
+      "time": "20:30",
+      "team1": "Internacional",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-10-11",
+      "time": "20:30",
+      "team1": "Ceará CE",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-14",
+      "time": "18:00",
+      "team1": "Palmeiras",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-14",
+      "time": "19:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-14",
+      "time": "20:30",
+      "team1": "Santos FC",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-14",
+      "time": "21:30",
+      "team1": "Atlético Mineiro",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-14",
+      "time": "21:30",
+      "team1": "Sport Recife PE",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-14",
+      "time": "21:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-15",
+      "time": "20:00",
+      "team1": "Flamengo RJ",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-10-16",
+      "time": "20:00",
+      "team1": "Goiás GO",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-11-19",
+      "time": "19:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-11-25",
+      "time": "19:15",
+      "team1": "Ceará CE",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-17",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-17",
+      "time": "19:00",
+      "team1": "Coritiba PR",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-17",
+      "time": "19:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-17",
+      "time": "21:00",
+      "team1": "São Paulo FC",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-18",
+      "time": "16:00",
+      "team1": "Corinthians SP",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-18",
+      "time": "18:15",
+      "team1": "Internacional",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-18",
+      "time": "20:30",
+      "team1": "Red Bull Bragantino",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-18",
+      "time": "20:30",
+      "team1": "Fortaleza CE",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-19",
+      "time": "20:00",
+      "team1": "Botafogo RJ",
+      "team2": "Goiás GO",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-10-19",
+      "time": "20:00",
+      "team1": "Bahia BA",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-21",
+      "time": "21:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-24",
+      "time": "17:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-24",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-24",
+      "time": "21:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-25",
+      "time": "16:00",
+      "team1": "Fluminense RJ",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-25",
+      "time": "16:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-25",
+      "time": "18:15",
+      "team1": "Internacional",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-10-25",
+      "time": "18:15",
+      "team1": "Athletico Paranaense",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-11-11",
+      "time": "18:45",
+      "team1": "Bahia BA",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
       "date": "2020-12-09",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Botafogo RJ"
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 19",
+      "date": "2020-10-31",
+      "time": "17:00",
+      "team1": "Botafogo RJ",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-10-31",
+      "time": "19:00",
+      "team1": "Corinthians SP",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-10-31",
+      "time": "19:00",
+      "team1": "Coritiba PR",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-10-31",
+      "time": "21:00",
+      "team1": "Fortaleza CE",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-11-01",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-11-01",
+      "time": "16:00",
+      "team1": "Sport Recife PE",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-11-01",
+      "time": "18:15",
+      "team1": "Santos FC",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-11-01",
+      "time": "20:30",
+      "team1": "Goiás GO",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-11-02",
+      "time": "17:00",
+      "team1": "Palmeiras",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-11-02",
+      "time": "20:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-07",
+      "time": "18:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-07",
+      "time": "19:00",
+      "team1": "São Paulo FC",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-07",
+      "time": "21:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "18:15",
+      "team1": "Atlético Mineiro",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "18:15",
+      "team1": "Bahia BA",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "18:15",
+      "team1": "Red Bull Bragantino",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "20:30",
+      "team1": "Fluminense RJ",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-11-08",
+      "time": "20:30",
+      "team1": "Ceará CE",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "16:30",
+      "team1": "Sport Recife PE",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "16:30",
+      "team1": "Santos FC",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "17:00",
+      "team1": "Goiás GO",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "19:00",
+      "team1": "Corinthians SP",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "19:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "21:30",
+      "team1": "Palmeiras",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-14",
+      "time": "21:30",
+      "team1": "Flamengo RJ",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-16",
+      "time": "18:00",
+      "team1": "Coritiba PR",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-11-16",
+      "time": "20:00",
+      "team1": "Botafogo RJ",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-20",
+      "time": "20:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-21",
+      "time": "19:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-21",
+      "time": "19:00",
+      "team1": "Flamengo RJ",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-21",
+      "time": "21:00",
+      "team1": "Goiás GO",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-22",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-22",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-22",
+      "time": "18:15",
+      "team1": "Internacional",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-22",
+      "time": "18:15",
+      "team1": "Botafogo RJ",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-22",
+      "time": "20:30",
+      "team1": "Corinthians SP",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2020-11-23",
+      "time": "20:00",
+      "team1": "Sport Recife PE",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-25",
+      "time": "21:30",
+      "team1": "Atlético Mineiro",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-25",
+      "time": "21:30",
+      "team1": "Coritiba PR",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-26",
+      "time": "20:00",
+      "team1": "Fortaleza CE",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-28",
+      "time": "17:00",
+      "team1": "Santos FC",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-28",
+      "time": "17:00",
+      "team1": "Palmeiras",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-28",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-28",
+      "time": "21:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Internacional",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-30",
+      "time": "18:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-11-30",
+      "time": "20:00",
+      "team1": "Fluminense RJ",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-01-28",
+      "time": "20:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-02",
+      "time": "21:30",
+      "team1": "Fortaleza CE",
+      "team2": "Corinthians SP",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-05",
+      "time": "17:00",
+      "team1": "Botafogo RJ",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-05",
+      "time": "17:00",
+      "team1": "Santos FC",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-05",
+      "time": "19:00",
+      "team1": "Fluminense RJ",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-05",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-05",
+      "time": "21:00",
+      "team1": "Coritiba PR",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-06",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-06",
+      "time": "16:00",
+      "team1": "São Paulo FC",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-06",
+      "time": "18:15",
+      "team1": "Atlético Mineiro",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-12-07",
+      "time": "20:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
       "date": "2020-12-12",
-      "team1": "Atlético PR",
-      "team2": "Atlético MG"
+      "time": "17:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2020-12-12",
-      "team1": "RB Bragantino",
-      "team2": "Fortaleza EC"
+      "time": "17:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2020-12-12",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Botafogo RJ"
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2020-12-12",
-      "team1": "Palmeiras SP",
-      "team2": "EC Bahia"
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
+      "date": "2020-12-12",
+      "time": "21:00",
+      "team1": "Goiás GO",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-12-12",
+      "time": "21:00",
+      "team1": "Ceará CE",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
       "date": "2020-12-13",
-      "team1": "Ceára SC",
-      "team2": "Atlético GO"
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2020-12-13",
-      "team1": "Flamengo RJ",
-      "team2": "Santos SP"
+      "time": "18:15",
+      "team1": "Corinthians SP",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2020-12-13",
-      "team1": "Corinthians SP",
-      "team2": "São Paulo FC"
+      "time": "18:15",
+      "team1": "Sport Recife PE",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
+      "round": "Matchday 25",
       "date": "2020-12-13",
-      "team1": "Sport Recife",
-      "team2": "Coritiba PR"
+      "time": "20:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
-      "date": "2020-12-14",
-      "team1": "Goiás EC",
-      "team2": "Grêmio RS"
+      "round": "Matchday 26",
+      "date": "2020-12-16",
+      "time": "21:30",
+      "team1": "Atlético Goianiense",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 25",
-      "date": "2020-12-15",
-      "team1": "CR Vasco da Gama",
-      "team2": "Fluminense RJ"
-    },
-    {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
-      "team1": "Atlético GO",
-      "team2": "Fluminense RJ"
-    },
-    {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
-      "team1": "Coritiba PR",
-      "team2": "Botafogo RJ"
-    },
-    {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Palmeiras SP"
-    },
-    {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
-      "team1": "CR Vasco da Gama",
-      "team2": "Santos SP"
-    },
-    {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
+      "round": "Matchday 26",
+      "date": "2020-12-16",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Atlético MG"
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
-      "team1": "Sport Recife",
-      "team2": "Grêmio RS"
+      "round": "Matchday 26",
+      "date": "2020-12-19",
+      "time": "19:00",
+      "team1": "Sport Recife PE",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
+      "date": "2020-12-19",
+      "time": "21:00",
+      "team1": "Coritiba PR",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-12-19",
+      "time": "21:00",
+      "team1": "Internacional",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
       "date": "2020-12-20",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-12-20",
+      "time": "16:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-12-20",
+      "time": "18:15",
       "team1": "Flamengo RJ",
-      "team2": "EC Bahia"
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 26",
+      "round": "Matchday 26",
       "date": "2020-12-20",
-      "team1": "RB Bragantino",
-      "team2": "Atlético PR"
+      "time": "20:30",
+      "team1": "Fortaleza CE",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
-      "team1": "Fortaleza EC",
-      "team2": "Ceára SC"
-    },
-    {
-      "round": "Rodada 26",
-      "date": "2020-12-20",
+      "round": "Matchday 26",
+      "date": "2020-12-21",
+      "time": "20:00",
       "team1": "Corinthians SP",
-      "team2": "Goiás EC"
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
-      "date": "2020-12-27",
-      "team1": "Fortaleza EC",
-      "team2": "Flamengo RJ"
+      "round": "Matchday 27",
+      "date": "2020-12-26",
+      "time": "17:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
-      "date": "2020-12-27",
-      "team1": "Atlético PR",
-      "team2": "CR Vasco da Gama"
+      "round": "Matchday 27",
+      "date": "2020-12-26",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
-      "date": "2020-12-27",
+      "round": "Matchday 27",
+      "date": "2020-12-26",
+      "time": "19:00",
+      "team1": "Goiás GO",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-12-26",
+      "time": "21:00",
       "team1": "Fluminense RJ",
-      "team2": "São Paulo FC"
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2020-12-27",
-      "team1": "Palmeiras SP",
-      "team2": "RB Bragantino"
-    },
-    {
-      "round": "Rodada 27",
-      "date": "2020-12-27",
+      "time": "16:00",
       "team1": "Botafogo RJ",
-      "team2": "Corinthians SP"
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2020-12-27",
-      "team1": "EC Bahia",
-      "team2": "Internacional Porto Alegre"
+      "time": "16:00",
+      "team1": "Bahia BA",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2020-12-27",
-      "team1": "Goiás EC",
-      "team2": "Sport Recife"
+      "time": "18:15",
+      "team1": "Athletico Paranaense",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2020-12-27",
-      "team1": "Atlético MG",
-      "team2": "Coritiba PR"
+      "time": "18:15",
+      "team1": "Palmeiras",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2020-12-27",
-      "team1": "Santos SP",
-      "team2": "Ceára SC"
+      "time": "18:15",
+      "team1": "Santos FC",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 27",
+      "round": "Matchday 27",
       "date": "2020-12-27",
-      "team1": "Grêmio RS",
-      "team2": "Atlético GO"
+      "time": "20:30",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Flamengo RJ",
-      "team2": "Fluminense RJ"
+      "round": "Matchday 28",
+      "date": "2021-01-06",
+      "time": "19:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Atlético GO",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "RB Bragantino",
-      "team2": "São Paulo FC"
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Atlético MG",
-      "team2": "Santos SP"
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Palmeiras SP",
-      "team2": "Corinthians SP"
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Ceára SC",
-      "team2": "Internacional Porto Alegre"
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Grêmio RS",
-      "team2": "EC Bahia"
-    },
-    {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
+      "round": "Matchday 28",
+      "date": "2021-01-06",
+      "time": "19:15",
       "team1": "Botafogo RJ",
-      "team2": "Atlético PR"
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
-      "team1": "Sport Recife",
-      "team2": "Fortaleza EC"
+      "round": "Matchday 28",
+      "date": "2021-01-06",
+      "time": "20:30",
+      "team1": "Sport Recife PE",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 28",
-      "date": "2020-01-03",
+      "round": "Matchday 28",
+      "date": "2021-01-06",
+      "time": "20:30",
       "team1": "Coritiba PR",
-      "team2": "Goiás EC"
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "Corinthians SP",
-      "team2": "Fluminense RJ"
+      "round": "Matchday 28",
+      "date": "2021-01-06",
+      "time": "21:30",
+      "team1": "Flamengo RJ",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "CR Vasco da Gama",
-      "team2": "Botafogo RJ"
+      "round": "Matchday 28",
+      "date": "2021-01-06",
+      "time": "21:30",
+      "team1": "Red Bull Bragantino",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          4,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "Sport Recife",
-      "team2": "Palmeiras SP"
+      "round": "Matchday 28",
+      "date": "2021-01-07",
+      "time": "19:00",
+      "team1": "Ceará CE",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
+      "round": "Matchday 28",
+      "date": "2021-01-07",
+      "time": "21:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-01-18",
+      "time": "19:00",
+      "team1": "Palmeiras",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-01-26",
+      "time": "20:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-01-09",
+      "time": "19:00",
+      "team1": "Sport Recife PE",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-01-09",
+      "time": "19:00",
+      "team1": "Coritiba PR",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-01-09",
+      "time": "21:00",
+      "team1": "Fortaleza CE",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-01-10",
+      "time": "16:00",
       "team1": "São Paulo FC",
-      "team2": "Santos SP"
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "RB Bragantino",
-      "team2": "Atlético MG"
-    },
-    {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "Fortaleza EC",
-      "team2": "Grêmio RS"
-    },
-    {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "Atlético GO",
-      "team2": "EC Bahia"
-    },
-    {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "Coritiba PR",
-      "team2": "Atlético PR"
-    },
-    {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
+      "round": "Matchday 29",
+      "date": "2021-01-10",
+      "time": "16:00",
       "team1": "Flamengo RJ",
-      "team2": "Ceára SC"
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 29",
-      "date": "2020-01-10",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Goiás EC"
+      "round": "Matchday 29",
+      "date": "2021-01-10",
+      "time": "18:15",
+      "team1": "Atlético Goianiense",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Goiás EC",
-      "team2": "Flamengo RJ"
+      "round": "Matchday 29",
+      "date": "2021-01-10",
+      "time": "18:15",
+      "team1": "Internacional",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Santos SP",
-      "team2": "Botafogo RJ"
+      "round": "Matchday 29",
+      "date": "2021-01-10",
+      "time": "20:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Atlético PR",
-      "team2": "São Paulo FC"
+      "round": "Matchday 29",
+      "date": "2021-01-11",
+      "time": "20:00",
+      "team1": "Red Bull Bragantino",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Ceára SC",
-      "team2": "RB Bragantino"
+      "round": "Matchday 29",
+      "date": "2021-01-13",
+      "time": "21:30",
+      "team1": "Corinthians SP",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "EC Bahia",
-      "team2": "Corinthians SP"
+      "round": "Matchday 30",
+      "date": "2021-01-15",
+      "time": "21:30",
+      "team1": "Palmeiras",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Palmeiras SP",
-      "team2": "Grêmio RS"
-    },
-    {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
+      "round": "Matchday 30",
+      "date": "2021-01-16",
+      "time": "19:00",
       "team1": "Fluminense RJ",
-      "team2": "Sport Recife"
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "CR Vasco da Gama",
-      "team2": "Coritiba PR"
+      "round": "Matchday 30",
+      "date": "2021-01-16",
+      "time": "21:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Fortaleza EC"
+      "round": "Matchday 30",
+      "date": "2021-01-17",
+      "time": "16:00",
+      "team1": "Santos FC",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 30",
-      "date": "2020-01-17",
-      "team1": "Atlético MG",
-      "team2": "Atlético GO"
+      "round": "Matchday 30",
+      "date": "2021-01-17",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Atlético PR",
-      "team2": "Flamengo RJ"
+      "round": "Matchday 30",
+      "date": "2021-01-17",
+      "time": "18:15",
+      "team1": "Atlético Mineiro",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Fluminense RJ",
-      "team2": "Botafogo RJ"
+      "round": "Matchday 30",
+      "date": "2021-01-17",
+      "time": "20:30",
+      "team1": "Ceará CE",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Ceára SC",
-      "team2": "Palmeiras SP"
+      "round": "Matchday 30",
+      "date": "2021-01-17",
+      "time": "20:30",
+      "team1": "Internacional",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Corinthians SP",
-      "team2": "RB Bragantino"
+      "round": "Matchday 30",
+      "date": "2021-01-18",
+      "time": "20:00",
+      "team1": "Goiás GO",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "CR Vasco da Gama",
-      "team2": "Atlético MG"
+      "round": "Matchday 30",
+      "date": "2021-01-28",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Grêmio RS"
-    },
-    {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Sport Recife",
-      "team2": "EC Bahia"
-    },
-    {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "São Paulo FC",
-      "team2": "Coritiba PR"
-    },
-    {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Atlético GO",
-      "team2": "Fortaleza EC"
-    },
-    {
-      "round": "Rodada 32",
-      "date": "2020-01-24",
-      "team1": "Santos SP",
-      "team2": "Goiás EC"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "Coritiba PR",
-      "team2": "Fluminense RJ"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "RB Bragantino",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "Flamengo RJ",
-      "team2": "Palmeiras SP"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "Fortaleza EC",
-      "team2": "Santos SP"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "Grêmio RS",
-      "team2": "Atlético MG"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "São Paulo FC",
-      "team2": "Internacional Porto Alegre"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "Corinthians SP",
-      "team2": "Sport Recife"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "EC Bahia",
-      "team2": "Atlético PR"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
-      "team1": "Goiás EC",
-      "team2": "Ceára SC"
-    },
-    {
-      "round": "Rodada 31",
-      "date": "2020-01-28",
+      "round": "Matchday 31",
+      "date": "2021-01-20",
+      "time": "17:00",
       "team1": "Botafogo RJ",
-      "team2": "Atlético GO"
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Sport Recife",
-      "team2": "Flamengo RJ"
+      "round": "Matchday 31",
+      "date": "2021-01-20",
+      "time": "18:00",
+      "team1": "Bahia BA",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Palmeiras SP",
-      "team2": "Botafogo RJ"
+      "round": "Matchday 31",
+      "date": "2021-01-20",
+      "time": "19:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Atlético GO",
-      "team2": "São Paulo FC"
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Internacional Porto Alegre",
-      "team2": "RB Bragantino"
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Santos SP",
-      "team2": "Corinthians SP"
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
+      "round": "Matchday 31",
+      "date": "2021-01-20",
+      "time": "20:30",
       "team1": "Coritiba PR",
-      "team2": "Grêmio RS"
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "CR Vasco da Gama",
-      "team2": "EC Bahia"
+      "round": "Matchday 31",
+      "date": "2021-01-20",
+      "time": "21:30",
+      "team1": "Red Bull Bragantino",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Ceára SC",
-      "team2": "Atlético PR"
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Atlético MG",
-      "team2": "Fortaleza EC"
-    },
-    {
-      "round": "Rodada 33",
-      "date": "2020-01-31",
-      "team1": "Fluminense RJ",
-      "team2": "Goiás EC"
-    },
-    {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "EC Bahia",
-      "team2": "Fluminense RJ"
-    },
-    {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "Flamengo RJ",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
+      "round": "Matchday 31",
+      "date": "2021-01-20",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Palmeiras SP"
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "Grêmio RS",
-      "team2": "Santos SP"
+      "round": "Matchday 31",
+      "date": "2021-01-21",
+      "time": "19:00",
+      "team1": "Flamengo RJ",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "Goiás EC",
-      "team2": "Atlético MG"
+      "round": "Matchday 31",
+      "date": "2021-01-21",
+      "time": "19:00",
+      "team1": "Fortaleza CE",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "Atlético PR",
-      "team2": "Internacional Porto Alegre"
+      "round": "Matchday 31",
+      "date": "2021-01-21",
+      "time": "19:00",
+      "team1": "Goiás GO",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "Botafogo RJ",
-      "team2": "Sport Recife"
-    },
-    {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "Fortaleza EC",
-      "team2": "Coritiba PR"
-    },
-    {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
+      "round": "Matchday 31",
+      "date": "2021-01-21",
+      "time": "21:00",
       "team1": "Corinthians SP",
-      "team2": "Ceára SC"
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 34",
-      "date": "2020-02-07",
-      "team1": "RB Bragantino",
-      "team2": "Atlético GO"
+      "round": "Matchday 32",
+      "date": "2021-01-23",
+      "time": "19:00",
+      "team1": "São Paulo FC",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
-      "team1": "RB Bragantino",
-      "team2": "Flamengo RJ"
+      "round": "Matchday 32",
+      "date": "2021-01-23",
+      "time": "21:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
-      "team1": "Fortaleza EC",
-      "team2": "CR Vasco da Gama"
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "16:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "16:00",
+      "team1": "Internacional",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "18:15",
+      "team1": "Sport Recife PE",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "18:15",
+      "team1": "Atlético Goianiense",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "18:15",
+      "team1": "Santos FC",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-01-24",
+      "time": "20:30",
+      "team1": "Fluminense RJ",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-01-25",
+      "time": "20:00",
+      "team1": "Corinthians SP",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "Atlético Goianiense",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "16:00",
       "team1": "Coritiba PR",
-      "team2": "Palmeiras SP"
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
-      "team1": "Atlético GO",
-      "team2": "Santos SP"
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Bahia BA",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "Ceará CE",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "17:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "18:15",
+      "team1": "Internacional",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-01-31",
+      "time": "20:30",
       "team1": "Fluminense RJ",
-      "team2": "Atlético MG"
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
-      "team1": "Botafogo RJ",
-      "team2": "Grêmio RS"
+      "round": "Matchday 33",
+      "date": "2021-02-01",
+      "time": "20:00",
+      "team1": "Sport Recife PE",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Sport Recife"
+      "round": "Matchday 33",
+      "date": "2021-02-02",
+      "time": "16:00",
+      "team1": "Palmeiras",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
+      "round": "Matchday 33",
+      "date": "2021-02-17",
+      "time": "19:00",
+      "team1": "Santos FC",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-03",
+      "time": "16:00",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-03",
+      "time": "19:15",
+      "team1": "Red Bull Bragantino",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-03",
+      "time": "21:30",
+      "team1": "Bahia BA",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-03",
+      "time": "21:30",
+      "team1": "Goiás GO",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-03",
+      "time": "21:30",
       "team1": "Corinthians SP",
-      "team2": "Atlético PR"
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
+      "round": "Matchday 34",
+      "date": "2021-02-04",
+      "time": "18:30",
+      "team1": "Fortaleza CE",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-04",
+      "time": "21:00",
+      "team1": "Flamengo RJ",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-04",
+      "time": "21:00",
+      "team1": "Athletico Paranaense",
+      "team2": "Internacional",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-05",
+      "time": "20:00",
+      "team1": "Botafogo RJ",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-02-19",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Ceára SC"
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 35",
-      "date": "2020-02-13",
-      "team1": "EC Bahia",
-      "team2": "Goiás EC"
+      "round": "Matchday 35",
+      "date": "2021-02-06",
+      "time": "19:00",
+      "team1": "Bahia BA",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Ceára SC",
-      "team2": "Fluminense RJ"
+      "round": "Matchday 35",
+      "date": "2021-02-06",
+      "time": "21:00",
+      "team1": "Atlético Goianiense",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Goiás EC",
-      "team2": "Botafogo RJ"
+      "round": "Matchday 35",
+      "date": "2021-02-07",
+      "time": "20:30",
+      "team1": "Red Bull Bragantino",
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Grêmio RS",
-      "team2": "São Paulo FC"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Sport Recife",
-      "team2": "RB Bragantino"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Flamengo RJ",
-      "team2": "Corinthians SP"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "CR Vasco da Gama",
-      "team2": "Internacional Porto Alegre"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Atlético MG",
-      "team2": "EC Bahia"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Santos SP",
-      "team2": "Coritiba PR"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Palmeiras SP",
-      "team2": "Fortaleza EC"
-    },
-    {
-      "round": "Rodada 36",
-      "date": "2020-02-17",
-      "team1": "Atlético PR",
-      "team2": "Atlético GO"
-    },
-    {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Santos SP",
-      "team2": "Fluminense RJ"
-    },
-    {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Corinthians SP",
-      "team2": "CR Vasco da Gama"
-    },
-    {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
+      "round": "Matchday 35",
+      "date": "2021-02-08",
+      "time": "20:00",
       "team1": "Botafogo RJ",
-      "team2": "São Paulo FC"
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          5
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Goiás EC",
-      "team2": "RB Bragantino"
+      "round": "Matchday 35",
+      "date": "2021-02-10",
+      "time": "19:00",
+      "team1": "Internacional",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Sport Recife",
-      "team2": "Atlético MG"
+      "round": "Matchday 35",
+      "date": "2021-02-10",
+      "time": "19:15",
+      "team1": "Fortaleza CE",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Flamengo RJ",
-      "team2": "Internacional Porto Alegre"
+      "round": "Matchday 35",
+      "date": "2021-02-10",
+      "time": "21:00",
+      "team1": "São Paulo FC",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Fortaleza EC",
-      "team2": "EC Bahia"
+      "round": "Matchday 35",
+      "date": "2021-02-10",
+      "time": "21:30",
+      "team1": "Fluminense RJ",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Grêmio RS",
-      "team2": "Atlético PR"
+      "round": "Matchday 35",
+      "date": "2021-02-10",
+      "time": "21:30",
+      "team1": "Corinthians SP",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
+      "round": "Matchday 35",
+      "date": "2021-02-17",
+      "time": "19:30",
       "team1": "Coritiba PR",
-      "team2": "Ceára SC"
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 37",
-      "date": "2020-02-21",
-      "team1": "Palmeiras SP",
-      "team2": "Atlético GO"
+      "round": "Matchday 36",
+      "date": "2021-02-13",
+      "time": "17:00",
+      "team1": "Goiás GO",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
+      "round": "Matchday 36",
+      "date": "2021-02-13",
+      "time": "19:00",
+      "team1": "Atlético Mineiro",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-13",
+      "time": "19:00",
+      "team1": "Santos FC",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Corinthians SP",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-14",
+      "time": "18:15",
+      "team1": "Palmeiras",
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-14",
+      "time": "18:15",
+      "team1": "Athletico Paranaense",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-14",
+      "time": "20:30",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-15",
+      "time": "18:00",
+      "team1": "Ceará CE",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-02-15",
+      "time": "20:00",
+      "team1": "Sport Recife PE",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-20",
+      "time": "18:30",
+      "team1": "Coritiba PR",
+      "team2": "Ceará CE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-20",
+      "time": "21:00",
+      "team1": "Fortaleza CE",
+      "team2": "Bahia BA",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "Corinthians SP",
+      "team2": "Vasco da Gama RJ",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "Sport Recife PE",
+      "team2": "Atlético Mineiro",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "Flamengo RJ",
+      "team2": "Internacional",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-21",
+      "time": "18:15",
+      "team1": "Santos FC",
+      "team2": "Fluminense RJ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-21",
+      "time": "18:15",
+      "team1": "Grêmio Porto Alegre",
+      "team2": "Athletico Paranaense",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-21",
+      "time": "20:30",
+      "team1": "Goiás GO",
+      "team2": "Red Bull Bragantino",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-22",
+      "time": "18:00",
+      "team1": "Palmeiras",
+      "team2": "Atlético Goianiense",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-02-22",
+      "time": "20:00",
+      "team1": "Botafogo RJ",
+      "team2": "São Paulo FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
       "team1": "São Paulo FC",
-      "team2": "Flamengo RJ"
+      "team2": "Flamengo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "Ceára SC",
-      "team2": "Botafogo RJ"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Ceará CE",
+      "team2": "Botafogo RJ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "Atlético MG",
-      "team2": "Palmeiras SP"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Atlético Mineiro",
+      "team2": "Palmeiras",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "EC Bahia",
-      "team2": "Santos SP"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Bahia BA",
+      "team2": "Santos FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "Internacional Porto Alegre",
-      "team2": "Corinthians SP"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Internacional",
+      "team2": "Corinthians SP",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "RB Bragantino",
-      "team2": "Grêmio RS"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Red Bull Bragantino",
+      "team2": "Grêmio Porto Alegre",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "Atlético PR",
-      "team2": "Sport Recife"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Athletico Paranaense",
+      "team2": "Sport Recife PE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "Atlético GO",
-      "team2": "Coritiba PR"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Atlético Goianiense",
+      "team2": "Coritiba PR",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
       "team1": "Fluminense RJ",
-      "team2": "Fortaleza EC"
+      "team2": "Fortaleza CE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Rodada 38",
-      "date": "2020-02-24",
-      "team1": "CR Vasco da Gama",
-      "team2": "Goiás EC"
+      "round": "Matchday 38",
+      "date": "2021-02-25",
+      "time": "21:30",
+      "team1": "Vasco da Gama RJ",
+      "team2": "Goiás GO",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     }
   ]
 }

@@ -1,24 +1,17 @@
 {
-  "name": "2. Liga 2020/21",
+  "name": "Österr. 2. Liga 2020/21",
   "matches": [
     {
-      "round": "1. Runde",
+      "round": "Matchday 1",
       "date": "2020-09-11",
-      "team1": "Austria Klagenfurt",
-      "team2": "FC Blau-Weiß Linz",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "1. Runde",
-      "date": "2020-09-11",
+      "time": "18:30",
       "team1": "Austria Lustenau",
       "team2": "SV Horn",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -26,11 +19,16 @@
       }
     },
     {
-      "round": "1. Runde",
+      "round": "Matchday 1",
       "date": "2020-09-11",
+      "time": "18:30",
       "team1": "Floridsdorfer AC",
       "team2": "SV Lafnitz",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -38,11 +36,16 @@
       }
     },
     {
-      "round": "1. Runde",
+      "round": "Matchday 1",
       "date": "2020-09-11",
-      "team1": "Kapfenberger SV",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
       "team2": "FC Wacker Innsbruck",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           3
@@ -50,23 +53,33 @@
       }
     },
     {
-      "round": "1. Runde",
-      "date": "2020-09-12",
-      "team1": "FC Juniors OÖ",
-      "team2": "Young Violets Austria Wien",
+      "round": "Matchday 1",
+      "date": "2020-09-11",
+      "time": "18:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "FC Blau Weiß Linz",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
-          1,
+          3,
           1
         ]
       }
     },
     {
-      "round": "1. Runde",
+      "round": "Matchday 1",
       "date": "2020-09-12",
+      "time": "20:00",
       "team1": "Grazer AK",
-      "team2": "FC Dornbirn 1913",
+      "team2": "FC Dornbirn",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -74,23 +87,33 @@
       }
     },
     {
-      "round": "1. Runde",
-      "date": "2020-09-13",
-      "team1": "SKU Amstetten",
-      "team2": "SK Vorwärts Steyr",
+      "round": "Matchday 1",
+      "date": "2020-09-12",
+      "time": "14:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "Austria Wien II",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          2,
-          2
+          1,
+          1
         ]
       }
     },
     {
-      "round": "1. Runde",
+      "round": "Matchday 1",
       "date": "2020-09-13",
+      "time": "12:30",
       "team1": "FC Liefering",
-      "team2": "SK Rapid Wien II",
+      "team2": "Rapid Wien II",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -98,11 +121,33 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 1",
+      "date": "2020-09-13",
+      "time": "10:30",
+      "team1": "SKU Amstetten",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2020-09-18",
-      "team1": "Young Violets Austria Wien",
+      "time": "18:30",
+      "team1": "Austria Wien II",
       "team2": "Grazer AK",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           4
@@ -110,8 +155,9 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-18",
+      "time": "18:30",
       "team1": "FC Wacker Innsbruck",
       "team2": "Floridsdorfer AC",
       "score": {
@@ -122,11 +168,16 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-18",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "Kapfenberger SV",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "Kapfenberger SV 1919",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -134,11 +185,16 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-18",
-      "team1": "FC Dornbirn 1913",
-      "team2": "Austria Klagenfurt",
+      "time": "18:30",
+      "team1": "FC Dornbirn",
+      "team2": "SK Austria Klagenfurt",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -146,11 +202,16 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-18",
-      "team1": "SK Rapid Wien II",
+      "time": "18:30",
+      "team1": "Rapid Wien II",
       "team2": "FC Juniors OÖ",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -158,11 +219,16 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-18",
+      "time": "20:25",
       "team1": "SV Lafnitz",
       "team2": "SKU Amstetten",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           2
@@ -170,11 +236,16 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-19",
+      "time": "20:25",
       "team1": "SV Horn",
       "team2": "FC Liefering",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           4
@@ -182,11 +253,16 @@
       }
     },
     {
-      "round": "2. Runde",
+      "round": "Matchday 2",
       "date": "2020-09-20",
-      "team1": "FC Blau-Weiß Linz",
+      "time": "10:30",
+      "team1": "FC Blau Weiß Linz",
       "team2": "Austria Lustenau",
       "score": {
+        "ht": [
+          4,
+          1
+        ],
         "ft": [
           5,
           2
@@ -194,11 +270,16 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
       "date": "2020-09-25",
-      "team1": "Austria Klagenfurt",
-      "team2": "Young Violets Austria Wien",
+      "time": "18:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "Austria Wien II",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           2
@@ -206,11 +287,16 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
       "date": "2020-09-25",
+      "time": "18:30",
       "team1": "FC Liefering",
       "team2": "FC Wacker Innsbruck",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -218,11 +304,16 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
       "date": "2020-09-25",
+      "time": "18:30",
       "team1": "SV Horn",
       "team2": "SV Lafnitz",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -230,11 +321,16 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
       "date": "2020-09-25",
-      "team1": "Kapfenberger SV",
-      "team2": "FC Blau-Weiß Linz",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "FC Blau Weiß Linz",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           4
@@ -242,11 +338,16 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
       "date": "2020-09-25",
+      "time": "20:25",
       "team1": "Grazer AK",
-      "team2": "SK Vorwärts Steyr",
+      "team2": "Vorwärts Steyr",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -254,23 +355,16 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
       "date": "2020-09-26",
-      "team1": "Austria Lustenau",
-      "team2": "FC Juniors OÖ",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "3. Runde",
-      "date": "2020-09-26",
+      "time": "20:00",
       "team1": "SKU Amstetten",
-      "team2": "FC Dornbirn 1913",
+      "team2": "FC Dornbirn",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           3
@@ -278,11 +372,33 @@
       }
     },
     {
-      "round": "3. Runde",
+      "round": "Matchday 3",
+      "date": "2020-09-26",
+      "time": "14:00",
+      "team1": "Austria Lustenau",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
       "date": "2020-09-27",
-      "team1": "SK Rapid Wien II",
+      "time": "10:30",
+      "team1": "Rapid Wien II",
       "team2": "Floridsdorfer AC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -290,11 +406,16 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-29",
-      "team1": "Young Violets Austria Wien",
+      "time": "18:30",
+      "team1": "Austria Wien II",
       "team2": "SV Horn",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -302,11 +423,16 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-29",
+      "time": "18:30",
       "team1": "SV Lafnitz",
       "team2": "Grazer AK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -314,11 +440,16 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-29",
+      "time": "18:30",
       "team1": "FC Juniors OÖ",
       "team2": "FC Liefering",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -326,11 +457,16 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-29",
-      "team1": "FC Blau-Weiß Linz",
+      "time": "18:30",
+      "team1": "FC Blau Weiß Linz",
       "team2": "SKU Amstetten",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -338,8 +474,9 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-29",
+      "time": "20:25",
       "team1": "FC Wacker Innsbruck",
       "team2": "Austria Lustenau",
       "score": {
@@ -350,23 +487,16 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-30",
-      "team1": "FC Dornbirn 1913",
-      "team2": "SK Rapid Wien II",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "4. Runde",
-      "date": "2020-09-30",
+      "time": "18:30",
       "team1": "Floridsdorfer AC",
-      "team2": "Kapfenberger SV",
+      "team2": "Kapfenberger SV 1919",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           0
@@ -374,11 +504,16 @@
       }
     },
     {
-      "round": "4. Runde",
+      "round": "Matchday 4",
       "date": "2020-09-30",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "Austria Klagenfurt",
+      "time": "20:25",
+      "team1": "Vorwärts Steyr",
+      "team2": "SK Austria Klagenfurt",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           2
@@ -386,11 +521,33 @@
       }
     },
     {
-      "round": "5. Runde",
+      "round": "Matchday 4",
+      "date": "2020-09-30",
+      "time": "18:30",
+      "team1": "FC Dornbirn",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2020-10-02",
+      "time": "18:30",
       "team1": "FC Liefering",
       "team2": "Grazer AK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -398,11 +555,16 @@
       }
     },
     {
-      "round": "5. Runde",
+      "round": "Matchday 5",
       "date": "2020-10-02",
+      "time": "18:30",
       "team1": "SV Horn",
       "team2": "FC Juniors OÖ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -410,11 +572,16 @@
       }
     },
     {
-      "round": "5. Runde",
+      "round": "Matchday 5",
       "date": "2020-10-02",
+      "time": "20:25",
       "team1": "SKU Amstetten",
       "team2": "FC Wacker Innsbruck",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -422,11 +589,63 @@
       }
     },
     {
-      "round": "5. Runde",
+      "round": "Matchday 5",
       "date": "2020-10-03",
-      "team1": "SK Rapid Wien II",
+      "time": "14:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-10-03",
+      "time": "14:30",
+      "team1": "Austria Lustenau",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-10-03",
+      "time": "14:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Austria Wien II",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-10-03",
+      "time": "12:30",
+      "team1": "Rapid Wien II",
       "team2": "SV Lafnitz",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           3
@@ -434,47 +653,16 @@
       }
     },
     {
-      "round": "5. Runde",
-      "date": "2020-10-03",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "FC Dornbirn 1913",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "5. Runde",
-      "date": "2020-10-03",
-      "team1": "Austria Lustenau",
-      "team2": "SK Vorwärts Steyr",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "5. Runde",
-      "date": "2020-10-03",
-      "team1": "Kapfenberger SV",
-      "team2": "Young Violets Austria Wien",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "5. Runde",
+      "round": "Matchday 5",
       "date": "2020-10-04",
-      "team1": "Austria Klagenfurt",
+      "time": "10:30",
+      "team1": "SK Austria Klagenfurt",
       "team2": "Floridsdorfer AC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           5,
           0
@@ -482,11 +670,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
-      "team1": "Young Violets Austria Wien",
+      "time": "18:30",
+      "team1": "Austria Wien II",
       "team2": "Austria Lustenau",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -494,11 +687,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
+      "time": "18:30",
       "team1": "FC Wacker Innsbruck",
-      "team2": "FC Blau-Weiß Linz",
+      "team2": "FC Blau Weiß Linz",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -506,11 +704,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "SK Rapid Wien II",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "Rapid Wien II",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -518,11 +721,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
+      "time": "18:30",
       "team1": "SV Lafnitz",
-      "team2": "Austria Klagenfurt",
+      "team2": "SK Austria Klagenfurt",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -530,11 +738,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
+      "time": "18:30",
       "team1": "FC Juniors OÖ",
-      "team2": "Kapfenberger SV",
+      "team2": "Kapfenberger SV 1919",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           5
@@ -542,9 +755,10 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
-      "team1": "FC Dornbirn 1913",
+      "time": "18:30",
+      "team1": "FC Dornbirn",
       "team2": "SV Horn",
       "score": {
         "ft": [
@@ -554,11 +768,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
+      "time": "18:30",
       "team1": "Grazer AK",
       "team2": "SKU Amstetten",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -566,11 +785,16 @@
       }
     },
     {
-      "round": "6. Runde",
+      "round": "Matchday 6",
       "date": "2020-10-23",
+      "time": "20:25",
       "team1": "Floridsdorfer AC",
       "team2": "FC Liefering",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -578,23 +802,16 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
-      "team1": "Floridsdorfer AC",
-      "team2": "Young Violets Austria Wien",
+      "time": "10:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "SK Austria Klagenfurt",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "7. Runde",
-      "date": "2020-10-26",
-      "team1": "Kapfenberger SV",
-      "team2": "Austria Klagenfurt",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -602,11 +819,16 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
-      "team1": "SK Rapid Wien II",
+      "time": "10:30",
+      "team1": "Rapid Wien II",
       "team2": "Austria Lustenau",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -614,11 +836,16 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
+      "time": "14:30",
       "team1": "FC Liefering",
       "team2": "SV Lafnitz",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -626,11 +853,16 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
-      "team1": "FC Dornbirn 1913",
+      "time": "14:30",
+      "team1": "FC Dornbirn",
       "team2": "FC Wacker Innsbruck",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -638,11 +870,16 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
+      "time": "17:00",
       "team1": "Grazer AK",
-      "team2": "FC Blau-Weiß Linz",
+      "team2": "FC Blau Weiß Linz",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -650,11 +887,16 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
+      "time": "18:30",
       "team1": "SKU Amstetten",
       "team2": "FC Juniors OÖ",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           3
@@ -662,10 +904,11 @@
       }
     },
     {
-      "round": "7. Runde",
+      "round": "Matchday 7",
       "date": "2020-10-26",
+      "time": "18:30",
       "team1": "SV Horn",
-      "team2": "SK Vorwärts Steyr",
+      "team2": "Vorwärts Steyr",
       "score": {
         "ft": [
           0,
@@ -674,11 +917,33 @@
       }
     },
     {
-      "round": "8. Runde",
+      "round": "Matchday 7",
+      "date": "2020-10-26",
+      "time": "10:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
       "date": "2020-10-30",
-      "team1": "Young Violets Austria Wien",
+      "time": "18:30",
+      "team1": "Austria Wien II",
       "team2": "FC Liefering",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -686,11 +951,16 @@
       }
     },
     {
-      "round": "8. Runde",
+      "round": "Matchday 8",
       "date": "2020-10-30",
+      "time": "18:30",
       "team1": "FC Wacker Innsbruck",
       "team2": "SV Horn",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -698,11 +968,16 @@
       }
     },
     {
-      "round": "8. Runde",
+      "round": "Matchday 8",
       "date": "2020-10-30",
-      "team1": "SK Vorwärts Steyr",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
       "team2": "Floridsdorfer AC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           3
@@ -710,11 +985,16 @@
       }
     },
     {
-      "round": "8. Runde",
+      "round": "Matchday 8",
       "date": "2020-10-30",
+      "time": "18:30",
       "team1": "SV Lafnitz",
-      "team2": "Kapfenberger SV",
+      "team2": "Kapfenberger SV 1919",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -722,11 +1002,16 @@
       }
     },
     {
-      "round": "8. Runde",
+      "round": "Matchday 8",
       "date": "2020-10-30",
+      "time": "18:30",
       "team1": "FC Juniors OÖ",
       "team2": "Grazer AK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -734,23 +1019,16 @@
       }
     },
     {
-      "round": "8. Runde",
+      "round": "Matchday 8",
       "date": "2020-10-31",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "SK Rapid Wien II",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "8. Runde",
-      "date": "2020-10-31",
-      "team1": "Austria Klagenfurt",
+      "time": "14:30",
+      "team1": "SK Austria Klagenfurt",
       "team2": "SKU Amstetten",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -758,11 +1036,33 @@
       }
     },
     {
-      "round": "8. Runde",
-      "date": "2020-11-01",
-      "team1": "Austria Lustenau",
-      "team2": "FC Dornbirn 1913",
+      "round": "Matchday 8",
+      "date": "2020-10-31",
+      "time": "12:00",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "Rapid Wien II",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-11-01",
+      "time": "10:30",
+      "team1": "Austria Lustenau",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -770,11 +1070,16 @@
       }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-06",
+      "time": "18:30",
       "team1": "FC Liefering",
       "team2": "SKU Amstetten",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -782,11 +1087,16 @@
       }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-06",
+      "time": "18:30",
       "team1": "SV Horn",
-      "team2": "SK Rapid Wien II",
+      "team2": "Rapid Wien II",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           2
@@ -794,11 +1104,16 @@
       }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-06",
+      "time": "18:30",
       "team1": "Floridsdorfer AC",
       "team2": "FC Juniors OÖ",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -806,11 +1121,16 @@
       }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-06",
+      "time": "20:25",
       "team1": "Grazer AK",
-      "team2": "Austria Klagenfurt",
+      "team2": "SK Austria Klagenfurt",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -818,11 +1138,16 @@
       }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-07",
-      "team1": "FC Dornbirn 1913",
+      "time": "20:25",
+      "team1": "FC Dornbirn",
       "team2": "SV Lafnitz",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           3
@@ -830,23 +1155,16 @@
       }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-08",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "FC Blau-Weiß Linz",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "9. Runde",
-      "date": "2020-11-08",
+      "time": "12:30",
       "team1": "FC Wacker Innsbruck",
-      "team2": "Young Violets Austria Wien",
+      "team2": "Austria Wien II",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -854,1018 +1172,2858 @@
       }
     },
     {
-      "round": "10. Runde",
-      "date": "2020-11-20",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "SV Horn"
+      "round": "Matchday 9",
+      "date": "2020-11-08",
+      "time": "10:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "10. Runde",
+      "round": "Matchday 10",
       "date": "2020-11-20",
+      "time": "20:25",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-11-20",
+      "time": "18:00",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-11-20",
+      "time": "18:30",
       "team1": "FC Liefering",
-      "team2": "Kapfenberger SV"
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
     },
     {
-      "round": "10. Runde",
+      "round": "Matchday 10",
       "date": "2020-11-20",
+      "time": "18:30",
       "team1": "SKU Amstetten",
-      "team2": "Young Violets Austria Wien"
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "10. Runde",
+      "round": "Matchday 10",
       "date": "2020-11-20",
+      "time": "18:30",
       "team1": "SV Lafnitz",
-      "team2": "SK Vorwärts Steyr"
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "10. Runde",
+      "round": "Matchday 10",
       "date": "2020-11-20",
+      "time": "18:30",
       "team1": "Austria Lustenau",
-      "team2": "Floridsdorfer AC"
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "10. Runde",
-      "date": "2020-11-20",
-      "team1": "Austria Klagenfurt",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "10. Runde",
+      "round": "Matchday 10",
       "date": "2020-11-21",
+      "time": "14:30",
       "team1": "FC Juniors OÖ",
-      "team2": "FC Dornbirn 1913"
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "10. Runde",
+      "round": "Matchday 10",
       "date": "2020-11-22",
-      "team1": "SK Rapid Wien II",
-      "team2": "Grazer AK"
+      "time": "10:30",
+      "team1": "Rapid Wien II",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "9. Runde",
+      "round": "Matchday 9",
       "date": "2020-11-24",
-      "team1": "Kapfenberger SV",
-      "team2": "Austria Lustenau"
+      "time": "18:00",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-27",
-      "team1": "Young Violets Austria Wien",
-      "team2": "SV Lafnitz"
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-27",
-      "team1": "FC Dornbirn 1913",
-      "team2": "FC Liefering"
+      "time": "18:30",
+      "team1": "FC Dornbirn",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-27",
+      "time": "18:30",
       "team1": "SV Horn",
-      "team2": "Grazer AK"
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-27",
+      "time": "18:30",
       "team1": "Floridsdorfer AC",
-      "team2": "FC Blau-Weiß Linz"
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-27",
-      "team1": "Kapfenberger SV",
-      "team2": "SKU Amstetten"
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-28",
+      "time": "14:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-11-28",
+      "time": "14:30",
       "team1": "FC Wacker Innsbruck",
-      "team2": "SK Rapid Wien II"
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "11. Runde",
-      "date": "2020-11-28",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "11. Runde",
+      "round": "Matchday 11",
       "date": "2020-11-29",
-      "team1": "Austria Klagenfurt",
-      "team2": "Austria Lustenau"
+      "time": "10:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
       "date": "2020-12-04",
+      "time": "18:30",
       "team1": "SKU Amstetten",
-      "team2": "Austria Lustenau"
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
       "date": "2020-12-04",
+      "time": "18:30",
       "team1": "FC Juniors OÖ",
-      "team2": "Austria Klagenfurt"
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
       "date": "2020-12-04",
-      "team1": "SV Horn",
-      "team2": "Floridsdorfer AC"
+      "time": "18:30",
+      "team1": "Rapid Wien II",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
       "date": "2020-12-04",
-      "team1": "SK Rapid Wien II",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "12. Runde",
-      "date": "2020-12-04",
+      "time": "20:25",
       "team1": "Grazer AK",
-      "team2": "FC Wacker Innsbruck"
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
       "date": "2020-12-05",
-      "team1": "FC Dornbirn 1913",
-      "team2": "Young Violets Austria Wien"
+      "time": "19:00",
+      "team1": "SV Horn",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
       "date": "2020-12-05",
+      "time": "20:25",
       "team1": "FC Liefering",
-      "team2": "SK Vorwärts Steyr"
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "12. Runde",
+      "round": "Matchday 12",
+      "date": "2020-12-05",
+      "time": "14:30",
+      "team1": "FC Dornbirn",
+      "team2": "Austria Wien II",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2020-12-06",
+      "time": "10:30",
       "team1": "SV Lafnitz",
-      "team2": "FC Blau-Weiß Linz"
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-11",
+      "time": "18:30",
       "team1": "FC Wacker Innsbruck",
-      "team2": "SV Lafnitz"
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-11",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "FC Juniors OÖ"
+      "time": "18:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-11",
+      "time": "18:30",
       "team1": "Austria Lustenau",
-      "team2": "Grazer AK"
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-11",
+      "time": "18:30",
       "team1": "Floridsdorfer AC",
-      "team2": "SKU Amstetten"
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-11",
-      "team1": "Kapfenberger SV",
-      "team2": "SV Horn"
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-11",
-      "team1": "Young Violets Austria Wien",
-      "team2": "SK Rapid Wien II"
+      "time": "20:25",
+      "team1": "Austria Wien II",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-12",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "FC Dornbirn 1913"
+      "time": "14:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "13. Runde",
+      "round": "Matchday 13",
       "date": "2020-12-13",
-      "team1": "Austria Klagenfurt",
-      "team2": "FC Liefering"
+      "time": "10:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "14. Runde",
+      "round": "Matchday 14",
       "date": "2021-02-12",
+      "time": "18:30",
       "team1": "FC Liefering",
-      "team2": "Austria Lustenau"
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "14. Runde",
+      "round": "Matchday 14",
       "date": "2021-02-12",
-      "team1": "Young Violets Austria Wien",
-      "team2": "FC Blau-Weiß Linz"
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
     },
     {
-      "round": "14. Runde",
+      "round": "Matchday 14",
       "date": "2021-02-12",
-      "team1": "FC Wacker Innsbruck",
-      "team2": "SK Vorwärts Steyr"
+      "time": "18:30",
+      "team1": "Rapid Wien II",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "14. Runde",
+      "round": "Matchday 14",
       "date": "2021-02-12",
-      "team1": "SV Lafnitz",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "14. Runde",
-      "date": "2021-02-12",
-      "team1": "FC Dornbirn 1913",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "14. Runde",
-      "date": "2021-02-12",
-      "team1": "SV Horn",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "14. Runde",
-      "date": "2021-02-12",
-      "team1": "Grazer AK",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "14. Runde",
-      "date": "2021-02-12",
-      "team1": "SK Rapid Wien II",
-      "team2": "SKU Amstetten"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "Austria Klagenfurt",
-      "team2": "SK Rapid Wien II"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "SKU Amstetten",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "Young Violets Austria Wien"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "FC Juniors OÖ",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "Austria Lustenau",
-      "team2": "SV Lafnitz"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "Floridsdorfer AC",
-      "team2": "FC Dornbirn 1913"
-    },
-    {
-      "round": "15. Runde",
-      "date": "2021-02-19",
-      "team1": "Kapfenberger SV",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "SK Rapid Wien II",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "SKU Amstetten"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "Young Violets Austria Wien",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "SV Horn",
-      "team2": "Austria Lustenau"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "SV Lafnitz",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
-      "team1": "FC Dornbirn 1913",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "16. Runde",
-      "date": "2021-02-26",
+      "time": "20:25",
       "team1": "FC Wacker Innsbruck",
-      "team2": "Kapfenberger SV"
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "17. Runde",
-      "date": "2021-03-05",
+      "round": "Matchday 14",
+      "date": "2021-02-14",
+      "time": "10:30",
       "team1": "Grazer AK",
-      "team2": "Young Violets Austria Wien"
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "17. Runde",
-      "date": "2021-03-05",
-      "team1": "Floridsdorfer AC",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "17. Runde",
-      "date": "2021-03-05",
-      "team1": "Kapfenberger SV",
-      "team2": "SK Vorwärts Steyr"
-    },
-    {
-      "round": "17. Runde",
-      "date": "2021-03-05",
-      "team1": "SKU Amstetten",
-      "team2": "SV Lafnitz"
-    },
-    {
-      "round": "17. Runde",
-      "date": "2021-03-05",
+      "round": "Matchday 15",
+      "date": "2021-02-19",
+      "time": "20:25",
       "team1": "Austria Lustenau",
-      "team2": "FC Blau-Weiß Linz"
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "17. Runde",
-      "date": "2021-03-05",
-      "team1": "Austria Klagenfurt",
-      "team2": "FC Dornbirn 1913"
+      "round": "Matchday 15",
+      "date": "2021-02-19",
+      "time": "18:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "17. Runde",
-      "date": "2021-03-05",
-      "team1": "FC Liefering",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "17. Runde",
-      "date": "2021-03-05",
+      "round": "Matchday 15",
+      "date": "2021-02-19",
+      "time": "18:30",
       "team1": "FC Juniors OÖ",
-      "team2": "SK Rapid Wien II"
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "Young Violets Austria Wien",
-      "team2": "Austria Klagenfurt"
+      "round": "Matchday 15",
+      "date": "2021-02-19",
+      "time": "18:30",
+      "team1": "SKU Amstetten",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "FC Wacker Innsbruck",
-      "team2": "FC Liefering"
+      "round": "Matchday 15",
+      "date": "2021-02-19",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "FC Dornbirn 1913",
-      "team2": "SKU Amstetten"
+      "round": "Matchday 15",
+      "date": "2021-02-20",
+      "time": "20:25",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "FC Juniors OÖ",
-      "team2": "Austria Lustenau"
-    },
-    {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "SV Lafnitz",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "18. Runde",
-      "date": "2021-03-12",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "18. Runde",
-      "date": "2021-03-12",
+      "round": "Matchday 15",
+      "date": "2021-02-20",
+      "time": "14:30",
       "team1": "Floridsdorfer AC",
-      "team2": "SK Rapid Wien II"
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "19. Runde",
-      "date": "2021-03-19",
+      "round": "Matchday 15",
+      "date": "2021-02-21",
+      "time": "10:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2021-02-23",
+      "time": "18:30",
+      "team1": "SV Lafnitz",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2021-02-23",
+      "time": "18:30",
+      "team1": "FC Dornbirn",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-02-26",
+      "time": "20:25",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-02-26",
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-02-26",
+      "time": "18:30",
       "team1": "SV Horn",
-      "team2": "Young Violets Austria Wien"
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "Austria Lustenau",
-      "team2": "FC Wacker Innsbruck"
+      "round": "Matchday 16",
+      "date": "2021-02-26",
+      "time": "18:30",
+      "team1": "SV Lafnitz",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "Austria Klagenfurt",
-      "team2": "SK Vorwärts Steyr"
+      "round": "Matchday 16",
+      "date": "2021-02-27",
+      "time": "14:30",
+      "team1": "FC Dornbirn",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "Grazer AK",
-      "team2": "SV Lafnitz"
+      "round": "Matchday 16",
+      "date": "2021-02-27",
+      "time": "20:25",
+      "team1": "Vorwärts Steyr",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "FC Liefering",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "SKU Amstetten",
-      "team2": "FC Blau-Weiß Linz"
-    },
-    {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "SK Rapid Wien II",
-      "team2": "FC Dornbirn 1913"
-    },
-    {
-      "round": "19. Runde",
-      "date": "2021-03-19",
-      "team1": "Kapfenberger SV",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "Floridsdorfer AC",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "Grazer AK",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "20. Runde",
-      "date": "2021-04-02",
+      "round": "Matchday 16",
+      "date": "2021-02-28",
+      "time": "10:30",
       "team1": "FC Wacker Innsbruck",
-      "team2": "SKU Amstetten"
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "FC Dornbirn 1913",
-      "team2": "FC Blau-Weiß Linz"
+      "round": "Matchday 16",
+      "date": "2021-02-28",
+      "time": "11:30",
+      "team1": "Rapid Wien II",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "Austria Lustenau"
-    },
-    {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "FC Juniors OÖ",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "Young Violets Austria Wien",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "20. Runde",
-      "date": "2021-04-02",
-      "team1": "SV Lafnitz",
-      "team2": "SK Rapid Wien II"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
-      "team1": "Austria Lustenau",
-      "team2": "Young Violets Austria Wien"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
-      "team1": "SK Rapid Wien II",
-      "team2": "SK Vorwärts Steyr"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
-      "team1": "Austria Klagenfurt",
-      "team2": "SV Lafnitz"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
-      "team1": "Kapfenberger SV",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
+      "round": "Matchday 14",
+      "date": "2021-03-02",
+      "time": "18:30",
       "team1": "SV Horn",
-      "team2": "FC Dornbirn 1913"
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "21. Runde",
-      "date": "2021-04-05",
-      "team1": "FC Liefering",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "21. Runde",
-      "date": "2021-04-05",
+      "round": "Matchday 17",
+      "date": "2021-03-05",
+      "time": "17:00",
       "team1": "SKU Amstetten",
-      "team2": "Grazer AK"
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "SV Lafnitz",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "FC Juniors OÖ",
-      "team2": "SKU Amstetten"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "FC Wacker Innsbruck",
-      "team2": "FC Dornbirn 1913"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "Young Violets Austria Wien",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "Austria Klagenfurt",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "22. Runde",
-      "date": "2021-04-09",
-      "team1": "Austria Lustenau",
-      "team2": "SK Rapid Wien II"
-    },
-    {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "SKU Amstetten",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "FC Liefering",
-      "team2": "Young Violets Austria Wien"
-    },
-    {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "SV Horn",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "23. Runde",
-      "date": "2021-04-13",
+      "round": "Matchday 17",
+      "date": "2021-03-05",
+      "time": "18:30",
       "team1": "Floridsdorfer AC",
-      "team2": "SK Vorwärts Steyr"
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "Kapfenberger SV",
-      "team2": "SV Lafnitz"
+      "round": "Matchday 17",
+      "date": "2021-03-05",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "Grazer AK",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "SK Rapid Wien II",
-      "team2": "FC Blau-Weiß Linz"
-    },
-    {
-      "round": "23. Runde",
-      "date": "2021-04-13",
-      "team1": "FC Dornbirn 1913",
-      "team2": "Austria Lustenau"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "SKU Amstetten",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "Young Violets Austria Wien",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "SK Vorwärts Steyr"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "SV Lafnitz",
-      "team2": "FC Dornbirn 1913"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "SK Rapid Wien II",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "FC Juniors OÖ",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
-      "team1": "Austria Klagenfurt",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "24. Runde",
-      "date": "2021-04-16",
+      "round": "Matchday 17",
+      "date": "2021-03-05",
+      "time": "18:30",
       "team1": "Austria Lustenau",
-      "team2": "Kapfenberger SV"
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "FC Wacker Innsbruck",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "Kapfenberger SV",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "Young Violets Austria Wien",
-      "team2": "SKU Amstetten"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "SV Lafnitz"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "FC Dornbirn 1913",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "SV Horn",
-      "team2": "FC Blau-Weiß Linz"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "Floridsdorfer AC",
-      "team2": "Austria Lustenau"
-    },
-    {
-      "round": "25. Runde",
-      "date": "2021-04-23",
-      "team1": "Grazer AK",
-      "team2": "SK Rapid Wien II"
-    },
-    {
-      "round": "26. Runde",
-      "date": "2021-04-30",
-      "team1": "Austria Lustenau",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "26. Runde",
-      "date": "2021-04-30",
-      "team1": "SV Lafnitz",
-      "team2": "Young Violets Austria Wien"
-    },
-    {
-      "round": "26. Runde",
-      "date": "2021-04-30",
-      "team1": "SK Rapid Wien II",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "26. Runde",
-      "date": "2021-04-30",
+      "round": "Matchday 17",
+      "date": "2021-03-05",
+      "time": "20:25",
       "team1": "FC Juniors OÖ",
-      "team2": "SK Vorwärts Steyr"
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "26. Runde",
-      "date": "2021-04-30",
+      "round": "Matchday 17",
+      "date": "2021-03-06",
+      "time": "14:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-03-07",
+      "time": "11:00",
       "team1": "FC Liefering",
-      "team2": "FC Dornbirn 1913"
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          4,
+          1
+        ],
+        "ft": [
+          6,
+          2
+        ]
+      }
     },
     {
-      "round": "26. Runde",
-      "date": "2021-04-30",
+      "round": "Matchday 17",
+      "date": "2021-03-07",
+      "time": "10:30",
       "team1": "Grazer AK",
-      "team2": "SV Horn"
+      "team2": "Austria Wien II",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "26. Runde",
-      "date": "2021-04-30",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "Floridsdorfer AC"
+      "round": "Matchday 18",
+      "date": "2021-03-12",
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "26. Runde",
-      "date": "2021-04-30",
-      "team1": "SKU Amstetten",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "Austria Lustenau",
-      "team2": "SKU Amstetten"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "SV Lafnitz"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "Austria Klagenfurt",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "Young Violets Austria Wien",
-      "team2": "FC Dornbirn 1913"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "Floridsdorfer AC",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "FC Wacker Innsbruck",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "27. Runde",
-      "date": "2021-05-07",
-      "team1": "Kapfenberger SV",
-      "team2": "SK Rapid Wien II"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "FC Liefering",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "SK Rapid Wien II",
-      "team2": "Young Violets Austria Wien"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "SV Lafnitz",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "FC Dornbirn 1913",
-      "team2": "SK Vorwärts Steyr"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
+      "round": "Matchday 18",
+      "date": "2021-03-12",
+      "time": "18:30",
       "team1": "FC Juniors OÖ",
-      "team2": "FC Blau-Weiß Linz"
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "Grazer AK",
-      "team2": "Austria Lustenau"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "SKU Amstetten",
-      "team2": "Floridsdorfer AC"
-    },
-    {
-      "round": "28. Runde",
-      "date": "2021-05-12",
-      "team1": "SV Horn",
-      "team2": "Kapfenberger SV"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "Austria Lustenau",
-      "team2": "FC Liefering"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "FC Blau-Weiß Linz",
-      "team2": "Young Violets Austria Wien"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "SK Vorwärts Steyr",
-      "team2": "FC Wacker Innsbruck"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "FC Juniors OÖ",
-      "team2": "SV Lafnitz"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "Kapfenberger SV",
-      "team2": "FC Dornbirn 1913"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "Austria Klagenfurt",
-      "team2": "SV Horn"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "Floridsdorfer AC",
-      "team2": "Grazer AK"
-    },
-    {
-      "round": "29. Runde",
-      "date": "2021-05-15",
-      "team1": "SKU Amstetten",
-      "team2": "SK Rapid Wien II"
-    },
-    {
-      "round": "30. Runde",
-      "date": "2021-05-21",
-      "team1": "SK Rapid Wien II",
-      "team2": "Austria Klagenfurt"
-    },
-    {
-      "round": "30. Runde",
-      "date": "2021-05-21",
-      "team1": "SV Horn",
-      "team2": "SKU Amstetten"
-    },
-    {
-      "round": "30. Runde",
-      "date": "2021-05-21",
-      "team1": "Young Violets Austria Wien",
-      "team2": "SK Vorwärts Steyr"
-    },
-    {
-      "round": "30. Runde",
-      "date": "2021-05-21",
-      "team1": "FC Wacker Innsbruck",
-      "team2": "FC Juniors OÖ"
-    },
-    {
-      "round": "30. Runde",
-      "date": "2021-05-21",
-      "team1": "FC Liefering",
-      "team2": "FC Blau-Weiß Linz"
-    },
-    {
-      "round": "30. Runde",
-      "date": "2021-05-21",
+      "round": "Matchday 18",
+      "date": "2021-03-12",
+      "time": "18:30",
       "team1": "SV Lafnitz",
-      "team2": "Austria Lustenau"
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "30. Runde",
-      "date": "2021-05-21",
-      "team1": "FC Dornbirn 1913",
-      "team2": "Floridsdorfer AC"
+      "round": "Matchday 18",
+      "date": "2021-03-12",
+      "time": "18:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "30. Runde",
-      "date": "2021-05-21",
+      "round": "Matchday 18",
+      "date": "2021-03-12",
+      "time": "20:25",
+      "team1": "Vorwärts Steyr",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-03-13",
+      "time": "14:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-03-13",
+      "time": "14:30",
+      "team1": "FC Dornbirn",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-03-14",
+      "time": "10:30",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-03-19",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-03-19",
+      "time": "20:25",
       "team1": "Grazer AK",
-      "team2": "Kapfenberger SV"
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-03-20",
+      "time": "15:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-03-20",
+      "time": "12:30",
+      "team1": "Rapid Wien II",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-03-21",
+      "time": "10:30",
+      "team1": "Austria Lustenau",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-03-24",
+      "time": "18:30",
+      "team1": "SV Horn",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "20:25",
+      "team1": "Floridsdorfer AC",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:30",
+      "team1": "SV Lafnitz",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:10",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:30",
+      "team1": "Grazer AK",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:30",
+      "team1": "FC Dornbirn",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "SV Horn",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-04-02",
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "18:30",
+      "team1": "SKU Amstetten",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "14:30",
+      "team1": "SV Horn",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "10:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "10:30",
+      "team1": "FC Liefering",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "12:30",
+      "team1": "Rapid Wien II",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "14:30",
+      "team1": "Austria Lustenau",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "14:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-05",
+      "time": "16:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-09",
+      "time": "20:25",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-09",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-09",
+      "time": "18:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-09",
+      "time": "18:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-09",
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-10",
+      "time": "14:30",
+      "team1": "Austria Lustenau",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-10",
+      "time": "14:30",
+      "team1": "SV Lafnitz",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-04-11",
+      "time": "10:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-13",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-13",
+      "time": "20:25",
+      "team1": "FC Dornbirn",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-13",
+      "time": "18:10",
+      "team1": "SKU Amstetten",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-13",
+      "time": "18:30",
+      "team1": "SV Horn",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-13",
+      "time": "18:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-14",
+      "time": "18:30",
+      "team1": "Grazer AK",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-14",
+      "time": "20:30",
+      "team1": "Rapid Wien II",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-16",
+      "time": "18:00",
+      "team1": "Austria Lustenau",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-16",
+      "time": "20:25",
+      "team1": "SV Lafnitz",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          8,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-17",
+      "time": "14:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-17",
+      "time": "14:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-17",
+      "time": "14:30",
+      "team1": "Austria Wien II",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-17",
+      "time": "14:30",
+      "team1": "SKU Amstetten",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-18",
+      "time": "11:30",
+      "team1": "Rapid Wien II",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-04-18",
+      "time": "10:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-04-20",
+      "time": "18:30",
+      "team1": "FC Liefering",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-04-20",
+      "time": "18:30",
+      "team1": "SKU Amstetten",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-23",
+      "time": "20:25",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-23",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-23",
+      "time": "18:30",
+      "team1": "Austria Wien II",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-23",
+      "time": "18:30",
+      "team1": "SV Horn",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-23",
+      "time": "18:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-23",
+      "time": "18:30",
+      "team1": "Grazer AK",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-24",
+      "time": "14:30",
+      "team1": "FC Dornbirn",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-04-25",
+      "time": "10:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-04-27",
+      "time": "18:30",
+      "team1": "FC Liefering",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-04-30",
+      "time": "18:10",
+      "team1": "FC Liefering",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-04-30",
+      "time": "18:30",
+      "team1": "SV Lafnitz",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-04-30",
+      "time": "18:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-04-30",
+      "time": "18:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-04-30",
+      "time": "18:30",
+      "team1": "SKU Amstetten",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-04-30",
+      "time": "20:25",
+      "team1": "Grazer AK",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-05-01",
+      "time": "14:30",
+      "team1": "Austria Lustenau",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-05-02",
+      "time": "10:30",
+      "team1": "Rapid Wien II",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-07",
+      "time": "18:10",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-07",
+      "time": "18:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-07",
+      "time": "18:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-07",
+      "time": "18:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-07",
+      "time": "20:25",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-08",
+      "time": "14:30",
+      "team1": "Austria Wien II",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-08",
+      "time": "14:30",
+      "team1": "Austria Lustenau",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-05-09",
+      "time": "10:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-12",
+      "time": "18:10",
+      "team1": "SV Lafnitz",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-12",
+      "time": "18:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-12",
+      "time": "18:30",
+      "team1": "Grazer AK",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-12",
+      "time": "18:30",
+      "team1": "SKU Amstetten",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-12",
+      "time": "18:30",
+      "team1": "SV Horn",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-12",
+      "time": "20:25",
+      "team1": "FC Liefering",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-13",
+      "time": "10:30",
+      "team1": "FC Dornbirn",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-05-13",
+      "time": "10:30",
+      "team1": "Rapid Wien II",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "Austria Lustenau",
+      "team2": "FC Liefering",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "FC Blau Weiß Linz",
+      "team2": "Austria Wien II",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "Vorwärts Steyr",
+      "team2": "FC Wacker Innsbruck",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "FC Juniors OÖ",
+      "team2": "SV Lafnitz",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "Kapfenberger SV 1919",
+      "team2": "FC Dornbirn",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "SK Austria Klagenfurt",
+      "team2": "SV Horn",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "Floridsdorfer AC",
+      "team2": "Grazer AK",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "SKU Amstetten",
+      "team2": "Rapid Wien II",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-22",
+      "time": "14:30",
+      "team1": "Austria Wien II",
+      "team2": "Vorwärts Steyr",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "SV Horn",
+      "team2": "SKU Amstetten",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "FC Wacker Innsbruck",
+      "team2": "FC Juniors OÖ",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "FC Liefering",
+      "team2": "FC Blau Weiß Linz",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "SV Lafnitz",
+      "team2": "Austria Lustenau",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "FC Dornbirn",
+      "team2": "Floridsdorfer AC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "Grazer AK",
+      "team2": "Kapfenberger SV 1919",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-05-23",
+      "time": "17:00",
+      "team1": "Rapid Wien II",
+      "team2": "SK Austria Klagenfurt",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     }
   ]
 }

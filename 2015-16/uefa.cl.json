@@ -1,1541 +1,2110 @@
 {
-  "name": "Champions League 2015/16",
-  "rounds": [
+  "name": "UEFA Champions League 2015/16",
+  "matches": [
     {
-      "name": "Matchday 1",
-      "matches": [
-        {
-          "date": "2015-09-15",
-          "team1": "Paris Saint-Germain",
-          "team2": "Malmö FF",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "Real Madrid",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "VfL Wolfsburg",
-          "team2": "PFC CSKA Moskva",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "PSV Eindhoven",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "SL Benfica",
-          "team2": "FC Astana",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "Manchester City FC",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-09-15",
-          "team1": "Sevilla FC",
-          "team2": "Bor. Mönchengladbach",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "FC BATE Borisov",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "AS Roma",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "Olympiacos Piraeus FC",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "Chelsea FC",
-          "team2": "Maccabi Tel-Aviv FC",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "Valencia CF",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2015-09-16",
-          "team1": "KAA Gent",
-          "team2": "Olympique Lyonnais",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 2",
-      "matches": [
-        {
-          "date": "2015-09-30",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "Malmö FF",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "Manchester United FC",
-          "team2": "VfL Wolfsburg",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "PFC CSKA Moskva",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "FC Astana",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "Atlético Madrid",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "Bor. Mönchengladbach",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-09-30",
-          "team1": "Juventus",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "FC Barcelona",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "FC BATE Borisov",
-          "team2": "AS Roma",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "Bayern München",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              5,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "Arsenal FC",
-          "team2": "Olympiacos Piraeus FC",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "Maccabi Tel-Aviv FC",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "FC Porto",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "Olympique Lyonnais",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2015-09-29",
-          "team1": "Zenit St. Petersburg",
-          "team2": "KAA Gent",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Malmö FF (SWE)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 3",
-      "matches": [
-        {
-          "date": "2015-10-21",
-          "team1": "Malmö FF",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "Paris Saint-Germain",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "PFC CSKA Moskva",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "VfL Wolfsburg",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "Atlético Madrid",
-          "team2": "FC Astana",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "Juventus",
-          "team2": "Bor. Mönchengladbach",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-10-21",
-          "team1": "Manchester City FC",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "FC BATE Borisov",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "AS Roma",
-          "score": {
-            "ft": [
-              4,
-              4
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "Arsenal FC",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Olympiacos Piraeus FC",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "FC Porto",
-          "team2": "Maccabi Tel-Aviv FC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "Zenit St. Petersburg",
-          "team2": "Olympique Lyonnais",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2015-10-20",
-          "team1": "Valencia CF",
-          "team2": "KAA Gent",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "Malmö FF (SWE)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "name": "Matchday 4",
-      "matches": [
-        {
-          "date": "2015-11-03",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "Malmö FF",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "Real Madrid",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "Manchester United FC",
-          "team2": "PFC CSKA Moskva",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "PSV Eindhoven",
-          "team2": "VfL Wolfsburg",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "FC Astana",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "SL Benfica",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "Bor. Mönchengladbach",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-11-03",
-          "team1": "Sevilla FC",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "FC Barcelona",
-          "team2": "FC BATE Borisov",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "AS Roma",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "Bayern München",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "Olympiacos Piraeus FC",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "Maccabi Tel-Aviv FC",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "Chelsea FC",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "Olympique Lyonnais",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2015-11-04",
-          "team1": "KAA Gent",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "name": "Matchday 5",
-      "matches": [
-        {
-          "date": "2015-11-25",
-          "team1": "Malmö FF",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              0,
-              5
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "FC Shakhtar Donetsk",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              3,
-              4
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "PFC CSKA Moskva",
-          "team2": "VfL Wolfsburg",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "Manchester United FC",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "FC Astana",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "Atlético Madrid",
-          "team2": "Galatasaray İstanbul AŞ",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "Juventus",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-11-25",
-          "team1": "Bor. Mönchengladbach",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "FC BATE Borisov",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "FC Barcelona",
-          "team2": "AS Roma",
-          "score": {
-            "ft": [
-              6,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "Arsenal FC",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "Bayern München",
-          "team2": "Olympiacos Piraeus FC",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "FC Porto",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "Maccabi Tel-Aviv FC",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              0,
-              4
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "Zenit St. Petersburg",
-          "team2": "Valencia CF",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2015-11-24",
-          "team1": "Olympique Lyonnais",
-          "team2": "KAA Gent",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 6",
-      "matches": [
-        {
-          "date": "2015-12-08",
-          "team1": "Paris Saint-Germain",
-          "team2": "FC Shakhtar Donetsk",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "Real Madrid",
-          "team2": "Malmö FF",
-          "score": {
-            "ft": [
-              8,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "VfL Wolfsburg",
-          "team2": "Manchester United FC",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "PSV Eindhoven",
-          "team2": "PFC CSKA Moskva",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "Galatasaray İstanbul AŞ",
-          "team2": "FC Astana",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "SL Benfica",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "Manchester City FC",
-          "team2": "Bor. Mönchengladbach",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-12-08",
-          "team1": "Sevilla FC",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "AS Roma",
-          "team2": "FC BATE Borisov",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "Olympiacos Piraeus FC",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "Maccabi Tel-Aviv FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "Chelsea FC",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "Valencia CF",
-          "team2": "Olympique Lyonnais",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2015-12-09",
-          "team1": "KAA Gent",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "Malmö FF (SWE)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "Round of 16 - 1st Leg",
-      "matches": [
-        {
-          "date": "2016-02-16",
-          "team1": "Paris Saint-Germain",
-          "team2": "Chelsea FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2016-02-16",
-          "team1": "SL Benfica",
-          "team2": "Zenit St. Petersburg",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-02-17",
-          "team1": "AS Roma",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2016-02-17",
-          "team1": "KAA Gent",
-          "team2": "VfL Wolfsburg",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2016-02-23",
-          "team1": "Arsenal FC",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2016-02-23",
-          "team1": "Juventus",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2016-02-24",
-          "team1": "PSV Eindhoven",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-02-24",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "name": "Round of 16 - 2nd Leg",
-      "matches": [
-        {
-          "date": "2016-03-08",
-          "team1": "Real Madrid",
-          "team2": "AS Roma",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-03-08",
-          "team1": "VfL Wolfsburg",
-          "team2": "KAA Gent",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-03-09",
-          "team1": "Zenit St. Petersburg",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2016-03-09",
-          "team1": "Chelsea FC",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2016-03-15",
-          "team1": "Atlético Madrid",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-03-15",
-          "team1": "Manchester City FC",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-03-16",
-          "team1": "FC Barcelona",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2016-03-16",
-          "team1": "Bayern München",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "Malmö FF (SWE)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "name": "Quarter-finals - 1st Leg",
-      "matches": [
-        {
-          "date": "2016-04-05",
-          "team1": "FC Barcelona",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2016-04-05",
-          "team1": "Bayern München",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-04-06",
-          "team1": "VfL Wolfsburg",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-04-06",
-          "team1": "Paris Saint-Germain",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-11-25",
+      "time": "20:45",
+      "team1": "Malmö FF (SWE)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          5
+        ]
+      }
     },
     {
-      "name": "Quarter-finals - 2nd Leg",
-      "matches": [
-        {
-          "date": "2016-04-12",
-          "team1": "Real Madrid",
-          "team2": "VfL Wolfsburg",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-04-12",
-          "team1": "Manchester City FC",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-04-13",
-          "team1": "Atlético Madrid",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-04-13",
-          "team1": "SL Benfica",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-11-25",
+      "time": "20:45",
+      "team1": "Shakhtar Donetsk (UKR)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
     },
     {
-      "name": "Semi-finals - 1st Leg",
-      "matches": [
-        {
-          "date": "2016-04-26",
-          "team1": "Manchester City FC",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2016-04-27",
-          "team1": "Atlético Madrid",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Shakhtar Donetsk (UKR)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "Semi-finals - 2nd Leg",
-      "matches": [
-        {
-          "date": "2016-05-03",
-          "team1": "Bayern München",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2016-05-04",
-          "team1": "Real Madrid",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Malmö FF (SWE)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          8,
+          0
+        ]
+      }
     },
     {
-      "name": "Final",
-      "matches": [
-        {
-          "date": "2016-05-28",
-          "team1": "Real Madrid",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Group B",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "VfL Wolfsburg (GER)",
+      "team2": "CSKA Moskva (RUS)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "CSKA Moskva (RUS)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "VfL Wolfsburg (GER)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "CSKA Moskva (RUS)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "VfL Wolfsburg (GER)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "VfL Wolfsburg (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "CSKA Moskva (RUS)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-11-25",
+      "time": "18:00",
+      "team1": "CSKA Moskva (RUS)",
+      "team2": "VfL Wolfsburg (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-11-25",
+      "time": "20:45",
+      "team1": "Manchester United (ENG)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "VfL Wolfsburg (GER)",
+      "team2": "Manchester United (ENG)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "CSKA Moskva (RUS)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "FK Astana (KAZ)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-09-30",
+      "time": "18:00",
+      "team1": "FK Astana (KAZ)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "FK Astana (KAZ)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-11-03",
+      "time": "16:00",
+      "team1": "FK Astana (KAZ)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-11-25",
+      "time": "16:00",
+      "team1": "FK Astana (KAZ)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-11-25",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Galatasaray (TUR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "Galatasaray (TUR)",
+      "team2": "FK Astana (KAZ)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Bor. Mönchengladbach (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-09-15",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-09-30",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach (GER)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-10-21",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Bor. Mönchengladbach (GER)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach (GER)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-11-03",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-11-25",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-11-25",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach (GER)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Bor. Mönchengladbach (GER)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2015-12-08",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "AS Roma (ITA)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "BATE Borisov (BLR)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "BATE Borisov (BLR)",
+      "team2": "AS Roma (ITA)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "BATE Borisov (BLR)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "AS Roma (ITA)",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          4,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "AS Roma (ITA)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "BATE Borisov (BLR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-11-24",
+      "time": "18:00",
+      "team1": "BATE Borisov (BLR)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-11-24",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "AS Roma (ITA)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "AS Roma (ITA)",
+      "team2": "BATE Borisov (BLR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "Olympiakos Piraeus (GRE)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Olympiakos Piraeus (GRE)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Olympiakos Piraeus (GRE)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "Olympiakos Piraeus (GRE)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-11-24",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Olympiakos Piraeus (GRE)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-11-24",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "Olympiakos Piraeus (GRE)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Maccabi Tel Aviv (ISR)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "Maccabi Tel Aviv (ISR)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Maccabi Tel Aviv (ISR)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "Maccabi Tel Aviv (ISR)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-11-24",
+      "time": "20:45",
+      "team1": "Maccabi Tel Aviv (ISR)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-11-24",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "Maccabi Tel Aviv (ISR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-09-16",
+      "time": "20:45",
+      "team1": "KAA Gent (BEL)",
+      "team2": "Olympique Lyonnais (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "Olympique Lyonnais (FRA)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-09-29",
+      "time": "20:45",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "KAA Gent (BEL)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "KAA Gent (BEL)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-10-20",
+      "time": "20:45",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "Olympique Lyonnais (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "Olympique Lyonnais (FRA)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-11-04",
+      "time": "20:45",
+      "team1": "KAA Gent (BEL)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-11-24",
+      "time": "18:00",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "Valencia CF (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-11-24",
+      "time": "20:45",
+      "team1": "Olympique Lyonnais (FRA)",
+      "team2": "KAA Gent (BEL)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "Valencia CF (ESP)",
+      "team2": "Olympique Lyonnais (FRA)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2015-12-09",
+      "time": "20:45",
+      "team1": "KAA Gent (BEL)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-16",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-16",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Zenit St. Petersburg (RUS)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-17",
+      "time": "20:45",
+      "team1": "KAA Gent (BEL)",
+      "team2": "VfL Wolfsburg (GER)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-17",
+      "time": "20:45",
+      "team1": "AS Roma (ITA)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-23",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-23",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-24",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-02-24",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-08",
+      "time": "20:45",
+      "team1": "VfL Wolfsburg (GER)",
+      "team2": "KAA Gent (BEL)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-08",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "AS Roma (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-09",
+      "time": "18:00",
+      "team1": "Zenit St. Petersburg (RUS)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-09",
+      "time": "20:45",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-15",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "et": [
+          0,
+          0
+        ],
+        "p": [
+          8,
+          7
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-15",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-16",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2016-03-16",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ],
+        "et": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-05",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-05",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-06",
+      "time": "20:45",
+      "team1": "VfL Wolfsburg (GER)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-06",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-12",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "VfL Wolfsburg (GER)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-12",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-13",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2016-04-13",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2016-04-26",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2016-04-27",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2016-05-03",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2016-05-04",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Final",
+      "date": "2016-05-28",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          1,
+          1
+        ],
+        "p": [
+          5,
+          3
+        ]
+      }
     }
   ]
 }

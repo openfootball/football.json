@@ -1,1541 +1,2094 @@
 {
-  "name": "Champions League 2016/17",
-  "rounds": [
+  "name": "UEFA Champions League 2016/17",
+  "matches": [
     {
-      "name": "Matchday 1",
-      "matches": [
-        {
-          "date": "2016-09-13",
-          "team1": "Paris Saint-Germain",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-09-13",
-          "team1": "FC Basel",
-          "team2": "PFC Ludogorets Razgrad",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-09-13",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "SSC Napoli",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-09-13",
-          "team1": "SL Benfica",
-          "team2": "Beşiktaş İstanbul JK",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-09-13",
-          "team1": "FC Barcelona",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              7,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Manchester City FC",
-          "team2": "Bor. Mönchengladbach",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-09-13",
-          "team1": "Bayern München",
-          "team2": "FC Rostov",
-          "score": {
-            "ft": [
-              5,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-09-13",
-          "team1": "PSV Eindhoven",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "PFC CSKA Moskva",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Tottenham Hotspur FC",
-          "team2": "AS Monaco",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Real Madrid",
-          "team2": "Sporting CP",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Legia Warszawa",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              0,
-              6
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Club Brugge",
-          "team2": "Leicester City FC",
-          "score": {
-            "ft": [
-              0,
-              3
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "FC Porto",
-          "team2": "FC København",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Olympique Lyonnais",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2016-09-14",
-          "team1": "Juventus",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "FC Basel 1893 (SUI)",
+      "team2": "PFC Ludogorets Razgrad (BUL)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "Matchday 2",
-      "matches": [
-        {
-          "date": "2016-09-28",
-          "team1": "PFC Ludogorets Razgrad",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "Arsenal FC",
-          "team2": "FC Basel",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "Beşiktaş İstanbul JK",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "SSC Napoli",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "Bor. Mönchengladbach",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "Celtic FC",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "Atlético Madrid",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-09-28",
-          "team1": "FC Rostov",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "AS Monaco",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "PFC CSKA Moskva",
-          "team2": "Tottenham Hotspur FC",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "Borussia Dortmund",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "Sporting CP",
-          "team2": "Legia Warszawa",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "FC København",
-          "team2": "Club Brugge",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "Leicester City FC",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "Sevilla FC",
-          "team2": "Olympique Lyonnais",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2016-09-27",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              4
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "name": "Matchday 3",
-      "matches": [
-        {
-          "date": "2016-10-19",
-          "team1": "Arsenal FC",
-          "team2": "PFC Ludogorets Razgrad",
-          "score": {
-            "ft": [
-              6,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "Paris Saint-Germain",
-          "team2": "FC Basel",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "SSC Napoli",
-          "team2": "Beşiktaş İstanbul JK",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "Celtic FC",
-          "team2": "Bor. Mönchengladbach",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "FC Barcelona",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "FC Rostov",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-10-19",
-          "team1": "Bayern München",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              4,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "PFC CSKA Moskva",
-          "team2": "AS Monaco",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "Tottenham Hotspur FC",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "Sporting CP",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "Real Madrid",
-          "team2": "Legia Warszawa",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "Leicester City FC",
-          "team2": "FC København",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "Club Brugge",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2016-10-18",
-          "team1": "Olympique Lyonnais",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "FC Basel 1893 (SUI)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 4",
-      "matches": [
-        {
-          "date": "2016-11-01",
-          "team1": "PFC Ludogorets Razgrad",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "FC Basel",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "Beşiktaş İstanbul JK",
-          "team2": "SSC Napoli",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "SL Benfica",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "Bor. Mönchengladbach",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "Manchester City FC",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "Atlético Madrid",
-          "team2": "FC Rostov",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-11-01",
-          "team1": "PSV Eindhoven",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "AS Monaco",
-          "team2": "PFC CSKA Moskva",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "Tottenham Hotspur FC",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "Borussia Dortmund",
-          "team2": "Sporting CP",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "Legia Warszawa",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "FC København",
-          "team2": "Leicester City FC",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "FC Porto",
-          "team2": "Club Brugge",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "Sevilla FC",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2016-11-02",
-          "team1": "Juventus",
-          "team2": "Olympique Lyonnais",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "PFC Ludogorets Razgrad (BUL)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "name": "Matchday 5",
-      "matches": [
-        {
-          "date": "2016-11-23",
-          "team1": "Arsenal FC",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "PFC Ludogorets Razgrad",
-          "team2": "FC Basel",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "Beşiktaş İstanbul JK",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              3,
-              3
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "SSC Napoli",
-          "team2": "FC Dynamo Kyiv",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "Celtic FC",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "Bor. Mönchengladbach",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "FC Rostov",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              3,
-              2
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-11-23",
-          "team1": "Atlético Madrid",
-          "team2": "PSV Eindhoven",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "PFC CSKA Moskva",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "AS Monaco",
-          "team2": "Tottenham Hotspur FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "Sporting CP",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "Borussia Dortmund",
-          "team2": "Legia Warszawa",
-          "score": {
-            "ft": [
-              8,
-              4
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "Leicester City FC",
-          "team2": "Club Brugge",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "FC København",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "GNK Dinamo Zagreb",
-          "team2": "Olympique Lyonnais",
-          "score": {
-            "ft": [
-              0,
-              1
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2016-11-22",
-          "team1": "Sevilla FC",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "PFC Ludogorets Razgrad (BUL)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          6,
+          0
+        ]
+      }
     },
     {
-      "name": "Matchday 6",
-      "matches": [
-        {
-          "date": "2016-12-06",
-          "team1": "Paris Saint-Germain",
-          "team2": "PFC Ludogorets Razgrad",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "FC Basel",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              1,
-              4
-            ]
-          },
-          "group": "Group A"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "FC Dynamo Kyiv",
-          "team2": "Beşiktaş İstanbul JK",
-          "score": {
-            "ft": [
-              6,
-              0
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "SL Benfica",
-          "team2": "SSC Napoli",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          },
-          "group": "Group B"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "FC Barcelona",
-          "team2": "Bor. Mönchengladbach",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "Manchester City FC",
-          "team2": "Celtic FC",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          },
-          "group": "Group C"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "Bayern München",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-12-06",
-          "team1": "PSV Eindhoven",
-          "team2": "FC Rostov",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group D"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "AS Monaco",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Tottenham Hotspur FC",
-          "team2": "PFC CSKA Moskva",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          },
-          "group": "Group E"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Real Madrid",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              2,
-              2
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Legia Warszawa",
-          "team2": "Sporting CP",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          },
-          "group": "Group F"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Club Brugge",
-          "team2": "FC København",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "FC Porto",
-          "team2": "Leicester City FC",
-          "score": {
-            "ft": [
-              5,
-              0
-            ]
-          },
-          "group": "Group G"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Olympique Lyonnais",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          },
-          "group": "Group H"
-        },
-        {
-          "date": "2016-12-07",
-          "team1": "Juventus",
-          "team2": "GNK Dinamo Zagreb",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          },
-          "group": "Group H"
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "FC Basel 1893 (SUI)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "name": "Round of 16 - 1st Leg",
-      "matches": [
-        {
-          "date": "2017-02-14",
-          "team1": "Paris Saint-Germain",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-02-14",
-          "team1": "SL Benfica",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-02-15",
-          "team1": "Real Madrid",
-          "team2": "SSC Napoli",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-02-15",
-          "team1": "Bayern München",
-          "team2": "Arsenal FC",
-          "score": {
-            "ft": [
-              5,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-02-21",
-          "team1": "Manchester City FC",
-          "team2": "AS Monaco",
-          "score": {
-            "ft": [
-              5,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2017-02-21",
-          "team1": "Bayer 04 Leverkusen",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              2,
-              4
-            ]
-          }
-        },
-        {
-          "date": "2017-02-22",
-          "team1": "Sevilla FC",
-          "team2": "Leicester City FC",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-02-22",
-          "team1": "FC Porto",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "FC Basel 1893 (SUI)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "name": "Round of 16 - 2nd Leg",
-      "matches": [
-        {
-          "date": "2017-03-07",
-          "team1": "Arsenal FC",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              1,
-              5
-            ]
-          }
-        },
-        {
-          "date": "2017-03-07",
-          "team1": "SSC Napoli",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2017-03-08",
-          "team1": "Borussia Dortmund",
-          "team2": "SL Benfica",
-          "score": {
-            "ft": [
-              4,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-03-08",
-          "team1": "FC Barcelona",
-          "team2": "Paris Saint-Germain",
-          "score": {
-            "ft": [
-              6,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-03-14",
-          "team1": "Juventus",
-          "team2": "FC Porto",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-03-14",
-          "team1": "Leicester City FC",
-          "team2": "Sevilla FC",
-          "score": {
-            "ft": [
-              2,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-03-15",
-          "team1": "Atlético Madrid",
-          "team2": "Bayer 04 Leverkusen",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-03-15",
-          "team1": "AS Monaco",
-          "team2": "Manchester City FC",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "PFC Ludogorets Razgrad (BUL)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "name": "Quarter-finals - 1st Leg",
-      "matches": [
-        {
-          "date": "2017-04-11",
-          "team1": "Juventus",
-          "team2": "FC Barcelona",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-04-12",
-          "team1": "Atlético Madrid",
-          "team2": "Leicester City FC",
-          "score": {
-            "ft": [
-              1,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-04-12",
-          "team1": "Borussia Dortmund",
-          "team2": "AS Monaco",
-          "score": {
-            "ft": [
-              2,
-              3
-            ]
-          }
-        },
-        {
-          "date": "2017-04-12",
-          "team1": "Bayern München",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-11-23",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "name": "Quarter-finals - 2nd Leg",
-      "matches": [
-        {
-          "date": "2017-04-18",
-          "team1": "Leicester City FC",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              1,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-04-18",
-          "team1": "Real Madrid",
-          "team2": "Bayern München",
-          "score": {
-            "ft": [
-              4,
-              2
-            ]
-          }
-        },
-        {
-          "date": "2017-04-19",
-          "team1": "AS Monaco",
-          "team2": "Borussia Dortmund",
-          "score": {
-            "ft": [
-              3,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-04-19",
-          "team1": "FC Barcelona",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              0
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-11-23",
+      "time": "20:45",
+      "team1": "PFC Ludogorets Razgrad (BUL)",
+      "team2": "FC Basel 1893 (SUI)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "name": "Semi-finals - 1st Leg",
-      "matches": [
-        {
-          "date": "2017-05-02",
-          "team1": "Real Madrid",
-          "team2": "Atlético Madrid",
-          "score": {
-            "ft": [
-              3,
-              0
-            ]
-          }
-        },
-        {
-          "date": "2017-05-03",
-          "team1": "AS Monaco",
-          "team2": "Juventus",
-          "score": {
-            "ft": [
-              0,
-              2
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "FC Basel 1893 (SUI)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "name": "Semi-finals - 2nd Leg",
-      "matches": [
-        {
-          "date": "2017-05-09",
-          "team1": "Juventus",
-          "team2": "AS Monaco",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        },
-        {
-          "date": "2017-05-10",
-          "team1": "Atlético Madrid",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              2,
-              1
-            ]
-          }
-        }
-      ]
+      "round": "Group A",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "PFC Ludogorets Razgrad (BUL)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "name": "Final",
-      "matches": [
-        {
-          "date": "2017-06-03",
-          "team1": "Juventus",
-          "team2": "Real Madrid",
-          "score": {
-            "ft": [
-              1,
-              4
-            ]
-          }
-        }
-      ]
+      "round": "Group B",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "SSC Napoli (ITA)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Beşiktaş (TUR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "Beşiktaş (TUR)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "SSC Napoli (ITA)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "SSC Napoli (ITA)",
+      "team2": "Beşiktaş (TUR)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-11-01",
+      "time": "18:45",
+      "team1": "Beşiktaş (TUR)",
+      "team2": "SSC Napoli (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-11-23",
+      "time": "18:45",
+      "team1": "Beşiktaş (TUR)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-11-23",
+      "time": "20:45",
+      "team1": "SSC Napoli (ITA)",
+      "team2": "Dinamo Kiev (UKR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "Dinamo Kiev (UKR)",
+      "team2": "Beşiktaş (TUR)",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          6,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "SSC Napoli (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          7,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Bor. Mönchengladbach (GER)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach (GER)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "Bor. Mönchengladbach (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach (GER)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-11-23",
+      "time": "20:45",
+      "team1": "Bor. Mönchengladbach (GER)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-11-23",
+      "time": "20:45",
+      "team1": "Celtic FC (SCO)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Bor. Mönchengladbach (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "Celtic FC (SCO)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "FK Rostov (RUS)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-09-13",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-09-28",
+      "time": "20:45",
+      "team1": "FK Rostov (RUS)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-10-19",
+      "time": "20:45",
+      "team1": "FK Rostov (RUS)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "FK Rostov (RUS)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-11-01",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-11-23",
+      "time": "18:00",
+      "team1": "FK Rostov (RUS)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-11-23",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "PSV Eindhoven (NED)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2016-12-06",
+      "time": "20:45",
+      "team1": "PSV Eindhoven (NED)",
+      "team2": "FK Rostov (RUS)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "CSKA Moskva (RUS)",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Tottenham Hotspur (ENG)",
+      "team2": "AS Monaco (FRA)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "AS Monaco (FRA)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "CSKA Moskva (RUS)",
+      "team2": "Tottenham Hotspur (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "Tottenham Hotspur (ENG)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "CSKA Moskva (RUS)",
+      "team2": "AS Monaco (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "AS Monaco (FRA)",
+      "team2": "CSKA Moskva (RUS)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "Tottenham Hotspur (ENG)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-11-22",
+      "time": "18:00",
+      "team1": "CSKA Moskva (RUS)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "AS Monaco (FRA)",
+      "team2": "Tottenham Hotspur (ENG)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "AS Monaco (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Tottenham Hotspur (ENG)",
+      "team2": "CSKA Moskva (RUS)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Legia Warszawa (POL)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          6
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Sporting CP (POR)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "Sporting CP (POR)",
+      "team2": "Legia Warszawa (POL)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Legia Warszawa (POL)",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Sporting CP (POR)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Sporting CP (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "Legia Warszawa (POL)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Legia Warszawa (POL)",
+      "score": {
+        "ht": [
+          5,
+          2
+        ],
+        "ft": [
+          8,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "Sporting CP (POR)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Legia Warszawa (POL)",
+      "team2": "Sporting CP (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Club Brugge KV (BEL)",
+      "team2": "Leicester City (ENG)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "FC København (DEN)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "FC København (DEN)",
+      "team2": "Club Brugge KV (BEL)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "Leicester City (ENG)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Club Brugge KV (BEL)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Leicester City (ENG)",
+      "team2": "FC København (DEN)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "FC København (DEN)",
+      "team2": "Leicester City (ENG)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Club Brugge KV (BEL)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "FC København (DEN)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "Leicester City (ENG)",
+      "team2": "Club Brugge KV (BEL)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Club Brugge KV (BEL)",
+      "team2": "FC København (DEN)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Leicester City (ENG)",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-09-14",
+      "time": "20:45",
+      "team1": "Olympique Lyonnais (FRA)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-09-27",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Olympique Lyonnais (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-10-18",
+      "time": "20:45",
+      "team1": "Olympique Lyonnais (FRA)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Olympique Lyonnais (FRA)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-11-02",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "Dinamo Zagreb (CRO)",
+      "team2": "Olympique Lyonnais (FRA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-11-22",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Dinamo Zagreb (CRO)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2016-12-07",
+      "time": "20:45",
+      "team1": "Olympique Lyonnais (FRA)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-14",
+      "time": "20:45",
+      "team1": "SL Benfica (POR)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-14",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-15",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "SSC Napoli (ITA)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-15",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Arsenal FC (ENG)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-21",
+      "time": "20:45",
+      "team1": "Manchester City (ENG)",
+      "team2": "AS Monaco (FRA)",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-21",
+      "time": "20:45",
+      "team1": "Bayer Leverkusen (GER)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-22",
+      "time": "20:45",
+      "team1": "FC Porto (POR)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-02-22",
+      "time": "20:45",
+      "team1": "Sevilla FC (ESP)",
+      "team2": "Leicester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-07",
+      "time": "20:45",
+      "team1": "SSC Napoli (ITA)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-07",
+      "time": "20:45",
+      "team1": "Arsenal FC (ENG)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-08",
+      "time": "20:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-08",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-14",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "FC Porto (POR)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-14",
+      "time": "20:45",
+      "team1": "Leicester City (ENG)",
+      "team2": "Sevilla FC (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-15",
+      "time": "20:45",
+      "team1": "AS Monaco (FRA)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Round of 16",
+      "date": "2017-03-15",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Bayer Leverkusen (GER)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-11",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "FC Barcelona (ESP)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-12",
+      "time": "18:45",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "AS Monaco (FRA)",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-12",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Leicester City (ENG)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-12",
+      "time": "20:45",
+      "team1": "Bayern München (GER)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-18",
+      "time": "20:45",
+      "team1": "Leicester City (ENG)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-18",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Bayern München (GER)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ],
+        "et": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-19",
+      "time": "20:45",
+      "team1": "FC Barcelona (ESP)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2017-04-19",
+      "time": "20:50",
+      "team1": "AS Monaco (FRA)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2017-05-02",
+      "time": "20:45",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2017-05-03",
+      "time": "20:45",
+      "team1": "AS Monaco (FRA)",
+      "team2": "Juventus (ITA)",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2017-05-09",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "AS Monaco (FRA)",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2017-05-10",
+      "time": "20:45",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Final",
+      "date": "2017-06-03",
+      "time": "20:45",
+      "team1": "Juventus (ITA)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     }
   ]
 }

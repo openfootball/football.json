@@ -1,13 +1,17 @@
 {
-  "name": "Super League 2019/20",
+  "name": "Greek Super League 2019/20",
   "matches": [
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-24",
-      "team1": "PAS Lamia 1964",
-      "team2": "Panathinaikos FC",
+      "time": "19:00",
+      "team1": "Lamia",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -15,12 +19,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-24",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "OFI Crete FC",
+      "time": "21:00",
+      "team1": "Aris Saloniki",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -28,12 +36,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-24",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "21:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -41,12 +53,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-25",
-      "team1": "Atromitos FC",
-      "team2": "AE Larissa FC",
+      "time": "18:45",
+      "team1": "Atromitos",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -54,12 +70,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-25",
-      "team1": "AEK Athens FC",
-      "team2": "Xanthi FC",
+      "time": "19:15",
+      "team1": "Panionios GSS",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -67,12 +87,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-25",
-      "team1": "PAOK FC",
-      "team2": "Panetolikos GFS",
+      "time": "20:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -80,25 +104,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2019-08-25",
-      "team1": "Panionios GSS",
-      "team2": "Volos FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 2",
-      "date": "2019-08-31",
-      "team1": "Panetolikos GFS",
+      "time": "22:00",
+      "team1": "AEK Athen",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -106,25 +121,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2019-08-31",
-      "team1": "Volos FC",
-      "team2": "Aris Thessaloniki FC",
+      "time": "19:00",
+      "team1": "Panetolikos",
+      "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
-          0
+          2
         ]
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2019-08-31",
-      "team1": "Panathinaikos FC",
-      "team2": "OFI Crete FC",
+      "time": "19:15",
+      "team1": "Panathinaikos",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -132,12 +155,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 2",
+      "round": "Matchday 2",
+      "date": "2019-08-31",
+      "time": "21:30",
+      "team1": "Volos NFC",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2019-09-01",
-      "team1": "PAOK FC",
+      "time": "19:00",
+      "team1": "PAOK Saloniki",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -145,12 +189,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2019-09-01",
-      "team1": "AE Larissa FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "19:15",
+      "team1": "AE Lárissa",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -158,12 +206,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2019-09-01",
-      "team1": "PAS Lamia 1964",
-      "team2": "Atromitos FC",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -171,12 +223,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2019-09-01",
-      "team1": "Asteras Tripolis FC",
-      "team2": "AEK Athens FC",
+      "time": "21:30",
+      "team1": "Asteras Tripolis",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -184,12 +240,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2019-09-14",
-      "team1": "Atromitos FC",
-      "team2": "PAOK FC",
+      "time": "19:00",
+      "team1": "Atromitos",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -197,12 +257,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2019-09-14",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Volos FC",
+      "time": "19:15",
+      "team1": "OFI Heraklion",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-09-14",
+      "time": "21:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Volos NFC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           5,
           0
@@ -210,25 +291,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 3",
-      "date": "2019-09-14",
-      "team1": "OFI Crete FC",
-      "team2": "Panetolikos GFS",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2019-09-15",
+      "time": "19:00",
       "team1": "Xanthi FC",
-      "team2": "Asteras Tripolis FC",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -236,12 +308,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2019-09-15",
-      "team1": "AEK Athens FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:15",
+      "team1": "AEK Athen",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -249,12 +325,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2019-09-15",
+      "time": "19:15",
       "team1": "Panionios GSS",
-      "team2": "AE Larissa FC",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -262,12 +342,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2019-09-15",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Panathinaikos FC",
+      "time": "21:30",
+      "team1": "Aris Saloniki",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -275,12 +359,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-21",
-      "team1": "Volos FC",
-      "team2": "OFI Crete FC",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -288,12 +376,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-21",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Atromitos FC",
+      "time": "19:30",
+      "team1": "Asteras Tripolis",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           1
@@ -301,12 +393,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-21",
-      "team1": "Panetolikos GFS",
-      "team2": "AEK Athens FC",
+      "time": "20:00",
+      "team1": "Panetolikos",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -314,12 +410,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-22",
-      "team1": "AE Larissa FC",
+      "time": "15:00",
+      "team1": "AE Lárissa",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -327,12 +427,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-22",
-      "team1": "PAOK FC",
-      "team2": "Aris Thessaloniki FC",
+      "time": "18:30",
+      "team1": "PAOK Saloniki",
+      "team2": "Aris Saloniki",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -340,12 +444,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-22",
-      "team1": "PAS Lamia 1964",
+      "time": "19:30",
+      "team1": "Lamia",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -353,12 +461,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2019-09-22",
-      "team1": "Panathinaikos FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "20:30",
+      "team1": "Panathinaikos",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -366,12 +478,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2019-09-28",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "AE Larissa FC",
+      "time": "17:15",
+      "team1": "Aris Saloniki",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -379,12 +495,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2019-09-28",
-      "team1": "Atromitos FC",
-      "team2": "Panetolikos GFS",
+      "time": "19:00",
+      "team1": "Atromitos",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -392,12 +512,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2019-09-28",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -405,12 +529,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2019-09-29",
-      "team1": "OFI Crete FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "15:00",
+      "team1": "OFI Heraklion",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -418,12 +546,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2019-09-29",
+      "time": "17:00",
       "team1": "Xanthi FC",
-      "team2": "Volos FC",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -431,25 +563,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2019-09-29",
-      "team1": "AEK Athens FC",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 5",
-      "date": "2019-09-29",
+      "time": "17:15",
       "team1": "Panionios GSS",
-      "team2": "Panathinaikos FC",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -457,11 +580,45 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 6",
+      "round": "Matchday 5",
+      "date": "2019-09-29",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2019-10-05",
-      "team1": "AE Larissa FC",
-      "team2": "AEK Athens FC",
+      "time": "17:15",
+      "team1": "Panathinaikos",
+      "team2": "Xanthi FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2019-10-05",
+      "time": "19:30",
+      "team1": "AE Lárissa",
+      "team2": "AEK Athen",
       "score": {
         "ft": [
           0,
@@ -470,25 +627,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 6",
-      "date": "2019-10-05",
-      "team1": "Panathinaikos FC",
-      "team2": "Xanthi FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2019-10-06",
-      "team1": "Volos FC",
-      "team2": "Atromitos FC",
+      "time": "15:00",
+      "team1": "Volos NFC",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -496,12 +644,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2019-10-06",
-      "team1": "Asteras Tripolis FC",
-      "team2": "PAOK FC",
+      "time": "17:15",
+      "team1": "Asteras Tripolis",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -509,25 +661,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2019-10-06",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 6",
-      "date": "2019-10-06",
-      "team1": "OFI Crete FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           1
@@ -535,11 +678,28 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 6",
+      "round": "Matchday 6",
+      "date": "2019-10-06",
+      "time": "19:30",
+      "team1": "Aris Saloniki",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2019-10-07",
-      "team1": "PAS Lamia 1964",
-      "team2": "Panetolikos GFS",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Panetolikos",
       "score": {
         "ft": [
           0,
@@ -548,12 +708,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2019-10-19",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "OFI Crete FC",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -561,12 +725,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2019-10-19",
-      "team1": "Panetolikos GFS",
-      "team2": "AE Larissa FC",
+      "time": "20:00",
+      "team1": "Panetolikos",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -574,12 +742,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2019-10-20",
+      "time": "16:45",
       "team1": "Panionios GSS",
-      "team2": "Asteras Tripolis FC",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -587,12 +759,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2019-10-20",
+      "time": "17:00",
       "team1": "Xanthi FC",
-      "team2": "Aris Thessaloniki FC",
+      "team2": "Aris Saloniki",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -600,38 +776,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2019-10-20",
-      "team1": "Atromitos FC",
-      "team2": "Panathinaikos FC",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Lamia",
       "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 7",
-      "date": "2019-10-20",
-      "team1": "AEK Athens FC",
-      "team2": "Volos FC",
-      "score": {
-        "ft": [
+        "ht": [
           3,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 7",
-      "date": "2019-10-20",
-      "team1": "PAOK FC",
-      "team2": "PAS Lamia 1964",
-      "score": {
+          0
+        ],
         "ft": [
           3,
           0
@@ -639,12 +793,50 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 8",
+      "round": "Matchday 7",
+      "date": "2019-10-20",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "Volos NFC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-10-20",
+      "time": "20:00",
+      "team1": "Atromitos",
+      "team2": "Panathinaikos",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
       "date": "2019-10-26",
-      "team1": "OFI Crete FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -652,12 +844,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2019-10-26",
-      "team1": "Volos FC",
-      "team2": "PAOK FC",
+      "time": "19:30",
+      "team1": "Volos NFC",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -665,25 +861,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2019-10-27",
-      "team1": "Atromitos FC",
-      "team2": "Panionios GSS",
+      "time": "15:00",
+      "team1": "Panathinaikos",
+      "team2": "AE Lárissa",
       "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 8",
-      "date": "2019-10-27",
-      "team1": "Panathinaikos FC",
-      "team2": "AE Larissa FC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -691,12 +878,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2019-10-27",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Panetolikos GFS",
+      "time": "17:00",
+      "team1": "Atromitos",
+      "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-10-27",
+      "time": "17:15",
+      "team1": "Aris Saloniki",
+      "team2": "Panetolikos",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -704,12 +912,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2019-10-27",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "AEK Athens FC",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -717,12 +929,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2019-10-28",
-      "team1": "Asteras Tripolis FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:30",
+      "team1": "Asteras Tripolis",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           1
@@ -730,12 +946,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2019-11-02",
+      "time": "19:30",
       "team1": "Panionios GSS",
-      "team2": "Aris Thessaloniki FC",
+      "team2": "Aris Saloniki",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -743,11 +963,11 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2019-11-02",
+      "time": "20:00",
       "team1": "Xanthi FC",
-      "team2": "Olympiacos Piraeus FC",
+      "team2": "Olympiakos Piraeus",
       "score": {
         "ft": [
           0,
@@ -756,12 +976,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2019-11-03",
-      "team1": "AE Larissa FC",
-      "team2": "OFI Crete FC",
+      "time": "15:00",
+      "team1": "AE Lárissa",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           3,
           2
@@ -769,12 +993,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2019-11-03",
-      "team1": "Panetolikos GFS",
-      "team2": "Asteras Tripolis FC",
+      "time": "17:00",
+      "team1": "Panetolikos",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -782,25 +1010,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2019-11-03",
-      "team1": "PAOK FC",
-      "team2": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "Atromitos",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 9",
-      "date": "2019-11-03",
-      "team1": "AEK Athens FC",
-      "team2": "Atromitos FC",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -808,12 +1027,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 9",
+      "round": "Matchday 9",
+      "date": "2019-11-03",
+      "time": "20:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Panathinaikos",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
       "date": "2019-11-04",
-      "team1": "PAS Lamia 1964",
-      "team2": "Volos FC",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -821,12 +1061,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2019-11-09",
-      "team1": "Volos FC",
-      "team2": "Panetolikos GFS",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           2
@@ -834,12 +1078,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2019-11-09",
-      "team1": "OFI Crete FC",
-      "team2": "PAOK FC",
+      "time": "19:30",
+      "team1": "OFI Heraklion",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -847,12 +1095,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2019-11-10",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "15:00",
+      "team1": "Aris Saloniki",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -860,38 +1112,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2019-11-10",
-      "team1": "Panathinaikos FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 10",
-      "date": "2019-11-10",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Atromitos FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 10",
-      "date": "2019-11-10",
+      "time": "17:00",
       "team1": "Xanthi FC",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -899,12 +1129,50 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 10",
-      "date": "2019-11-11",
-      "team1": "AE Larissa FC",
-      "team2": "PAS Lamia 1964",
+      "round": "Matchday 10",
+      "date": "2019-11-10",
+      "time": "17:15",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-11-10",
+      "time": "19:30",
+      "team1": "Panathinaikos",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-11-11",
+      "time": "19:30",
+      "team1": "AE Lárissa",
+      "team2": "Lamia",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -912,25 +1180,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2019-11-23",
-      "team1": "PAS Lamia 1964",
-      "team2": "Xanthi FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 11",
-      "date": "2019-11-23",
+      "time": "19:30",
       "team1": "Panionios GSS",
-      "team2": "Olympiacos Piraeus FC",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -938,12 +1197,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 11",
-      "date": "2019-11-24",
-      "team1": "Atromitos FC",
-      "team2": "OFI Crete FC",
+      "round": "Matchday 11",
+      "date": "2019-11-23",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-11-24",
+      "time": "17:00",
+      "team1": "Atromitos",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -951,11 +1231,11 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2019-11-24",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Volos FC",
+      "time": "17:15",
+      "team1": "Asteras Tripolis",
+      "team2": "Volos NFC",
       "score": {
         "ft": [
           0,
@@ -964,12 +1244,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2019-11-24",
-      "team1": "PAOK FC",
-      "team2": "AE Larissa FC",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -977,25 +1261,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2019-11-24",
-      "team1": "Panetolikos GFS",
-      "team2": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "Aris Saloniki",
       "score": {
-        "ft": [
+        "ht": [
           0,
           0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 11",
-      "date": "2019-11-24",
-      "team1": "AEK Athens FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -1003,25 +1278,46 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 12",
-      "date": "2019-11-30",
-      "team1": "OFI Crete FC",
-      "team2": "AEK Athens FC",
+      "round": "Matchday 11",
+      "date": "2019-11-24",
+      "time": "19:30",
+      "team1": "Panetolikos",
+      "team2": "Panathinaikos",
       "score": {
         "ft": [
-          1,
+          0,
           0
         ]
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2019-11-30",
-      "team1": "Panionios GSS",
-      "team2": "Panetolikos GFS",
+      "time": "17:15",
+      "team1": "AE Lárissa",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-11-30",
+      "time": "17:15",
+      "team1": "Panionios GSS",
+      "team2": "Panetolikos",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1029,25 +1325,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2019-11-30",
-      "team1": "AE Larissa FC",
-      "team2": "Volos FC",
+      "time": "19:30",
+      "team1": "OFI Heraklion",
+      "team2": "AEK Athen",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 12",
-      "date": "2019-12-01",
-      "team1": "Panathinaikos FC",
-      "team2": "Asteras Tripolis FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1055,12 +1342,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2019-12-01",
+      "time": "15:00",
+      "team1": "Panathinaikos",
+      "team2": "Asteras Tripolis",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2019-12-01",
+      "time": "17:15",
       "team1": "Xanthi FC",
-      "team2": "Atromitos FC",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1068,12 +1376,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2019-12-01",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "PAS Lamia 1964",
+      "time": "17:15",
+      "team1": "Aris Saloniki",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1081,12 +1393,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2019-12-01",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "PAOK FC",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1094,12 +1410,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-07",
-      "team1": "PAOK FC",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1107,12 +1427,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-07",
-      "team1": "AEK Athens FC",
+      "time": "19:30",
+      "team1": "AEK Athen",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -1120,12 +1444,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-07",
-      "team1": "Panetolikos GFS",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "20:00",
+      "team1": "Panetolikos",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           3
@@ -1133,12 +1461,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "PAS Lamia 1964",
-      "team2": "OFI Crete FC",
+      "time": "15:00",
+      "team1": "Lamia",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1146,12 +1478,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "Asteras Tripolis FC",
-      "team2": "AE Larissa FC",
+      "time": "17:15",
+      "team1": "Asteras Tripolis",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1159,12 +1495,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "Atromitos FC",
-      "team2": "Aris Thessaloniki FC",
+      "time": "19:30",
+      "team1": "Atromitos",
+      "team2": "Aris Saloniki",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1172,12 +1512,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2019-12-08",
-      "team1": "Volos FC",
-      "team2": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "Volos NFC",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1185,38 +1529,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2019-12-14",
-      "team1": "Xanthi FC",
-      "team2": "AEK Athens FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
+      "team2": "Aris Saloniki",
       "score": {
-        "ft": [
-          0,
+        "ht": [
+          1,
           1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 14",
-      "date": "2019-12-14",
-      "team1": "Panathinaikos FC",
-      "team2": "PAS Lamia 1964",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 14",
-      "date": "2019-12-14",
-      "team1": "OFI Crete FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
+        ],
         "ft": [
           3,
           1
@@ -1224,12 +1546,50 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 14",
-      "date": "2019-12-15",
-      "team1": "AE Larissa FC",
-      "team2": "Atromitos FC",
+      "round": "Matchday 14",
+      "date": "2019-12-14",
+      "time": "19:30",
+      "team1": "Panathinaikos",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-12-14",
+      "time": "20:00",
+      "team1": "Xanthi FC",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-12-15",
+      "time": "15:00",
+      "team1": "AE Lárissa",
+      "team2": "Atromitos",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -1237,12 +1597,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2019-12-15",
-      "team1": "Volos FC",
+      "time": "17:15",
+      "team1": "Volos NFC",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1250,12 +1614,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2019-12-15",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "19:30",
+      "team1": "Asteras Tripolis",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          4
+        ],
         "ft": [
           0,
           5
@@ -1263,12 +1631,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2019-12-15",
-      "team1": "Panetolikos GFS",
-      "team2": "PAOK FC",
+      "time": "19:30",
+      "team1": "Panetolikos",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -1276,11 +1648,11 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-18",
+      "time": "17:00",
       "team1": "Xanthi FC",
-      "team2": "Panetolikos GFS",
+      "team2": "Panetolikos",
       "score": {
         "ft": [
           0,
@@ -1289,12 +1661,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-18",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "AE Larissa FC",
+      "time": "17:15",
+      "team1": "Olympiakos Piraeus",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1302,12 +1678,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-18",
-      "team1": "OFI Crete FC",
-      "team2": "Panathinaikos FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1315,12 +1695,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-18",
-      "team1": "AEK Athens FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1328,12 +1712,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-18",
-      "team1": "Atromitos FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:30",
+      "team1": "Atromitos",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1341,12 +1729,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-19",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Volos FC",
+      "time": "17:15",
+      "team1": "Aris Saloniki",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1354,12 +1746,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2019-12-19",
+      "time": "19:30",
       "team1": "Panionios GSS",
-      "team2": "PAOK FC",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1367,12 +1763,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 16",
+      "round": "Matchday 16",
       "date": "2019-12-21",
-      "team1": "Asteras Tripolis FC",
+      "time": "19:30",
+      "team1": "Asteras Tripolis",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -1380,11 +1780,11 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 16",
+      "round": "Matchday 16",
       "date": "2019-12-21",
-      "team1": "PAS Lamia 1964",
-      "team2": "AEK Athens FC",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "AEK Athen",
       "score": {
         "ft": [
           0,
@@ -1393,51 +1793,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 16",
+      "round": "Matchday 16",
       "date": "2019-12-22",
-      "team1": "Panathinaikos FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 16",
-      "date": "2019-12-22",
-      "team1": "Panetolikos GFS",
-      "team2": "OFI Crete FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 16",
-      "date": "2019-12-22",
-      "team1": "Volos FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 16",
-      "date": "2019-12-22",
-      "team1": "AE Larissa FC",
+      "time": "15:00",
+      "team1": "AE Lárissa",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1445,12 +1810,59 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 16",
+      "round": "Matchday 16",
+      "date": "2019-12-22",
+      "time": "17:00",
+      "team1": "Panetolikos",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-22",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-22",
+      "time": "19:30",
+      "team1": "Panathinaikos",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
       "date": "2019-12-23",
-      "team1": "PAOK FC",
-      "team2": "Atromitos FC",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           1
@@ -1458,12 +1870,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2020-01-04",
-      "team1": "OFI Crete FC",
-      "team2": "Volos FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1471,12 +1887,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2020-01-04",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "PAOK FC",
+      "time": "19:30",
+      "team1": "Aris Saloniki",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           4,
           2
@@ -1484,12 +1904,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2020-01-04",
-      "team1": "Atromitos FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "20:00",
+      "team1": "Atromitos",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1497,12 +1921,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2020-01-05",
-      "team1": "AEK Athens FC",
-      "team2": "Panetolikos GFS",
+      "time": "15:00",
+      "team1": "AEK Athen",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1510,38 +1938,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2020-01-05",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Panathinaikos FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 17",
-      "date": "2020-01-05",
-      "team1": "Panionios GSS",
-      "team2": "PAS Lamia 1964",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 17",
-      "date": "2020-01-05",
+      "time": "17:15",
       "team1": "Xanthi FC",
-      "team2": "AE Larissa FC",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1549,12 +1955,50 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 18",
+      "round": "Matchday 17",
+      "date": "2020-01-05",
+      "time": "17:15",
+      "team1": "Panionios GSS",
+      "team2": "Lamia",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2020-01-05",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Panathinaikos",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
       "date": "2020-01-11",
-      "team1": "Volos FC",
+      "time": "17:15",
+      "team1": "Volos NFC",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -1562,12 +2006,29 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2020-01-11",
-      "team1": "Panetolikos GFS",
-      "team2": "Atromitos FC",
+      "time": "19:30",
+      "team1": "AE Lárissa",
+      "team2": "Aris Saloniki",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2020-01-11",
+      "time": "20:00",
+      "team1": "Panetolikos",
+      "team2": "Atromitos",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1575,25 +2036,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 18",
-      "date": "2020-01-11",
-      "team1": "AE Larissa FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2020-01-12",
-      "team1": "Asteras Tripolis FC",
-      "team2": "OFI Crete FC",
+      "time": "15:00",
+      "team1": "Asteras Tripolis",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1601,12 +2053,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2020-01-12",
-      "team1": "PAS Lamia 1964",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "17:15",
+      "team1": "Lamia",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -1614,25 +2070,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2020-01-12",
-      "team1": "PAOK FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 18",
-      "date": "2020-01-12",
-      "team1": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "Panathinaikos",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1640,12 +2087,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 19",
-      "date": "2020-01-18",
-      "team1": "Panionios GSS",
-      "team2": "OFI Crete FC",
+      "round": "Matchday 18",
+      "date": "2020-01-12",
+      "time": "19:30",
+      "team1": "PAOK Saloniki",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-18",
+      "time": "19:30",
+      "team1": "Panionios GSS",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1653,12 +2121,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2020-01-18",
-      "team1": "Panetolikos GFS",
-      "team2": "PAS Lamia 1964",
+      "time": "20:00",
+      "team1": "Panetolikos",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1666,12 +2138,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2020-01-19",
+      "time": "15:00",
       "team1": "Xanthi FC",
-      "team2": "Panathinaikos FC",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1679,12 +2155,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2020-01-19",
-      "team1": "AEK Athens FC",
-      "team2": "AE Larissa FC",
+      "time": "17:15",
+      "team1": "AEK Athen",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1692,12 +2172,46 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2020-01-19",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Aris Thessaloniki FC",
+      "time": "17:15",
+      "team1": "Atromitos",
+      "team2": "Volos NFC",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-19",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Asteras Tripolis",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2020-01-19",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           2
@@ -1705,38 +2219,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 19",
-      "date": "2020-01-19",
-      "team1": "PAOK FC",
-      "team2": "Asteras Tripolis FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 19",
-      "date": "2020-01-19",
-      "team1": "Atromitos FC",
-      "team2": "Volos FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2020-01-22",
-      "team1": "AE Larissa FC",
-      "team2": "Panetolikos GFS",
+      "time": "15:00",
+      "team1": "AE Lárissa",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1744,12 +2236,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2020-01-22",
-      "team1": "Volos FC",
-      "team2": "AEK Athens FC",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1757,12 +2253,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2020-01-22",
-      "team1": "OFI Crete FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1770,12 +2270,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2020-01-22",
-      "team1": "Panathinaikos FC",
-      "team2": "Atromitos FC",
+      "time": "19:30",
+      "team1": "Panathinaikos",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1783,38 +2287,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2020-01-23",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Xanthi FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 20",
-      "date": "2020-01-23",
-      "team1": "PAS Lamia 1964",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 20",
-      "date": "2020-01-23",
-      "team1": "Asteras Tripolis FC",
+      "time": "17:15",
+      "team1": "Asteras Tripolis",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1822,12 +2304,50 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 21",
+      "round": "Matchday 20",
+      "date": "2020-01-23",
+      "time": "19:00",
+      "team1": "Lamia",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-23",
+      "time": "19:30",
+      "team1": "Aris Saloniki",
+      "team2": "Xanthi FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
       "date": "2020-01-25",
-      "team1": "AE Larissa FC",
-      "team2": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "AE Lárissa",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -1835,12 +2355,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2020-01-26",
+      "time": "15:00",
       "team1": "Xanthi FC",
-      "team2": "OFI Crete FC",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1848,12 +2372,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2020-01-26",
+      "time": "15:00",
       "team1": "Panionios GSS",
-      "team2": "Atromitos FC",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1861,11 +2389,28 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2020-01-26",
-      "team1": "AEK Athens FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "17:15",
+      "team1": "Panetolikos",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-26",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "Olympiakos Piraeus",
       "score": {
         "ft": [
           0,
@@ -1874,25 +2419,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 21",
-      "date": "2020-01-26",
-      "team1": "Panetolikos GFS",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2020-01-27",
-      "team1": "PAOK FC",
-      "team2": "Volos FC",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1900,12 +2436,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2020-01-27",
-      "team1": "PAS Lamia 1964",
-      "team2": "Asteras Tripolis FC",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1913,12 +2453,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
-      "team1": "Volos FC",
-      "team2": "PAS Lamia 1964",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1926,11 +2470,11 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
-      "team1": "OFI Crete FC",
-      "team2": "AE Larissa FC",
+      "time": "17:15",
+      "team1": "OFI Heraklion",
+      "team2": "AE Lárissa",
       "score": {
         "ft": [
           0,
@@ -1939,12 +2483,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
-      "team1": "Olympiacos Piraeus FC",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1952,12 +2500,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-02",
-      "team1": "Aris Thessaloniki FC",
+      "time": "15:00",
+      "team1": "Aris Saloniki",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1965,25 +2517,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-02",
-      "team1": "Panathinaikos FC",
-      "team2": "PAOK FC",
+      "time": "17:15",
+      "team1": "Asteras Tripolis",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
-          0
+          1
         ]
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-02",
-      "team1": "Atromitos FC",
-      "team2": "AEK Athens FC",
+      "time": "17:15",
+      "team1": "Atromitos",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1991,22 +2551,26 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 22",
+      "round": "Matchday 22",
       "date": "2020-02-02",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Panetolikos GFS",
+      "time": "19:30",
+      "team1": "Panathinaikos",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
-          1
+          0
         ]
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 23",
+      "round": "Matchday 23",
       "date": "2020-02-08",
+      "time": "19:30",
       "team1": "Panionios GSS",
       "team2": "Xanthi FC",
       "score": {
@@ -2017,11 +2581,11 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 23",
+      "round": "Matchday 23",
       "date": "2020-02-08",
-      "team1": "PAS Lamia 1964",
-      "team2": "AE Larissa FC",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "AE Lárissa",
       "score": {
         "ft": [
           0,
@@ -2030,25 +2594,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 23",
+      "round": "Matchday 23",
       "date": "2020-02-09",
-      "team1": "Atromitos FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "15:00",
+      "team1": "Asteras Tripolis",
+      "team2": "Aris Saloniki",
       "score": {
-        "ft": [
-          0,
+        "ht": [
+          1,
           1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 23",
-      "date": "2020-02-09",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -2056,12 +2611,33 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 23",
+      "round": "Matchday 23",
       "date": "2020-02-09",
-      "team1": "PAOK FC",
-      "team2": "OFI Crete FC",
+      "time": "17:15",
+      "team1": "Atromitos",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-09",
+      "time": "18:00",
+      "team1": "PAOK Saloniki",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2069,12 +2645,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 23",
+      "round": "Matchday 23",
       "date": "2020-02-09",
-      "team1": "AEK Athens FC",
-      "team2": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2082,12 +2662,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 23",
+      "round": "Matchday 23",
       "date": "2020-02-10",
-      "team1": "Panetolikos GFS",
-      "team2": "Volos FC",
+      "time": "18:00",
+      "team1": "Panetolikos",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2095,12 +2679,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 24",
+      "round": "Matchday 24",
       "date": "2020-02-15",
-      "team1": "AE Larissa FC",
-      "team2": "PAOK FC",
+      "time": "17:15",
+      "team1": "AE Lárissa",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -2108,12 +2696,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 24",
+      "round": "Matchday 24",
       "date": "2020-02-15",
-      "team1": "Olympiacos Piraeus FC",
+      "time": "19:30",
+      "team1": "Olympiakos Piraeus",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2121,11 +2713,28 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 24",
+      "round": "Matchday 24",
       "date": "2020-02-16",
+      "time": "15:00",
+      "team1": "Panathinaikos",
+      "team2": "Panetolikos",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-16",
+      "time": "17:15",
       "team1": "Xanthi FC",
-      "team2": "PAS Lamia 1964",
+      "team2": "Lamia",
       "score": {
         "ft": [
           0,
@@ -2134,25 +2743,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 24",
+      "round": "Matchday 24",
       "date": "2020-02-16",
-      "team1": "Panathinaikos FC",
-      "team2": "Panetolikos GFS",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "Asteras Tripolis",
       "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 24",
-      "date": "2020-02-16",
-      "team1": "Volos FC",
-      "team2": "Asteras Tripolis FC",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2160,12 +2760,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 24",
+      "round": "Matchday 24",
       "date": "2020-02-16",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "AEK Athens FC",
+      "time": "19:30",
+      "team1": "Aris Saloniki",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2173,12 +2777,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 24",
+      "round": "Matchday 24",
       "date": "2020-02-17",
-      "team1": "OFI Crete FC",
-      "team2": "Atromitos FC",
+      "time": "19:30",
+      "team1": "OFI Heraklion",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2186,12 +2794,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 25",
+      "round": "Matchday 25",
       "date": "2020-02-22",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Panathinaikos FC",
+      "time": "19:30",
+      "team1": "Asteras Tripolis",
+      "team2": "Panathinaikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2199,12 +2811,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 25",
+      "round": "Matchday 25",
       "date": "2020-02-22",
-      "team1": "PAS Lamia 1964",
-      "team2": "Aris Thessaloniki FC",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Aris Saloniki",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -2212,25 +2828,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 25",
+      "round": "Matchday 25",
       "date": "2020-02-23",
-      "team1": "Atromitos FC",
-      "team2": "Xanthi FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Regular Season",
-      "round": "Round 25",
-      "date": "2020-02-23",
-      "team1": "Panetolikos GFS",
+      "time": "15:00",
+      "team1": "Panetolikos",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2238,11 +2845,28 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 25",
+      "round": "Matchday 25",
       "date": "2020-02-23",
-      "team1": "Volos FC",
-      "team2": "AE Larissa FC",
+      "time": "17:15",
+      "team1": "Atromitos",
+      "team2": "Xanthi FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-23",
+      "time": "17:15",
+      "team1": "Volos NFC",
+      "team2": "AE Lárissa",
       "score": {
         "ft": [
           0,
@@ -2251,12 +2875,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 25",
+      "round": "Matchday 25",
       "date": "2020-02-23",
-      "team1": "AEK Athens FC",
-      "team2": "OFI Crete FC",
+      "time": "19:30",
+      "team1": "AEK Athen",
+      "team2": "OFI Heraklion",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2264,12 +2892,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 25",
+      "round": "Matchday 25",
       "date": "2020-02-23",
-      "team1": "PAOK FC",
-      "team2": "Olympiacos Piraeus FC",
+      "time": "19:30",
+      "team1": "PAOK Saloniki",
+      "team2": "Olympiakos Piraeus",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2277,12 +2909,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
-      "team1": "AE Larissa FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "19:00",
+      "team1": "AE Lárissa",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2290,12 +2926,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
+      "time": "19:00",
       "team1": "Xanthi FC",
-      "team2": "PAOK FC",
+      "team2": "PAOK Saloniki",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2303,12 +2943,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Atromitos FC",
+      "time": "19:00",
+      "team1": "Aris Saloniki",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2316,12 +2960,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Panetolikos GFS",
+      "time": "19:00",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2329,12 +2977,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
-      "team1": "OFI Crete FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:00",
+      "team1": "OFI Heraklion",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2342,12 +2994,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
-      "team1": "Panathinaikos FC",
-      "team2": "Volos FC",
+      "time": "19:00",
+      "team1": "Panathinaikos",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -2355,12 +3011,16 @@
       }
     },
     {
-      "stage": "Regular Season",
-      "round": "Round 26",
+      "round": "Matchday 26",
       "date": "2020-03-01",
+      "time": "19:00",
       "team1": "Panionios GSS",
-      "team2": "AEK Athens FC",
+      "team2": "AEK Athen",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2368,402 +3028,16 @@
       }
     },
     {
-      "stage": "Playoffs - Championship",
-      "round": "Round 1",
+      "round": "Relegation, Matchday 1",
       "date": "2020-06-06",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "OFI Crete FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 1",
-      "date": "2020-06-07",
-      "team1": "AEK Athens FC",
-      "team2": "Panathinaikos FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 1",
-      "date": "2020-06-07",
-      "team1": "PAOK FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 2",
-      "date": "2020-06-13",
-      "team1": "Panathinaikos FC",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 2",
-      "date": "2020-06-14",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 2",
-      "date": "2020-06-14",
-      "team1": "OFI Crete FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 3",
-      "date": "2020-06-20",
-      "team1": "PAOK FC",
-      "team2": "OFI Crete FC",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 3",
-      "date": "2020-06-20",
-      "team1": "AEK Athens FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 3",
-      "date": "2020-06-21",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "Panathinaikos FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 4",
-      "date": "2020-06-27",
-      "team1": "OFI Crete FC",
-      "team2": "Panathinaikos FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 4",
-      "date": "2020-06-28",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 4",
-      "date": "2020-06-28",
-      "team1": "AEK Athens FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 5",
-      "date": "2020-07-01",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "OFI Crete FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 5",
-      "date": "2020-07-01",
-      "team1": "Panathinaikos FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 5",
-      "date": "2020-07-01",
-      "team1": "PAOK FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 6",
-      "date": "2020-07-04",
-      "team1": "OFI Crete FC",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 6",
-      "date": "2020-07-05",
-      "team1": "Panathinaikos FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 6",
-      "date": "2020-07-05",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 7",
-      "date": "2020-07-08",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 7",
-      "date": "2020-07-08",
-      "team1": "PAOK FC",
-      "team2": "Panathinaikos FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 7",
-      "date": "2020-07-08",
-      "team1": "AEK Athens FC",
-      "team2": "OFI Crete FC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 8",
-      "date": "2020-07-11",
-      "team1": "OFI Crete FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 8",
-      "date": "2020-07-12",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 8",
-      "date": "2020-07-12",
-      "team1": "Panathinaikos FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 9",
-      "date": "2020-07-15",
-      "team1": "AEK Athens FC",
-      "team2": "PAOK FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 9",
-      "date": "2020-07-15",
-      "team1": "OFI Crete FC",
-      "team2": "Olympiacos Piraeus FC",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 9",
-      "date": "2020-07-15",
-      "team1": "Aris Thessaloniki FC",
-      "team2": "Panathinaikos FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 10",
-      "date": "2020-07-19",
-      "team1": "Panathinaikos FC",
-      "team2": "OFI Crete FC",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 10",
-      "date": "2020-07-19",
-      "team1": "Olympiacos Piraeus FC",
-      "team2": "AEK Athens FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Championship",
-      "round": "Round 10",
-      "date": "2020-07-19",
-      "team1": "PAOK FC",
-      "team2": "Aris Thessaloniki FC",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 1",
-      "date": "2020-06-06",
+      "time": "19:15",
       "team1": "Panionios GSS",
-      "team2": "Volos FC",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2771,12 +3045,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 1",
+      "round": "Relegation, Matchday 1",
       "date": "2020-06-07",
-      "team1": "AE Larissa FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "19:15",
+      "team1": "AE Lárissa",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2784,12 +3062,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 1",
+      "round": "Relegation, Matchday 1",
       "date": "2020-06-08",
-      "team1": "PAS Lamia 1964",
-      "team2": "Panetolikos GFS",
+      "time": "20:00",
+      "team1": "Lamia",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2797,25 +3079,33 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 2",
-      "date": "2020-06-13",
-      "team1": "Atromitos FC",
-      "team2": "PAS Lamia 1964",
+      "round": "Relegation, Matchday 1",
+      "date": "2020-06-24",
+      "time": "20:00",
+      "team1": "Xanthi FC",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
-          1
+          0
         ]
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 2",
+      "round": "Relegation, Matchday 2",
       "date": "2020-06-13",
-      "team1": "Volos FC",
+      "time": "19:15",
+      "team1": "Volos NFC",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2823,10 +3113,27 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 2",
+      "round": "Relegation, Matchday 2",
+      "date": "2020-06-13",
+      "time": "19:30",
+      "team1": "Atromitos",
+      "team2": "Lamia",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 2",
       "date": "2020-06-15",
-      "team1": "Asteras Tripolis FC",
+      "time": "19:30",
+      "team1": "Asteras Tripolis",
       "team2": "Panionios GSS",
       "score": {
         "ft": [
@@ -2836,12 +3143,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 2",
+      "round": "Relegation, Matchday 2",
       "date": "2020-06-15",
-      "team1": "Panetolikos GFS",
-      "team2": "AE Larissa FC",
+      "time": "20:00",
+      "team1": "Panetolikos",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2849,12 +3160,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 3",
+      "round": "Relegation, Matchday 3",
       "date": "2020-06-21",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Atromitos FC",
+      "time": "19:15",
+      "team1": "Asteras Tripolis",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2862,12 +3177,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 3",
+      "round": "Relegation, Matchday 3",
       "date": "2020-06-21",
+      "time": "19:30",
       "team1": "Xanthi FC",
-      "team2": "Panetolikos GFS",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2875,12 +3194,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 3",
+      "round": "Relegation, Matchday 3",
       "date": "2020-06-22",
-      "team1": "AE Larissa FC",
-      "team2": "Volos FC",
+      "time": "19:30",
+      "team1": "AE Lárissa",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -2888,12 +3211,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 3",
+      "round": "Relegation, Matchday 3",
       "date": "2020-06-22",
-      "team1": "PAS Lamia 1964",
+      "time": "20:00",
+      "team1": "Lamia",
       "team2": "Panionios GSS",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2901,25 +3228,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 1",
-      "date": "2020-06-24",
-      "team1": "Xanthi FC",
-      "team2": "Atromitos FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 4",
+      "round": "Relegation, Matchday 4",
       "date": "2020-06-27",
+      "time": "19:15",
       "team1": "Panionios GSS",
       "team2": "Xanthi FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2927,12 +3245,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 4",
+      "round": "Relegation, Matchday 4",
       "date": "2020-06-28",
-      "team1": "Panetolikos GFS",
-      "team2": "Asteras Tripolis FC",
+      "time": "19:30",
+      "team1": "Panetolikos",
+      "team2": "Asteras Tripolis",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2940,11 +3262,11 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 4",
+      "round": "Relegation, Matchday 4",
       "date": "2020-06-29",
-      "team1": "Volos FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:30",
+      "team1": "Volos NFC",
+      "team2": "Lamia",
       "score": {
         "ft": [
           0,
@@ -2953,12 +3275,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 4",
+      "round": "Relegation, Matchday 4",
       "date": "2020-06-29",
-      "team1": "Atromitos FC",
-      "team2": "AE Larissa FC",
+      "time": "20:00",
+      "team1": "Atromitos",
+      "team2": "AE Lárissa",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2966,12 +3292,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 5",
+      "round": "Relegation, Matchday 5",
       "date": "2020-07-04",
-      "team1": "Asteras Tripolis FC",
-      "team2": "Volos FC",
+      "time": "19:15",
+      "team1": "Asteras Tripolis",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -2979,10 +3309,10 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 5",
+      "round": "Relegation, Matchday 5",
       "date": "2020-07-06",
-      "team1": "PAS Lamia 1964",
+      "time": "19:30",
+      "team1": "Lamia",
       "team2": "Xanthi FC",
       "score": {
         "ft": [
@@ -2992,23 +3322,10 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 5",
+      "round": "Relegation, Matchday 5",
       "date": "2020-07-06",
-      "team1": "Atromitos FC",
-      "team2": "Panetolikos GFS",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 5",
-      "date": "2020-07-06",
-      "team1": "AE Larissa FC",
+      "time": "19:30",
+      "team1": "AE Lárissa",
       "team2": "Panionios GSS",
       "score": {
         "ft": [
@@ -3018,24 +3335,28 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 6",
-      "date": "2020-07-11",
-      "team1": "Panionios GSS",
-      "team2": "Panetolikos GFS",
+      "round": "Relegation, Matchday 5",
+      "date": "2020-07-06",
+      "time": "20:00",
+      "team1": "Atromitos",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          0,
+          2,
           2
         ]
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 6",
+      "round": "Relegation, Matchday 6",
       "date": "2020-07-11",
-      "team1": "PAS Lamia 1964",
-      "team2": "AE Larissa FC",
+      "time": "19:15",
+      "team1": "Lamia",
+      "team2": "AE Lárissa",
       "score": {
         "ft": [
           0,
@@ -3044,25 +3365,33 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 6",
+      "round": "Relegation, Matchday 6",
       "date": "2020-07-11",
-      "team1": "Xanthi FC",
-      "team2": "Asteras Tripolis FC",
+      "time": "19:15",
+      "team1": "Panionios GSS",
+      "team2": "Panetolikos",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          1,
+          0,
           2
         ]
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 6",
+      "round": "Relegation, Matchday 6",
       "date": "2020-07-11",
-      "team1": "Volos FC",
-      "team2": "Atromitos FC",
+      "time": "19:15",
+      "team1": "Volos NFC",
+      "team2": "Atromitos",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           2,
           3
@@ -3070,10 +3399,27 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 7",
+      "round": "Relegation, Matchday 6",
+      "date": "2020-07-11",
+      "time": "19:15",
+      "team1": "Xanthi FC",
+      "team2": "Asteras Tripolis",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Relegation, Matchday 7",
       "date": "2020-07-18",
-      "team1": "AE Larissa FC",
+      "time": "19:15",
+      "team1": "AE Lárissa",
       "team2": "Xanthi FC",
       "score": {
         "ft": [
@@ -3083,12 +3429,16 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 7",
+      "round": "Relegation, Matchday 7",
       "date": "2020-07-18",
-      "team1": "Asteras Tripolis FC",
-      "team2": "PAS Lamia 1964",
+      "time": "19:15",
+      "team1": "Asteras Tripolis",
+      "team2": "Lamia",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3096,10 +3446,10 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 7",
+      "round": "Relegation, Matchday 7",
       "date": "2020-07-18",
-      "team1": "Atromitos FC",
+      "time": "19:15",
+      "team1": "Atromitos",
       "team2": "Panionios GSS",
       "score": {
         "ft": [
@@ -3109,14 +3459,504 @@
       }
     },
     {
-      "stage": "Playoffs - Relegation",
-      "round": "Round 7",
+      "round": "Relegation, Matchday 7",
       "date": "2020-07-18",
-      "team1": "Panetolikos GFS",
-      "team2": "Volos FC",
+      "time": "19:15",
+      "team1": "Panetolikos",
+      "team2": "Volos NFC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 1",
+      "date": "2020-06-06",
+      "time": "21:30",
+      "team1": "Aris Saloniki",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 1",
+      "date": "2020-06-07",
+      "time": "19:30",
+      "team1": "PAOK Saloniki",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 1",
+      "date": "2020-06-07",
+      "time": "21:30",
+      "team1": "AEK Athen",
+      "team2": "Panathinaikos",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 2",
+      "date": "2020-06-13",
+      "time": "21:30",
+      "team1": "Panathinaikos",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 2",
+      "date": "2020-06-14",
+      "time": "19:15",
+      "team1": "OFI Heraklion",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 2",
+      "date": "2020-06-14",
+      "time": "21:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 3",
+      "date": "2020-06-20",
+      "time": "20:30",
+      "team1": "PAOK Saloniki",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 3",
+      "date": "2020-06-20",
+      "time": "21:30",
+      "team1": "AEK Athen",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 3",
+      "date": "2020-06-21",
+      "time": "21:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "Panathinaikos",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 4",
+      "date": "2020-06-27",
+      "time": "21:30",
+      "team1": "OFI Heraklion",
+      "team2": "Panathinaikos",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 4",
+      "date": "2020-06-28",
+      "time": "19:15",
+      "team1": "Aris Saloniki",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 4",
+      "date": "2020-06-28",
+      "time": "21:30",
+      "team1": "AEK Athen",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 5",
+      "date": "2020-07-01",
+      "time": "19:15",
+      "team1": "Panathinaikos",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 5",
+      "date": "2020-07-01",
+      "time": "21:00",
+      "team1": "PAOK Saloniki",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 5",
+      "date": "2020-07-01",
+      "time": "21:30",
+      "team1": "Olympiakos Piraeus",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 6",
+      "date": "2020-07-04",
+      "time": "21:30",
+      "team1": "OFI Heraklion",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 6",
+      "date": "2020-07-05",
+      "time": "19:15",
+      "team1": "Aris Saloniki",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 6",
+      "date": "2020-07-05",
+      "time": "21:30",
+      "team1": "Panathinaikos",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 7",
+      "date": "2020-07-08",
+      "time": "19:15",
+      "team1": "Aris Saloniki",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 7",
+      "date": "2020-07-08",
+      "time": "21:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Panathinaikos",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 7",
+      "date": "2020-07-08",
+      "time": "21:30",
+      "team1": "AEK Athen",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 8",
+      "date": "2020-07-11",
+      "time": "21:30",
+      "team1": "OFI Heraklion",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 8",
+      "date": "2020-07-12",
+      "time": "20:00",
+      "team1": "Panathinaikos",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 8",
+      "date": "2020-07-12",
+      "time": "21:45",
+      "team1": "Olympiakos Piraeus",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 9",
+      "date": "2020-07-15",
+      "time": "19:15",
+      "team1": "Aris Saloniki",
+      "team2": "Panathinaikos",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 9",
+      "date": "2020-07-15",
+      "time": "19:15",
+      "team1": "OFI Heraklion",
+      "team2": "Olympiakos Piraeus",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 9",
+      "date": "2020-07-15",
+      "time": "21:30",
+      "team1": "AEK Athen",
+      "team2": "PAOK Saloniki",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 10",
+      "date": "2020-07-19",
+      "time": "20:00",
+      "team1": "Olympiakos Piraeus",
+      "team2": "AEK Athen",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 10",
+      "date": "2020-07-19",
+      "time": "20:00",
+      "team1": "Panathinaikos",
+      "team2": "OFI Heraklion",
+      "score": {
+        "ht": [
+          3,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Championship, Matchday 10",
+      "date": "2020-07-19",
+      "time": "20:00",
+      "team1": "PAOK Saloniki",
+      "team2": "Aris Saloniki",
+      "score": {
+        "ft": [
+          0,
           0
         ]
       }

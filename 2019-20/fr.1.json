@@ -1,12 +1,17 @@
 {
-  "name": "Ligue 1 2019/20",
+  "name": "French Ligue 1 2019/20",
   "matches": [
     {
-      "round": "Journée 1",
+      "round": "Matchday 1",
       "date": "2019-08-09",
+      "time": "20:45",
       "team1": "AS Monaco",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Journée 1",
+      "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "Olympique de Marseille",
+      "time": "17:30",
+      "team1": "Olympique Marseille",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Journée 1",
+      "round": "Matchday 1",
       "date": "2019-08-10",
+      "time": "20:00",
       "team1": "Angers SCO",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           3,
           1
@@ -38,47 +53,16 @@
       }
     },
     {
-      "round": "Journée 1",
+      "round": "Matchday 1",
       "date": "2019-08-10",
-      "team1": "Stade Brestois 29",
-      "team2": "Toulouse FC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 1",
-      "date": "2019-08-10",
-      "team1": "OGC Nice",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 1",
-      "date": "2019-08-10",
-      "team1": "Montpellier HSC",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 1",
-      "date": "2019-08-10",
+      "time": "20:00",
       "team1": "Dijon FCO",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           2
@@ -86,11 +70,33 @@
       }
     },
     {
-      "round": "Journée 1",
-      "date": "2019-08-11",
-      "team1": "Lille OSC",
-      "team2": "FC Nantes",
+      "round": "Matchday 1",
+      "date": "2019-08-10",
+      "time": "20:00",
+      "team1": "Montpellier HSC",
+      "team2": "Stade Rennais",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2019-08-10",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "Amiens SC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -98,11 +104,67 @@
       }
     },
     {
-      "round": "Journée 1",
+      "round": "Matchday 1",
+      "date": "2019-08-10",
+      "time": "20:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Toulouse FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
       "date": "2019-08-11",
+      "time": "15:00",
+      "team1": "Lille OSC",
+      "team2": "FC Nantes",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2019-08-11",
+      "time": "17:00",
+      "team1": "RC Strasbourg",
+      "team2": "FC Metz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 1",
+      "date": "2019-08-11",
+      "time": "21:00",
       "team1": "Paris Saint-Germain",
       "team2": "Nîmes Olympique",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -110,23 +172,16 @@
       }
     },
     {
-      "round": "Journée 1",
-      "date": "2019-08-11",
-      "team1": "RC Strasbourg",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 2",
+      "round": "Matchday 2",
       "date": "2019-08-16",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           6,
           0
@@ -134,34 +189,11 @@
       }
     },
     {
-      "round": "Journée 2",
+      "round": "Matchday 2",
       "date": "2019-08-17",
-      "team1": "Nîmes Olympique",
-      "team2": "OGC Nice",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 2",
-      "date": "2019-08-17",
-      "team1": "FC Metz",
-      "team2": "AS Monaco",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 2",
-      "date": "2019-08-17",
+      "time": "17:30",
       "team1": "FC Nantes",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
         "ft": [
           0,
@@ -170,23 +202,33 @@
       }
     },
     {
-      "round": "Journée 2",
+      "round": "Matchday 2",
       "date": "2019-08-17",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Montpellier HSC",
+      "time": "20:00",
+      "team1": "FC Metz",
+      "team2": "AS Monaco",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          1
+          0
+        ],
+        "ft": [
+          3,
+          0
         ]
       }
     },
     {
-      "round": "Journée 2",
+      "round": "Matchday 2",
       "date": "2019-08-17",
+      "time": "20:00",
       "team1": "Toulouse FC",
       "team2": "Dijon FCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -194,23 +236,16 @@
       }
     },
     {
-      "round": "Journée 2",
+      "round": "Matchday 2",
       "date": "2019-08-17",
-      "team1": "Amiens SC",
-      "team2": "Lille OSC",
+      "time": "20:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "Montpellier HSC",
       "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 2",
-      "date": "2019-08-18",
-      "team1": "AS Saint-Étienne",
-      "team2": "Stade Brestois 29",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -218,8 +253,60 @@
       }
     },
     {
-      "round": "Journée 2",
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "20:00",
+      "team1": "Nîmes Olympique",
+      "team2": "OGC Nice",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-17",
+      "time": "20:00",
+      "team1": "Amiens SC",
+      "team2": "Lille OSC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2019-08-18",
+      "time": "15:00",
+      "team1": "AS Saint-Étienne",
+      "team2": "Stade Brestois 29",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2019-08-18",
+      "time": "17:00",
       "team1": "Stade de Reims",
       "team2": "RC Strasbourg",
       "score": {
@@ -230,11 +317,16 @@
       }
     },
     {
-      "round": "Journée 2",
+      "round": "Matchday 2",
       "date": "2019-08-18",
-      "team1": "Stade Rennais FC",
+      "time": "21:00",
+      "team1": "Stade Rennais",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -242,11 +334,16 @@
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
       "date": "2019-08-24",
+      "time": "20:00",
       "team1": "Dijon FCO",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -254,23 +351,16 @@
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
       "date": "2019-08-24",
-      "team1": "Stade Brestois 29",
-      "team2": "Stade de Reims",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 3",
-      "date": "2019-08-24",
+      "time": "20:00",
       "team1": "Amiens SC",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -278,11 +368,16 @@
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
       "date": "2019-08-24",
+      "time": "20:00",
       "team1": "Angers SCO",
       "team2": "FC Metz",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -290,35 +385,33 @@
       }
     },
     {
-      "round": "Journée 3",
-      "date": "2019-08-25",
-      "team1": "Paris Saint-Germain",
-      "team2": "Toulouse FC",
+      "round": "Matchday 3",
+      "date": "2019-08-24",
+      "time": "20:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          4,
+          1,
           0
         ]
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
       "date": "2019-08-25",
-      "team1": "RC Strasbourg",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 3",
-      "date": "2019-08-25",
+      "time": "15:00",
       "team1": "AS Monaco",
       "team2": "Nîmes Olympique",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           2
@@ -326,11 +419,50 @@
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "17:00",
+      "team1": "RC Strasbourg",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2019-08-25",
+      "time": "21:00",
+      "team1": "Paris Saint-Germain",
+      "team2": "Toulouse FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
       "date": "2019-08-27",
+      "time": "19:00",
       "team1": "Montpellier HSC",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -338,11 +470,16 @@
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
       "date": "2019-08-28",
+      "time": "19:00",
       "team1": "Lille OSC",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -350,11 +487,16 @@
       }
     },
     {
-      "round": "Journée 3",
+      "round": "Matchday 3",
       "date": "2019-08-28",
+      "time": "21:00",
       "team1": "OGC Nice",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -362,11 +504,16 @@
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-08-30",
+      "time": "20:45",
       "team1": "FC Metz",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           2
@@ -374,11 +521,16 @@
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-08-31",
+      "time": "17:30",
       "team1": "Olympique Lyonnais",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -386,35 +538,16 @@
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-08-31",
-      "team1": "Angers SCO",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 4",
-      "date": "2019-08-31",
-      "team1": "Toulouse FC",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 4",
-      "date": "2019-08-31",
+      "time": "20:00",
       "team1": "FC Nantes",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -422,11 +555,33 @@
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-08-31",
+      "time": "20:00",
+      "team1": "Toulouse FC",
+      "team2": "Amiens SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
+      "date": "2019-08-31",
+      "time": "20:00",
       "team1": "Nîmes Olympique",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -434,23 +589,33 @@
       }
     },
     {
-      "round": "Journée 4",
-      "date": "2019-09-01",
-      "team1": "Stade Rennais FC",
-      "team2": "OGC Nice",
+      "round": "Matchday 4",
+      "date": "2019-08-31",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "Dijon FCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
-          1,
-          2
+          2,
+          0
         ]
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-09-01",
+      "time": "15:00",
       "team1": "Stade de Reims",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -458,23 +623,33 @@
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-09-01",
-      "team1": "Olympique de Marseille",
-      "team2": "AS Saint-Étienne",
+      "time": "15:00",
+      "team1": "Stade Rennais",
+      "team2": "OGC Nice",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
+        ],
+        "ft": [
+          1,
+          2
         ]
       }
     },
     {
-      "round": "Journée 4",
+      "round": "Matchday 4",
       "date": "2019-09-01",
+      "time": "17:00",
       "team1": "RC Strasbourg",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -482,47 +657,16 @@
       }
     },
     {
-      "round": "Journée 5",
-      "date": "2019-09-13",
-      "team1": "Lille OSC",
-      "team2": "Angers SCO",
+      "round": "Matchday 4",
+      "date": "2019-09-01",
+      "time": "21:00",
+      "team1": "Olympique Marseille",
+      "team2": "AS Saint-Étienne",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 5",
-      "date": "2019-09-13",
-      "team1": "Amiens SC",
-      "team2": "Olympique Lyonnais",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 5",
-      "date": "2019-09-14",
-      "team1": "Girondins de Bordeaux",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          2,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Journée 5",
-      "date": "2019-09-14",
-      "team1": "Paris Saint-Germain",
-      "team2": "RC Strasbourg",
-      "score": {
+        ],
         "ft": [
           1,
           0
@@ -530,23 +674,16 @@
       }
     },
     {
-      "round": "Journée 5",
-      "date": "2019-09-14",
-      "team1": "Stade Brestois 29",
-      "team2": "Stade Rennais FC",
+      "round": "Matchday 5",
+      "date": "2019-09-13",
+      "time": "19:00",
+      "team1": "Lille OSC",
+      "team2": "Angers SCO",
       "score": {
-        "ft": [
-          0,
+        "ht": [
+          1,
           0
-        ]
-      }
-    },
-    {
-      "round": "Journée 5",
-      "date": "2019-09-14",
-      "team1": "Montpellier HSC",
-      "team2": "OGC Nice",
-      "score": {
+        ],
         "ft": [
           2,
           1
@@ -554,8 +691,43 @@
       }
     },
     {
-      "round": "Journée 5",
+      "round": "Matchday 5",
+      "date": "2019-09-13",
+      "time": "20:45",
+      "team1": "Amiens SC",
+      "team2": "Olympique Lyonnais",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2019-09-14",
+      "time": "17:30",
+      "team1": "Paris Saint-Germain",
+      "team2": "RC Strasbourg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-09-14",
+      "time": "20:00",
       "team1": "Dijon FCO",
       "team2": "Nîmes Olympique",
       "score": {
@@ -566,11 +738,63 @@
       }
     },
     {
-      "round": "Journée 5",
+      "round": "Matchday 5",
+      "date": "2019-09-14",
+      "time": "20:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "FC Metz",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-09-14",
+      "time": "20:00",
+      "team1": "Montpellier HSC",
+      "team2": "OGC Nice",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2019-09-14",
+      "time": "20:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Stade Rennais",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
       "date": "2019-09-15",
+      "time": "15:00",
       "team1": "FC Nantes",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -578,23 +802,16 @@
       }
     },
     {
-      "round": "Journée 5",
+      "round": "Matchday 5",
       "date": "2019-09-15",
-      "team1": "AS Monaco",
-      "team2": "Olympique de Marseille",
-      "score": {
-        "ft": [
-          3,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Journée 5",
-      "date": "2019-09-15",
+      "time": "17:00",
       "team1": "AS Saint-Étienne",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -602,11 +819,33 @@
       }
     },
     {
-      "round": "Journée 6",
+      "round": "Matchday 5",
+      "date": "2019-09-15",
+      "time": "21:00",
+      "team1": "AS Monaco",
+      "team2": "Olympique Marseille",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2019-09-20",
+      "time": "20:45",
       "team1": "RC Strasbourg",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           1
@@ -614,11 +853,16 @@
       }
     },
     {
-      "round": "Journée 6",
+      "round": "Matchday 6",
       "date": "2019-09-21",
-      "team1": "Olympique de Marseille",
+      "time": "17:30",
+      "team1": "Olympique Marseille",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -626,11 +870,67 @@
       }
     },
     {
-      "round": "Journée 6",
+      "round": "Matchday 6",
       "date": "2019-09-21",
+      "time": "20:00",
+      "team1": "FC Metz",
+      "team2": "Amiens SC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2019-09-21",
+      "time": "20:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "Stade Brestois 29",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2019-09-21",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2019-09-21",
+      "time": "20:00",
       "team1": "Nîmes Olympique",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -638,8 +938,9 @@
       }
     },
     {
-      "round": "Journée 6",
+      "round": "Matchday 6",
       "date": "2019-09-21",
+      "time": "20:00",
       "team1": "Stade de Reims",
       "team2": "AS Monaco",
       "score": {
@@ -650,47 +951,16 @@
       }
     },
     {
-      "round": "Journée 6",
-      "date": "2019-09-21",
-      "team1": "FC Metz",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 6",
-      "date": "2019-09-21",
-      "team1": "OGC Nice",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 6",
-      "date": "2019-09-21",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Stade Brestois 29",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
-      "team1": "Stade Rennais FC",
+      "time": "15:00",
+      "team1": "Stade Rennais",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -698,11 +968,16 @@
       }
     },
     {
-      "round": "Journée 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
+      "time": "17:00",
       "team1": "Angers SCO",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           4,
           1
@@ -710,11 +985,16 @@
       }
     },
     {
-      "round": "Journée 6",
+      "round": "Matchday 6",
       "date": "2019-09-22",
+      "time": "21:00",
       "team1": "Olympique Lyonnais",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -722,10 +1002,11 @@
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-24",
+      "time": "19:00",
       "team1": "Dijon FCO",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
         "ft": [
           0,
@@ -734,11 +1015,16 @@
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-24",
+      "time": "21:00",
       "team1": "AS Monaco",
       "team2": "OGC Nice",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -746,35 +1032,50 @@
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-25",
-      "team1": "Stade Brestois 29",
-      "team2": "Olympique Lyonnais",
+      "time": "19:00",
+      "team1": "AS Saint-Étienne",
+      "team2": "FC Metz",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 7",
-      "date": "2019-09-25",
-      "team1": "Paris Saint-Germain",
-      "team2": "Stade de Reims",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
-          2
+          1
         ]
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-25",
+      "time": "19:00",
+      "team1": "FC Nantes",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-09-25",
+      "time": "19:00",
       "team1": "Toulouse FC",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -782,11 +1083,33 @@
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-25",
+      "time": "19:00",
+      "team1": "Montpellier HSC",
+      "team2": "Nîmes Olympique",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2019-09-25",
+      "time": "19:00",
       "team1": "Lille OSC",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -794,35 +1117,16 @@
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-25",
-      "team1": "FC Nantes",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 7",
-      "date": "2019-09-25",
-      "team1": "Montpellier HSC",
-      "team2": "Nîmes Olympique",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 7",
-      "date": "2019-09-25",
+      "time": "19:00",
       "team1": "Amiens SC",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -830,59 +1134,16 @@
       }
     },
     {
-      "round": "Journée 7",
+      "round": "Matchday 7",
       "date": "2019-09-25",
-      "team1": "AS Saint-Étienne",
-      "team2": "FC Metz",
+      "time": "19:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Olympique Lyonnais",
       "score": {
-        "ft": [
-          0,
+        "ht": [
+          1,
           1
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-28",
-      "team1": "Olympique Lyonnais",
-      "team2": "FC Nantes",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-28",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Paris Saint-Germain",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-28",
-      "team1": "AS Monaco",
-      "team2": "Stade Brestois 29",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-28",
-      "team1": "FC Metz",
-      "team2": "Toulouse FC",
-      "score": {
+        ],
         "ft": [
           2,
           2
@@ -890,59 +1151,33 @@
       }
     },
     {
-      "round": "Journée 8",
-      "date": "2019-09-28",
-      "team1": "Stade de Reims",
-      "team2": "Dijon FCO",
+      "round": "Matchday 7",
+      "date": "2019-09-25",
+      "time": "21:00",
+      "team1": "Paris Saint-Germain",
+      "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
-          1,
+          0,
           2
         ]
       }
     },
     {
-      "round": "Journée 8",
+      "round": "Matchday 8",
       "date": "2019-09-28",
-      "team1": "OGC Nice",
-      "team2": "Lille OSC",
+      "time": "13:30",
+      "team1": "Olympique Lyonnais",
+      "team2": "FC Nantes",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-28",
-      "team1": "Angers SCO",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-29",
-      "team1": "RC Strasbourg",
-      "team2": "Montpellier HSC",
-      "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Journée 8",
-      "date": "2019-09-29",
-      "team1": "Nîmes Olympique",
-      "team2": "AS Saint-Étienne",
-      "score": {
+        ],
         "ft": [
           0,
           1
@@ -950,11 +1185,67 @@
       }
     },
     {
-      "round": "Journée 8",
-      "date": "2019-09-29",
-      "team1": "Olympique de Marseille",
-      "team2": "Stade Rennais FC",
+      "round": "Matchday 8",
+      "date": "2019-09-28",
+      "time": "17:30",
+      "team1": "Girondins Bordeaux",
+      "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-28",
+      "time": "20:00",
+      "team1": "AS Monaco",
+      "team2": "Stade Brestois 29",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-28",
+      "time": "20:00",
+      "team1": "FC Metz",
+      "team2": "Toulouse FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-28",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "Lille OSC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -962,11 +1253,101 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 8",
+      "date": "2019-09-28",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "Amiens SC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-28",
+      "time": "20:00",
+      "team1": "Stade de Reims",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-29",
+      "time": "15:00",
+      "team1": "RC Strasbourg",
+      "team2": "Montpellier HSC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-29",
+      "time": "17:00",
+      "team1": "Nîmes Olympique",
+      "team2": "AS Saint-Étienne",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2019-09-29",
+      "time": "21:00",
+      "team1": "Olympique Marseille",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
       "date": "2019-10-04",
+      "time": "20:45",
       "team1": "Amiens SC",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -974,11 +1355,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-05",
+      "time": "17:30",
       "team1": "Paris Saint-Germain",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           0
@@ -986,11 +1372,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-05",
+      "time": "20:00",
       "team1": "Dijon FCO",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -998,11 +1389,33 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-05",
-      "team1": "Toulouse FC",
-      "team2": "Girondins de Bordeaux",
+      "time": "20:00",
+      "team1": "FC Nantes",
+      "team2": "OGC Nice",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
+      "date": "2019-10-05",
+      "time": "20:00",
+      "team1": "Toulouse FC",
+      "team2": "Girondins Bordeaux",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -1010,23 +1423,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-05",
-      "team1": "FC Nantes",
-      "team2": "OGC Nice",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 9",
-      "date": "2019-10-05",
+      "time": "20:00",
       "team1": "Montpellier HSC",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           1
@@ -1034,11 +1440,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-05",
+      "time": "20:00",
       "team1": "Stade Brestois 29",
       "team2": "FC Metz",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1046,11 +1457,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-06",
+      "time": "15:00",
       "team1": "Lille OSC",
       "team2": "Nîmes Olympique",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           2
@@ -1058,11 +1474,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-06",
-      "team1": "Stade Rennais FC",
+      "time": "17:00",
+      "team1": "Stade Rennais",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1070,11 +1491,16 @@
       }
     },
     {
-      "round": "Journée 9",
+      "round": "Matchday 9",
       "date": "2019-10-06",
+      "time": "21:00",
       "team1": "AS Saint-Étienne",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1082,11 +1508,16 @@
       }
     },
     {
-      "round": "Journée 10",
+      "round": "Matchday 10",
       "date": "2019-10-18",
+      "time": "20:45",
       "team1": "OGC Nice",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           4
@@ -1094,8 +1525,9 @@
       }
     },
     {
-      "round": "Journée 10",
+      "round": "Matchday 10",
       "date": "2019-10-19",
+      "time": "17:30",
       "team1": "Olympique Lyonnais",
       "team2": "Dijon FCO",
       "score": {
@@ -1106,59 +1538,33 @@
       }
     },
     {
-      "round": "Journée 10",
+      "round": "Matchday 10",
       "date": "2019-10-19",
+      "time": "20:00",
       "team1": "FC Metz",
       "team2": "FC Nantes",
       "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 10",
-      "date": "2019-10-19",
-      "team1": "Stade de Reims",
-      "team2": "Montpellier HSC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 10",
-      "date": "2019-10-19",
-      "team1": "Angers SCO",
-      "team2": "Stade Brestois 29",
-      "score": {
-        "ft": [
+        "ht": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 10",
-      "date": "2019-10-19",
-      "team1": "Nîmes Olympique",
-      "team2": "Amiens SC",
-      "score": {
+          0
+        ],
         "ft": [
           1,
-          1
+          0
         ]
       }
     },
     {
-      "round": "Journée 10",
+      "round": "Matchday 10",
       "date": "2019-10-19",
+      "time": "20:00",
       "team1": "Toulouse FC",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1166,11 +1572,33 @@
       }
     },
     {
-      "round": "Journée 10",
-      "date": "2019-10-20",
-      "team1": "Girondins de Bordeaux",
-      "team2": "AS Saint-Étienne",
+      "round": "Matchday 10",
+      "date": "2019-10-19",
+      "time": "20:00",
+      "team1": "Nîmes Olympique",
+      "team2": "Amiens SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-10-19",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "Stade Brestois 29",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1178,11 +1606,50 @@
       }
     },
     {
-      "round": "Journée 10",
-      "date": "2019-10-20",
-      "team1": "AS Monaco",
-      "team2": "Stade Rennais FC",
+      "round": "Matchday 10",
+      "date": "2019-10-19",
+      "time": "20:00",
+      "team1": "Stade de Reims",
+      "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-10-20",
+      "time": "15:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "AS Saint-Étienne",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2019-10-20",
+      "time": "17:00",
+      "team1": "AS Monaco",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1190,11 +1657,16 @@
       }
     },
     {
-      "round": "Journée 10",
+      "round": "Matchday 10",
       "date": "2019-10-20",
-      "team1": "Olympique de Marseille",
+      "time": "21:00",
+      "team1": "Olympique Marseille",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1202,11 +1674,16 @@
       }
     },
     {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-25",
+      "time": "20:45",
       "team1": "FC Nantes",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -1214,11 +1691,16 @@
       }
     },
     {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-26",
+      "time": "17:30",
       "team1": "Lille OSC",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -1226,20 +1708,9 @@
       }
     },
     {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-26",
-      "team1": "Olympique Lyonnais",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 11",
-      "date": "2019-10-26",
+      "time": "20:00",
       "team1": "Montpellier HSC",
       "team2": "Angers SCO",
       "score": {
@@ -1250,8 +1721,60 @@
       }
     },
     {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-26",
+      "time": "20:00",
+      "team1": "Olympique Lyonnais",
+      "team2": "FC Metz",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-26",
+      "time": "20:00",
+      "team1": "RC Strasbourg",
+      "team2": "OGC Nice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-26",
+      "time": "20:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2019-10-26",
+      "time": "20:00",
       "team1": "Stade de Reims",
       "team2": "Nîmes Olympique",
       "score": {
@@ -1262,35 +1785,16 @@
       }
     },
     {
-      "round": "Journée 11",
-      "date": "2019-10-26",
-      "team1": "Stade Brestois 29",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 11",
-      "date": "2019-10-26",
-      "team1": "RC Strasbourg",
-      "team2": "OGC Nice",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-27",
-      "team1": "Stade Rennais FC",
+      "time": "15:00",
+      "team1": "Stade Rennais",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           2
@@ -1298,11 +1802,16 @@
       }
     },
     {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-27",
+      "time": "17:00",
       "team1": "AS Saint-Étienne",
       "team2": "Amiens SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1310,11 +1819,16 @@
       }
     },
     {
-      "round": "Journée 11",
+      "round": "Matchday 11",
       "date": "2019-10-27",
+      "time": "21:00",
       "team1": "Paris Saint-Germain",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           4,
           0
@@ -1322,11 +1836,16 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
       "date": "2019-11-01",
+      "time": "20:45",
       "team1": "Dijon FCO",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1334,11 +1853,16 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
       "date": "2019-11-02",
-      "team1": "Olympique de Marseille",
+      "time": "17:30",
+      "team1": "Olympique Marseille",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1346,11 +1870,16 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
       "date": "2019-11-02",
+      "time": "20:00",
       "team1": "FC Metz",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -1358,11 +1887,16 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
       "date": "2019-11-02",
+      "time": "20:00",
       "team1": "Toulouse FC",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           3
@@ -1370,23 +1904,16 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
       "date": "2019-11-02",
-      "team1": "Angers SCO",
-      "team2": "RC Strasbourg",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 12",
-      "date": "2019-11-02",
+      "time": "20:00",
       "team1": "Amiens SC",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1394,11 +1921,33 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
+      "date": "2019-11-02",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "RC Strasbourg",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2019-11-03",
-      "team1": "Girondins de Bordeaux",
+      "time": "15:00",
+      "team1": "Girondins Bordeaux",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1406,23 +1955,16 @@
       }
     },
     {
-      "round": "Journée 12",
+      "round": "Matchday 12",
       "date": "2019-11-03",
-      "team1": "AS Saint-Étienne",
-      "team2": "AS Monaco",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 12",
-      "date": "2019-11-03",
+      "time": "17:00",
       "team1": "OGC Nice",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1430,11 +1972,50 @@
       }
     },
     {
-      "round": "Journée 13",
-      "date": "2019-11-08",
-      "team1": "OGC Nice",
-      "team2": "Girondins de Bordeaux",
+      "round": "Matchday 12",
+      "date": "2019-11-03",
+      "time": "21:00",
+      "team1": "AS Saint-Étienne",
+      "team2": "AS Monaco",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-01-15",
+      "time": "19:00",
+      "team1": "Nîmes Olympique",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-08",
+      "time": "20:45",
+      "team1": "OGC Nice",
+      "team2": "Girondins Bordeaux",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -1442,23 +2023,16 @@
       }
     },
     {
-      "round": "Journée 13",
+      "round": "Matchday 13",
       "date": "2019-11-09",
-      "team1": "AS Monaco",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 13",
-      "date": "2019-11-09",
+      "time": "17:30",
       "team1": "Stade Brestois 29",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1466,8 +2040,26 @@
       }
     },
     {
-      "round": "Journée 13",
+      "round": "Matchday 13",
       "date": "2019-11-09",
+      "time": "20:00",
+      "team1": "AS Monaco",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-09",
+      "time": "20:00",
       "team1": "Lille OSC",
       "team2": "FC Metz",
       "score": {
@@ -1478,11 +2070,16 @@
       }
     },
     {
-      "round": "Journée 13",
+      "round": "Matchday 13",
       "date": "2019-11-09",
+      "time": "20:00",
       "team1": "RC Strasbourg",
       "team2": "Nîmes Olympique",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           1
@@ -1490,8 +2087,9 @@
       }
     },
     {
-      "round": "Journée 13",
+      "round": "Matchday 13",
       "date": "2019-11-09",
+      "time": "20:00",
       "team1": "Stade de Reims",
       "team2": "Angers SCO",
       "score": {
@@ -1502,11 +2100,16 @@
       }
     },
     {
-      "round": "Journée 13",
+      "round": "Matchday 13",
       "date": "2019-11-10",
-      "team1": "Stade Rennais FC",
+      "time": "15:00",
+      "team1": "Stade Rennais",
       "team2": "Amiens SC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -1514,35 +2117,16 @@
       }
     },
     {
-      "round": "Journée 13",
+      "round": "Matchday 13",
       "date": "2019-11-10",
-      "team1": "Montpellier HSC",
-      "team2": "Toulouse FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 13",
-      "date": "2019-11-10",
-      "team1": "Olympique de Marseille",
-      "team2": "Olympique Lyonnais",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 13",
-      "date": "2019-11-10",
+      "time": "17:00",
       "team1": "FC Nantes",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           3
@@ -1550,11 +2134,50 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "17:00",
+      "team1": "Montpellier HSC",
+      "team2": "Toulouse FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2019-11-10",
+      "time": "21:00",
+      "team1": "Olympique Marseille",
+      "team2": "Olympique Lyonnais",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
       "date": "2019-11-22",
+      "time": "20:45",
       "team1": "Paris Saint-Germain",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -1562,47 +2185,50 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-23",
+      "time": "17:30",
       "team1": "Olympique Lyonnais",
       "team2": "OGC Nice",
       "score": {
-        "ft": [
+        "ht": [
           2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 14",
-      "date": "2019-11-23",
-      "team1": "Dijon FCO",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 14",
-      "date": "2019-11-23",
-      "team1": "Angers SCO",
-      "team2": "Nîmes Olympique",
-      "score": {
-        "ft": [
-          1,
           0
+        ],
+        "ft": [
+          2,
+          1
         ]
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-23",
+      "time": "20:00",
+      "team1": "Dijon FCO",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-23",
+      "time": "20:00",
       "team1": "FC Metz",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1610,11 +2236,16 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-23",
+      "time": "20:00",
       "team1": "Amiens SC",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -1622,11 +2253,33 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-23",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "Nîmes Olympique",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2019-11-23",
+      "time": "20:00",
       "team1": "Stade Brestois 29",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -1634,11 +2287,16 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-24",
-      "team1": "Girondins de Bordeaux",
+      "time": "15:00",
+      "team1": "Girondins Bordeaux",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -1646,8 +2304,9 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-24",
+      "time": "17:00",
       "team1": "AS Saint-Étienne",
       "team2": "Montpellier HSC",
       "score": {
@@ -1658,11 +2317,16 @@
       }
     },
     {
-      "round": "Journée 14",
+      "round": "Matchday 14",
       "date": "2019-11-24",
+      "time": "21:00",
       "team1": "Toulouse FC",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -1670,11 +2334,16 @@
       }
     },
     {
-      "round": "Journée 15",
+      "round": "Matchday 15",
       "date": "2019-11-29",
-      "team1": "Olympique de Marseille",
+      "time": "20:45",
+      "team1": "Olympique Marseille",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           1
@@ -1682,11 +2351,16 @@
       }
     },
     {
-      "round": "Journée 15",
+      "round": "Matchday 15",
       "date": "2019-11-30",
+      "time": "17:30",
       "team1": "RC Strasbourg",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1694,23 +2368,16 @@
       }
     },
     {
-      "round": "Journée 15",
+      "round": "Matchday 15",
       "date": "2019-11-30",
-      "team1": "OGC Nice",
-      "team2": "Angers SCO",
-      "score": {
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 15",
-      "date": "2019-11-30",
+      "time": "20:00",
       "team1": "Montpellier HSC",
       "team2": "Amiens SC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           4,
           2
@@ -1718,95 +2385,135 @@
       }
     },
     {
-      "round": "Journée 15",
+      "round": "Matchday 15",
       "date": "2019-11-30",
-      "team1": "Lille OSC",
-      "team2": "Dijon FCO",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "Angers SCO",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          0
+          1
+        ],
+        "ft": [
+          3,
+          1
         ]
       }
     },
     {
-      "round": "Journée 15",
+      "round": "Matchday 15",
       "date": "2019-11-30",
+      "time": "20:00",
       "team1": "Nîmes Olympique",
       "team2": "FC Metz",
       "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 15",
-      "date": "2019-11-30",
-      "team1": "Stade de Reims",
-      "team2": "Girondins de Bordeaux",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 15",
-      "date": "2019-12-01",
-      "team1": "FC Nantes",
-      "team2": "Toulouse FC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 15",
-      "date": "2019-12-01",
-      "team1": "Stade Rennais FC",
-      "team2": "AS Saint-Étienne",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 16",
-      "date": "2019-12-03",
-      "team1": "Angers SCO",
-      "team2": "Olympique de Marseille",
-      "score": {
-        "ft": [
+        "ht": [
           0,
-          2
+          1
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Journée 16",
-      "date": "2019-12-03",
-      "team1": "Stade Brestois 29",
-      "team2": "RC Strasbourg",
+      "round": "Matchday 15",
+      "date": "2019-11-30",
+      "time": "20:00",
+      "team1": "Lille OSC",
+      "team2": "Dijon FCO",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
-          5,
+          1,
           0
         ]
       }
     },
     {
-      "round": "Journée 16",
+      "round": "Matchday 15",
+      "date": "2019-11-30",
+      "time": "20:00",
+      "team1": "Stade de Reims",
+      "team2": "Girondins Bordeaux",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "15:00",
+      "team1": "FC Nantes",
+      "team2": "Toulouse FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2019-12-01",
+      "time": "17:00",
+      "team1": "Stade Rennais",
+      "team2": "AS Saint-Étienne",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-01-15",
+      "time": "21:00",
+      "team1": "AS Monaco",
+      "team2": "Paris Saint-Germain",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
       "date": "2019-12-03",
-      "team1": "Girondins de Bordeaux",
+      "time": "19:00",
+      "team1": "Girondins Bordeaux",
       "team2": "Nîmes Olympique",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           6,
           0
@@ -1814,11 +2521,50 @@
       }
     },
     {
-      "round": "Journée 16",
+      "round": "Matchday 16",
       "date": "2019-12-03",
+      "time": "19:00",
+      "team1": "Angers SCO",
+      "team2": "Olympique Marseille",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-03",
+      "time": "19:00",
+      "team1": "Stade Brestois 29",
+      "team2": "RC Strasbourg",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-03",
+      "time": "21:05",
       "team1": "Olympique Lyonnais",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -1826,23 +2572,16 @@
       }
     },
     {
-      "round": "Journée 16",
+      "round": "Matchday 16",
       "date": "2019-12-04",
-      "team1": "FC Metz",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 16",
-      "date": "2019-12-04",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "OGC Nice",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           1
@@ -1850,23 +2589,16 @@
       }
     },
     {
-      "round": "Journée 16",
+      "round": "Matchday 16",
       "date": "2019-12-04",
-      "team1": "Paris Saint-Germain",
-      "team2": "FC Nantes",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 16",
-      "date": "2019-12-04",
+      "time": "19:00",
       "team1": "Dijon FCO",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           2
@@ -1874,11 +2606,33 @@
       }
     },
     {
-      "round": "Journée 16",
+      "round": "Matchday 16",
       "date": "2019-12-04",
+      "time": "19:00",
+      "team1": "FC Metz",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2019-12-04",
+      "time": "19:00",
       "team1": "Toulouse FC",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -1886,11 +2640,50 @@
       }
     },
     {
-      "round": "Journée 17",
+      "round": "Matchday 16",
+      "date": "2019-12-04",
+      "time": "21:05",
+      "team1": "Paris Saint-Germain",
+      "team2": "FC Nantes",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-01-15",
+      "time": "19:00",
+      "team1": "Amiens SC",
+      "team2": "Stade de Reims",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2019-12-06",
+      "time": "19:00",
       "team1": "Lille OSC",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -1898,11 +2691,16 @@
       }
     },
     {
-      "round": "Journée 17",
+      "round": "Matchday 17",
       "date": "2019-12-06",
+      "time": "20:45",
       "team1": "Nîmes Olympique",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           4
@@ -1910,59 +2708,16 @@
       }
     },
     {
-      "round": "Journée 17",
+      "round": "Matchday 17",
       "date": "2019-12-07",
-      "team1": "AS Monaco",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 17",
-      "date": "2019-12-07",
-      "team1": "RC Strasbourg",
-      "team2": "Toulouse FC",
-      "score": {
-        "ft": [
-          4,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 17",
-      "date": "2019-12-07",
-      "team1": "Stade Rennais FC",
-      "team2": "Angers SCO",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 17",
-      "date": "2019-12-07",
-      "team1": "OGC Nice",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 17",
-      "date": "2019-12-07",
+      "time": "17:30",
       "team1": "Montpellier HSC",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           3
@@ -1970,47 +2725,67 @@
       }
     },
     {
-      "round": "Journée 17",
-      "date": "2019-12-08",
-      "team1": "Stade de Reims",
-      "team2": "AS Saint-Étienne",
+      "round": "Matchday 17",
+      "date": "2019-12-07",
+      "time": "20:00",
+      "team1": "AS Monaco",
+      "team2": "Amiens SC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 17",
-      "date": "2019-12-08",
-      "team1": "FC Nantes",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          1,
           0
         ]
       }
     },
     {
-      "round": "Journée 17",
-      "date": "2019-12-08",
-      "team1": "Olympique de Marseille",
-      "team2": "Girondins de Bordeaux",
+      "round": "Matchday 17",
+      "date": "2019-12-07",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "FC Metz",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
-          3,
+          4,
           1
         ]
       }
     },
     {
-      "round": "Journée 18",
-      "date": "2019-12-13",
-      "team1": "Lille OSC",
-      "team2": "Montpellier HSC",
+      "round": "Matchday 17",
+      "date": "2019-12-07",
+      "time": "20:00",
+      "team1": "RC Strasbourg",
+      "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-07",
+      "time": "20:00",
+      "team1": "Stade Rennais",
+      "team2": "Angers SCO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2018,23 +2793,84 @@
       }
     },
     {
-      "round": "Journée 18",
-      "date": "2019-12-14",
-      "team1": "FC Metz",
-      "team2": "Olympique de Marseille",
+      "round": "Matchday 17",
+      "date": "2019-12-08",
+      "time": "15:00",
+      "team1": "Stade de Reims",
+      "team2": "AS Saint-Étienne",
       "score": {
-        "ft": [
+        "ht": [
           1,
+          0
+        ],
+        "ft": [
+          3,
           1
         ]
       }
     },
     {
-      "round": "Journée 18",
-      "date": "2019-12-14",
-      "team1": "Amiens SC",
+      "round": "Matchday 17",
+      "date": "2019-12-08",
+      "time": "17:00",
+      "team1": "FC Nantes",
       "team2": "Dijon FCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2019-12-08",
+      "time": "21:00",
+      "team1": "Olympique Marseille",
+      "team2": "Girondins Bordeaux",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-13",
+      "time": "20:45",
+      "team1": "Lille OSC",
+      "team2": "Montpellier HSC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-14",
+      "time": "17:30",
+      "team1": "FC Metz",
+      "team2": "Olympique Marseille",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2042,23 +2878,16 @@
       }
     },
     {
-      "round": "Journée 18",
+      "round": "Matchday 18",
       "date": "2019-12-14",
-      "team1": "Nîmes Olympique",
-      "team2": "FC Nantes",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 18",
-      "date": "2019-12-14",
+      "time": "20:00",
       "team1": "Toulouse FC",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2066,8 +2895,43 @@
       }
     },
     {
-      "round": "Journée 18",
+      "round": "Matchday 18",
       "date": "2019-12-14",
+      "time": "20:00",
+      "team1": "Nîmes Olympique",
+      "team2": "FC Nantes",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-14",
+      "time": "20:00",
+      "team1": "Amiens SC",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2019-12-14",
+      "time": "20:00",
       "team1": "Angers SCO",
       "team2": "AS Monaco",
       "score": {
@@ -2078,8 +2942,9 @@
       }
     },
     {
-      "round": "Journée 18",
+      "round": "Matchday 18",
       "date": "2019-12-14",
+      "time": "20:00",
       "team1": "Stade Brestois 29",
       "team2": "OGC Nice",
       "score": {
@@ -2090,11 +2955,16 @@
       }
     },
     {
-      "round": "Journée 18",
+      "round": "Matchday 18",
       "date": "2019-12-15",
-      "team1": "Girondins de Bordeaux",
+      "time": "15:00",
+      "team1": "Girondins Bordeaux",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2102,11 +2972,16 @@
       }
     },
     {
-      "round": "Journée 18",
+      "round": "Matchday 18",
       "date": "2019-12-15",
+      "time": "17:00",
       "team1": "Olympique Lyonnais",
-      "team2": "Stade Rennais FC",
+      "team2": "Stade Rennais",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2114,11 +2989,16 @@
       }
     },
     {
-      "round": "Journée 18",
+      "round": "Matchday 18",
       "date": "2019-12-15",
+      "time": "21:00",
       "team1": "AS Saint-Étienne",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           4
@@ -2126,71 +3006,16 @@
       }
     },
     {
-      "round": "Journée 19",
+      "round": "Matchday 19",
       "date": "2019-12-21",
-      "team1": "OGC Nice",
-      "team2": "Toulouse FC",
-      "score": {
-        "ft": [
-          3,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 19",
-      "date": "2019-12-21",
-      "team1": "Paris Saint-Germain",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 19",
-      "date": "2019-12-21",
-      "team1": "Stade de Reims",
-      "team2": "Olympique Lyonnais",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 19",
-      "date": "2019-12-21",
-      "team1": "Montpellier HSC",
-      "team2": "Stade Brestois 29",
-      "score": {
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 19",
-      "date": "2019-12-21",
-      "team1": "FC Nantes",
-      "team2": "Angers SCO",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 19",
-      "date": "2019-12-21",
+      "time": "20:45",
       "team1": "AS Monaco",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           5,
           1
@@ -2198,11 +3023,16 @@
       }
     },
     {
-      "round": "Journée 19",
+      "round": "Matchday 19",
       "date": "2019-12-21",
+      "time": "20:45",
       "team1": "Dijon FCO",
       "team2": "FC Metz",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           2
@@ -2210,11 +3040,67 @@
       }
     },
     {
-      "round": "Journée 19",
+      "round": "Matchday 19",
       "date": "2019-12-21",
-      "team1": "Olympique de Marseille",
+      "time": "20:45",
+      "team1": "FC Nantes",
+      "team2": "Angers SCO",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-21",
+      "time": "20:45",
+      "team1": "Montpellier HSC",
+      "team2": "Stade Brestois 29",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-21",
+      "time": "20:45",
+      "team1": "OGC Nice",
+      "team2": "Toulouse FC",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2019-12-21",
+      "time": "20:45",
+      "team1": "Olympique Marseille",
       "team2": "Nîmes Olympique",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2222,23 +3108,33 @@
       }
     },
     {
-      "round": "Journée 19",
+      "round": "Matchday 19",
       "date": "2019-12-21",
-      "team1": "Stade Rennais FC",
-      "team2": "Girondins de Bordeaux",
+      "time": "20:45",
+      "team1": "Paris Saint-Germain",
+      "team2": "Amiens SC",
       "score": {
-        "ft": [
+        "ht": [
           1,
           0
+        ],
+        "ft": [
+          4,
+          1
         ]
       }
     },
     {
-      "round": "Journée 19",
+      "round": "Matchday 19",
       "date": "2019-12-21",
+      "time": "20:45",
       "team1": "RC Strasbourg",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -2246,35 +3142,33 @@
       }
     },
     {
-      "round": "Journée 20",
-      "date": "2020-01-10",
-      "team1": "Stade Rennais FC",
-      "team2": "Olympique de Marseille",
+      "round": "Matchday 19",
+      "date": "2019-12-21",
+      "time": "20:45",
+      "team1": "Stade de Reims",
+      "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
-          0,
+          1,
           1
         ]
       }
     },
     {
-      "round": "Journée 20",
-      "date": "2020-01-11",
-      "team1": "Amiens SC",
-      "team2": "Montpellier HSC",
+      "round": "Matchday 19",
+      "date": "2019-12-21",
+      "time": "20:45",
+      "team1": "Stade Rennais",
+      "team2": "Girondins Bordeaux",
       "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 20",
-      "date": "2020-01-11",
-      "team1": "FC Metz",
-      "team2": "RC Strasbourg",
-      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2282,11 +3176,33 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
+      "date": "2020-01-10",
+      "time": "20:45",
+      "team1": "Stade Rennais",
+      "team2": "Olympique Marseille",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
       "date": "2020-01-11",
-      "team1": "Girondins de Bordeaux",
+      "time": "17:30",
+      "team1": "Girondins Bordeaux",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2294,11 +3210,33 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
       "date": "2020-01-11",
+      "time": "20:00",
+      "team1": "FC Metz",
+      "team2": "RC Strasbourg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-11",
+      "time": "20:00",
       "team1": "Toulouse FC",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           5
@@ -2306,11 +3244,16 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
       "date": "2020-01-11",
+      "time": "20:00",
       "team1": "Nîmes Olympique",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -2318,11 +3261,33 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
       "date": "2020-01-11",
+      "time": "20:00",
+      "team1": "Amiens SC",
+      "team2": "Montpellier HSC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2020-01-11",
+      "time": "20:00",
       "team1": "Angers SCO",
       "team2": "OGC Nice",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -2330,11 +3295,16 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
       "date": "2020-01-12",
+      "time": "15:00",
       "team1": "AS Saint-Étienne",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2342,11 +3312,16 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
       "date": "2020-01-12",
+      "time": "17:00",
       "team1": "Dijon FCO",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2354,11 +3329,16 @@
       }
     },
     {
-      "round": "Journée 20",
+      "round": "Matchday 20",
       "date": "2020-01-12",
+      "time": "21:00",
       "team1": "Paris Saint-Germain",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           3,
           3
@@ -2366,47 +3346,16 @@
       }
     },
     {
-      "round": "Journée 12",
-      "date": "2020-01-15",
-      "team1": "Nîmes Olympique",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 15",
-      "date": "2020-01-15",
-      "team1": "AS Monaco",
-      "team2": "Paris Saint-Germain",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Journée 16",
-      "date": "2020-01-15",
-      "team1": "Amiens SC",
-      "team2": "Stade de Reims",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-24",
+      "time": "20:45",
       "team1": "OGC Nice",
-      "team2": "Stade Rennais FC",
+      "team2": "Stade Rennais",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -2414,9 +3363,10 @@
       }
     },
     {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-25",
-      "team1": "Olympique de Marseille",
+      "time": "17:30",
+      "team1": "Olympique Marseille",
       "team2": "Angers SCO",
       "score": {
         "ft": [
@@ -2426,11 +3376,16 @@
       }
     },
     {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-25",
+      "time": "20:00",
       "team1": "AS Monaco",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -2438,11 +3393,67 @@
       }
     },
     {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-25",
+      "time": "20:00",
+      "team1": "AS Saint-Étienne",
+      "team2": "Nîmes Olympique",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "20:00",
+      "team1": "Montpellier HSC",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "20:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Amiens SC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2020-01-25",
+      "time": "20:00",
       "team1": "Stade de Reims",
       "team2": "FC Metz",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -2450,47 +3461,16 @@
       }
     },
     {
-      "round": "Journée 21",
-      "date": "2020-01-25",
-      "team1": "AS Saint-Étienne",
-      "team2": "Nîmes Olympique",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 21",
-      "date": "2020-01-25",
-      "team1": "Stade Brestois 29",
-      "team2": "Amiens SC",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 21",
-      "date": "2020-01-25",
-      "team1": "Montpellier HSC",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-26",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2498,11 +3478,16 @@
       }
     },
     {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-26",
+      "time": "17:00",
       "team1": "FC Nantes",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -2510,11 +3495,16 @@
       }
     },
     {
-      "round": "Journée 21",
+      "round": "Matchday 21",
       "date": "2020-01-26",
+      "time": "21:00",
       "team1": "Lille OSC",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2522,11 +3512,16 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-01-31",
-      "team1": "Stade Rennais FC",
+      "time": "20:45",
+      "team1": "Stade Rennais",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           2
@@ -2534,11 +3529,16 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
+      "time": "17:30",
       "team1": "Paris Saint-Germain",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           0
@@ -2546,11 +3546,16 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
+      "time": "20:00",
       "team1": "Dijon FCO",
       "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2558,11 +3563,16 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
+      "time": "20:00",
       "team1": "Nîmes Olympique",
       "team2": "AS Monaco",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -2570,11 +3580,16 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
+      "time": "20:00",
       "team1": "RC Strasbourg",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -2582,20 +3597,9 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-01",
-      "team1": "Angers SCO",
-      "team2": "Stade de Reims",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Journée 22",
-      "date": "2020-02-01",
+      "time": "20:00",
       "team1": "Amiens SC",
       "team2": "Toulouse FC",
       "score": {
@@ -2606,11 +3610,33 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
+      "date": "2020-02-01",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "Stade de Reims",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
       "date": "2020-02-02",
+      "time": "15:00",
       "team1": "OGC Nice",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -2618,11 +3644,16 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-02",
+      "time": "17:00",
       "team1": "FC Metz",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -2630,10 +3661,11 @@
       }
     },
     {
-      "round": "Journée 22",
+      "round": "Matchday 22",
       "date": "2020-02-02",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Olympique de Marseille",
+      "time": "21:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "Olympique Marseille",
       "score": {
         "ft": [
           0,
@@ -2642,23 +3674,16 @@
       }
     },
     {
-      "round": "Journée 23",
+      "round": "Matchday 23",
       "date": "2020-02-04",
-      "team1": "Lille OSC",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 23",
-      "date": "2020-02-04",
+      "time": "19:00",
       "team1": "AS Monaco",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2666,11 +3691,33 @@
       }
     },
     {
-      "round": "Journée 23",
+      "round": "Matchday 23",
       "date": "2020-02-04",
+      "time": "19:00",
+      "team1": "Lille OSC",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-04",
+      "time": "21:05",
       "team1": "FC Nantes",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -2678,8 +3725,60 @@
       }
     },
     {
-      "round": "Journée 23",
+      "round": "Matchday 23",
       "date": "2020-02-05",
+      "time": "19:00",
+      "team1": "Toulouse FC",
+      "team2": "RC Strasbourg",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-05",
+      "time": "19:00",
+      "team1": "Montpellier HSC",
+      "team2": "FC Metz",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-05",
+      "time": "19:00",
+      "team1": "Nîmes Olympique",
+      "team2": "Dijon FCO",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2020-02-05",
+      "time": "19:00",
       "team1": "Olympique Lyonnais",
       "team2": "Amiens SC",
       "score": {
@@ -2690,35 +3789,33 @@
       }
     },
     {
-      "round": "Journée 23",
+      "round": "Matchday 23",
       "date": "2020-02-05",
-      "team1": "Toulouse FC",
-      "team2": "RC Strasbourg",
+      "time": "19:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Girondins Bordeaux",
       "score": {
-        "ft": [
+        "ht": [
           0,
           1
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
     {
-      "round": "Journée 23",
+      "round": "Matchday 23",
       "date": "2020-02-05",
-      "team1": "Nîmes Olympique",
-      "team2": "Dijon FCO",
+      "time": "19:00",
+      "team1": "Stade de Reims",
+      "team2": "OGC Nice",
       "score": {
-        "ft": [
-          2,
+        "ht": [
+          0,
           0
-        ]
-      }
-    },
-    {
-      "round": "Journée 23",
-      "date": "2020-02-05",
-      "team1": "Stade Brestois 29",
-      "team2": "Girondins de Bordeaux",
-      "score": {
+        ],
         "ft": [
           1,
           1
@@ -2726,23 +3823,16 @@
       }
     },
     {
-      "round": "Journée 23",
+      "round": "Matchday 23",
       "date": "2020-02-05",
-      "team1": "Montpellier HSC",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 23",
-      "date": "2020-02-05",
+      "time": "21:15",
       "team1": "AS Saint-Étienne",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2750,23 +3840,16 @@
       }
     },
     {
-      "round": "Journée 23",
-      "date": "2020-02-05",
-      "team1": "Stade de Reims",
-      "team2": "OGC Nice",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 24",
+      "round": "Matchday 24",
       "date": "2020-02-07",
+      "time": "20:45",
       "team1": "Angers SCO",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -2774,35 +3857,16 @@
       }
     },
     {
-      "round": "Journée 24",
+      "round": "Matchday 24",
       "date": "2020-02-08",
-      "team1": "Amiens SC",
-      "team2": "AS Monaco",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 24",
-      "date": "2020-02-08",
-      "team1": "Dijon FCO",
-      "team2": "FC Nantes",
-      "score": {
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Journée 24",
-      "date": "2020-02-08",
-      "team1": "Olympique de Marseille",
+      "time": "17:30",
+      "team1": "Olympique Marseille",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2810,9 +3874,78 @@
       }
     },
     {
-      "round": "Journée 24",
+      "round": "Matchday 24",
       "date": "2020-02-08",
-      "team1": "Stade Rennais FC",
+      "time": "20:00",
+      "team1": "Dijon FCO",
+      "team2": "FC Nantes",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-08",
+      "time": "20:00",
+      "team1": "FC Metz",
+      "team2": "Girondins Bordeaux",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-08",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "Nîmes Olympique",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-08",
+      "time": "20:00",
+      "team1": "Amiens SC",
+      "team2": "AS Monaco",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2020-02-08",
+      "time": "20:00",
+      "team1": "Stade Rennais",
       "team2": "Stade Brestois 29",
       "score": {
         "ft": [
@@ -2822,35 +3955,16 @@
       }
     },
     {
-      "round": "Journée 24",
-      "date": "2020-02-08",
-      "team1": "FC Metz",
-      "team2": "Girondins de Bordeaux",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 24",
-      "date": "2020-02-08",
-      "team1": "OGC Nice",
-      "team2": "Nîmes Olympique",
-      "score": {
-        "ft": [
-          1,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Journée 24",
+      "round": "Matchday 24",
       "date": "2020-02-09",
+      "time": "15:00",
       "team1": "Montpellier HSC",
       "team2": "AS Saint-Étienne",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2858,11 +3972,16 @@
       }
     },
     {
-      "round": "Journée 24",
+      "round": "Matchday 24",
       "date": "2020-02-09",
+      "time": "17:00",
       "team1": "RC Strasbourg",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -2870,11 +3989,16 @@
       }
     },
     {
-      "round": "Journée 24",
+      "round": "Matchday 24",
       "date": "2020-02-09",
+      "time": "21:00",
       "team1": "Paris Saint-Germain",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           4,
           2
@@ -2882,11 +4006,16 @@
       }
     },
     {
-      "round": "Journée 25",
+      "round": "Matchday 25",
       "date": "2020-02-14",
+      "time": "20:45",
       "team1": "AS Monaco",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -2894,59 +4023,16 @@
       }
     },
     {
-      "round": "Journée 25",
+      "round": "Matchday 25",
       "date": "2020-02-15",
-      "team1": "Nîmes Olympique",
-      "team2": "Angers SCO",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-15",
-      "team1": "FC Nantes",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-15",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Dijon FCO",
-      "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-15",
-      "team1": "Toulouse FC",
-      "team2": "OGC Nice",
-      "score": {
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-15",
+      "time": "17:30",
       "team1": "Amiens SC",
       "team2": "Paris Saint-Germain",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           4,
           4
@@ -2954,71 +4040,29 @@
       }
     },
     {
-      "round": "Journée 25",
-      "date": "2020-02-16",
-      "team1": "Olympique Lyonnais",
-      "team2": "RC Strasbourg",
+      "round": "Matchday 25",
+      "date": "2020-02-15",
+      "time": "20:00",
+      "team1": "FC Nantes",
+      "team2": "FC Metz",
       "score": {
         "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-16",
-      "team1": "Stade Brestois 29",
-      "team2": "AS Saint-Étienne",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-16",
-      "team1": "Lille OSC",
-      "team2": "Olympique de Marseille",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 25",
-      "date": "2020-02-16",
-      "team1": "Stade de Reims",
-      "team2": "Stade Rennais FC",
-      "score": {
-        "ft": [
-          1,
+          0,
           0
         ]
       }
     },
     {
-      "round": "Journée 26",
-      "date": "2020-02-21",
-      "team1": "OGC Nice",
-      "team2": "Stade Brestois 29",
+      "round": "Matchday 25",
+      "date": "2020-02-15",
+      "time": "20:00",
+      "team1": "Toulouse FC",
+      "team2": "OGC Nice",
       "score": {
-        "ft": [
-          2,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Journée 26",
-      "date": "2020-02-21",
-      "team1": "FC Metz",
-      "team2": "Olympique Lyonnais",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3026,11 +4070,33 @@
       }
     },
     {
-      "round": "Journée 26",
-      "date": "2020-02-22",
-      "team1": "Angers SCO",
-      "team2": "Montpellier HSC",
+      "round": "Matchday 25",
+      "date": "2020-02-15",
+      "time": "20:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "Dijon FCO",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-15",
+      "time": "20:00",
+      "team1": "Nîmes Olympique",
+      "team2": "Angers SCO",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3038,11 +4104,152 @@
       }
     },
     {
-      "round": "Journée 26",
+      "round": "Matchday 25",
+      "date": "2020-02-16",
+      "time": "15:00",
+      "team1": "Olympique Lyonnais",
+      "team2": "RC Strasbourg",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-16",
+      "time": "17:00",
+      "team1": "Stade Brestois 29",
+      "team2": "AS Saint-Étienne",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-16",
+      "time": "17:00",
+      "team1": "Stade de Reims",
+      "team2": "Stade Rennais",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2020-02-16",
+      "time": "21:00",
+      "team1": "Lille OSC",
+      "team2": "Olympique Marseille",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-21",
+      "time": "19:00",
+      "team1": "OGC Nice",
+      "team2": "Stade Brestois 29",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-21",
+      "time": "20:45",
+      "team1": "FC Metz",
+      "team2": "Olympique Lyonnais",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
       "date": "2020-02-22",
+      "time": "17:30",
+      "team1": "Olympique Marseille",
+      "team2": "FC Nantes",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-22",
+      "time": "20:00",
+      "team1": "Dijon FCO",
+      "team2": "AS Monaco",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-22",
+      "time": "20:00",
       "team1": "Lille OSC",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3050,8 +4257,9 @@
       }
     },
     {
-      "round": "Journée 26",
+      "round": "Matchday 26",
       "date": "2020-02-22",
+      "time": "20:00",
       "team1": "RC Strasbourg",
       "team2": "Amiens SC",
       "score": {
@@ -3062,11 +4270,33 @@
       }
     },
     {
-      "round": "Journée 26",
+      "round": "Matchday 26",
       "date": "2020-02-22",
-      "team1": "Dijon FCO",
-      "team2": "AS Monaco",
+      "time": "20:00",
+      "team1": "Angers SCO",
+      "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2020-02-23",
+      "time": "15:00",
+      "team1": "AS Saint-Étienne",
+      "team2": "Stade de Reims",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3074,23 +4304,33 @@
       }
     },
     {
-      "round": "Journée 26",
-      "date": "2020-02-22",
-      "team1": "Olympique de Marseille",
-      "team2": "FC Nantes",
+      "round": "Matchday 26",
+      "date": "2020-02-23",
+      "time": "17:00",
+      "team1": "Stade Rennais",
+      "team2": "Nîmes Olympique",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          3
+          1
+        ],
+        "ft": [
+          2,
+          1
         ]
       }
     },
     {
-      "round": "Journée 26",
+      "round": "Matchday 26",
       "date": "2020-02-23",
+      "time": "21:00",
       "team1": "Paris Saint-Germain",
-      "team2": "Girondins de Bordeaux",
+      "team2": "Girondins Bordeaux",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           4,
           3
@@ -3098,35 +4338,16 @@
       }
     },
     {
-      "round": "Journée 26",
-      "date": "2020-02-23",
-      "team1": "Stade Rennais FC",
-      "team2": "Nîmes Olympique",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 26",
-      "date": "2020-02-23",
-      "team1": "AS Saint-Étienne",
-      "team2": "Stade de Reims",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 27",
+      "round": "Matchday 27",
       "date": "2020-02-28",
+      "time": "20:45",
       "team1": "Nîmes Olympique",
-      "team2": "Olympique de Marseille",
+      "team2": "Olympique Marseille",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -3134,11 +4355,16 @@
       }
     },
     {
-      "round": "Journée 27",
+      "round": "Matchday 27",
       "date": "2020-02-29",
+      "time": "17:30",
       "team1": "Paris Saint-Germain",
       "team2": "Dijon FCO",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -3146,23 +4372,16 @@
       }
     },
     {
-      "round": "Journée 27",
+      "round": "Matchday 27",
       "date": "2020-02-29",
-      "team1": "Stade Brestois 29",
-      "team2": "Angers SCO",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 27",
-      "date": "2020-02-29",
+      "time": "20:00",
       "team1": "AS Monaco",
       "team2": "Stade de Reims",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3170,11 +4389,16 @@
       }
     },
     {
-      "round": "Journée 27",
+      "round": "Matchday 27",
       "date": "2020-02-29",
+      "time": "20:00",
       "team1": "Toulouse FC",
-      "team2": "Stade Rennais FC",
+      "team2": "Stade Rennais",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -3182,23 +4406,16 @@
       }
     },
     {
-      "round": "Journée 27",
+      "round": "Matchday 27",
       "date": "2020-02-29",
-      "team1": "Amiens SC",
-      "team2": "FC Metz",
-      "score": {
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 27",
-      "date": "2020-02-29",
+      "time": "20:00",
       "team1": "Montpellier HSC",
       "team2": "RC Strasbourg",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           3,
           0
@@ -3206,35 +4423,16 @@
       }
     },
     {
-      "round": "Journée 27",
-      "date": "2020-03-01",
-      "team1": "Olympique Lyonnais",
-      "team2": "AS Saint-Étienne",
+      "round": "Matchday 27",
+      "date": "2020-02-29",
+      "time": "20:00",
+      "team1": "Amiens SC",
+      "team2": "FC Metz",
       "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 27",
-      "date": "2020-03-01",
-      "team1": "Girondins de Bordeaux",
-      "team2": "OGC Nice",
-      "score": {
-        "ft": [
-          1,
+        "ht": [
+          0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Journée 27",
-      "date": "2020-03-01",
-      "team1": "FC Nantes",
-      "team2": "Lille OSC",
-      "score": {
+        ],
         "ft": [
           0,
           1
@@ -3242,11 +4440,84 @@
       }
     },
     {
-      "round": "Journée 28",
+      "round": "Matchday 27",
+      "date": "2020-02-29",
+      "time": "20:00",
+      "team1": "Stade Brestois 29",
+      "team2": "Angers SCO",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-01",
+      "time": "15:00",
+      "team1": "FC Nantes",
+      "team2": "Lille OSC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-01",
+      "time": "17:00",
+      "team1": "Girondins Bordeaux",
+      "team2": "OGC Nice",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2020-03-01",
+      "time": "21:00",
+      "team1": "Olympique Lyonnais",
+      "team2": "AS Saint-Étienne",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
       "date": "2020-03-06",
-      "team1": "Olympique de Marseille",
+      "time": "21:00",
+      "team1": "Olympique Marseille",
       "team2": "Amiens SC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -3254,47 +4525,25 @@
       }
     },
     {
-      "round": "Journée 28",
+      "round": "Matchday 28",
       "date": "2020-03-07",
-      "team1": "FC Metz",
-      "team2": "Nîmes Olympique",
+      "team1": "RC Strasbourg",
+      "team2": "Paris Saint-Germain",
       "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 28",
+      "round": "Matchday 28",
       "date": "2020-03-07",
-      "team1": "Stade de Reims",
-      "team2": "Stade Brestois 29",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Journée 28",
-      "date": "2020-03-07",
-      "team1": "OGC Nice",
-      "team2": "AS Monaco",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Journée 28",
-      "date": "2020-03-07",
+      "time": "20:00",
       "team1": "Dijon FCO",
       "team2": "Toulouse FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -3302,11 +4551,50 @@
       }
     },
     {
-      "round": "Journée 28",
+      "round": "Matchday 28",
       "date": "2020-03-07",
+      "time": "20:00",
+      "team1": "FC Metz",
+      "team2": "Nîmes Olympique",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-03-07",
+      "time": "20:00",
+      "team1": "OGC Nice",
+      "team2": "AS Monaco",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-03-07",
+      "time": "20:00",
       "team1": "Angers SCO",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -3314,11 +4602,33 @@
       }
     },
     {
-      "round": "Journée 28",
-      "date": "2020-03-08",
-      "team1": "AS Saint-Étienne",
-      "team2": "Girondins de Bordeaux",
+      "round": "Matchday 28",
+      "date": "2020-03-07",
+      "time": "20:00",
+      "team1": "Stade de Reims",
+      "team2": "Stade Brestois 29",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2020-03-08",
+      "time": "15:00",
+      "team1": "AS Saint-Étienne",
+      "team2": "Girondins Bordeaux",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -3326,11 +4636,16 @@
       }
     },
     {
-      "round": "Journée 28",
+      "round": "Matchday 28",
       "date": "2020-03-08",
-      "team1": "Stade Rennais FC",
+      "time": "17:00",
+      "team1": "Stade Rennais",
       "team2": "Montpellier HSC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           5,
           0
@@ -3338,11 +4653,16 @@
       }
     },
     {
-      "round": "Journée 28",
+      "round": "Matchday 28",
       "date": "2020-03-08",
+      "time": "21:00",
       "team1": "Lille OSC",
       "team2": "Olympique Lyonnais",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -3350,610 +4670,904 @@
       }
     },
     {
-      "round": "Journée 29",
+      "round": "Matchday 29",
       "date": "2020-03-13",
       "team1": "Olympique Lyonnais",
-      "team2": "Stade de Reims"
+      "team2": "Stade de Reims",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 29",
-      "date": "2020-03-14",
-      "team1": "Montpellier HSC",
-      "team2": "Olympique de Marseille"
-    },
-    {
-      "round": "Journée 29",
-      "date": "2020-03-14",
-      "team1": "Stade Brestois 29",
-      "team2": "Lille OSC"
-    },
-    {
-      "round": "Journée 29",
-      "date": "2020-03-14",
-      "team1": "Toulouse FC",
-      "team2": "FC Metz"
-    },
-    {
-      "round": "Journée 29",
-      "date": "2020-03-14",
-      "team1": "Amiens SC",
-      "team2": "Angers SCO"
-    },
-    {
-      "round": "Journée 29",
-      "date": "2020-03-14",
-      "team1": "RC Strasbourg",
-      "team2": "Dijon FCO"
-    },
-    {
-      "round": "Journée 29",
+      "round": "Matchday 29",
       "date": "2020-03-14",
       "team1": "FC Nantes",
-      "team2": "Nîmes Olympique"
+      "team2": "Nîmes Olympique",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 29",
-      "date": "2020-03-15",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Stade Rennais FC"
+      "round": "Matchday 29",
+      "date": "2020-03-14",
+      "team1": "Toulouse FC",
+      "team2": "FC Metz",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 29",
-      "date": "2020-03-15",
-      "team1": "Paris Saint-Germain",
-      "team2": "OGC Nice"
+      "round": "Matchday 29",
+      "date": "2020-03-14",
+      "team1": "Montpellier HSC",
+      "team2": "Olympique Marseille",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 29",
+      "round": "Matchday 29",
+      "date": "2020-03-14",
+      "team1": "RC Strasbourg",
+      "team2": "Dijon FCO",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-03-14",
+      "team1": "Amiens SC",
+      "team2": "Angers SCO",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2020-03-14",
+      "team1": "Stade Brestois 29",
+      "team2": "Lille OSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 29",
       "date": "2020-03-15",
       "team1": "AS Monaco",
-      "team2": "AS Saint-Étienne"
+      "team2": "AS Saint-Étienne",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 28",
-      "date": "2020-03-18",
-      "team1": "RC Strasbourg",
-      "team2": "Paris Saint-Germain"
+      "round": "Matchday 29",
+      "date": "2020-03-15",
+      "team1": "Girondins Bordeaux",
+      "team2": "Stade Rennais",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 30",
+      "round": "Matchday 29",
+      "date": "2020-03-15",
+      "team1": "Paris Saint-Germain",
+      "team2": "OGC Nice",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
       "date": "2020-03-20",
       "team1": "Lille OSC",
-      "team2": "AS Monaco"
+      "team2": "AS Monaco",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 30",
-      "date": "2020-03-21",
-      "team1": "Nîmes Olympique",
-      "team2": "Girondins de Bordeaux"
-    },
-    {
-      "round": "Journée 30",
-      "date": "2020-03-21",
-      "team1": "Stade Rennais FC",
-      "team2": "Olympique Lyonnais"
-    },
-    {
-      "round": "Journée 30",
-      "date": "2020-03-21",
-      "team1": "Angers SCO",
-      "team2": "Toulouse FC"
-    },
-    {
-      "round": "Journée 30",
-      "date": "2020-03-21",
-      "team1": "FC Metz",
-      "team2": "Stade Brestois 29"
-    },
-    {
-      "round": "Journée 30",
-      "date": "2020-03-21",
-      "team1": "OGC Nice",
-      "team2": "Montpellier HSC"
-    },
-    {
-      "round": "Journée 30",
+      "round": "Matchday 30",
       "date": "2020-03-21",
       "team1": "Dijon FCO",
-      "team2": "Amiens SC"
+      "team2": "Amiens SC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 30",
+      "round": "Matchday 30",
+      "date": "2020-03-21",
+      "team1": "FC Metz",
+      "team2": "Stade Brestois 29",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2020-03-21",
+      "team1": "OGC Nice",
+      "team2": "Montpellier HSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2020-03-21",
+      "team1": "Nîmes Olympique",
+      "team2": "Girondins Bordeaux",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2020-03-21",
+      "team1": "Angers SCO",
+      "team2": "Toulouse FC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2020-03-21",
+      "team1": "Stade Rennais",
+      "team2": "Olympique Lyonnais",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
       "date": "2020-03-22",
       "team1": "AS Saint-Étienne",
-      "team2": "RC Strasbourg"
+      "team2": "RC Strasbourg",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 30",
+      "round": "Matchday 30",
+      "date": "2020-03-22",
+      "team1": "Olympique Marseille",
+      "team2": "Paris Saint-Germain",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 30",
       "date": "2020-03-22",
       "team1": "Stade de Reims",
-      "team2": "FC Nantes"
+      "team2": "FC Nantes",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 30",
-      "date": "2020-03-22",
-      "team1": "Olympique de Marseille",
-      "team2": "Paris Saint-Germain"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-04",
-      "team1": "Montpellier HSC",
-      "team2": "Lille OSC"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-04",
-      "team1": "Toulouse FC",
-      "team2": "AS Saint-Étienne"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "Stade Brestois 29",
-      "team2": "Olympique de Marseille"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "Olympique Lyonnais",
-      "team2": "Nîmes Olympique"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "Paris Saint-Germain",
-      "team2": "FC Metz"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "Amiens SC",
-      "team2": "Stade Rennais FC"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "RC Strasbourg",
-      "team2": "Angers SCO"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "Dijon FCO",
-      "team2": "OGC Nice"
-    },
-    {
-      "round": "Journée 31",
-      "date": "2020-04-05",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Stade de Reims"
-    },
-    {
-      "round": "Journée 31",
+      "round": "Matchday 31",
       "date": "2020-04-05",
       "team1": "AS Monaco",
-      "team2": "FC Nantes"
+      "team2": "FC Nantes",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "Dijon FCO",
+      "team2": "OGC Nice",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "Toulouse FC",
+      "team2": "AS Saint-Étienne",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "Girondins Bordeaux",
+      "team2": "Stade de Reims",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "Montpellier HSC",
+      "team2": "Lille OSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "RC Strasbourg",
+      "team2": "Angers SCO",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "Amiens SC",
+      "team2": "Stade Rennais",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-05",
+      "team1": "Stade Brestois 29",
+      "team2": "Olympique Marseille",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-22",
+      "team1": "Olympique Lyonnais",
+      "team2": "Nîmes Olympique",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2020-04-22",
+      "team1": "Paris Saint-Germain",
+      "team2": "FC Metz",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2020-04-11",
+      "team1": "AS Saint-Étienne",
+      "team2": "Stade Rennais",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2020-04-11",
+      "team1": "FC Metz",
+      "team2": "Lille OSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2020-04-11",
+      "team1": "FC Nantes",
+      "team2": "Olympique Lyonnais",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2020-04-11",
+      "team1": "Girondins Bordeaux",
+      "team2": "Amiens SC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 32",
       "date": "2020-04-11",
       "team1": "OGC Nice",
-      "team2": "RC Strasbourg"
+      "team2": "RC Strasbourg",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
+      "round": "Matchday 32",
+      "date": "2020-04-11",
+      "team1": "Olympique Marseille",
+      "team2": "Dijon FCO",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 32",
       "date": "2020-04-11",
       "team1": "Nîmes Olympique",
-      "team2": "Montpellier HSC"
+      "team2": "Montpellier HSC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
-      "date": "2020-04-11",
-      "team1": "FC Metz",
-      "team2": "Lille OSC"
-    },
-    {
-      "round": "Journée 32",
+      "round": "Matchday 32",
       "date": "2020-04-11",
       "team1": "Angers SCO",
-      "team2": "Paris Saint-Germain"
+      "team2": "Paris Saint-Germain",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
-      "date": "2020-04-11",
-      "team1": "Stade de Reims",
-      "team2": "Toulouse FC"
-    },
-    {
-      "round": "Journée 32",
+      "round": "Matchday 32",
       "date": "2020-04-11",
       "team1": "Stade Brestois 29",
-      "team2": "AS Monaco"
+      "team2": "AS Monaco",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
+      "round": "Matchday 32",
       "date": "2020-04-11",
-      "team1": "AS Saint-Étienne",
-      "team2": "Stade Rennais FC"
+      "team1": "Stade de Reims",
+      "team2": "Toulouse FC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
-      "date": "2020-04-11",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Amiens SC"
+      "round": "Matchday 33",
+      "date": "2020-04-18",
+      "team1": "AS Monaco",
+      "team2": "Girondins Bordeaux",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
-      "date": "2020-04-11",
-      "team1": "FC Nantes",
-      "team2": "Olympique Lyonnais"
+      "round": "Matchday 33",
+      "date": "2020-04-18",
+      "team1": "Dijon FCO",
+      "team2": "Angers SCO",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 32",
-      "date": "2020-04-11",
-      "team1": "Olympique de Marseille",
-      "team2": "Dijon FCO"
+      "round": "Matchday 33",
+      "date": "2020-04-18",
+      "team1": "Toulouse FC",
+      "team2": "FC Nantes",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 33",
+      "round": "Matchday 33",
+      "date": "2020-04-18",
+      "team1": "Montpellier HSC",
+      "team2": "Stade de Reims",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 33",
       "date": "2020-04-18",
       "team1": "Lille OSC",
-      "team2": "OGC Nice"
+      "team2": "OGC Nice",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 33",
-      "date": "2020-04-18",
-      "team1": "Stade Rennais FC",
-      "team2": "FC Metz"
-    },
-    {
-      "round": "Journée 33",
-      "date": "2020-04-18",
-      "team1": "Toulouse FC",
-      "team2": "FC Nantes"
-    },
-    {
-      "round": "Journée 33",
-      "date": "2020-04-18",
-      "team1": "Olympique Lyonnais",
-      "team2": "Olympique de Marseille"
-    },
-    {
-      "round": "Journée 33",
-      "date": "2020-04-18",
-      "team1": "AS Monaco",
-      "team2": "Girondins de Bordeaux"
-    },
-    {
-      "round": "Journée 33",
-      "date": "2020-04-18",
-      "team1": "Montpellier HSC",
-      "team2": "Stade de Reims"
-    },
-    {
-      "round": "Journée 33",
+      "round": "Matchday 33",
       "date": "2020-04-18",
       "team1": "Paris Saint-Germain",
-      "team2": "AS Saint-Étienne"
+      "team2": "AS Saint-Étienne",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 33",
+      "round": "Matchday 33",
       "date": "2020-04-18",
       "team1": "RC Strasbourg",
-      "team2": "Stade Brestois 29"
+      "team2": "Stade Brestois 29",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 33",
-      "date": "2020-04-18",
-      "team1": "Dijon FCO",
-      "team2": "Angers SCO"
-    },
-    {
-      "round": "Journée 33",
+      "round": "Matchday 33",
       "date": "2020-04-18",
       "team1": "Amiens SC",
-      "team2": "Nîmes Olympique"
+      "team2": "Nîmes Olympique",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
-      "date": "2020-04-26",
-      "team1": "FC Nantes",
-      "team2": "Amiens SC"
+      "round": "Matchday 33",
+      "date": "2020-04-18",
+      "team1": "Stade Rennais",
+      "team2": "FC Metz",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
-      "date": "2020-04-26",
-      "team1": "Stade Rennais FC",
-      "team2": "RC Strasbourg"
+      "round": "Matchday 33",
+      "date": "2020-04-19",
+      "team1": "Olympique Lyonnais",
+      "team2": "Olympique Marseille",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
+      "round": "Matchday 34",
       "date": "2020-04-26",
       "team1": "AS Saint-Étienne",
-      "team2": "Angers SCO"
+      "team2": "Angers SCO",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
-      "date": "2020-04-26",
-      "team1": "Nîmes Olympique",
-      "team2": "Lille OSC"
-    },
-    {
-      "round": "Journée 34",
-      "date": "2020-04-26",
-      "team1": "Stade Brestois 29",
-      "team2": "Montpellier HSC"
-    },
-    {
-      "round": "Journée 34",
+      "round": "Matchday 34",
       "date": "2020-04-26",
       "team1": "FC Metz",
-      "team2": "Dijon FCO"
+      "team2": "Dijon FCO",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
+      "round": "Matchday 34",
       "date": "2020-04-26",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Toulouse FC"
+      "team1": "FC Nantes",
+      "team2": "Amiens SC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
+      "round": "Matchday 34",
       "date": "2020-04-26",
-      "team1": "Stade de Reims",
-      "team2": "Paris Saint-Germain"
+      "team1": "Girondins Bordeaux",
+      "team2": "Toulouse FC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 34",
-      "date": "2020-04-26",
-      "team1": "Olympique de Marseille",
-      "team2": "OGC Nice"
-    },
-    {
-      "round": "Journée 34",
+      "round": "Matchday 34",
       "date": "2020-04-26",
       "team1": "Olympique Lyonnais",
-      "team2": "AS Monaco"
+      "team2": "AS Monaco",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
-      "date": "2020-05-02",
-      "team1": "Paris Saint-Germain",
-      "team2": "Stade Brestois 29"
+      "round": "Matchday 34",
+      "date": "2020-04-26",
+      "team1": "Olympique Marseille",
+      "team2": "OGC Nice",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
-      "date": "2020-05-02",
-      "team1": "RC Strasbourg",
-      "team2": "Olympique de Marseille"
+      "round": "Matchday 34",
+      "date": "2020-04-26",
+      "team1": "Nîmes Olympique",
+      "team2": "Lille OSC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 34",
+      "date": "2020-04-26",
+      "team1": "Stade Brestois 29",
+      "team2": "Montpellier HSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2020-04-26",
+      "team1": "Stade de Reims",
+      "team2": "Paris Saint-Germain",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2020-04-26",
+      "team1": "Stade Rennais",
+      "team2": "RC Strasbourg",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "AS Monaco",
-      "team2": "FC Metz"
+      "team2": "FC Metz",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "Dijon FCO",
-      "team2": "Olympique Lyonnais"
+      "team2": "Olympique Lyonnais",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "Toulouse FC",
-      "team2": "Nîmes Olympique"
+      "team2": "Nîmes Olympique",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "Montpellier HSC",
-      "team2": "Girondins de Bordeaux"
+      "team2": "Girondins Bordeaux",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "OGC Nice",
-      "team2": "FC Nantes"
+      "team2": "FC Nantes",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "Lille OSC",
-      "team2": "Stade de Reims"
+      "team2": "Stade de Reims",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
+      "date": "2020-05-02",
+      "team1": "Paris Saint-Germain",
+      "team2": "Stade Brestois 29",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2020-05-02",
+      "team1": "RC Strasbourg",
+      "team2": "Olympique Marseille",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "Amiens SC",
-      "team2": "AS Saint-Étienne"
+      "team2": "AS Saint-Étienne",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 35",
+      "round": "Matchday 35",
       "date": "2020-05-02",
       "team1": "Angers SCO",
-      "team2": "Stade Rennais FC"
+      "team2": "Stade Rennais",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Stade Rennais FC",
-      "team2": "Dijon FCO"
-    },
-    {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Angers SCO"
-    },
-    {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Stade de Reims",
-      "team2": "Amiens SC"
-    },
-    {
-      "round": "Journée 36",
+      "round": "Matchday 36",
       "date": "2020-05-09",
       "team1": "AS Saint-Étienne",
-      "team2": "Lille OSC"
+      "team2": "Lille OSC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Olympique Lyonnais",
-      "team2": "Montpellier HSC"
-    },
-    {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Olympique de Marseille",
-      "team2": "AS Monaco"
-    },
-    {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Toulouse FC",
-      "team2": "Paris Saint-Germain"
-    },
-    {
-      "round": "Journée 36",
-      "date": "2020-05-09",
-      "team1": "Nîmes Olympique",
-      "team2": "RC Strasbourg"
-    },
-    {
-      "round": "Journée 36",
+      "round": "Matchday 36",
       "date": "2020-05-09",
       "team1": "FC Metz",
-      "team2": "OGC Nice"
+      "team2": "OGC Nice",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 36",
+      "round": "Matchday 36",
       "date": "2020-05-09",
       "team1": "FC Nantes",
-      "team2": "Stade Brestois 29"
+      "team2": "Stade Brestois 29",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
-      "date": "2020-05-16",
-      "team1": "RC Strasbourg",
-      "team2": "Girondins de Bordeaux"
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Toulouse FC",
+      "team2": "Paris Saint-Germain",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
-      "date": "2020-05-16",
-      "team1": "OGC Nice",
-      "team2": "AS Saint-Étienne"
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Girondins Bordeaux",
+      "team2": "Angers SCO",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
-      "date": "2020-05-16",
-      "team1": "Lille OSC",
-      "team2": "Amiens SC"
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Olympique Marseille",
+      "team2": "AS Monaco",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
-      "date": "2020-05-16",
-      "team1": "Montpellier HSC",
-      "team2": "FC Nantes"
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Olympique Lyonnais",
+      "team2": "Montpellier HSC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
-      "date": "2020-05-16",
-      "team1": "Stade Brestois 29",
-      "team2": "Nîmes Olympique"
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Nîmes Olympique",
+      "team2": "RC Strasbourg",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Stade de Reims",
+      "team2": "Amiens SC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2020-05-09",
+      "team1": "Stade Rennais",
+      "team2": "Dijon FCO",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 37",
       "date": "2020-05-16",
       "team1": "AS Monaco",
-      "team2": "Toulouse FC"
+      "team2": "Toulouse FC",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
-      "date": "2020-05-16",
-      "team1": "Angers SCO",
-      "team2": "Olympique Lyonnais"
-    },
-    {
-      "round": "Journée 37",
+      "round": "Matchday 37",
       "date": "2020-05-16",
       "team1": "Dijon FCO",
-      "team2": "Stade de Reims"
+      "team2": "Stade de Reims",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
+      "round": "Matchday 37",
       "date": "2020-05-16",
-      "team1": "Olympique de Marseille",
-      "team2": "FC Metz"
+      "team1": "Montpellier HSC",
+      "team2": "FC Nantes",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 37",
+      "round": "Matchday 37",
+      "date": "2020-05-16",
+      "team1": "OGC Nice",
+      "team2": "AS Saint-Étienne",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2020-05-16",
+      "team1": "Olympique Marseille",
+      "team2": "FC Metz",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2020-05-16",
+      "team1": "Lille OSC",
+      "team2": "Amiens SC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 37",
       "date": "2020-05-16",
       "team1": "Paris Saint-Germain",
-      "team2": "Stade Rennais FC"
+      "team2": "Stade Rennais",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Nîmes Olympique",
-      "team2": "Paris Saint-Germain"
+      "round": "Matchday 37",
+      "date": "2020-05-16",
+      "team1": "RC Strasbourg",
+      "team2": "Girondins Bordeaux",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Stade Rennais FC",
-      "team2": "AS Monaco"
+      "round": "Matchday 37",
+      "date": "2020-05-16",
+      "team1": "Angers SCO",
+      "team2": "Olympique Lyonnais",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 38",
+      "round": "Matchday 37",
+      "date": "2020-05-16",
+      "team1": "Stade Brestois 29",
+      "team2": "Nîmes Olympique",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
       "date": "2020-05-23",
       "team1": "AS Saint-Étienne",
-      "team2": "Dijon FCO"
+      "team2": "Dijon FCO",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 38",
+      "round": "Matchday 38",
       "date": "2020-05-23",
       "team1": "FC Metz",
-      "team2": "Angers SCO"
+      "team2": "Angers SCO",
+      "score": {
+      },
+      "status": "cancelled"
     },
     {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Amiens SC",
-      "team2": "OGC Nice"
-    },
-    {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Girondins de Bordeaux",
-      "team2": "Lille OSC"
-    },
-    {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Stade de Reims",
-      "team2": "Olympique de Marseille"
-    },
-    {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Toulouse FC",
-      "team2": "Montpellier HSC"
-    },
-    {
-      "round": "Journée 38",
-      "date": "2020-05-23",
-      "team1": "Olympique Lyonnais",
-      "team2": "Stade Brestois 29"
-    },
-    {
-      "round": "Journée 38",
+      "round": "Matchday 38",
       "date": "2020-05-23",
       "team1": "FC Nantes",
-      "team2": "RC Strasbourg"
+      "team2": "RC Strasbourg",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Toulouse FC",
+      "team2": "Montpellier HSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Girondins Bordeaux",
+      "team2": "Lille OSC",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Nîmes Olympique",
+      "team2": "Paris Saint-Germain",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Olympique Lyonnais",
+      "team2": "Stade Brestois 29",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Amiens SC",
+      "team2": "OGC Nice",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Stade de Reims",
+      "team2": "Olympique Marseille",
+      "score": {
+      },
+      "status": "cancelled"
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2020-05-23",
+      "team1": "Stade Rennais",
+      "team2": "AS Monaco",
+      "score": {
+      },
+      "status": "cancelled"
     }
   ]
 }

@@ -1,12 +1,17 @@
 {
-  "name": "First League 2020/21",
+  "name": "Hungarian Nemzeti Bajnokság I 2020/21",
   "matches": [
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-08-14",
+      "time": "18:15",
       "team1": "MTK Budapest",
       "team2": "Ferencvárosi TC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-08-15",
+      "time": "16:30",
       "team1": "Paksi SE",
       "team2": "Újpest FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-08-15",
+      "time": "18:35",
       "team1": "Zalaegerszegi TE",
-      "team2": "Videoton FC",
+      "team2": "Fehérvár FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           3,
           3
@@ -38,11 +53,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-08-16",
-      "team1": "Diósgyőri VTK",
-      "team2": "Mezőkövesd Zsóry SE",
+      "time": "16:55",
+      "team1": "Diósgyöri VTK",
+      "team2": "Mezőkövesdi SE",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           2,
           1
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-08-17",
+      "time": "19:00",
       "team1": "Budafoki MTE",
       "team2": "Kisvárda FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -62,11 +87,33 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 1",
+      "date": "2020-11-04",
+      "time": "15:30",
+      "team1": "Puskás FC",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
       "date": "2020-08-21",
-      "team1": "Mezőkövesd Zsóry SE",
+      "time": "16:30",
+      "team1": "Mezőkövesdi SE",
       "team2": "Zalaegerszegi TE",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -74,11 +121,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-08-21",
+      "time": "19:00",
       "team1": "MTK Budapest",
-      "team2": "Budapest Honvéd FC",
+      "team2": "Budapest Honvéd",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -86,17 +138,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-08-22",
-      "team1": "Ferencvárosi TC",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 2",
-      "date": "2020-08-22",
-      "team1": "Videoton FC",
+      "time": "21:00",
+      "team1": "Fehérvár FC",
       "team2": "Paksi SE",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -104,11 +155,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-08-23",
+      "time": "17:45",
       "team1": "Újpest FC",
       "team2": "Budafoki MTE",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -116,83 +172,16 @@
       }
     },
     {
-      "round": "Round 3",
-      "date": "2020-08-28",
-      "team1": "Diósgyőri VTK",
-      "team2": "MTK Budapest",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-08-29",
-      "team1": "Paksi SE",
-      "team2": "Mezőkövesd Zsóry SE",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-08-30",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Ferencvárosi TC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-08-30",
-      "team1": "Budafoki MTE",
-      "team2": "Videoton FC",
-      "score": {
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-08-30",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Újpest FC",
-      "score": {
-        "ft": [
-          3,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-08-30",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Kisvárda FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-04",
+      "time": "20:00",
       "team1": "Kisvárda FC",
-      "team2": "Puskás Akadémia FC",
+      "team2": "Puskás FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -200,11 +189,135 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 2",
+      "date": "2021-01-20",
+      "time": "20:00",
+      "team1": "Ferencvárosi TC",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-28",
+      "time": "20:00",
+      "team1": "Diósgyöri VTK",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-29",
+      "time": "20:30",
+      "team1": "Paksi SE",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-30",
+      "time": "17:45",
+      "team1": "Budafoki MTE",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-30",
+      "time": "17:45",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-30",
+      "time": "20:00",
+      "team1": "Puskás FC",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-08-30",
+      "time": "20:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 4",
       "date": "2020-09-11",
+      "time": "20:00",
       "team1": "Ferencvárosi TC",
       "team2": "Paksi SE",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           0
@@ -212,11 +325,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-09-12",
-      "team1": "Mezőkövesd Zsóry SE",
+      "time": "14:45",
+      "team1": "Mezőkövesdi SE",
       "team2": "Budafoki MTE",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -224,11 +342,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-09-12",
-      "team1": "Diósgyőri VTK",
-      "team2": "Budapest Honvéd FC",
+      "time": "17:00",
+      "team1": "Diósgyöri VTK",
+      "team2": "Budapest Honvéd",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           4
@@ -236,11 +359,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-09-12",
-      "team1": "Videoton FC",
-      "team2": "Puskás Akadémia FC",
+      "time": "19:30",
+      "team1": "Fehérvár FC",
+      "team2": "Puskás FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -248,11 +376,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-09-13",
+      "time": "15:00",
       "team1": "Újpest FC",
       "team2": "Kisvárda FC",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
         "ft": [
           2,
           4
@@ -260,11 +393,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-09-13",
+      "time": "17:30",
       "team1": "MTK Budapest",
       "team2": "Zalaegerszegi TE",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           3
@@ -272,11 +410,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-09-25",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Mezőkövesd Zsóry SE",
+      "time": "20:00",
+      "team1": "Puskás FC",
+      "team2": "Mezőkövesdi SE",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -284,11 +427,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-09-26",
+      "time": "14:45",
       "team1": "Paksi SE",
       "team2": "MTK Budapest",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           0
@@ -296,11 +444,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-09-26",
+      "time": "19:30",
       "team1": "Zalaegerszegi TE",
-      "team2": "Diósgyőri VTK",
+      "team2": "Diósgyöri VTK",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
         "ft": [
           3,
           1
@@ -308,11 +461,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-09-27",
-      "team1": "Budapest Honvéd FC",
+      "time": "18:00",
+      "team1": "Budapest Honvéd",
       "team2": "Újpest FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           2
@@ -320,59 +478,16 @@
       }
     },
     {
-      "round": "Round 6",
-      "date": "2020-10-02",
-      "team1": "MTK Budapest",
-      "team2": "Budafoki MTE",
+      "round": "Matchday 5",
+      "date": "2021-01-27",
+      "time": "17:45",
+      "team1": "Kisvárda FC",
+      "team2": "Fehérvár FC",
       "score": {
-        "ft": [
+        "ht": [
           1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 6",
-      "date": "2020-10-03",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Kisvárda FC",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 6",
-      "date": "2020-10-03",
-      "team1": "Diósgyőri VTK",
-      "team2": "Paksi SE",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 6",
-      "date": "2020-10-04",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Budapest Honvéd FC",
-      "score": {
-        "ft": [
-          2,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Round 6",
-      "date": "2020-10-04",
-      "team1": "Ferencvárosi TC",
-      "team2": "Puskás Akadémia FC",
-      "score": {
+          1
+        ],
         "ft": [
           2,
           1
@@ -380,11 +495,118 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 5",
+      "date": "2021-01-27",
+      "time": "20:00",
+      "team1": "Budafoki MTE",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-02",
+      "time": "20:00",
+      "team1": "MTK Budapest",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-03",
+      "time": "17:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-03",
+      "time": "19:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2020-10-04",
-      "team1": "Videoton FC",
+      "time": "15:00",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-04",
+      "time": "17:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-04",
+      "time": "20:00",
+      "team1": "Fehérvár FC",
       "team2": "Újpest FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           5,
           1
@@ -392,11 +614,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-16",
+      "time": "20:00",
       "team1": "Kisvárda FC",
       "team2": "Ferencvárosi TC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -404,11 +631,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-17",
+      "time": "14:45",
       "team1": "Budafoki MTE",
-      "team2": "Diósgyőri VTK",
+      "team2": "Diósgyöri VTK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -416,11 +648,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-17",
+      "time": "17:00",
       "team1": "Újpest FC",
-      "team2": "Mezőkövesd Zsóry SE",
+      "team2": "Mezőkövesdi SE",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -428,11 +665,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-17",
-      "team1": "Puskás Akadémia FC",
+      "time": "19:30",
+      "team1": "Puskás FC",
       "team2": "MTK Budapest",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           0,
           3
@@ -440,11 +682,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-18",
+      "time": "14:30",
       "team1": "Paksi SE",
       "team2": "Zalaegerszegi TE",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           3,
           1
@@ -452,11 +699,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-18",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Videoton FC",
+      "time": "17:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Fehérvár FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -464,11 +716,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-10-24",
+      "time": "14:45",
       "team1": "MTK Budapest",
       "team2": "Kisvárda FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -476,10 +733,11 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-10-24",
+      "time": "17:00",
       "team1": "Paksi SE",
-      "team2": "Budapest Honvéd FC",
+      "team2": "Budapest Honvéd",
       "score": {
         "ft": [
           0,
@@ -488,11 +746,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-10-24",
+      "time": "19:30",
       "team1": "Ferencvárosi TC",
       "team2": "Újpest FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -500,11 +763,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-10-25",
+      "time": "14:30",
       "team1": "Zalaegerszegi TE",
       "team2": "Budafoki MTE",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           1,
           3
@@ -512,11 +780,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-10-25",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Videoton FC",
+      "time": "17:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Fehérvár FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -524,11 +797,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-10-25",
-      "team1": "Diósgyőri VTK",
-      "team2": "Puskás Akadémia FC",
+      "time": "19:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Puskás FC",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -536,11 +814,16 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-10-31",
-      "team1": "Puskás Akadémia FC",
+      "time": "14:45",
+      "team1": "Puskás FC",
       "team2": "Zalaegerszegi TE",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -548,11 +831,16 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-10-31",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Mezőkövesd Zsóry SE",
+      "time": "17:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Mezőkövesdi SE",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -560,11 +848,16 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-10-31",
-      "team1": "Videoton FC",
+      "time": "19:30",
+      "team1": "Fehérvár FC",
       "team2": "Ferencvárosi TC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -572,11 +865,16 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-01",
+      "time": "14:05",
       "team1": "Budafoki MTE",
       "team2": "Paksi SE",
       "score": {
+        "ht": [
+          2,
+          3
+        ],
         "ft": [
           2,
           3
@@ -584,11 +882,16 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-01",
+      "time": "16:00",
       "team1": "Újpest FC",
       "team2": "MTK Budapest",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
         "ft": [
           0,
           4
@@ -596,11 +899,16 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-01",
+      "time": "18:30",
       "team1": "Kisvárda FC",
-      "team2": "Diósgyőri VTK",
+      "team2": "Diósgyöri VTK",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -608,21 +916,10 @@
       }
     },
     {
-      "round": "Round 1",
-      "date": "2020-11-04",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Budapest Honvéd FC",
-      "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-06",
-      "team1": "Diósgyőri VTK",
+      "time": "20:00",
+      "team1": "Diósgyöri VTK",
       "team2": "Újpest FC",
       "score": {
         "ft": [
@@ -630,14 +927,19 @@
           0
         ]
       },
-      "status": "AWARDED"
+      "status": "awarded"
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-07",
+      "time": "14:45",
       "team1": "Paksi SE",
-      "team2": "Puskás Akadémia FC",
+      "team2": "Puskás FC",
       "score": {
+        "ht": [
+          3,
+          1
+        ],
         "ft": [
           6,
           2
@@ -645,11 +947,16 @@
       }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-07",
+      "time": "19:45",
       "team1": "MTK Budapest",
-      "team2": "Videoton FC",
+      "team2": "Fehérvár FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -657,11 +964,16 @@
       }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-08",
+      "time": "14:30",
       "team1": "Zalaegerszegi TE",
       "team2": "Kisvárda FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -669,11 +981,16 @@
       }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-08",
+      "time": "17:00",
       "team1": "Ferencvárosi TC",
-      "team2": "Mezőkövesd Zsóry SE",
+      "team2": "Mezőkövesdi SE",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           0
@@ -681,850 +998,2315 @@
       }
     },
     {
-      "round": "Round 11",
-      "date": "2020-11-20",
-      "team1": "Kisvárda FC",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 11",
-      "date": "2020-11-21",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 11",
-      "date": "2020-11-21",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 11",
-      "date": "2020-11-21",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 11",
-      "date": "2020-11-22",
-      "team1": "Újpest FC",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 11",
-      "date": "2020-11-22",
-      "team1": "Videoton FC",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-11-27",
-      "team1": "Újpest FC",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-11-28",
-      "team1": "Kisvárda FC",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-11-28",
-      "team1": "Videoton FC",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-11-28",
-      "team1": "Ferencvárosi TC",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-11-29",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-11-29",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Puskás Akadémia FC"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-04",
-      "team1": "Budafoki MTE",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-05",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-05",
-      "team1": "Diósgyőri VTK",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-05",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Kisvárda FC"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-06",
-      "team1": "Budapest Honvéd FC",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-06",
-      "team1": "Paksi SE",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-11",
-      "team1": "Újpest FC",
-      "team2": "Puskás Akadémia FC"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-12",
-      "team1": "Kisvárda FC",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-12",
-      "team1": "Ferencvárosi TC",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-12",
-      "team1": "Videoton FC",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-13",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-13",
-      "team1": "MTK Budapest",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-15",
-      "team1": "Kisvárda FC",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-15",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-16",
-      "team1": "Zalaegerszegi TE",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-16",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-16",
-      "team1": "Paksi SE",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-16",
-      "team1": "Budafoki MTE",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 16",
-      "date": "2020-12-18",
-      "team1": "Videoton FC",
-      "team2": "Kisvárda FC"
-    },
-    {
-      "round": "Round 16",
-      "date": "2020-12-19",
-      "team1": "MTK Budapest",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 16",
-      "date": "2020-12-19",
-      "team1": "Diósgyőri VTK",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 16",
-      "date": "2020-12-19",
-      "team1": "Ferencvárosi TC",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 16",
-      "date": "2020-12-20",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Puskás Akadémia FC"
-    },
-    {
-      "round": "Round 16",
-      "date": "2020-12-20",
-      "team1": "Újpest FC",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-12-23",
+      "time": "20:15",
       "team1": "Budafoki MTE",
-      "team2": "Budapest Honvéd FC"
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 11",
+      "date": "2020-11-20",
+      "time": "20:00",
+      "team1": "Kisvárda FC",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-11-21",
+      "time": "14:45",
+      "team1": "Puskás FC",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-11-21",
+      "time": "17:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-11-21",
+      "time": "19:30",
+      "team1": "Budapest Honvéd",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-11-22",
+      "time": "17:00",
+      "team1": "Fehérvár FC",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
+      "date": "2020-12-23",
+      "time": "18:00",
+      "team1": "Újpest FC",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-11-27",
+      "time": "20:00",
+      "team1": "Újpest FC",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-11-28",
+      "time": "14:45",
+      "team1": "Kisvárda FC",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-11-28",
+      "time": "17:00",
+      "team1": "Fehérvár FC",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-11-28",
+      "time": "19:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-11-29",
+      "time": "14:05",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-11-29",
+      "time": "18:45",
+      "team1": "Budapest Honvéd",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-04",
+      "time": "20:15",
+      "team1": "Budafoki MTE",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-05",
+      "time": "14:45",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-05",
+      "time": "17:00",
+      "team1": "Diósgyöri VTK",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-05",
+      "time": "19:30",
+      "team1": "Puskás FC",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-06",
+      "time": "15:15",
+      "team1": "Budapest Honvéd",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-06",
+      "time": "17:30",
+      "team1": "Paksi SE",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-11",
+      "time": "20:00",
+      "team1": "Újpest FC",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-12",
+      "time": "14:45",
+      "team1": "Kisvárda FC",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-12",
+      "time": "17:00",
+      "team1": "Ferencvárosi TC",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-12",
+      "time": "19:30",
+      "team1": "Fehérvár FC",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-13",
+      "time": "14:30",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-13",
+      "time": "17:00",
+      "team1": "MTK Budapest",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-15",
+      "time": "18:00",
+      "team1": "Kisvárda FC",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-15",
+      "time": "20:15",
+      "team1": "Fehérvár FC",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-16",
+      "time": "18:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-16",
+      "time": "18:00",
+      "team1": "Zalaegerszegi TE",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-16",
+      "time": "20:15",
+      "team1": "Paksi SE",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-16",
+      "time": "20:15",
+      "team1": "Budafoki MTE",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-12-18",
+      "time": "20:00",
+      "team1": "Fehérvár FC",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-12-19",
+      "time": "14:45",
+      "team1": "MTK Budapest",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-12-19",
+      "time": "17:00",
+      "team1": "Diósgyöri VTK",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-12-19",
+      "time": "19:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-12-20",
+      "time": "14:30",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2020-12-20",
+      "time": "17:00",
+      "team1": "Újpest FC",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2021-01-23",
+      "time": "14:30",
       "team1": "Kisvárda FC",
-      "team2": "Mezőkövesd Zsóry SE"
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-23",
-      "team1": "Újpest FC",
-      "team2": "Videoton FC"
+      "time": "17:00",
+      "team1": "Puskás FC",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-23",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Zalaegerszegi TE"
+      "time": "19:30",
+      "team1": "Újpest FC",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          5
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-23",
+      "round": "Matchday 17",
+      "date": "2021-01-24",
+      "time": "13:30",
+      "team1": "Budafoki MTE",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-24",
+      "time": "15:45",
       "team1": "Paksi SE",
-      "team2": "Diósgyőri VTK"
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-23",
-      "team1": "Budafoki MTE",
-      "team2": "MTK Budapest"
+      "round": "Matchday 17",
+      "date": "2021-01-24",
+      "time": "18:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-23",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 5",
-      "date": "2021-01-27",
-      "team1": "Kisvárda FC",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 5",
-      "date": "2021-01-27",
-      "team1": "Budafoki MTE",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-30",
+      "time": "12:30",
       "team1": "MTK Budapest",
-      "team2": "Puskás Akadémia FC"
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-30",
-      "team1": "Diósgyőri VTK",
-      "team2": "Budafoki MTE"
+      "time": "14:45",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-30",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Paksi SE"
+      "time": "17:00",
+      "team1": "Ferencvárosi TC",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-30",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Újpest FC"
+      "time": "19:30",
+      "team1": "Fehérvár FC",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 18",
-      "date": "2021-01-30",
-      "team1": "Ferencvárosi TC",
-      "team2": "Kisvárda FC"
+      "round": "Matchday 18",
+      "date": "2021-01-31",
+      "time": "14:10",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 18",
-      "date": "2021-01-30",
-      "team1": "Videoton FC",
-      "team2": "Budapest Honvéd FC"
+      "round": "Matchday 18",
+      "date": "2021-01-31",
+      "time": "16:15",
+      "team1": "Diósgyöri VTK",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
+      "date": "2021-02-02",
+      "time": "17:30",
+      "team1": "Kisvárda FC",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-02-02",
+      "time": "20:00",
+      "team1": "Fehérvár FC",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
       "date": "2021-02-03",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Paksi SE"
+      "time": "16:00",
+      "team1": "Puskás FC",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2021-02-03",
-      "team1": "Budafoki MTE",
-      "team2": "Zalaegerszegi TE"
+      "time": "17:30",
+      "team1": "Budapest Honvéd",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2021-02-03",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Diósgyőri VTK"
+      "time": "20:00",
+      "team1": "Budafoki MTE",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2021-02-03",
-      "team1": "Kisvárda FC",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 19",
-      "date": "2021-02-03",
+      "time": "20:00",
       "team1": "Újpest FC",
-      "team2": "Ferencvárosi TC"
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-02-03",
-      "team1": "Videoton FC",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2021-02-06",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Puskás Akadémia FC"
+      "time": "14:45",
+      "team1": "Diósgyöri VTK",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2021-02-06",
-      "team1": "Paksi SE",
-      "team2": "Budafoki MTE"
+      "time": "17:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2021-02-06",
-      "team1": "Ferencvárosi TC",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 20",
-      "date": "2021-02-06",
+      "time": "19:30",
       "team1": "MTK Budapest",
-      "team2": "Újpest FC"
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 20",
-      "date": "2021-02-06",
-      "team1": "Diósgyőri VTK",
-      "team2": "Kisvárda FC"
+      "round": "Matchday 20",
+      "date": "2021-02-07",
+      "time": "14:10",
+      "team1": "Paksi SE",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 20",
-      "date": "2021-02-06",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Budapest Honvéd FC"
+      "round": "Matchday 20",
+      "date": "2021-02-07",
+      "time": "16:15",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 21",
-      "date": "2021-02-13",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Budafoki MTE"
+      "round": "Matchday 20",
+      "date": "2021-02-07",
+      "time": "18:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 21",
-      "date": "2021-02-13",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-02-13",
-      "team1": "Kisvárda FC",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-02-13",
+      "round": "Matchday 21",
+      "date": "2021-02-12",
+      "time": "20:00",
       "team1": "Újpest FC",
-      "team2": "Diósgyőri VTK"
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2021-02-13",
-      "team1": "Videoton FC",
-      "team2": "MTK Budapest"
+      "time": "14:45",
+      "team1": "Puskás FC",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 21",
+      "round": "Matchday 21",
       "date": "2021-02-13",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-02-20",
-      "team1": "Budafoki MTE",
-      "team2": "Puskás Akadémia FC"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-02-20",
-      "team1": "MTK Budapest",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-02-20",
-      "team1": "Diósgyőri VTK",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-02-20",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-02-20",
-      "team1": "Paksi SE",
-      "team2": "Kisvárda FC"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-02-20",
-      "team1": "Ferencvárosi TC",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-27",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-27",
-      "team1": "Budafoki MTE",
-      "team2": "Kisvárda FC"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-27",
-      "team1": "Paksi SE",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-27",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-27",
-      "team1": "Diósgyőri VTK",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-27",
-      "team1": "MTK Budapest",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-03-06",
-      "team1": "Ferencvárosi TC",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-03-06",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-03-06",
-      "team1": "Videoton FC",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-03-06",
-      "team1": "Újpest FC",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-03-06",
+      "time": "17:00",
       "team1": "Kisvárda FC",
-      "team2": "Puskás Akadémia FC"
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 24",
+      "round": "Matchday 21",
+      "date": "2021-02-13",
+      "time": "19:30",
+      "team1": "Budapest Honvéd",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-14",
+      "time": "14:30",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-14",
+      "time": "17:00",
+      "team1": "Fehérvár FC",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-19",
+      "time": "20:00",
+      "team1": "MTK Budapest",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-20",
+      "time": "14:45",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-20",
+      "time": "17:00",
+      "team1": "Fehérvár FC",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-20",
+      "time": "19:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-21",
+      "time": "14:30",
+      "team1": "Budafoki MTE",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-21",
+      "time": "17:00",
+      "team1": "Paksi SE",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-26",
+      "time": "20:00",
+      "team1": "Diósgyöri VTK",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-27",
+      "time": "14:45",
+      "team1": "Budafoki MTE",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-27",
+      "time": "17:00",
+      "team1": "Puskás FC",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-27",
+      "time": "19:30",
+      "team1": "MTK Budapest",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-28",
+      "time": "14:30",
+      "team1": "Paksi SE",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-28",
+      "time": "17:00",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-02",
+      "time": "15:15",
+      "team1": "Kisvárda FC",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-02",
+      "time": "17:30",
+      "team1": "Budapest Honvéd",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-02",
+      "time": "20:00",
+      "team1": "Ferencvárosi TC",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-03",
+      "time": "15:15",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-03",
+      "time": "17:30",
+      "team1": "Újpest FC",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-03-03",
+      "time": "20:00",
+      "team1": "Fehérvár FC",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-05",
+      "time": "20:00",
+      "team1": "Diósgyöri VTK",
+      "team2": "MTK Budapest",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
       "date": "2021-03-06",
-      "team1": "Budapest Honvéd FC",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-03-13",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-03-13",
-      "team1": "Budafoki MTE",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-03-13",
+      "time": "17:00",
       "team1": "Paksi SE",
-      "team2": "Mezőkövesd Zsóry SE"
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 25",
-      "date": "2021-03-13",
+      "round": "Matchday 25",
+      "date": "2021-03-06",
+      "time": "19:30",
+      "team1": "Puskás FC",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-07",
+      "time": "16:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-07",
+      "time": "18:00",
       "team1": "Zalaegerszegi TE",
-      "team2": "Ferencvárosi TC"
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 25",
+      "round": "Matchday 25",
+      "date": "2021-03-07",
+      "time": "20:00",
+      "team1": "Budafoki MTE",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
       "date": "2021-03-13",
-      "team1": "Diósgyőri VTK",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-03-13",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Kisvárda FC"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-03-20",
-      "team1": "Diósgyőri VTK",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-03-20",
-      "team1": "MTK Budapest",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-03-20",
-      "team1": "Ferencvárosi TC",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-03-20",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-03-20",
-      "team1": "Videoton FC",
-      "team2": "Puskás Akadémia FC"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-03-20",
+      "time": "14:45",
       "team1": "Újpest FC",
-      "team2": "Kisvárda FC"
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-04-03",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-04-03",
-      "team1": "Budafoki MTE",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-04-03",
-      "team1": "Paksi SE",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-04-03",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-04-03",
-      "team1": "Kisvárda FC",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-04-03",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-04-10",
-      "team1": "Zalaegerszegi TE",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-04-10",
-      "team1": "Diósgyőri VTK",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-04-10",
+      "round": "Matchday 26",
+      "date": "2021-03-13",
+      "time": "17:00",
       "team1": "MTK Budapest",
-      "team2": "Budafoki MTE"
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 28",
-      "date": "2021-04-10",
+      "round": "Matchday 26",
+      "date": "2021-03-13",
+      "time": "19:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-14",
+      "time": "14:05",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-14",
+      "time": "17:00",
       "team1": "Ferencvárosi TC",
-      "team2": "Puskás Akadémia FC"
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          5,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 28",
-      "date": "2021-04-10",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Kisvárda FC"
+      "round": "Matchday 26",
+      "date": "2021-03-14",
+      "time": "19:15",
+      "team1": "Puskás FC",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 28",
-      "date": "2021-04-10",
-      "team1": "Videoton FC",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-04-17",
-      "team1": "Puskás Akadémia FC",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-04-17",
-      "team1": "Budafoki MTE",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-04-17",
+      "round": "Matchday 27",
+      "date": "2021-04-03",
+      "time": "14:45",
       "team1": "Paksi SE",
-      "team2": "Zalaegerszegi TE"
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-04-17",
-      "team1": "Újpest FC",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-04-17",
-      "team1": "Kisvárda FC",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-04-17",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-04-24",
-      "team1": "Paksi SE",
-      "team2": "Budapest Honvéd FC"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-04-24",
+      "round": "Matchday 27",
+      "date": "2021-04-03",
+      "time": "17:00",
       "team1": "Zalaegerszegi TE",
-      "team2": "Budafoki MTE"
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-04-24",
-      "team1": "Diósgyőri VTK",
-      "team2": "Puskás Akadémia FC"
+      "round": "Matchday 27",
+      "date": "2021-04-03",
+      "time": "19:30",
+      "team1": "Budapest Honvéd",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-04-24",
-      "team1": "MTK Budapest",
-      "team2": "Kisvárda FC"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-04-24",
-      "team1": "Ferencvárosi TC",
-      "team2": "Újpest FC"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-04-24",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-05-01",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Zalaegerszegi TE"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-05-01",
-      "team1": "Budafoki MTE",
-      "team2": "Paksi SE"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-05-01",
-      "team1": "Videoton FC",
-      "team2": "Ferencvárosi TC"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-05-01",
-      "team1": "Újpest FC",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-05-01",
+      "round": "Matchday 27",
+      "date": "2021-04-04",
+      "time": "14:30",
       "team1": "Kisvárda FC",
-      "team2": "Diósgyőri VTK"
+      "team2": "Fehérvár FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 31",
-      "date": "2021-05-01",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-05-08",
+      "round": "Matchday 27",
+      "date": "2021-04-04",
+      "time": "17:00",
       "team1": "Budafoki MTE",
-      "team2": "Budapest Honvéd FC"
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-05-08",
-      "team1": "Paksi SE",
-      "team2": "Puskás Akadémia FC"
+      "round": "Matchday 27",
+      "date": "2021-04-04",
+      "time": "19:15",
+      "team1": "Puskás FC",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-05-08",
+      "round": "Matchday 28",
+      "date": "2021-04-09",
+      "time": "20:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-10",
+      "time": "14:45",
+      "team1": "MTK Budapest",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-10",
+      "time": "17:00",
+      "team1": "Fehérvár FC",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-10",
+      "time": "19:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-11",
+      "time": "14:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-11",
+      "time": "17:00",
       "team1": "Zalaegerszegi TE",
-      "team2": "Kisvárda FC"
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-05-08",
-      "team1": "Diósgyőri VTK",
-      "team2": "Újpest FC"
+      "round": "Matchday 29",
+      "date": "2021-04-16",
+      "time": "18:00",
+      "team1": "Budafoki MTE",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-05-08",
-      "team1": "MTK Budapest",
-      "team2": "Videoton FC"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-05-08",
-      "team1": "Ferencvárosi TC",
-      "team2": "Mezőkövesd Zsóry SE"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-05-15",
-      "team1": "Puskás Akadémia FC",
-      "team2": "Budafoki MTE"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-05-15",
-      "team1": "Mezőkövesd Zsóry SE",
-      "team2": "MTK Budapest"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-05-15",
-      "team1": "Videoton FC",
-      "team2": "Diósgyőri VTK"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-05-15",
+      "round": "Matchday 29",
+      "date": "2021-04-17",
+      "time": "14:45",
       "team1": "Újpest FC",
-      "team2": "Zalaegerszegi TE"
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-05-15",
+      "round": "Matchday 29",
+      "date": "2021-04-17",
+      "time": "17:00",
       "team1": "Kisvárda FC",
-      "team2": "Paksi SE"
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-05-15",
-      "team1": "Budapest Honvéd FC",
-      "team2": "Ferencvárosi TC"
+      "round": "Matchday 29",
+      "date": "2021-04-17",
+      "time": "19:30",
+      "team1": "Paksi SE",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-18",
+      "time": "15:15",
+      "team1": "Puskás FC",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-18",
+      "time": "17:30",
+      "team1": "Budapest Honvéd",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-20",
+      "time": "17:30",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-20",
+      "time": "20:00",
+      "team1": "Ferencvárosi TC",
+      "team2": "Újpest FC",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "15:15",
+      "team1": "MTK Budapest",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "17:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "20:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-21",
+      "time": "20:15",
+      "team1": "Paksi SE",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-24",
+      "time": "14:45",
+      "team1": "Puskás FC",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-24",
+      "time": "17:00",
+      "team1": "Kisvárda FC",
+      "team2": "Diósgyöri VTK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-24",
+      "time": "19:30",
+      "team1": "Újpest FC",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-25",
+      "time": "14:30",
+      "team1": "Budafoki MTE",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          2,
+          4
+        ],
+        "ft": [
+          2,
+          9
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-25",
+      "time": "17:00",
+      "team1": "Fehérvár FC",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-04-25",
+      "time": "19:30",
+      "team1": "Budapest Honvéd",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-29",
+      "time": "17:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Újpest FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-29",
+      "time": "20:00",
+      "team1": "MTK Budapest",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-30",
+      "time": "20:00",
+      "team1": "Paksi SE",
+      "team2": "Puskás FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-01",
+      "time": "17:00",
+      "team1": "Zalaegerszegi TE",
+      "team2": "Kisvárda FC",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-01",
+      "time": "19:30",
+      "team1": "Ferencvárosi TC",
+      "team2": "Mezőkövesdi SE",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-02",
+      "time": "17:00",
+      "team1": "Budafoki MTE",
+      "team2": "Budapest Honvéd",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-07",
+      "time": "20:00",
+      "team1": "Mezőkövesdi SE",
+      "team2": "MTK Budapest",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-08",
+      "time": "17:00",
+      "team1": "Budapest Honvéd",
+      "team2": "Ferencvárosi TC",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-08",
+      "time": "19:30",
+      "team1": "Újpest FC",
+      "team2": "Zalaegerszegi TE",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          5,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-09",
+      "time": "17:30",
+      "team1": "Puskás FC",
+      "team2": "Budafoki MTE",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-09",
+      "time": "17:30",
+      "team1": "Diósgyöri VTK",
+      "team2": "Fehérvár FC",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-09",
+      "time": "17:30",
+      "team1": "Kisvárda FC",
+      "team2": "Paksi SE",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
     }
   ]
 }

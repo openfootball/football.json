@@ -1,12 +1,17 @@
 {
-  "name": "Süper Lig 2020/21",
+  "name": "Turkish Süper Lig 2020/21",
   "matches": [
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-11",
+      "time": "20:00",
       "team1": "Çaykur Rizespor",
-      "team2": "Fenerbahçe İstanbul",
+      "team2": "Fenerbahçe",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -14,11 +19,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-12",
+      "time": "17:00",
       "team1": "Fatih Karagümrük",
       "team2": "Yeni Malatyaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           0
@@ -26,11 +36,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-12",
+      "time": "17:00",
       "team1": "Sivasspor",
       "team2": "Alanyaspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -38,11 +53,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-12",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Gazişehir Gaziantep FK",
+      "time": "20:00",
+      "team1": "Galatasaray",
+      "team2": "Gaziantep FK",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           1
@@ -50,11 +70,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-12",
-      "team1": "Göztepe İzmir",
+      "time": "20:00",
+      "team1": "Göztepe",
       "team2": "Denizlispor",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           1
@@ -62,11 +87,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-13",
+      "time": "17:00",
       "team1": "MKE Ankaragücü",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -74,11 +104,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-13",
+      "time": "17:00",
       "team1": "Kayserispor",
-      "team2": "Kasımpaşa İstanbul",
+      "team2": "Kasımpaşa SK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -86,11 +121,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-13",
+      "time": "20:00",
       "team1": "Antalyaspor",
-      "team2": "Gençlerbirliği Ankara SK",
+      "team2": "Gençlerbirliği",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -98,11 +138,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-13",
+      "time": "20:00",
       "team1": "Trabzonspor",
-      "team2": "Beşiktaş İstanbul",
+      "team2": "Beşiktaş",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -110,11 +155,16 @@
       }
     },
     {
-      "round": "Round 1",
+      "round": "Matchday 1",
       "date": "2020-09-14",
+      "time": "20:00",
       "team1": "Hatayspor",
       "team2": "İstanbul Başakşehir",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -122,11 +172,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-18",
+      "time": "20:00",
       "team1": "Yeni Malatyaspor",
-      "team2": "Göztepe İzmir",
+      "team2": "Göztepe",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -134,9 +189,10 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-19",
-      "team1": "Gençlerbirliği Ankara SK",
+      "time": "13:30",
+      "team1": "Gençlerbirliği",
       "team2": "Konyaspor",
       "score": {
         "ft": [
@@ -146,8 +202,9 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-19",
+      "time": "16:00",
       "team1": "Denizlispor",
       "team2": "Trabzonspor",
       "score": {
@@ -158,11 +215,33 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-19",
-      "team1": "Beşiktaş İstanbul",
+      "time": "19:00",
+      "team1": "Alanyaspor",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-09-19",
+      "time": "19:00",
+      "team1": "Beşiktaş",
       "team2": "Antalyaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -170,23 +249,16 @@
       }
     },
     {
-      "round": "Round 2",
-      "date": "2020-09-19",
-      "team1": "Alanyaspor",
-      "team2": "Kayserispor",
-      "score": {
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-20",
+      "time": "13:30",
       "team1": "BB Erzurumspor",
       "team2": "Sivasspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -194,11 +266,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-20",
-      "team1": "Kasımpaşa İstanbul",
+      "time": "16:00",
+      "team1": "Kasımpaşa SK",
       "team2": "Çaykur Rizespor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -206,11 +283,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-20",
-      "team1": "Gazişehir Gaziantep FK",
+      "time": "19:00",
+      "team1": "Gaziantep FK",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -218,11 +300,16 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-20",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Galatasaray İstanbul",
+      "team2": "Galatasaray",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -230,9 +317,10 @@
       }
     },
     {
-      "round": "Round 2",
+      "round": "Matchday 2",
       "date": "2020-09-21",
-      "team1": "Fenerbahçe İstanbul",
+      "time": "20:00",
+      "team1": "Fenerbahçe",
       "team2": "Hatayspor",
       "score": {
         "ft": [
@@ -242,11 +330,16 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-25",
+      "time": "20:00",
       "team1": "Fatih Karagümrük",
       "team2": "İstanbul Başakşehir",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           2,
           0
@@ -254,11 +347,16 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-26",
+      "time": "13:30",
       "team1": "Kayserispor",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           3
@@ -266,23 +364,16 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-26",
-      "team1": "Hatayspor",
-      "team2": "Kasımpaşa İstanbul",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Gaziantep FK",
       "score": {
-        "ft": [
-          1,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-09-26",
-      "team1": "Göztepe İzmir",
-      "team2": "Gazişehir Gaziantep FK",
-      "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
           2
@@ -290,11 +381,33 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-26",
+      "time": "16:00",
+      "team1": "Hatayspor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
+      "date": "2020-09-26",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "Yeni Malatyaspor",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           3,
           1
@@ -302,11 +415,16 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-27",
+      "time": "13:30",
       "team1": "Çaykur Rizespor",
       "team2": "Alanyaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -314,23 +432,16 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-27",
-      "team1": "Sivasspor",
-      "team2": "MKE Ankaragücü",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Round 3",
-      "date": "2020-09-27",
+      "time": "16:00",
       "team1": "Konyaspor",
-      "team2": "Beşiktaş İstanbul",
+      "team2": "Beşiktaş",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           4,
           1
@@ -338,10 +449,11 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
       "date": "2020-09-27",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Fenerbahçe İstanbul",
+      "time": "16:00",
+      "team1": "Sivasspor",
+      "team2": "MKE Ankaragücü",
       "score": {
         "ft": [
           0,
@@ -350,11 +462,29 @@
       }
     },
     {
-      "round": "Round 3",
+      "round": "Matchday 3",
+      "date": "2020-09-27",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 3",
       "date": "2020-09-28",
+      "time": "20:00",
       "team1": "Antalyaspor",
       "team2": "Denizlispor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -362,11 +492,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-02",
+      "time": "20:00",
       "team1": "MKE Ankaragücü",
       "team2": "Kayserispor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -374,11 +509,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-02",
-      "team1": "Gazişehir Gaziantep FK",
+      "time": "20:00",
+      "team1": "Gaziantep FK",
       "team2": "Trabzonspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -386,11 +526,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-03",
+      "time": "13:30",
       "team1": "Yeni Malatyaspor",
       "team2": "Antalyaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -398,8 +543,9 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-03",
+      "time": "16:00",
       "team1": "BB Erzurumspor",
       "team2": "Çaykur Rizespor",
       "score": {
@@ -410,10 +556,11 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-03",
+      "time": "16:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Göztepe İzmir",
+      "team2": "Göztepe",
       "score": {
         "ft": [
           0,
@@ -422,11 +569,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-03",
-      "team1": "Fenerbahçe İstanbul",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           1
@@ -434,8 +586,9 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-04",
+      "time": "13:30",
       "team1": "Denizlispor",
       "team2": "Konyaspor",
       "score": {
@@ -446,11 +599,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-04",
+      "time": "16:00",
       "team1": "Alanyaspor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          4,
+          0
+        ],
         "ft": [
           6,
           0
@@ -458,11 +616,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-04",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Gençlerbirliği Ankara SK",
+      "time": "16:00",
+      "team1": "Beşiktaş",
+      "team2": "Gençlerbirliği",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           1
@@ -470,11 +633,16 @@
       }
     },
     {
-      "round": "Round 4",
+      "round": "Matchday 4",
       "date": "2020-10-04",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Galatasaray İstanbul",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Galatasaray",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -482,11 +650,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-17",
+      "time": "13:30",
       "team1": "Çaykur Rizespor",
       "team2": "MKE Ankaragücü",
       "score": {
+        "ht": [
+          2,
+          3
+        ],
         "ft": [
           5,
           3
@@ -494,11 +667,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-17",
+      "time": "16:00",
       "team1": "Kayserispor",
       "team2": "Sivasspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           3
@@ -506,11 +684,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-17",
+      "time": "16:00",
       "team1": "Konyaspor",
       "team2": "Yeni Malatyaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -518,11 +701,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-17",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "İstanbul Başakşehir",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -530,11 +718,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-18",
+      "time": "16:00",
       "team1": "Antalyaspor",
-      "team2": "Gazişehir Gaziantep FK",
+      "team2": "Gaziantep FK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -542,11 +735,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-18",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
-      "team2": "Kasımpaşa İstanbul",
+      "team2": "Kasımpaşa SK",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           1
@@ -554,11 +752,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-18",
-      "team1": "Göztepe İzmir",
-      "team2": "Fenerbahçe İstanbul",
+      "time": "19:00",
+      "team1": "Göztepe",
+      "team2": "Fenerbahçe",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
         "ft": [
           2,
           3
@@ -566,11 +769,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-19",
-      "team1": "Galatasaray İstanbul",
+      "time": "20:00",
+      "team1": "Galatasaray",
       "team2": "Alanyaspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           2
@@ -578,11 +786,16 @@
       }
     },
     {
-      "round": "Round 5",
+      "round": "Matchday 5",
       "date": "2020-10-19",
-      "team1": "Gençlerbirliği Ankara SK",
+      "time": "20:00",
+      "team1": "Gençlerbirliği",
       "team2": "Denizlispor",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           1,
           2
@@ -590,10 +803,28 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 5",
+      "date": "2020-12-09",
+      "time": "19:30",
+      "team1": "Hatayspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
       "date": "2020-10-23",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Göztepe İzmir",
+      "time": "20:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Göztepe",
       "score": {
         "ft": [
           0,
@@ -602,11 +833,16 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-24",
-      "team1": "Gazişehir Gaziantep FK",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
       "team2": "Konyaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -614,11 +850,33 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-24",
+      "time": "19:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-24",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Antalyaspor",
       "score": {
+        "ht": [
+          4,
+          1
+        ],
         "ft": [
           5,
           1
@@ -626,29 +884,16 @@
       }
     },
     {
-      "round": "Round 6",
-      "date": "2020-10-24",
-      "team1": "MKE Ankaragücü",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 6",
-      "date": "2020-10-24",
-      "team1": "BB Erzurumspor",
-      "team2": "Galatasaray İstanbul",
-      "score": {
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-25",
+      "time": "13:30",
       "team1": "Yeni Malatyaspor",
-      "team2": "Gençlerbirliği Ankara SK",
+      "team2": "Gençlerbirliği",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           2,
           1
@@ -656,11 +901,16 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-25",
+      "time": "16:00",
       "team1": "Alanyaspor",
       "team2": "Fatih Karagümrük",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           0
@@ -668,11 +918,16 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-25",
-      "team1": "Fenerbahçe İstanbul",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
       "team2": "Trabzonspor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           3,
           1
@@ -680,11 +935,16 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-26",
+      "time": "20:00",
       "team1": "Denizlispor",
-      "team2": "Beşiktaş İstanbul",
+      "team2": "Beşiktaş",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
         "ft": [
           2,
           3
@@ -692,11 +952,16 @@
       }
     },
     {
-      "round": "Round 6",
+      "round": "Matchday 6",
       "date": "2020-10-26",
+      "time": "20:00",
       "team1": "Sivasspor",
       "team2": "Çaykur Rizespor",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           0,
           2
@@ -704,11 +969,33 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 6",
+      "date": "2020-12-15",
+      "time": "16:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
       "date": "2020-10-30",
+      "time": "20:00",
       "team1": "Fatih Karagümrük",
       "team2": "BB Erzurumspor",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
         "ft": [
           5,
           1
@@ -716,11 +1003,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-30",
+      "time": "20:00",
       "team1": "Trabzonspor",
-      "team2": "Kasımpaşa İstanbul",
+      "team2": "Kasımpaşa SK",
       "score": {
+        "ht": [
+          3,
+          2
+        ],
         "ft": [
           3,
           4
@@ -728,11 +1020,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-31",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Gazişehir Gaziantep FK",
+      "time": "13:30",
+      "team1": "Gençlerbirliği",
+      "team2": "Gaziantep FK",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           1
@@ -740,11 +1037,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-10-31",
-      "team1": "Galatasaray İstanbul",
+      "time": "19:00",
+      "team1": "Galatasaray",
       "team2": "MKE Ankaragücü",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -752,11 +1054,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-11-01",
+      "time": "13:30",
       "team1": "Çaykur Rizespor",
       "team2": "Kayserispor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           1,
           0
@@ -764,11 +1071,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-11-01",
+      "time": "16:00",
       "team1": "Konyaspor",
       "team2": "İstanbul Başakşehir",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -776,11 +1088,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-11-01",
-      "team1": "Beşiktaş İstanbul",
+      "time": "19:00",
+      "team1": "Beşiktaş",
       "team2": "Yeni Malatyaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           0
@@ -788,11 +1105,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-11-02",
+      "time": "20:00",
       "team1": "Antalyaspor",
-      "team2": "Fenerbahçe İstanbul",
+      "team2": "Fenerbahçe",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           2
@@ -800,11 +1122,16 @@
       }
     },
     {
-      "round": "Round 7",
+      "round": "Matchday 7",
       "date": "2020-11-02",
+      "time": "20:00",
       "team1": "Hatayspor",
       "team2": "Sivasspor",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
         "ft": [
           1,
           1
@@ -812,11 +1139,33 @@
       }
     },
     {
-      "round": "Round 8",
-      "date": "2020-11-06",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Beşiktaş İstanbul",
+      "round": "Matchday 7",
+      "date": "2020-12-09",
+      "time": "18:30",
+      "team1": "Göztepe",
+      "team2": "Alanyaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-11-06",
+      "time": "20:00",
+      "team1": "Gaziantep FK",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           3,
           1
@@ -824,11 +1173,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-07",
-      "team1": "Kasımpaşa İstanbul",
+      "time": "13:30",
+      "team1": "Kasımpaşa SK",
       "team2": "Antalyaspor",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
         "ft": [
           2,
           2
@@ -836,23 +1190,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-07",
-      "team1": "BB Erzurumspor",
-      "team2": "Göztepe İzmir",
-      "score": {
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Round 8",
-      "date": "2020-11-07",
+      "time": "16:00",
       "team1": "Alanyaspor",
       "team2": "Trabzonspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           1,
           1
@@ -860,11 +1207,33 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-07",
-      "team1": "Fenerbahçe İstanbul",
+      "time": "16:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-11-07",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
       "team2": "Konyaspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           2
@@ -872,11 +1241,33 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-08",
+      "time": "13:30",
+      "team1": "MKE Ankaragücü",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-11-08",
+      "time": "13:30",
       "team1": "Yeni Malatyaspor",
       "team2": "Denizlispor",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
         "ft": [
           2,
           0
@@ -884,23 +1275,33 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-08",
-      "team1": "MKE Ankaragücü",
-      "team2": "Fatih Karagümrük",
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Gençlerbirliği",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           2,
-          2
+          1
         ]
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-08",
+      "time": "16:00",
       "team1": "Kayserispor",
       "team2": "Hatayspor",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
         "ft": [
           0,
           1
@@ -908,23 +1309,16 @@
       }
     },
     {
-      "round": "Round 8",
+      "round": "Matchday 8",
       "date": "2020-11-08",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Gençlerbirliği Ankara SK",
-      "score": {
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Round 8",
-      "date": "2020-11-08",
+      "time": "19:00",
       "team1": "Sivasspor",
-      "team2": "Galatasaray İstanbul",
+      "team2": "Galatasaray",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
         "ft": [
           1,
           2
@@ -932,2056 +1326,5668 @@
       }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-21",
+      "time": "13:30",
       "team1": "Fatih Karagümrük",
-      "team2": "Sivasspor"
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-21",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 9",
-      "date": "2020-11-21",
+      "time": "16:00",
       "team1": "Denizlispor",
-      "team2": "Gazişehir Gaziantep FK"
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-21",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "İstanbul Başakşehir"
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
+      "date": "2020-11-21",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 9",
       "date": "2020-11-22",
+      "time": "13:30",
       "team1": "Hatayspor",
-      "team2": "Çaykur Rizespor"
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-22",
-      "team1": "Göztepe İzmir",
-      "team2": "MKE Ankaragücü"
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-22",
+      "time": "16:00",
       "team1": "Konyaspor",
-      "team2": "Kasımpaşa İstanbul"
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-22",
+      "time": "19:00",
       "team1": "Antalyaspor",
-      "team2": "Alanyaspor"
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-22",
+      "time": "19:00",
       "team1": "Trabzonspor",
-      "team2": "BB Erzurumspor"
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 9",
+      "round": "Matchday 9",
       "date": "2020-11-23",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Kayserispor"
+      "time": "19:30",
+      "team1": "Galatasaray",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-27",
+      "time": "19:30",
       "team1": "MKE Ankaragücü",
-      "team2": "Trabzonspor"
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-28",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Yeni Malatyaspor"
+      "time": "13:30",
+      "team1": "Gaziantep FK",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-28",
+      "time": "16:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Denizlispor"
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-28",
+      "time": "19:00",
       "team1": "Çaykur Rizespor",
-      "team2": "Galatasaray İstanbul"
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-29",
+      "time": "13:30",
       "team1": "BB Erzurumspor",
-      "team2": "Antalyaspor"
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-29",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 10",
-      "date": "2020-11-29",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Konyaspor"
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-29",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Beşiktaş İstanbul"
+      "time": "16:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 10",
-      "date": "2020-11-30",
-      "team1": "Sivasspor",
-      "team2": "Göztepe İzmir"
+      "round": "Matchday 10",
+      "date": "2020-11-29",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 10",
+      "round": "Matchday 10",
       "date": "2020-11-30",
+      "time": "19:30",
       "team1": "Kayserispor",
-      "team2": "Fatih Karagümrük"
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 10",
+      "date": "2020-11-30",
+      "time": "19:30",
+      "team1": "Sivasspor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
       "date": "2020-12-04",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Kasımpaşa İstanbul"
+      "time": "19:30",
+      "team1": "Beşiktaş",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-05",
-      "team1": "Göztepe İzmir",
-      "team2": "Kayserispor"
+      "time": "13:30",
+      "team1": "Gençlerbirliği",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-05",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Alanyaspor"
+      "time": "13:30",
+      "team1": "Göztepe",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-05",
-      "team1": "Yeni Malatyaspor",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 11",
-      "date": "2020-12-05",
+      "time": "16:00",
       "team1": "Konyaspor",
-      "team2": "BB Erzurumspor"
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-05",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Hatayspor"
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
+      "date": "2020-12-05",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 11",
       "date": "2020-12-06",
+      "time": "13:30",
       "team1": "Fatih Karagümrük",
-      "team2": "Çaykur Rizespor"
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-06",
+      "time": "16:00",
       "team1": "Antalyaspor",
-      "team2": "MKE Ankaragücü"
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-06",
+      "time": "19:00",
       "team1": "Denizlispor",
-      "team2": "Fenerbahçe İstanbul"
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 11",
+      "round": "Matchday 11",
       "date": "2020-12-07",
+      "time": "19:30",
       "team1": "Trabzonspor",
-      "team2": "Sivasspor"
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 5",
-      "date": "2020-12-09",
+      "round": "Matchday 12",
+      "date": "2020-12-11",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-12",
+      "time": "13:30",
       "team1": "Hatayspor",
-      "team2": "BB Erzurumspor"
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 7",
-      "date": "2020-12-09",
-      "team1": "Göztepe İzmir",
-      "team2": "Alanyaspor"
+      "round": "Matchday 12",
+      "date": "2020-12-12",
+      "time": "16:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 12",
+      "round": "Matchday 12",
+      "date": "2020-12-12",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-12",
+      "time": "19:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
+      "date": "2020-12-12",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 12",
       "date": "2020-12-13",
+      "time": "13:30",
       "team1": "BB Erzurumspor",
-      "team2": "Gençlerbirliği Ankara SK"
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2020-12-13",
-      "team1": "MKE Ankaragücü",
-      "team2": "Konyaspor"
+      "time": "19:00",
+      "team1": "Alanyaspor",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 12",
+      "round": "Matchday 12",
       "date": "2020-12-13",
-      "team1": "Çaykur Rizespor",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-12-13",
-      "team1": "Alanyaspor",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-12-13",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-12-13",
-      "team1": "Hatayspor",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-12-13",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Gazişehir Gaziantep FK"
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 12",
-      "date": "2020-12-13",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 12",
-      "date": "2020-12-13",
+      "round": "Matchday 12",
+      "date": "2020-12-14",
+      "time": "19:00",
       "team1": "Sivasspor",
-      "team2": "Antalyaspor"
+      "team2": "Antalyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 12",
-      "date": "2020-12-13",
-      "team1": "Kayserispor",
-      "team2": "Trabzonspor"
+      "round": "Matchday 13",
+      "date": "2020-12-18",
+      "time": "19:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 13",
+      "round": "Matchday 13",
+      "date": "2020-12-19",
+      "time": "13:30",
+      "team1": "Göztepe",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-19",
+      "time": "16:00",
+      "team1": "Trabzonspor",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-19",
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
+      "date": "2020-12-19",
+      "time": "19:00",
+      "team1": "Gaziantep FK",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 13",
       "date": "2020-12-20",
-      "team1": "Antalyaspor",
-      "team2": "Kayserispor"
+      "time": "13:30",
+      "team1": "Gençlerbirliği",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2020-12-20",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "BB Erzurumspor"
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 13",
+      "round": "Matchday 13",
       "date": "2020-12-20",
-      "team1": "Denizlispor",
-      "team2": "Alanyaspor"
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 13",
-      "date": "2020-12-20",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Kasımpaşa İstanbul"
+      "round": "Matchday 13",
+      "date": "2020-12-21",
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 13",
-      "date": "2020-12-20",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-20",
-      "team1": "Göztepe İzmir",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-20",
-      "team1": "Fatih Karagümrük",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 13",
-      "date": "2020-12-20",
+      "round": "Matchday 13",
+      "date": "2020-12-21",
+      "time": "19:00",
       "team1": "Konyaspor",
-      "team2": "Sivasspor"
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 13",
-      "date": "2020-12-20",
-      "team1": "Trabzonspor",
-      "team2": "Çaykur Rizespor"
+      "round": "Matchday 14",
+      "date": "2020-12-22",
+      "time": "16:00",
+      "team1": "Hatayspor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 13",
-      "date": "2020-12-20",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "MKE Ankaragücü"
+      "round": "Matchday 14",
+      "date": "2020-12-22",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Yeni Malatyaspor"
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "MKE Ankaragücü",
-      "team2": "Beşiktaş İstanbul"
+      "time": "16:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "Çaykur Rizespor",
-      "team2": "Antalyaspor"
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 14",
+      "round": "Matchday 14",
       "date": "2020-12-23",
-      "team1": "BB Erzurumspor",
-      "team2": "Denizlispor"
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 14",
-      "date": "2020-12-23",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-23",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-23",
-      "team1": "Hatayspor",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-23",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-23",
-      "team1": "Sivasspor",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 14",
-      "date": "2020-12-23",
+      "round": "Matchday 14",
+      "date": "2020-12-24",
+      "time": "16:00",
       "team1": "Kayserispor",
-      "team2": "Konyaspor"
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 15",
+      "round": "Matchday 14",
+      "date": "2020-12-24",
+      "time": "16:00",
+      "team1": "Sivasspor",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-24",
+      "time": "19:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-24",
+      "time": "19:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-26",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-26",
+      "time": "19:00",
+      "team1": "Trabzonspor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
       "date": "2020-12-27",
-      "team1": "Antalyaspor",
-      "team2": "Hatayspor"
+      "time": "13:30",
+      "team1": "Gaziantep FK",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2020-12-27",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Sivasspor"
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2020-12-27",
-      "team1": "Denizlispor",
-      "team2": "MKE Ankaragücü"
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 15",
+      "round": "Matchday 15",
       "date": "2020-12-27",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Alanyaspor"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-27",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-27",
-      "team1": "Göztepe İzmir",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 15",
-      "date": "2020-12-27",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Kasımpaşa İstanbul"
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 15",
-      "date": "2020-12-27",
+      "round": "Matchday 15",
+      "date": "2020-12-28",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2020-12-28",
+      "time": "16:00",
       "team1": "Konyaspor",
-      "team2": "Çaykur Rizespor"
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 15",
-      "date": "2020-12-27",
-      "team1": "Trabzonspor",
-      "team2": "Galatasaray İstanbul"
+      "round": "Matchday 15",
+      "date": "2020-12-28",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 15",
-      "date": "2020-12-27",
-      "team1": "Yeni Malatyaspor",
-      "team2": "BB Erzurumspor"
+      "round": "Matchday 15",
+      "date": "2020-12-29",
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          5
+        ],
+        "ft": [
+          0,
+          6
+        ]
+      }
     },
     {
-      "round": "Round 16",
+      "round": "Matchday 16",
+      "date": "2021-01-02",
+      "time": "13:30",
+      "team1": "BB Erzurumspor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-02",
+      "time": "13:30",
+      "team1": "Sivasspor",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-02",
+      "time": "16:00",
+      "team1": "Alanyaspor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-02",
+      "time": "16:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-02",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Antalyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
+      "date": "2021-01-02",
+      "time": "19:00",
+      "team1": "Hatayspor",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 16",
       "date": "2021-01-03",
-      "team1": "Alanyaspor",
-      "team2": "İstanbul Başakşehir"
+      "time": "13:30",
+      "team1": "Çaykur Rizespor",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 16",
+      "round": "Matchday 16",
       "date": "2021-01-03",
-      "team1": "MKE Ankaragücü",
-      "team2": "Yeni Malatyaspor"
+      "time": "16:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 16",
+      "round": "Matchday 16",
       "date": "2021-01-03",
-      "team1": "Çaykur Rizespor",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 16",
-      "date": "2021-01-03",
-      "team1": "BB Erzurumspor",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 16",
-      "date": "2021-01-03",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 16",
-      "date": "2021-01-03",
-      "team1": "Hatayspor",
-      "team2": "Konyaspor"
-    },
-    {
-      "round": "Round 16",
-      "date": "2021-01-03",
-      "team1": "Fatih Karagümrük",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 16",
-      "date": "2021-01-03",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 16",
-      "date": "2021-01-03",
+      "time": "19:00",
       "team1": "Kayserispor",
-      "team2": "Beşiktaş İstanbul"
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 16",
-      "date": "2021-01-03",
-      "team1": "Sivasspor",
-      "team2": "Denizlispor"
+      "round": "Matchday 16",
+      "date": "2021-01-04",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
+      "date": "2021-01-05",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-05",
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-05",
+      "time": "19:00",
+      "team1": "Konyaspor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
       "date": "2021-01-06",
-      "team1": "Antalyaspor",
-      "team2": "Fatih Karagümrük"
+      "time": "13:30",
+      "team1": "Denizlispor",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-06",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Çaykur Rizespor"
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-06",
-      "team1": "Denizlispor",
-      "team2": "Kayserispor"
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-06",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Sivasspor"
+      "time": "16:00",
+      "team1": "Trabzonspor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-06",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Alanyaspor"
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
+      "round": "Matchday 17",
       "date": "2021-01-06",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Hatayspor"
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          6,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-06",
-      "team1": "İstanbul Başakşehir",
-      "team2": "BB Erzurumspor"
+      "round": "Matchday 17",
+      "date": "2021-01-07",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-06",
-      "team1": "Konyaspor",
-      "team2": "Galatasaray İstanbul"
+      "round": "Matchday 18",
+      "date": "2021-01-09",
+      "time": "13:30",
+      "team1": "Sivasspor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-06",
-      "team1": "Trabzonspor",
-      "team2": "Göztepe İzmir"
+      "round": "Matchday 18",
+      "date": "2021-01-09",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 17",
-      "date": "2021-01-06",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "MKE Ankaragücü"
+      "round": "Matchday 18",
+      "date": "2021-01-09",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
+      "date": "2021-01-09",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          4,
+          0
+        ],
+        "ft": [
+          6,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
       "date": "2021-01-10",
-      "team1": "Alanyaspor",
-      "team2": "Kasımpaşa İstanbul"
+      "time": "13:30",
+      "team1": "Fatih Karagümrük",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-10",
+      "time": "16:00",
       "team1": "MKE Ankaragücü",
-      "team2": "İstanbul Başakşehir"
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-10",
+      "time": "16:00",
       "team1": "Çaykur Rizespor",
-      "team2": "Denizlispor"
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 18",
+      "round": "Matchday 18",
       "date": "2021-01-10",
-      "team1": "BB Erzurumspor",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 18",
-      "date": "2021-01-10",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 18",
-      "date": "2021-01-10",
-      "team1": "Göztepe İzmir",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 18",
-      "date": "2021-01-10",
+      "time": "19:00",
       "team1": "Hatayspor",
-      "team2": "Beşiktaş İstanbul"
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 18",
-      "date": "2021-01-10",
-      "team1": "Fatih Karagümrük",
-      "team2": "Konyaspor"
+      "round": "Matchday 18",
+      "date": "2021-01-11",
+      "time": "16:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 18",
-      "date": "2021-01-10",
-      "team1": "Kayserispor",
-      "team2": "Yeni Malatyaspor"
+      "round": "Matchday 18",
+      "date": "2021-01-11",
+      "time": "19:00",
+      "team1": "Alanyaspor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 18",
-      "date": "2021-01-10",
-      "team1": "Sivasspor",
-      "team2": "Gazişehir Gaziantep FK"
+      "round": "Matchday 19",
+      "date": "2021-01-15",
+      "time": "19:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
+      "date": "2021-01-16",
+      "time": "13:30",
+      "team1": "Konyaspor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-16",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-16",
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-16",
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
       "date": "2021-01-17",
-      "team1": "Antalyaspor",
-      "team2": "Trabzonspor"
+      "time": "13:30",
+      "team1": "Denizlispor",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2021-01-17",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Galatasaray İstanbul"
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 19",
+      "round": "Matchday 19",
       "date": "2021-01-17",
-      "team1": "Denizlispor",
-      "team2": "Hatayspor"
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "MKE Ankaragücü"
+      "round": "Matchday 19",
+      "date": "2021-01-18",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Kayserispor"
+      "round": "Matchday 19",
+      "date": "2021-01-18",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Fatih Karagümrük"
+      "round": "Matchday 20",
+      "date": "2021-01-19",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Sivasspor"
+      "round": "Matchday 20",
+      "date": "2021-01-19",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "BB Erzurumspor"
+      "round": "Matchday 20",
+      "date": "2021-01-19",
+      "time": "19:00",
+      "team1": "Trabzonspor",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "Konyaspor",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 19",
-      "date": "2021-01-17",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2021-01-20",
-      "team1": "MKE Ankaragücü",
-      "team2": "Kasımpaşa İstanbul"
+      "time": "16:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2021-01-20",
-      "team1": "Çaykur Rizespor",
-      "team2": "Gazişehir Gaziantep FK"
+      "time": "16:00",
+      "team1": "Hatayspor",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 20",
+      "round": "Matchday 20",
       "date": "2021-01-20",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-21",
+      "time": "16:00",
       "team1": "BB Erzurumspor",
-      "team2": "Alanyaspor"
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 20",
-      "date": "2021-01-20",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 20",
-      "date": "2021-01-20",
-      "team1": "Göztepe İzmir",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 20",
-      "date": "2021-01-20",
-      "team1": "Hatayspor",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 20",
-      "date": "2021-01-20",
+      "round": "Matchday 20",
+      "date": "2021-01-21",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
-      "team2": "Beşiktaş İstanbul"
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 20",
-      "date": "2021-01-20",
-      "team1": "Kayserispor",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 20",
-      "date": "2021-01-20",
-      "team1": "Sivasspor",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 20",
-      "date": "2021-01-20",
-      "team1": "Trabzonspor",
-      "team2": "Konyaspor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Alanyaspor",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Denizlispor",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Sivasspor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Konyaspor",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 21",
-      "date": "2021-01-24",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Alanyaspor",
-      "team2": "Sivasspor"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Denizlispor",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "BB Erzurumspor",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 22",
-      "date": "2021-01-31",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Antalyaspor",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Çaykur Rizespor",
-      "team2": "Kasımpaşa İstanbul"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Galatasaray İstanbul",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Göztepe İzmir",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Hatayspor",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Fatih Karagümrük",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Kayserispor",
-      "team2": "Alanyaspor"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Konyaspor",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Sivasspor",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Round 23",
-      "date": "2021-02-03",
-      "team1": "Trabzonspor",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Alanyaspor",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-02-07",
+      "round": "Matchday 20",
+      "date": "2021-01-21",
+      "time": "19:00",
       "team1": "MKE Ankaragücü",
-      "team2": "Sivasspor"
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Konyaspor"
+      "round": "Matchday 20",
+      "date": "2021-01-21",
+      "time": "19:00",
+      "team1": "Sivasspor",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Denizlispor",
-      "team2": "Antalyaspor"
+      "round": "Matchday 21",
+      "date": "2021-01-23",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "BB Erzurumspor",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-02-07",
+      "round": "Matchday 21",
+      "date": "2021-01-23",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Fatih Karagümrük"
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 24",
-      "date": "2021-02-07",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Antalyaspor",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Çaykur Rizespor",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Kasımpaşa İstanbul"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Göztepe İzmir",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Hatayspor",
-      "team2": "Alanyaspor"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Fatih Karagümrük",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Kayserispor",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 25",
-      "date": "2021-02-14",
+      "round": "Matchday 21",
+      "date": "2021-01-24",
+      "time": "13:30",
       "team1": "Konyaspor",
-      "team2": "Denizlispor"
+      "team2": "Antalyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 25",
-      "date": "2021-02-14",
-      "team1": "Trabzonspor",
-      "team2": "Gazişehir Gaziantep FK"
+      "round": "Matchday 21",
+      "date": "2021-01-24",
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 26",
-      "date": "2021-02-21",
+      "round": "Matchday 21",
+      "date": "2021-01-24",
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-01-24",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-01-24",
+      "time": "19:00",
+      "team1": "Gaziantep FK",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-01-25",
+      "time": "16:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-01-25",
+      "time": "19:00",
       "team1": "Alanyaspor",
-      "team2": "Galatasaray İstanbul"
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          4,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "MKE Ankaragücü",
-      "team2": "Çaykur Rizespor"
+      "round": "Matchday 21",
+      "date": "2021-01-25",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "Denizlispor",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "BB Erzurumspor",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
-      "team1": "Sivasspor",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 26",
-      "date": "2021-02-21",
+      "round": "Matchday 22",
+      "date": "2021-01-29",
+      "time": "16:00",
       "team1": "Yeni Malatyaspor",
-      "team2": "Konyaspor"
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Antalyaspor",
-      "team2": "İstanbul Başakşehir"
+      "round": "Matchday 22",
+      "date": "2021-01-29",
+      "time": "19:00",
+      "team1": "Gaziantep FK",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Denizlispor"
+      "round": "Matchday 22",
+      "date": "2021-01-30",
+      "time": "13:30",
+      "team1": "Kasımpaşa SK",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Çaykur Rizespor",
-      "team2": "Sivasspor"
+      "round": "Matchday 22",
+      "date": "2021-01-30",
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          5
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Galatasaray İstanbul",
-      "team2": "BB Erzurumspor"
+      "round": "Matchday 22",
+      "date": "2021-01-30",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Yeni Malatyaspor"
+      "round": "Matchday 22",
+      "date": "2021-01-31",
+      "time": "13:30",
+      "team1": "BB Erzurumspor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Göztepe İzmir",
-      "team2": "Kasımpaşa İstanbul"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Hatayspor",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Fatih Karagümrük",
-      "team2": "Alanyaspor"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Konyaspor",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 27",
-      "date": "2021-02-28",
-      "team1": "Trabzonspor",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
+      "round": "Matchday 22",
+      "date": "2021-01-31",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Göztepe İzmir"
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "MKE Ankaragücü",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "BB Erzurumspor",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Konyaspor"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "Kayserispor",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "Sivasspor",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 28",
-      "date": "2021-03-03",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-03-07",
-      "team1": "Antalyaspor",
-      "team2": "Kasımpaşa İstanbul"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-03-07",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-03-07",
+      "round": "Matchday 22",
+      "date": "2021-01-31",
+      "time": "16:00",
       "team1": "Denizlispor",
-      "team2": "Yeni Malatyaspor"
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-03-07",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Sivasspor"
+      "round": "Matchday 22",
+      "date": "2021-01-31",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-03-07",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "İstanbul Başakşehir"
+      "round": "Matchday 22",
+      "date": "2021-01-31",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-03-07",
-      "team1": "Göztepe İzmir",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Round 29",
-      "date": "2021-03-07",
+      "round": "Matchday 23",
+      "date": "2021-02-02",
+      "time": "16:00",
       "team1": "Hatayspor",
-      "team2": "Kayserispor"
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-03-07",
+      "round": "Matchday 23",
+      "date": "2021-02-02",
+      "time": "19:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-02",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-03",
+      "time": "13:30",
+      "team1": "Sivasspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-03",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
-      "team2": "MKE Ankaragücü"
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-03-07",
+      "round": "Matchday 23",
+      "date": "2021-02-03",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-03",
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-03",
+      "time": "19:00",
       "team1": "Konyaspor",
-      "team2": "Fenerbahçe İstanbul"
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 29",
-      "date": "2021-03-07",
+      "round": "Matchday 23",
+      "date": "2021-02-04",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2021-02-04",
+      "time": "19:00",
       "team1": "Trabzonspor",
-      "team2": "Alanyaspor"
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-03-14",
+      "round": "Matchday 24",
+      "date": "2021-02-06",
+      "time": "13:30",
+      "team1": "Kasımpaşa SK",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-02-06",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Antalyaspor"
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "MKE Ankaragücü",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "Çaykur Rizespor",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "BB Erzurumspor",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 30",
-      "date": "2021-03-14",
+      "round": "Matchday 24",
+      "date": "2021-02-06",
+      "time": "16:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "Beşiktaş İstanbul"
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Konyaspor"
+      "round": "Matchday 24",
+      "date": "2021-02-06",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "Kayserispor",
-      "team2": "Galatasaray İstanbul"
+      "round": "Matchday 24",
+      "date": "2021-02-07",
+      "time": "13:30",
+      "team1": "BB Erzurumspor",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 30",
-      "date": "2021-03-14",
-      "team1": "Sivasspor",
-      "team2": "Fatih Karagümrük"
+      "round": "Matchday 24",
+      "date": "2021-02-07",
+      "time": "16:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Antalyaspor",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-03-21",
+      "round": "Matchday 24",
+      "date": "2021-02-07",
+      "time": "16:00",
       "team1": "Denizlispor",
-      "team2": "İstanbul Başakşehir"
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Çaykur Rizespor"
+      "round": "Matchday 24",
+      "date": "2021-02-07",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Kasımpaşa İstanbul"
+      "round": "Matchday 24",
+      "date": "2021-02-08",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Göztepe İzmir",
-      "team2": "Sivasspor"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Fatih Karagümrük",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Konyaspor",
-      "team2": "Alanyaspor"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-03-21",
-      "team1": "Trabzonspor",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 31",
-      "date": "2021-03-21",
+      "round": "Matchday 24",
+      "date": "2021-02-08",
+      "time": "19:00",
       "team1": "Yeni Malatyaspor",
-      "team2": "Gazişehir Gaziantep FK"
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-04-04",
+      "round": "Matchday 25",
+      "date": "2021-02-12",
+      "time": "19:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-13",
+      "time": "13:30",
+      "team1": "Kayserispor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-13",
+      "time": "16:00",
+      "team1": "Trabzonspor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-13",
+      "time": "19:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-14",
+      "time": "13:30",
+      "team1": "Konyaspor",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "Galatasaray",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-14",
+      "time": "16:00",
+      "team1": "Hatayspor",
+      "team2": "Alanyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-15",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-02-15",
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-02-19",
+      "time": "19:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-02-20",
+      "time": "13:30",
+      "team1": "Kasımpaşa SK",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-02-20",
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-02-20",
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-02-20",
+      "time": "19:00",
       "team1": "Alanyaspor",
-      "team2": "Gençlerbirliği Ankara SK"
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "MKE Ankaragücü",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "Çaykur Rizespor",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-04-04",
+      "round": "Matchday 26",
+      "date": "2021-02-21",
+      "time": "13:30",
       "team1": "BB Erzurumspor",
-      "team2": "Konyaspor"
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Denizlispor"
+      "round": "Matchday 26",
+      "date": "2021-02-21",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "Antalyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "Hatayspor",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-04-04",
-      "team1": "Kayserispor",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 32",
-      "date": "2021-04-04",
+      "round": "Matchday 26",
+      "date": "2021-02-21",
+      "time": "16:00",
       "team1": "Sivasspor",
-      "team2": "Trabzonspor"
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Antalyaspor",
-      "team2": "Sivasspor"
+      "round": "Matchday 26",
+      "date": "2021-02-21",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Alanyaspor"
+      "round": "Matchday 26",
+      "date": "2021-02-22",
+      "time": "19:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Denizlispor",
-      "team2": "Kasımpaşa İstanbul"
+      "round": "Matchday 27",
+      "date": "2021-02-26",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Göztepe İzmir",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-04-07",
-      "team1": "Fatih Karagümrük",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 33",
-      "date": "2021-04-07",
+      "round": "Matchday 27",
+      "date": "2021-02-26",
+      "time": "16:00",
       "team1": "Konyaspor",
-      "team2": "MKE Ankaragücü"
+      "team2": "Gaziantep FK",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-04-07",
+      "round": "Matchday 27",
+      "date": "2021-02-26",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-27",
+      "time": "13:30",
+      "team1": "Hatayspor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-27",
+      "time": "13:30",
+      "team1": "Fatih Karagümrük",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-27",
+      "time": "16:00",
+      "team1": "Antalyaspor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-27",
+      "time": "16:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Sivasspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-27",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-28",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-02-28",
+      "time": "19:00",
       "team1": "Trabzonspor",
-      "team2": "Kayserispor"
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 33",
-      "date": "2021-04-07",
+      "round": "Matchday 28",
+      "date": "2021-03-02",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-02",
+      "time": "19:00",
       "team1": "Yeni Malatyaspor",
-      "team2": "Fenerbahçe İstanbul"
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 34",
-      "date": "2021-04-11",
+      "round": "Matchday 28",
+      "date": "2021-03-03",
+      "time": "13:30",
+      "team1": "BB Erzurumspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-03",
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-03",
+      "time": "16:00",
+      "team1": "Sivasspor",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-03",
+      "time": "19:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-03",
+      "time": "19:00",
+      "team1": "Kayserispor",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-03-04",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Denizlispor"
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "MKE Ankaragücü",
-      "team2": "Gençlerbirliği Ankara SK"
+      "round": "Matchday 28",
+      "date": "2021-03-04",
+      "time": "16:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Çaykur Rizespor",
-      "team2": "Trabzonspor"
+      "round": "Matchday 28",
+      "date": "2021-03-04",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "BB Erzurumspor",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Hatayspor",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Kayserispor",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 34",
-      "date": "2021-04-11",
-      "team1": "Sivasspor",
-      "team2": "Konyaspor"
-    },
-    {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Antalyaspor",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 35",
-      "date": "2021-04-18",
+      "round": "Matchday 29",
+      "date": "2021-03-06",
+      "time": "16:00",
       "team1": "Denizlispor",
-      "team2": "BB Erzurumspor"
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Kasımpaşa İstanbul"
+      "round": "Matchday 29",
+      "date": "2021-03-06",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Sivasspor"
+      "round": "Matchday 29",
+      "date": "2021-03-07",
+      "time": "13:30",
+      "team1": "Fatih Karagümrük",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Göztepe İzmir",
-      "team2": "Galatasaray İstanbul"
+      "round": "Matchday 29",
+      "date": "2021-03-07",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Fenerbahçe İstanbul"
+      "round": "Matchday 29",
+      "date": "2021-03-07",
+      "time": "16:00",
+      "team1": "Hatayspor",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Konyaspor",
-      "team2": "Kayserispor"
+      "round": "Matchday 29",
+      "date": "2021-03-07",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
+      "round": "Matchday 29",
+      "date": "2021-03-08",
+      "time": "16:00",
+      "team1": "Antalyaspor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-03-08",
+      "time": "16:00",
       "team1": "Trabzonspor",
-      "team2": "Hatayspor"
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 35",
-      "date": "2021-04-18",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Alanyaspor"
+      "round": "Matchday 29",
+      "date": "2021-03-08",
+      "time": "19:00",
+      "team1": "Göztepe",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 36",
-      "date": "2021-04-21",
+      "round": "Matchday 29",
+      "date": "2021-03-08",
+      "time": "19:00",
+      "team1": "Konyaspor",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-03-12",
+      "time": "19:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-03-13",
+      "time": "13:30",
+      "team1": "Sivasspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-03-13",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Gazişehir Gaziantep FK"
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "MKE Ankaragücü",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 36",
-      "date": "2021-04-21",
+      "round": "Matchday 30",
+      "date": "2021-03-13",
+      "time": "16:00",
       "team1": "Çaykur Rizespor",
-      "team2": "Konyaspor"
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "BB Erzurumspor",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "Hatayspor",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "Fatih Karagümrük",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 36",
-      "date": "2021-04-21",
+      "round": "Matchday 30",
+      "date": "2021-03-13",
+      "time": "19:00",
       "team1": "Kayserispor",
-      "team2": "Gençlerbirliği Ankara SK"
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 36",
-      "date": "2021-04-21",
-      "team1": "Sivasspor",
-      "team2": "Beşiktaş İstanbul"
+      "round": "Matchday 30",
+      "date": "2021-03-14",
+      "time": "13:30",
+      "team1": "MKE Ankaragücü",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Antalyaspor",
-      "team2": "Galatasaray İstanbul"
+      "round": "Matchday 30",
+      "date": "2021-03-14",
+      "time": "16:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Kayserispor"
+      "round": "Matchday 30",
+      "date": "2021-03-14",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Denizlispor",
-      "team2": "Sivasspor"
+      "round": "Matchday 30",
+      "date": "2021-03-14",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Kasımpaşa İstanbul"
+      "round": "Matchday 30",
+      "date": "2021-03-15",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "BB Erzurumspor"
+      "round": "Matchday 31",
+      "date": "2021-03-19",
+      "time": "16:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Çaykur Rizespor"
+      "round": "Matchday 31",
+      "date": "2021-03-19",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          4
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Alanyaspor"
+      "round": "Matchday 31",
+      "date": "2021-03-20",
+      "time": "13:30",
+      "team1": "Gençlerbirliği",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Konyaspor",
-      "team2": "Hatayspor"
+      "round": "Matchday 31",
+      "date": "2021-03-20",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          4
+        ],
+        "ft": [
+          3,
+          5
+        ]
+      }
     },
     {
-      "round": "Round 37",
-      "date": "2021-04-25",
-      "team1": "Trabzonspor",
-      "team2": "Fatih Karagümrük"
-    },
-    {
-      "round": "Round 37",
-      "date": "2021-04-25",
+      "round": "Matchday 31",
+      "date": "2021-03-20",
+      "time": "16:00",
       "team1": "Yeni Malatyaspor",
-      "team2": "MKE Ankaragücü"
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 38",
-      "date": "2021-04-28",
+      "round": "Matchday 31",
+      "date": "2021-03-20",
+      "time": "19:00",
+      "team1": "Trabzonspor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-03-21",
+      "time": "13:30",
+      "team1": "Antalyaspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-03-21",
+      "time": "13:30",
+      "team1": "Konyaspor",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-03-21",
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-03-21",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-03",
+      "time": "13:30",
+      "team1": "Kayserispor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-03",
+      "time": "16:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-03",
+      "time": "16:00",
+      "team1": "Sivasspor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-03",
+      "time": "19:00",
+      "team1": "Hatayspor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-04",
+      "time": "13:30",
+      "team1": "BB Erzurumspor",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-04-04",
+      "time": "16:00",
       "team1": "Alanyaspor",
-      "team2": "Fenerbahçe İstanbul"
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 38",
-      "date": "2021-04-28",
+      "round": "Matchday 32",
+      "date": "2021-04-04",
+      "time": "16:00",
       "team1": "MKE Ankaragücü",
-      "team2": "Gazişehir Gaziantep FK"
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Çaykur Rizespor",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "BB Erzurumspor",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Konyaspor"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Göztepe İzmir",
-      "team2": "Trabzonspor"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Hatayspor",
-      "team2": "Gençlerbirliği Ankara SK"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Fatih Karagümrük",
-      "team2": "Antalyaspor"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Kayserispor",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 38",
-      "date": "2021-04-28",
-      "team1": "Sivasspor",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Antalyaspor",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Denizlispor",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "BB Erzurumspor"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Sivasspor"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Galatasaray İstanbul"
-    },
-    {
-      "round": "Round 39",
-      "date": "2021-05-02",
+      "round": "Matchday 32",
+      "date": "2021-04-04",
+      "time": "16:00",
       "team1": "İstanbul Başakşehir",
-      "team2": "MKE Ankaragücü"
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "Alanyaspor"
+      "round": "Matchday 32",
+      "date": "2021-04-04",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Konyaspor",
-      "team2": "Fatih Karagümrük"
+      "round": "Matchday 32",
+      "date": "2021-04-05",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 39",
-      "date": "2021-05-02",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Kayserispor"
+      "round": "Matchday 33",
+      "date": "2021-04-06",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "MKE Ankaragücü",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "Çaykur Rizespor",
-      "team2": "Yeni Malatyaspor"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "BB Erzurumspor",
-      "team2": "Kasımpaşa İstanbul"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "Göztepe İzmir",
-      "team2": "Konyaspor"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "Hatayspor",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
+      "round": "Matchday 33",
+      "date": "2021-04-06",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
-      "team2": "Gençlerbirliği Ankara SK"
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "Kayserispor",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
-      "team1": "Sivasspor",
-      "team2": "İstanbul Başakşehir"
-    },
-    {
-      "round": "Round 40",
-      "date": "2021-05-09",
+      "round": "Matchday 33",
+      "date": "2021-04-06",
+      "time": "19:00",
       "team1": "Trabzonspor",
-      "team2": "Antalyaspor"
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 41",
-      "date": "2021-05-12",
+      "round": "Matchday 33",
+      "date": "2021-04-07",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-07",
+      "time": "16:00",
+      "team1": "Konyaspor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-07",
+      "time": "19:00",
+      "team1": "Antalyaspor",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-07",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-08",
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-08",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-04-08",
+      "time": "19:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-10",
+      "time": "13:30",
+      "team1": "Hatayspor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-10",
+      "time": "16:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-10",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-11",
+      "time": "13:30",
+      "team1": "Sivasspor",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-11",
+      "time": "16:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-11",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-11",
+      "time": "19:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-12",
+      "time": "16:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-04-12",
+      "time": "19:00",
       "team1": "Alanyaspor",
-      "team2": "BB Erzurumspor"
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Beşiktaş İstanbul",
-      "team2": "Fatih Karagümrük"
+      "round": "Matchday 34",
+      "date": "2021-04-12",
+      "time": "19:00",
+      "team1": "Fenerbahçe",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
     },
     {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Denizlispor",
-      "team2": "Galatasaray İstanbul"
+      "round": "Matchday 35",
+      "date": "2021-04-16",
+      "time": "16:00",
+      "team1": "Gençlerbirliği",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Fenerbahçe İstanbul",
-      "team2": "Sivasspor"
-    },
-    {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Gazişehir Gaziantep FK",
-      "team2": "Çaykur Rizespor"
-    },
-    {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Gençlerbirliği Ankara SK",
-      "team2": "Göztepe İzmir"
-    },
-    {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "İstanbul Başakşehir",
-      "team2": "Kayserispor"
-    },
-    {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Kasımpaşa İstanbul",
-      "team2": "MKE Ankaragücü"
-    },
-    {
-      "round": "Round 41",
-      "date": "2021-05-12",
+      "round": "Matchday 35",
+      "date": "2021-04-16",
+      "time": "16:00",
       "team1": "Konyaspor",
-      "team2": "Trabzonspor"
+      "team2": "Kayserispor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
     },
     {
-      "round": "Round 41",
-      "date": "2021-05-12",
-      "team1": "Yeni Malatyaspor",
-      "team2": "Hatayspor"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "MKE Ankaragücü",
-      "team2": "Alanyaspor"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
+      "round": "Matchday 35",
+      "date": "2021-04-16",
+      "time": "19:00",
       "team1": "Antalyaspor",
-      "team2": "Konyaspor"
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Çaykur Rizespor",
-      "team2": "İstanbul Başakşehir"
+      "round": "Matchday 35",
+      "date": "2021-04-16",
+      "time": "19:00",
+      "team1": "Beşiktaş",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
     },
     {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Galatasaray İstanbul",
-      "team2": "Yeni Malatyaspor"
+      "round": "Matchday 35",
+      "date": "2021-04-17",
+      "time": "13:30",
+      "team1": "Denizlispor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
     },
     {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Göztepe İzmir",
-      "team2": "Beşiktaş İstanbul"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Hatayspor",
-      "team2": "Gazişehir Gaziantep FK"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Fatih Karagümrük",
-      "team2": "Denizlispor"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Kayserispor",
-      "team2": "Fenerbahçe İstanbul"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
-      "team1": "Sivasspor",
-      "team2": "Kasımpaşa İstanbul"
-    },
-    {
-      "round": "Round 42",
-      "date": "2021-05-16",
+      "round": "Matchday 35",
+      "date": "2021-04-17",
+      "time": "16:00",
       "team1": "Trabzonspor",
-      "team2": "Gençlerbirliği Ankara SK"
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-04-17",
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-04-17",
+      "time": "19:00",
+      "team1": "Göztepe",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-04-18",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2021-04-18",
+      "time": "19:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-20",
+      "time": "16:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-20",
+      "time": "16:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-20",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-20",
+      "time": "19:00",
+      "team1": "Hatayspor",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-20",
+      "time": "19:00",
+      "team1": "Sivasspor",
+      "team2": "Beşiktaş",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-21",
+      "time": "16:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-21",
+      "time": "16:00",
+      "team1": "BB Erzurumspor",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-21",
+      "time": "19:00",
+      "team1": "Galatasaray",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-22",
+      "time": "16:00",
+      "team1": "Alanyaspor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2021-04-22",
+      "time": "19:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-23",
+      "time": "20:30",
+      "team1": "Gençlerbirliği",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-24",
+      "time": "13:30",
+      "team1": "Konyaspor",
+      "team2": "Hatayspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-24",
+      "time": "16:00",
+      "team1": "Trabzonspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-24",
+      "time": "20:30",
+      "team1": "Antalyaspor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-24",
+      "time": "20:30",
+      "team1": "Beşiktaş",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-24",
+      "time": "20:30",
+      "team1": "Denizlispor",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-25",
+      "time": "13:30",
+      "team1": "Yeni Malatyaspor",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-25",
+      "time": "16:00",
+      "team1": "Gaziantep FK",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-25",
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Alanyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2021-04-25",
+      "time": "20:30",
+      "team1": "Fenerbahçe",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-27",
+      "time": "20:30",
+      "team1": "Hatayspor",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-28",
+      "time": "16:00",
+      "team1": "Göztepe",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-28",
+      "time": "16:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-28",
+      "time": "16:00",
+      "team1": "Kayserispor",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          3,
+          1
+        ],
+        "ft": [
+          6,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-28",
+      "time": "20:30",
+      "team1": "Çaykur Rizespor",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-28",
+      "time": "20:30",
+      "team1": "Galatasaray",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-29",
+      "time": "16:00",
+      "team1": "BB Erzurumspor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-29",
+      "time": "16:00",
+      "team1": "Sivasspor",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-29",
+      "time": "20:30",
+      "team1": "Alanyaspor",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2021-04-29",
+      "time": "20:30",
+      "team1": "MKE Ankaragücü",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-01",
+      "time": "20:30",
+      "team1": "Beşiktaş",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          5,
+          0
+        ],
+        "ft": [
+          7,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-02",
+      "time": "16:00",
+      "team1": "Antalyaspor",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-02",
+      "time": "16:00",
+      "team1": "Denizlispor",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-02",
+      "time": "16:00",
+      "team1": "Konyaspor",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-02",
+      "time": "20:30",
+      "team1": "Gençlerbirliği",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-03",
+      "time": "16:00",
+      "team1": "İstanbul Başakşehir",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-03",
+      "time": "16:00",
+      "team1": "Kasımpaşa SK",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-03",
+      "time": "16:00",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Kayserispor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-03",
+      "time": "20:30",
+      "team1": "Fenerbahçe",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 39",
+      "date": "2021-05-03",
+      "time": "20:30",
+      "team1": "Gaziantep FK",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "MKE Ankaragücü",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Çaykur Rizespor",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "BB Erzurumspor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Galatasaray",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Göztepe",
+      "team2": "Konyaspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Hatayspor",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Fatih Karagümrük",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Kayserispor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Sivasspor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 40",
+      "date": "2021-05-08",
+      "time": "20:30",
+      "team1": "Trabzonspor",
+      "team2": "Antalyaspor",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "17:00",
+      "team1": "Konyaspor",
+      "team2": "Trabzonspor",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Alanyaspor",
+      "team2": "BB Erzurumspor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Beşiktaş",
+      "team2": "Fatih Karagümrük",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Denizlispor",
+      "team2": "Galatasaray",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Fenerbahçe",
+      "team2": "Sivasspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Gaziantep FK",
+      "team2": "Çaykur Rizespor",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Gençlerbirliği",
+      "team2": "Göztepe",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          5,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "İstanbul Başakşehir",
+      "team2": "Kayserispor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Kasımpaşa SK",
+      "team2": "MKE Ankaragücü",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 41",
+      "date": "2021-05-11",
+      "time": "20:30",
+      "team1": "Yeni Malatyaspor",
+      "team2": "Hatayspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "MKE Ankaragücü",
+      "team2": "Alanyaspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "Antalyaspor",
+      "team2": "Konyaspor",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "Çaykur Rizespor",
+      "team2": "İstanbul Başakşehir",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "Hatayspor",
+      "team2": "Gaziantep FK",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "Fatih Karagümrük",
+      "team2": "Denizlispor",
+      "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "18:00",
+      "team1": "Sivasspor",
+      "team2": "Kasımpaşa SK",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "Galatasaray",
+      "team2": "Yeni Malatyaspor",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "Göztepe",
+      "team2": "Beşiktaş",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "Kayserispor",
+      "team2": "Fenerbahçe",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 42",
+      "date": "2021-05-15",
+      "time": "20:30",
+      "team1": "Trabzonspor",
+      "team2": "Gençlerbirliği",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
     }
   ]
 }

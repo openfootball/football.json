@@ -1,12 +1,12 @@
 {
-  "name": "Eredivisie 2020/21",
+  "name": "Netherlands Eredivisie 2020/21",
   "matches": [
     {
       "round": "Matchday 1",
       "date": "2020-09-12",
       "time": "18:45",
-      "team1": "SC Heerenveen",
-      "team2": "Willem II Tilburg",
+      "team1": "sc Heerenveen",
+      "team2": "Willem II",
       "score": {
         "ht": [
           1,
@@ -23,7 +23,7 @@
       "date": "2020-09-12",
       "time": "20:00",
       "team1": "PEC Zwolle",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           0,
@@ -57,7 +57,7 @@
       "date": "2020-09-13",
       "time": "12:15",
       "team1": "FC Emmen",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           1,
@@ -91,7 +91,7 @@
       "date": "2020-09-13",
       "time": "14:30",
       "team1": "Sparta Rotterdam",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -125,7 +125,7 @@
       "date": "2020-09-13",
       "time": "16:45",
       "team1": "RKC Waalwijk",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           0,
@@ -138,10 +138,27 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2020-12-27",
+      "time": "14:30",
+      "team1": "FC Utrecht",
+      "team2": "AZ Alkmaar",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
+      }
+    },
+    {
       "round": "Matchday 2",
       "date": "2020-09-18",
       "time": "20:00",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "FC Utrecht",
       "score": {
         "ht": [
@@ -175,7 +192,7 @@
       "round": "Matchday 2",
       "date": "2020-09-19",
       "time": "18:45",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "Sparta Rotterdam",
       "score": {
         "ht": [
@@ -210,7 +227,7 @@
       "date": "2020-09-19",
       "time": "21:00",
       "team1": "Fortuna Sittard",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -243,24 +260,7 @@
       "round": "Matchday 2",
       "date": "2020-09-20",
       "time": "14:30",
-      "team1": "Willem II Tilburg",
-      "team2": "Heracles Almelo",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 2",
-      "date": "2020-09-20",
-      "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "FC Twente",
       "score": {
         "ht": [
@@ -276,8 +276,25 @@
     {
       "round": "Matchday 2",
       "date": "2020-09-20",
+      "time": "14:30",
+      "team1": "Willem II",
+      "team2": "Heracles Almelo",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 2",
+      "date": "2020-09-20",
       "time": "16:45",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "RKC Waalwijk",
       "score": {
         "ht": [
@@ -345,8 +362,8 @@
       "round": "Matchday 3",
       "date": "2020-09-26",
       "time": "20:00",
-      "team1": "SC Heerenveen",
-      "team2": "VVV Venlo",
+      "team1": "sc Heerenveen",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           1,
@@ -362,8 +379,8 @@
       "round": "Matchday 3",
       "date": "2020-09-26",
       "time": "21:00",
-      "team1": "Ajax Amsterdam",
-      "team2": "Vitesse Arnhem",
+      "team1": "AFC Ajax",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           1,
@@ -379,7 +396,7 @@
       "round": "Matchday 3",
       "date": "2020-09-27",
       "time": "12:15",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "ADO Den Haag",
       "score": {
         "ht": [
@@ -413,23 +430,6 @@
       "round": "Matchday 3",
       "date": "2020-09-27",
       "time": "16:45",
-      "team1": "FC Emmen",
-      "team2": "Willem II Tilburg",
-      "score": {
-        "ht": [
-          1,
-          1
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 3",
-      "date": "2020-09-27",
-      "time": "16:45",
       "team1": "Heracles Almelo",
       "team2": "PSV Eindhoven",
       "score": {
@@ -444,11 +444,28 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2020-09-27",
+      "time": "16:45",
+      "team1": "FC Emmen",
+      "team2": "Willem II",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
       "round": "Matchday 4",
       "date": "2020-10-02",
       "time": "20:00",
       "team1": "FC Utrecht",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           1,
@@ -464,7 +481,7 @@
       "round": "Matchday 4",
       "date": "2020-10-03",
       "time": "16:30",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "Heracles Almelo",
       "score": {
         "ht": [
@@ -481,7 +498,7 @@
       "round": "Matchday 4",
       "date": "2020-10-03",
       "time": "20:00",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "ADO Den Haag",
       "score": {
         "ht": [
@@ -516,7 +533,7 @@
       "date": "2020-10-04",
       "time": "12:15",
       "team1": "FC Groningen",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -549,8 +566,8 @@
       "round": "Matchday 4",
       "date": "2020-10-04",
       "time": "14:30",
-      "team1": "Willem II Tilburg",
-      "team2": "Feyenoord Rotterdam",
+      "team1": "Willem II",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           1,
@@ -580,6 +597,23 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2020-10-21",
+      "time": "17:30",
+      "team1": "RKC Waalwijk",
+      "team2": "PEC Zwolle",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
       "round": "Matchday 5",
       "date": "2020-10-17",
       "time": "18:45",
@@ -601,7 +635,7 @@
       "date": "2020-10-17",
       "time": "20:00",
       "team1": "AZ Alkmaar",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           2,
@@ -617,7 +651,7 @@
       "round": "Matchday 5",
       "date": "2020-10-17",
       "time": "21:00",
-      "team1": "Willem II Tilburg",
+      "team1": "Willem II",
       "team2": "FC Twente",
       "score": {
         "ht": [
@@ -634,7 +668,7 @@
       "round": "Matchday 5",
       "date": "2020-10-18",
       "time": "12:15",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "Sparta Rotterdam",
       "score": {
         "ht": [
@@ -651,8 +685,25 @@
       "round": "Matchday 5",
       "date": "2020-10-18",
       "time": "14:30",
+      "team1": "AFC Ajax",
+      "team2": "sc Heerenveen",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 5",
+      "date": "2020-10-18",
+      "time": "14:30",
       "team1": "ADO Den Haag",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           0,
@@ -667,17 +718,13 @@
     {
       "round": "Matchday 5",
       "date": "2020-10-18",
-      "time": "14:30",
-      "team1": "Ajax Amsterdam",
-      "team2": "SC Heerenveen",
+      "time": "16:45",
+      "team1": "FC Groningen",
+      "team2": "FC Utrecht",
       "score": {
-        "ht": [
-          3,
-          0
-        ],
         "ft": [
-          5,
-          1
+          0,
+          0
         ]
       }
     },
@@ -701,19 +748,6 @@
     {
       "round": "Matchday 5",
       "date": "2020-10-18",
-      "time": "16:45",
-      "team1": "FC Groningen",
-      "team2": "FC Utrecht",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 5",
-      "date": "2020-10-18",
       "time": "20:00",
       "team1": "FC Emmen",
       "team2": "Fortuna Sittard",
@@ -729,28 +763,11 @@
       }
     },
     {
-      "round": "Matchday 4",
-      "date": "2020-10-21",
-      "time": "17:30",
-      "team1": "RKC Waalwijk",
-      "team2": "PEC Zwolle",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
       "round": "Matchday 6",
       "date": "2020-10-24",
       "time": "16:30",
-      "team1": "VVV Venlo",
-      "team2": "Ajax Amsterdam",
+      "team1": "VVV-Venlo",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -784,7 +801,7 @@
       "date": "2020-10-24",
       "time": "20:00",
       "team1": "PEC Zwolle",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ft": [
           0,
@@ -796,7 +813,7 @@
       "round": "Matchday 6",
       "date": "2020-10-24",
       "time": "21:00",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "FC Emmen",
       "score": {
         "ht": [
@@ -830,6 +847,23 @@
       "round": "Matchday 6",
       "date": "2020-10-25",
       "time": "14:30",
+      "team1": "Vitesse",
+      "team2": "PSV Eindhoven",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 6",
+      "date": "2020-10-25",
+      "time": "14:30",
       "team1": "Sparta Rotterdam",
       "team2": "Heracles Almelo",
       "score": {
@@ -846,26 +880,9 @@
     {
       "round": "Matchday 6",
       "date": "2020-10-25",
-      "time": "14:30",
-      "team1": "Vitesse Arnhem",
-      "team2": "PSV Eindhoven",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 6",
-      "date": "2020-10-25",
       "time": "16:45",
       "team1": "RKC Waalwijk",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           0,
@@ -915,24 +932,7 @@
       "round": "Matchday 7",
       "date": "2020-10-31",
       "time": "20:00",
-      "team1": "FC Groningen",
-      "team2": "VVV Venlo",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2020-10-31",
-      "time": "20:00",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "Fortuna Sittard",
       "score": {
         "ht": [
@@ -948,9 +948,26 @@
     {
       "round": "Matchday 7",
       "date": "2020-10-31",
+      "time": "20:00",
+      "team1": "FC Groningen",
+      "team2": "VVV-Venlo",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-10-31",
       "time": "21:00",
-      "team1": "Willem II Tilburg",
-      "team2": "Vitesse Arnhem",
+      "team1": "Willem II",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           1,
@@ -983,25 +1000,8 @@
       "round": "Matchday 7",
       "date": "2020-11-01",
       "time": "14:30",
-      "team1": "FC Emmen",
-      "team2": "Feyenoord Rotterdam",
-      "score": {
-        "ht": [
-          2,
-          2
-        ],
-        "ft": [
-          2,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 7",
-      "date": "2020-11-01",
-      "time": "14:30",
       "team1": "Sparta Rotterdam",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -1010,6 +1010,23 @@
         "ft": [
           1,
           4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 7",
+      "date": "2020-11-01",
+      "time": "14:30",
+      "team1": "FC Emmen",
+      "team2": "Feyenoord",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          2,
+          3
         ]
       }
     },
@@ -1085,7 +1102,7 @@
       "round": "Matchday 8",
       "date": "2020-11-07",
       "time": "18:45",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "Heracles Almelo",
       "score": {
         "ht": [
@@ -1120,7 +1137,7 @@
       "date": "2020-11-08",
       "time": "12:15",
       "team1": "FC Utrecht",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -1136,24 +1153,7 @@
       "round": "Matchday 8",
       "date": "2020-11-08",
       "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "FC Groningen",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 8",
-      "date": "2020-11-08",
-      "time": "14:30",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "FC Emmen",
       "score": {
         "ht": [
@@ -1169,8 +1169,25 @@
     {
       "round": "Matchday 8",
       "date": "2020-11-08",
+      "time": "14:30",
+      "team1": "Feyenoord",
+      "team2": "FC Groningen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 8",
+      "date": "2020-11-08",
       "time": "16:45",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "AZ Alkmaar",
       "score": {
         "ht": [
@@ -1188,7 +1205,7 @@
       "date": "2020-11-08",
       "time": "20:00",
       "team1": "PSV Eindhoven",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           2,
@@ -1204,8 +1221,8 @@
       "round": "Matchday 9",
       "date": "2020-11-21",
       "time": "18:45",
-      "team1": "Willem II Tilburg",
-      "team2": "VVV Venlo",
+      "team1": "Willem II",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           2,
@@ -1222,7 +1239,7 @@
       "date": "2020-11-21",
       "time": "20:00",
       "team1": "FC Groningen",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           1,
@@ -1255,7 +1272,7 @@
       "round": "Matchday 9",
       "date": "2020-11-22",
       "time": "12:15",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "Heracles Almelo",
       "score": {
         "ht": [
@@ -1290,7 +1307,7 @@
       "date": "2020-11-22",
       "time": "14:30",
       "team1": "Fortuna Sittard",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           1,
@@ -1306,8 +1323,8 @@
       "round": "Matchday 9",
       "date": "2020-11-22",
       "time": "16:45",
-      "team1": "RKC Waalwijk",
-      "team2": "SC Heerenveen",
+      "team1": "FC Twente",
+      "team2": "PSV Eindhoven",
       "score": {
         "ht": [
           0,
@@ -1323,8 +1340,8 @@
       "round": "Matchday 9",
       "date": "2020-11-22",
       "time": "16:45",
-      "team1": "FC Twente",
-      "team2": "PSV Eindhoven",
+      "team1": "RKC Waalwijk",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -1375,7 +1392,7 @@
       "date": "2020-11-28",
       "time": "18:45",
       "team1": "FC Emmen",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -1392,7 +1409,7 @@
       "date": "2020-11-28",
       "time": "20:00",
       "team1": "ADO Den Haag",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           1,
@@ -1408,7 +1425,7 @@
       "round": "Matchday 10",
       "date": "2020-11-28",
       "time": "21:00",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "PEC Zwolle",
       "score": {
         "ht": [
@@ -1425,7 +1442,7 @@
       "round": "Matchday 10",
       "date": "2020-11-29",
       "time": "12:15",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "Fortuna Sittard",
       "score": {
         "ht": [
@@ -1442,7 +1459,24 @@
       "round": "Matchday 10",
       "date": "2020-11-29",
       "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "FC Groningen",
+      "team2": "Willem II",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 10",
+      "date": "2020-11-29",
+      "time": "14:30",
+      "team1": "Feyenoord",
       "team2": "FC Utrecht",
       "score": {
         "ht": [
@@ -1452,23 +1486,6 @@
         "ft": [
           1,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 10",
-      "date": "2020-11-29",
-      "time": "14:30",
-      "team1": "FC Groningen",
-      "team2": "Willem II Tilburg",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          1,
-          0
         ]
       }
     },
@@ -1528,7 +1545,7 @@
       "date": "2020-12-05",
       "time": "16:30",
       "team1": "RKC Waalwijk",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           1,
@@ -1545,7 +1562,7 @@
       "date": "2020-12-05",
       "time": "18:45",
       "team1": "Fortuna Sittard",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           3,
@@ -1561,7 +1578,7 @@
       "round": "Matchday 11",
       "date": "2020-12-05",
       "time": "20:00",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "FC Twente",
       "score": {
         "ht": [
@@ -1579,7 +1596,7 @@
       "date": "2020-12-05",
       "time": "21:00",
       "team1": "PEC Zwolle",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           0,
@@ -1595,7 +1612,7 @@
       "round": "Matchday 11",
       "date": "2020-12-06",
       "time": "12:15",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "Heracles Almelo",
       "score": {
         "ft": [
@@ -1642,7 +1659,7 @@
       "round": "Matchday 11",
       "date": "2020-12-06",
       "time": "16:45",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "PSV Eindhoven",
       "score": {
         "ht": [
@@ -1710,7 +1727,7 @@
       "round": "Matchday 12",
       "date": "2020-12-12",
       "time": "20:00",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "PEC Zwolle",
       "score": {
         "ht": [
@@ -1727,8 +1744,8 @@
       "round": "Matchday 12",
       "date": "2020-12-13",
       "time": "12:15",
-      "team1": "Vitesse Arnhem",
-      "team2": "SC Heerenveen",
+      "team1": "Vitesse",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           1,
@@ -1744,15 +1761,15 @@
       "round": "Matchday 12",
       "date": "2020-12-13",
       "time": "14:30",
-      "team1": "Willem II Tilburg",
-      "team2": "Sparta Rotterdam",
+      "team1": "VVV-Venlo",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           0,
-          2
+          0
         ],
         "ft": [
-          1,
+          0,
           3
         ]
       }
@@ -1761,15 +1778,15 @@
       "round": "Matchday 12",
       "date": "2020-12-13",
       "time": "14:30",
-      "team1": "VVV Venlo",
-      "team2": "Feyenoord Rotterdam",
+      "team1": "Willem II",
+      "team2": "Sparta Rotterdam",
       "score": {
         "ht": [
           0,
-          0
+          2
         ],
         "ft": [
-          0,
+          1,
           3
         ]
       }
@@ -1842,7 +1859,7 @@
       "round": "Matchday 13",
       "date": "2020-12-19",
       "time": "18:45",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "FC Twente",
       "score": {
         "ht": [
@@ -1893,8 +1910,8 @@
       "round": "Matchday 13",
       "date": "2020-12-20",
       "time": "12:15",
-      "team1": "Vitesse Arnhem",
-      "team2": "Feyenoord Rotterdam",
+      "team1": "Vitesse",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           1,
@@ -1911,7 +1928,7 @@
       "date": "2020-12-20",
       "time": "14:30",
       "team1": "ADO Den Haag",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -1927,7 +1944,7 @@
       "round": "Matchday 13",
       "date": "2020-12-20",
       "time": "14:30",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "Heracles Almelo",
       "score": {
         "ht": [
@@ -1945,7 +1962,7 @@
       "date": "2020-12-20",
       "time": "16:45",
       "team1": "AZ Alkmaar",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           2,
@@ -1996,7 +2013,7 @@
       "date": "2020-12-22",
       "time": "20:00",
       "team1": "PSV Eindhoven",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           1,
@@ -2030,7 +2047,7 @@
       "date": "2020-12-23",
       "time": "16:30",
       "team1": "AZ Alkmaar",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           2,
@@ -2046,8 +2063,8 @@
       "round": "Matchday 14",
       "date": "2020-12-23",
       "time": "18:45",
-      "team1": "Willem II Tilburg",
-      "team2": "Ajax Amsterdam",
+      "team1": "Willem II",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -2055,6 +2072,23 @@
         ],
         "ft": [
           1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 14",
+      "date": "2020-12-23",
+      "time": "20:00",
+      "team1": "FC Groningen",
+      "team2": "Heracles Almelo",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
           1
         ]
       }
@@ -2079,26 +2113,9 @@
     {
       "round": "Matchday 14",
       "date": "2020-12-23",
-      "time": "20:00",
-      "team1": "FC Groningen",
-      "team2": "Heracles Almelo",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 14",
-      "date": "2020-12-23",
       "time": "21:00",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "SC Heerenveen",
+      "team1": "Feyenoord",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -2107,23 +2124,6 @@
         "ft": [
           3,
           0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 1",
-      "date": "2020-12-27",
-      "time": "14:30",
-      "team1": "FC Utrecht",
-      "team2": "AZ Alkmaar",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          2,
-          2
         ]
       }
     },
@@ -2165,6 +2165,23 @@
       "round": "Matchday 15",
       "date": "2021-01-09",
       "time": "20:00",
+      "team1": "Heracles Almelo",
+      "team2": "Vitesse",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-09",
+      "time": "20:00",
       "team1": "PEC Zwolle",
       "team2": "AZ Alkmaar",
       "score": {
@@ -2175,23 +2192,6 @@
         "ft": [
           1,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2021-01-09",
-      "time": "20:00",
-      "team1": "Heracles Almelo",
-      "team2": "Vitesse Arnhem",
-      "score": {
-        "ht": [
-          0,
-          1
-        ],
-        "ft": [
-          0,
-          2
         ]
       }
     },
@@ -2217,7 +2217,7 @@
       "date": "2021-01-10",
       "time": "12:15",
       "team1": "Sparta Rotterdam",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           0,
@@ -2233,24 +2233,7 @@
       "round": "Matchday 15",
       "date": "2021-01-10",
       "time": "14:30",
-      "team1": "VVV Venlo",
-      "team2": "Willem II Tilburg",
-      "score": {
-        "ht": [
-          0,
-          1
-        ],
-        "ft": [
-          2,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 15",
-      "date": "2021-01-10",
-      "time": "14:30",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "Fortuna Sittard",
       "score": {
         "ht": [
@@ -2266,8 +2249,25 @@
     {
       "round": "Matchday 15",
       "date": "2021-01-10",
+      "time": "14:30",
+      "team1": "VVV-Venlo",
+      "team2": "Willem II",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 15",
+      "date": "2021-01-10",
       "time": "16:45",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "PSV Eindhoven",
       "score": {
         "ht": [
@@ -2284,7 +2284,7 @@
       "round": "Matchday 16",
       "date": "2021-01-12",
       "time": "18:45",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "FC Utrecht",
       "score": {
         "ht": [
@@ -2351,9 +2351,9 @@
     {
       "round": "Matchday 16",
       "date": "2021-01-13",
-      "time": "20:05",
+      "time": "20:00",
       "team1": "ADO Den Haag",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           0,
@@ -2369,7 +2369,7 @@
       "round": "Matchday 16",
       "date": "2021-01-13",
       "time": "21:00",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "PEC Zwolle",
       "score": {
         "ht": [
@@ -2386,7 +2386,7 @@
       "round": "Matchday 16",
       "date": "2021-01-14",
       "time": "18:45",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "RKC Waalwijk",
       "score": {
         "ht": [
@@ -2404,7 +2404,7 @@
       "date": "2021-01-14",
       "time": "20:00",
       "team1": "FC Twente",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -2420,7 +2420,7 @@
       "round": "Matchday 16",
       "date": "2021-01-14",
       "time": "21:00",
-      "team1": "Willem II Tilburg",
+      "team1": "Willem II",
       "team2": "FC Groningen",
       "score": {
         "ht": [
@@ -2438,7 +2438,7 @@
       "date": "2021-01-16",
       "time": "16:30",
       "team1": "FC Emmen",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           0,
@@ -2471,23 +2471,6 @@
       "round": "Matchday 17",
       "date": "2021-01-16",
       "time": "20:00",
-      "team1": "PEC Zwolle",
-      "team2": "Fortuna Sittard",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 17",
-      "date": "2021-01-16",
-      "time": "20:00",
       "team1": "FC Utrecht",
       "team2": "Heracles Almelo",
       "score": {
@@ -2498,6 +2481,23 @@
         "ft": [
           2,
           0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-16",
+      "time": "20:00",
+      "team1": "PEC Zwolle",
+      "team2": "Fortuna Sittard",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
         ]
       }
     },
@@ -2523,27 +2523,10 @@
       "date": "2021-01-17",
       "time": "12:15",
       "team1": "RKC Waalwijk",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           1,
-          0
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 17",
-      "date": "2021-01-17",
-      "time": "14:30",
-      "team1": "VVV Venlo",
-      "team2": "SC Heerenveen",
-      "score": {
-        "ht": [
-          0,
           0
         ],
         "ft": [
@@ -2572,9 +2555,26 @@
     {
       "round": "Matchday 17",
       "date": "2021-01-17",
+      "time": "14:30",
+      "team1": "VVV-Venlo",
+      "team2": "sc Heerenveen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 17",
+      "date": "2021-01-17",
       "time": "16:45",
-      "team1": "Ajax Amsterdam",
-      "team2": "Feyenoord Rotterdam",
+      "team1": "AFC Ajax",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           1,
@@ -2590,7 +2590,7 @@
       "round": "Matchday 18",
       "date": "2021-01-22",
       "time": "20:00",
-      "team1": "Willem II Tilburg",
+      "team1": "Willem II",
       "team2": "PEC Zwolle",
       "score": {
         "ht": [
@@ -2620,7 +2620,7 @@
       "round": "Matchday 18",
       "date": "2021-01-23",
       "time": "18:45",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "FC Groningen",
       "score": {
         "ht": [
@@ -2655,7 +2655,7 @@
       "date": "2021-01-23",
       "time": "21:00",
       "team1": "Heracles Almelo",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -2672,7 +2672,7 @@
       "date": "2021-01-24",
       "time": "12:15",
       "team1": "Fortuna Sittard",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -2681,6 +2681,23 @@
         "ft": [
           1,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 18",
+      "date": "2021-01-24",
+      "time": "14:30",
+      "team1": "FC Twente",
+      "team2": "VVV-Venlo",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
         ]
       }
     },
@@ -2704,25 +2721,8 @@
     {
       "round": "Matchday 18",
       "date": "2021-01-24",
-      "time": "14:30",
-      "team1": "FC Twente",
-      "team2": "VVV Venlo",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 18",
-      "date": "2021-01-24",
       "time": "16:45",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "AZ Alkmaar",
       "score": {
         "ht": [
@@ -2807,23 +2807,6 @@
       "round": "Matchday 19",
       "date": "2021-01-27",
       "time": "20:00",
-      "team1": "VVV Venlo",
-      "team2": "Vitesse Arnhem",
-      "score": {
-        "ht": [
-          3,
-          0
-        ],
-        "ft": [
-          4,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 19",
-      "date": "2021-01-27",
-      "time": "20:00",
       "team1": "RKC Waalwijk",
       "team2": "Fortuna Sittard",
       "score": {
@@ -2840,9 +2823,26 @@
     {
       "round": "Matchday 19",
       "date": "2021-01-27",
+      "time": "20:00",
+      "team1": "VVV-Venlo",
+      "team2": "Vitesse",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 19",
+      "date": "2021-01-27",
       "time": "21:00",
-      "team1": "SC Heerenveen",
-      "team2": "Feyenoord Rotterdam",
+      "team1": "sc Heerenveen",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           2,
@@ -2871,8 +2871,8 @@
       "round": "Matchday 19",
       "date": "2021-01-28",
       "time": "21:00",
-      "team1": "Ajax Amsterdam",
-      "team2": "Willem II Tilburg",
+      "team1": "AFC Ajax",
+      "team2": "Willem II",
       "score": {
         "ht": [
           0,
@@ -2923,7 +2923,7 @@
       "date": "2021-01-30",
       "time": "20:00",
       "team1": "Fortuna Sittard",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           1,
@@ -2939,7 +2939,7 @@
       "round": "Matchday 20",
       "date": "2021-01-30",
       "time": "21:00",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "RKC Waalwijk",
       "score": {
         "ht": [
@@ -2957,7 +2957,7 @@
       "date": "2021-01-31",
       "time": "12:15",
       "team1": "FC Twente",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ft": [
           0,
@@ -2969,7 +2969,24 @@
       "round": "Matchday 20",
       "date": "2021-01-31",
       "time": "14:30",
-      "team1": "Willem II Tilburg",
+      "team1": "Feyenoord",
+      "team2": "PSV Eindhoven",
+      "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 20",
+      "date": "2021-01-31",
+      "time": "14:30",
+      "team1": "Willem II",
       "team2": "FC Emmen",
       "score": {
         "ht": [
@@ -2985,17 +3002,17 @@
     {
       "round": "Matchday 20",
       "date": "2021-01-31",
-      "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "PSV Eindhoven",
+      "time": "16:45",
+      "team1": "AZ Alkmaar",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
-          3,
-          0
+          0,
+          1
         ],
         "ft": [
-          3,
-          1
+          0,
+          3
         ]
       }
     },
@@ -3013,23 +3030,6 @@
         "ft": [
           1,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 20",
-      "date": "2021-01-31",
-      "time": "16:45",
-      "team1": "AZ Alkmaar",
-      "team2": "Ajax Amsterdam",
-      "score": {
-        "ht": [
-          0,
-          1
-        ],
-        "ft": [
-          0,
-          3
         ]
       }
     },
@@ -3088,8 +3088,25 @@
       "round": "Matchday 21",
       "date": "2021-02-06",
       "time": "16:30",
-      "team1": "SC Heerenveen",
-      "team2": "Vitesse Arnhem",
+      "team1": "PSV Eindhoven",
+      "team2": "FC Twente",
+      "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-06",
+      "time": "16:30",
+      "team1": "sc Heerenveen",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           0,
@@ -3103,18 +3120,65 @@
     },
     {
       "round": "Matchday 21",
-      "date": "2021-02-06",
+      "date": "2021-02-24",
       "time": "16:30",
-      "team1": "PSV Eindhoven",
-      "team2": "FC Twente",
+      "team1": "Willem II",
+      "team2": "ADO Den Haag",
       "score": {
         "ht": [
-          2,
+          0,
           0
         ],
         "ft": [
-          3,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-02-24",
+      "time": "18:45",
+      "team1": "FC Groningen",
+      "team2": "Feyenoord",
+      "score": {
+        "ft": [
+          0,
           0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-03-09",
+      "time": "18:45",
+      "team1": "VVV-Venlo",
+      "team2": "Sparta Rotterdam",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 21",
+      "date": "2021-04-22",
+      "time": "18:45",
+      "team1": "AFC Ajax",
+      "team2": "FC Utrecht",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
@@ -3191,7 +3255,7 @@
       "date": "2021-02-13",
       "time": "18:45",
       "team1": "Heracles Almelo",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -3208,7 +3272,7 @@
       "date": "2021-02-14",
       "time": "12:15",
       "team1": "AZ Alkmaar",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           1,
@@ -3224,25 +3288,8 @@
       "round": "Matchday 22",
       "date": "2021-02-14",
       "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "Willem II Tilburg",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          5,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 22",
-      "date": "2021-02-14",
-      "time": "14:30",
       "team1": "FC Utrecht",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           0,
@@ -3257,8 +3304,25 @@
     {
       "round": "Matchday 22",
       "date": "2021-02-14",
+      "time": "14:30",
+      "team1": "Feyenoord",
+      "team2": "Willem II",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 22",
+      "date": "2021-02-14",
       "time": "16:45",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "FC Twente",
       "score": {
         "ht": [
@@ -3275,7 +3339,7 @@
       "round": "Matchday 23",
       "date": "2021-02-19",
       "time": "20:00",
-      "team1": "Willem II Tilburg",
+      "team1": "Willem II",
       "team2": "FC Utrecht",
       "score": {
         "ht": [
@@ -3309,7 +3373,7 @@
       "round": "Matchday 23",
       "date": "2021-02-20",
       "time": "20:00",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "AZ Alkmaar",
       "score": {
         "ht": [
@@ -3344,7 +3408,7 @@
       "date": "2021-02-21",
       "time": "12:15",
       "team1": "FC Twente",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           2,
@@ -3377,7 +3441,7 @@
       "round": "Matchday 23",
       "date": "2021-02-21",
       "time": "14:30",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "FC Groningen",
       "score": {
         "ht": [
@@ -3395,7 +3459,7 @@
       "date": "2021-02-21",
       "time": "16:45",
       "team1": "PSV Eindhoven",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           0,
@@ -3411,7 +3475,7 @@
       "round": "Matchday 23",
       "date": "2021-02-21",
       "time": "20:00",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "Sparta Rotterdam",
       "score": {
         "ht": [
@@ -3425,41 +3489,11 @@
       }
     },
     {
-      "round": "Matchday 21",
-      "date": "2021-02-24",
-      "time": "16:30",
-      "team1": "Willem II Tilburg",
-      "team2": "ADO Den Haag",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2021-02-24",
-      "time": "18:45",
-      "team1": "FC Groningen",
-      "team2": "Feyenoord Rotterdam",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
       "round": "Matchday 24",
       "date": "2021-02-26",
       "time": "20:00",
       "team1": "PEC Zwolle",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -3505,8 +3539,8 @@
       "round": "Matchday 24",
       "date": "2021-02-27",
       "time": "20:00",
-      "team1": "Vitesse Arnhem",
-      "team2": "VVV Venlo",
+      "team1": "Vitesse",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           1,
@@ -3540,7 +3574,7 @@
       "date": "2021-02-28",
       "time": "12:15",
       "team1": "Sparta Rotterdam",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           0,
@@ -3549,23 +3583,6 @@
         "ft": [
           0,
           2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 24",
-      "date": "2021-02-28",
-      "time": "14:30",
-      "team1": "PSV Eindhoven",
-      "team2": "Ajax Amsterdam",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          1,
-          1
         ]
       }
     },
@@ -3589,9 +3606,26 @@
     {
       "round": "Matchday 24",
       "date": "2021-02-28",
+      "time": "14:30",
+      "team1": "PSV Eindhoven",
+      "team2": "AFC Ajax",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2021-02-28",
       "time": "16:45",
       "team1": "AZ Alkmaar",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           2,
@@ -3624,8 +3658,8 @@
       "round": "Matchday 25",
       "date": "2021-03-06",
       "time": "16:30",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "VVV Venlo",
+      "team1": "Feyenoord",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           3,
@@ -3642,7 +3676,7 @@
       "date": "2021-03-06",
       "time": "18:45",
       "team1": "FC Twente",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           0,
@@ -3658,7 +3692,7 @@
       "round": "Matchday 25",
       "date": "2021-03-06",
       "time": "20:00",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "ADO Den Haag",
       "score": {
         "ht": [
@@ -3692,7 +3726,7 @@
       "round": "Matchday 25",
       "date": "2021-03-07",
       "time": "12:15",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "FC Groningen",
       "score": {
         "ht": [
@@ -3701,23 +3735,6 @@
         ],
         "ft": [
           3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 25",
-      "date": "2021-03-07",
-      "time": "14:30",
-      "team1": "Heracles Almelo",
-      "team2": "PEC Zwolle",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          2,
           1
         ]
       }
@@ -3742,8 +3759,25 @@
     {
       "round": "Matchday 25",
       "date": "2021-03-07",
+      "time": "14:30",
+      "team1": "Heracles Almelo",
+      "team2": "PEC Zwolle",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2021-03-07",
       "time": "16:45",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "AZ Alkmaar",
       "score": {
         "ht": [
@@ -3757,28 +3791,11 @@
       }
     },
     {
-      "round": "Matchday 21",
-      "date": "2021-03-09",
-      "time": "18:45",
-      "team1": "VVV Venlo",
-      "team2": "Sparta Rotterdam",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          0,
-          1
-        ]
-      }
-    },
-    {
       "round": "Matchday 26",
       "date": "2021-03-13",
       "time": "16:30",
-      "team1": "Willem II Tilburg",
-      "team2": "SC Heerenveen",
+      "team1": "Willem II",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           1,
@@ -3811,23 +3828,6 @@
       "round": "Matchday 26",
       "date": "2021-03-13",
       "time": "20:00",
-      "team1": "FC Groningen",
-      "team2": "FC Emmen",
-      "score": {
-        "ht": [
-          0,
-          1
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 26",
-      "date": "2021-03-13",
-      "time": "20:00",
       "team1": "AZ Alkmaar",
       "team2": "FC Twente",
       "score": {
@@ -3837,6 +3837,23 @@
         ],
         "ft": [
           4,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-13",
+      "time": "20:00",
+      "team1": "FC Groningen",
+      "team2": "FC Emmen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
           1
         ]
       }
@@ -3862,7 +3879,7 @@
       "round": "Matchday 26",
       "date": "2021-03-14",
       "time": "12:15",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "Fortuna Sittard",
       "score": {
         "ht": [
@@ -3879,25 +3896,8 @@
       "round": "Matchday 26",
       "date": "2021-03-14",
       "time": "14:30",
-      "team1": "PSV Eindhoven",
-      "team2": "Feyenoord Rotterdam",
-      "score": {
-        "ht": [
-          1,
-          1
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 26",
-      "date": "2021-03-14",
-      "time": "14:30",
       "team1": "FC Utrecht",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           1,
@@ -3912,9 +3912,26 @@
     {
       "round": "Matchday 26",
       "date": "2021-03-14",
+      "time": "14:30",
+      "team1": "PSV Eindhoven",
+      "team2": "Feyenoord",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2021-03-14",
       "time": "16:45",
       "team1": "PEC Zwolle",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -3930,7 +3947,7 @@
       "round": "Matchday 27",
       "date": "2021-03-19",
       "time": "20:00",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "FC Twente",
       "score": {
         "ft": [
@@ -3960,7 +3977,7 @@
       "round": "Matchday 27",
       "date": "2021-03-20",
       "time": "20:00",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "FC Emmen",
       "score": {
         "ht": [
@@ -3995,7 +4012,7 @@
       "date": "2021-03-21",
       "time": "12:15",
       "team1": "PEC Zwolle",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           0,
@@ -4004,19 +4021,6 @@
         "ft": [
           2,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 27",
-      "date": "2021-03-21",
-      "time": "14:30",
-      "team1": "Vitesse Arnhem",
-      "team2": "Willem II Tilburg",
-      "score": {
-        "ft": [
-          0,
-          0
         ]
       }
     },
@@ -4033,6 +4037,19 @@
         ],
         "ft": [
           2,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2021-03-21",
+      "time": "14:30",
+      "team1": "Vitesse",
+      "team2": "Willem II",
+      "score": {
+        "ft": [
+          0,
           0
         ]
       }
@@ -4058,7 +4075,7 @@
       "round": "Matchday 27",
       "date": "2021-03-21",
       "time": "20:00",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "ADO Den Haag",
       "score": {
         "ht": [
@@ -4075,7 +4092,7 @@
       "round": "Matchday 28",
       "date": "2021-04-03",
       "time": "18:45",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "FC Groningen",
       "score": {
         "ht": [
@@ -4092,7 +4109,24 @@
       "round": "Matchday 28",
       "date": "2021-04-03",
       "time": "20:00",
-      "team1": "Willem II Tilburg",
+      "team1": "FC Twente",
+      "team2": "Vitesse",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2021-04-03",
+      "time": "20:00",
+      "team1": "Willem II",
       "team2": "AZ Alkmaar",
       "score": {
         "ht": [
@@ -4102,23 +4136,6 @@
         "ft": [
           0,
           1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2021-04-03",
-      "time": "20:00",
-      "team1": "FC Twente",
-      "team2": "Vitesse Arnhem",
-      "score": {
-        "ht": [
-          1,
-          1
-        ],
-        "ft": [
-          1,
-          2
         ]
       }
     },
@@ -4143,7 +4160,7 @@
       "round": "Matchday 28",
       "date": "2021-04-04",
       "time": "12:15",
-      "team1": "Feyenoord Rotterdam",
+      "team1": "Feyenoord",
       "team2": "Fortuna Sittard",
       "score": {
         "ht": [
@@ -4194,23 +4211,6 @@
       "round": "Matchday 28",
       "date": "2021-04-04",
       "time": "16:45",
-      "team1": "SC Heerenveen",
-      "team2": "Ajax Amsterdam",
-      "score": {
-        "ht": [
-          1,
-          1
-        ],
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2021-04-04",
-      "time": "16:45",
       "team1": "FC Emmen",
       "team2": "RKC Waalwijk",
       "score": {
@@ -4225,10 +4225,27 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2021-04-04",
+      "time": "16:45",
+      "team1": "sc Heerenveen",
+      "team2": "AFC Ajax",
+      "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
       "round": "Matchday 29",
       "date": "2021-04-09",
       "time": "20:00",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "ADO Den Haag",
       "score": {
         "ft": [
@@ -4242,7 +4259,7 @@
       "date": "2021-04-10",
       "time": "18:45",
       "team1": "Heracles Almelo",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           2,
@@ -4250,6 +4267,23 @@
         ],
         "ft": [
           4,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-10",
+      "time": "20:00",
+      "team1": "AZ Alkmaar",
+      "team2": "Sparta Rotterdam",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
           0
         ]
       }
@@ -4268,23 +4302,6 @@
         "ft": [
           1,
           3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2021-04-10",
-      "time": "20:00",
-      "team1": "AZ Alkmaar",
-      "team2": "Sparta Rotterdam",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          2,
-          0
         ]
       }
     },
@@ -4310,7 +4327,7 @@
       "date": "2021-04-11",
       "time": "12:15",
       "team1": "FC Utrecht",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           1,
@@ -4326,7 +4343,24 @@
       "round": "Matchday 29",
       "date": "2021-04-11",
       "time": "14:30",
-      "team1": "VVV Venlo",
+      "team1": "FC Groningen",
+      "team2": "sc Heerenveen",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2021-04-11",
+      "time": "14:30",
+      "team1": "VVV-Venlo",
       "team2": "PSV Eindhoven",
       "score": {
         "ht": [
@@ -4342,26 +4376,9 @@
     {
       "round": "Matchday 29",
       "date": "2021-04-11",
-      "time": "14:30",
-      "team1": "FC Groningen",
-      "team2": "SC Heerenveen",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          0,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2021-04-11",
       "time": "16:45",
       "team1": "RKC Waalwijk",
-      "team2": "Ajax Amsterdam",
+      "team2": "AFC Ajax",
       "score": {
         "ht": [
           0,
@@ -4369,23 +4386,6 @@
         ],
         "ft": [
           0,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 21",
-      "date": "2021-04-22",
-      "time": "18:45",
-      "team1": "Ajax Amsterdam",
-      "team2": "FC Utrecht",
-      "score": {
-        "ht": [
-          0,
-          1
-        ],
-        "ft": [
-          1,
           1
         ]
       }
@@ -4394,7 +4394,7 @@
       "round": "Matchday 30",
       "date": "2021-04-23",
       "time": "18:45",
-      "team1": "Willem II Tilburg",
+      "team1": "Willem II",
       "team2": "RKC Waalwijk",
       "score": {
         "ht": [
@@ -4410,8 +4410,8 @@
     {
       "round": "Matchday 30",
       "date": "2021-04-24",
-      "time": "16:35",
-      "team1": "SC Heerenveen",
+      "time": "16:30",
+      "team1": "sc Heerenveen",
       "team2": "PEC Zwolle",
       "score": {
         "ht": [
@@ -4428,23 +4428,6 @@
       "round": "Matchday 30",
       "date": "2021-04-24",
       "time": "18:45",
-      "team1": "Sparta Rotterdam",
-      "team2": "VVV Venlo",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 30",
-      "date": "2021-04-24",
-      "time": "18:45",
       "team1": "PSV Eindhoven",
       "team2": "FC Groningen",
       "score": {
@@ -4454,6 +4437,23 @@
         ],
         "ft": [
           1,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2021-04-24",
+      "time": "18:45",
+      "team1": "Sparta Rotterdam",
+      "team2": "VVV-Venlo",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
           0
         ]
       }
@@ -4496,7 +4496,7 @@
       "round": "Matchday 30",
       "date": "2021-04-25",
       "time": "14:30",
-      "team1": "Ajax Amsterdam",
+      "team1": "AFC Ajax",
       "team2": "AZ Alkmaar",
       "score": {
         "ht": [
@@ -4505,19 +4505,6 @@
         ],
         "ft": [
           2,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 30",
-      "date": "2021-04-25",
-      "time": "16:45",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "Vitesse Arnhem",
-      "score": {
-        "ft": [
-          0,
           0
         ]
       }
@@ -4540,11 +4527,24 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2021-04-25",
+      "time": "16:45",
+      "team1": "Feyenoord",
+      "team2": "Vitesse",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
       "round": "Matchday 31",
       "date": "2021-05-01",
       "time": "16:30",
       "team1": "Heracles Almelo",
-      "team2": "VVV Venlo",
+      "team2": "VVV-Venlo",
       "score": {
         "ht": [
           2,
@@ -4594,7 +4594,7 @@
       "round": "Matchday 31",
       "date": "2021-05-01",
       "time": "20:00",
-      "team1": "Vitesse Arnhem",
+      "team1": "Vitesse",
       "team2": "PEC Zwolle",
       "score": {
         "ht": [
@@ -4612,7 +4612,7 @@
       "date": "2021-05-01",
       "time": "21:00",
       "team1": "FC Utrecht",
-      "team2": "Willem II Tilburg",
+      "team2": "Willem II",
       "score": {
         "ht": [
           2,
@@ -4629,7 +4629,7 @@
       "date": "2021-05-02",
       "time": "12:15",
       "team1": "ADO Den Haag",
-      "team2": "Feyenoord Rotterdam",
+      "team2": "Feyenoord",
       "score": {
         "ht": [
           2,
@@ -4638,6 +4638,23 @@
         "ft": [
           3,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2021-05-02",
+      "time": "14:30",
+      "team1": "AFC Ajax",
+      "team2": "FC Emmen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          4,
+          0
         ]
       }
     },
@@ -4661,26 +4678,9 @@
     {
       "round": "Matchday 31",
       "date": "2021-05-02",
-      "time": "14:30",
-      "team1": "Ajax Amsterdam",
-      "team2": "FC Emmen",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          4,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 31",
-      "date": "2021-05-02",
       "time": "16:45",
       "team1": "PSV Eindhoven",
-      "team2": "SC Heerenveen",
+      "team2": "sc Heerenveen",
       "score": {
         "ht": [
           0,
@@ -4697,7 +4697,7 @@
       "date": "2021-05-07",
       "time": "20:00",
       "team1": "Sparta Rotterdam",
-      "team2": "Vitesse Arnhem",
+      "team2": "Vitesse",
       "score": {
         "ht": [
           1,
@@ -4730,7 +4730,7 @@
       "round": "Matchday 32",
       "date": "2021-05-08",
       "time": "18:45",
-      "team1": "SC Heerenveen",
+      "team1": "sc Heerenveen",
       "team2": "FC Utrecht",
       "score": {
         "ft": [
@@ -4760,7 +4760,7 @@
       "round": "Matchday 32",
       "date": "2021-05-08",
       "time": "21:00",
-      "team1": "VVV Venlo",
+      "team1": "VVV-Venlo",
       "team2": "RKC Waalwijk",
       "score": {
         "ht": [
@@ -4794,6 +4794,23 @@
       "round": "Matchday 32",
       "date": "2021-05-09",
       "time": "14:30",
+      "team1": "Feyenoord",
+      "team2": "AFC Ajax",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2021-05-09",
+      "time": "14:30",
       "team1": "PEC Zwolle",
       "team2": "ADO Den Haag",
       "score": {
@@ -4810,25 +4827,8 @@
     {
       "round": "Matchday 32",
       "date": "2021-05-09",
-      "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "Ajax Amsterdam",
-      "score": {
-        "ht": [
-          0,
-          1
-        ],
-        "ft": [
-          0,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 32",
-      "date": "2021-05-09",
       "time": "16:45",
-      "team1": "Willem II Tilburg",
+      "team1": "Willem II",
       "team2": "PSV Eindhoven",
       "score": {
         "ht": [
@@ -4838,6 +4838,104 @@
         "ft": [
           0,
           2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-13",
+      "time": "14:30",
+      "team1": "ADO Den Haag",
+      "team2": "Willem II",
+      "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          1,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-13",
+      "time": "14:30",
+      "team1": "AFC Ajax",
+      "team2": "VVV-Venlo",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-13",
+      "time": "14:30",
+      "team1": "FC Emmen",
+      "team2": "sc Heerenveen",
+      "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-13",
+      "time": "14:30",
+      "team1": "FC Groningen",
+      "team2": "AZ Alkmaar",
+      "score": {
+        "ft": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-13",
+      "time": "14:30",
+      "team1": "Fortuna Sittard",
+      "team2": "Vitesse",
+      "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2021-05-13",
+      "time": "14:30",
+      "team1": "Heracles Almelo",
+      "team2": "Feyenoord",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
         ]
       }
     },
@@ -4862,23 +4960,6 @@
       "round": "Matchday 33",
       "date": "2021-05-13",
       "time": "14:30",
-      "team1": "Ajax Amsterdam",
-      "team2": "VVV Venlo",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2021-05-13",
-      "time": "14:30",
       "team1": "RKC Waalwijk",
       "team2": "FC Twente",
       "score": {
@@ -4896,109 +4977,11 @@
       "round": "Matchday 33",
       "date": "2021-05-13",
       "time": "14:30",
-      "team1": "Heracles Almelo",
-      "team2": "Feyenoord Rotterdam",
-      "score": {
-        "ht": [
-          0,
-          0
-        ],
-        "ft": [
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2021-05-13",
-      "time": "14:30",
-      "team1": "FC Groningen",
-      "team2": "AZ Alkmaar",
-      "score": {
-        "ft": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2021-05-13",
-      "time": "14:30",
-      "team1": "ADO Den Haag",
-      "team2": "Willem II Tilburg",
-      "score": {
-        "ht": [
-          0,
-          3
-        ],
-        "ft": [
-          1,
-          4
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2021-05-13",
-      "time": "14:30",
       "team1": "Sparta Rotterdam",
       "team2": "FC Utrecht",
       "score": {
         "ft": [
           0,
-          0
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2021-05-13",
-      "time": "14:30",
-      "team1": "Fortuna Sittard",
-      "team2": "Vitesse Arnhem",
-      "score": {
-        "ht": [
-          2,
-          2
-        ],
-        "ft": [
-          3,
-          3
-        ]
-      }
-    },
-    {
-      "round": "Matchday 33",
-      "date": "2021-05-13",
-      "time": "14:30",
-      "team1": "FC Emmen",
-      "team2": "SC Heerenveen",
-      "score": {
-        "ht": [
-          1,
-          0
-        ],
-        "ft": [
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2021-05-16",
-      "time": "14:30",
-      "team1": "Feyenoord Rotterdam",
-      "team2": "RKC Waalwijk",
-      "score": {
-        "ht": [
-          2,
-          0
-        ],
-        "ft": [
-          3,
           0
         ]
       }
@@ -5024,23 +5007,6 @@
       "round": "Matchday 34",
       "date": "2021-05-16",
       "time": "14:30",
-      "team1": "SC Heerenveen",
-      "team2": "Sparta Rotterdam",
-      "score": {
-        "ht": [
-          0,
-          2
-        ],
-        "ft": [
-          1,
-          2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2021-05-16",
-      "time": "14:30",
       "team1": "FC Twente",
       "team2": "ADO Den Haag",
       "score": {
@@ -5051,23 +5017,6 @@
         "ft": [
           3,
           2
-        ]
-      }
-    },
-    {
-      "round": "Matchday 34",
-      "date": "2021-05-16",
-      "time": "14:30",
-      "team1": "Vitesse Arnhem",
-      "team2": "Ajax Amsterdam",
-      "score": {
-        "ht": [
-          1,
-          2
-        ],
-        "ft": [
-          1,
-          3
         ]
       }
     },
@@ -5092,16 +5041,16 @@
       "round": "Matchday 34",
       "date": "2021-05-16",
       "time": "14:30",
-      "team1": "VVV Venlo",
-      "team2": "FC Emmen",
+      "team1": "Feyenoord",
+      "team2": "RKC Waalwijk",
       "score": {
         "ht": [
-          0,
-          1
+          2,
+          0
         ],
         "ft": [
-          0,
-          4
+          3,
+          0
         ]
       }
     },
@@ -5126,7 +5075,58 @@
       "round": "Matchday 34",
       "date": "2021-05-16",
       "time": "14:30",
-      "team1": "Willem II Tilburg",
+      "team1": "sc Heerenveen",
+      "team2": "Sparta Rotterdam",
+      "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "Vitesse",
+      "team2": "AFC Ajax",
+      "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "VVV-Venlo",
+      "team2": "FC Emmen",
+      "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2021-05-16",
+      "time": "14:30",
+      "team1": "Willem II",
       "team2": "Fortuna Sittard",
       "score": {
         "ht": [
