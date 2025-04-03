@@ -1,6 +1,6 @@
 ## What's News?
 
-Tip - You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
+You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
 Let's try to convert the English Premier League 2024/25
 in the Football.TXT format (see [`england/2024-25/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2024-25/1-premierleague.txt)) to JSON:
@@ -8,6 +8,15 @@ in the Football.TXT format (see [`england/2024-25/1-premierleague.txt`](https://
 ```
 $ fbtxt2json england/2024-25/1-premierleague.txt -o en.1.json
 ```
+
+Tip - Or try to convert the complete [`/england`](https://github.com/openfootball/england) repo at once:
+
+```
+$ fbtxt2json . -o ./_site        # run inside /england; output json datasets to _site directory
+```
+
+Note - this command runs with most repos (and deploys to github pages with github actions) to mirror the datasets in Football.TXT to JSON.
+Try [openfootball.github.io/england/2024-25/1-premierleague.json](https://openfootball.github.io/england/2024-25/1-premierleague.json).
 
 
 
