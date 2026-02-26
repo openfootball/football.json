@@ -4006,6 +4006,14 @@
       "team1": "Levante UD",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -4015,6 +4023,14 @@
       "team1": "Athletic Club",
       "team2": "Elche CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4024,6 +4040,14 @@
       "team1": "Real Sociedad de Fútbol",
       "team2": "Real Oviedo",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          3
+        ]
       }
     },
     {
@@ -4033,6 +4057,14 @@
       "team1": "Real Betis Balompié",
       "team2": "Rayo Vallecano de Madrid",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -4042,6 +4074,14 @@
       "team1": "CA Osasuna",
       "team2": "Real Madrid CF",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4051,6 +4091,14 @@
       "team1": "Club Atlético de Madrid",
       "team2": "RCD Espanyol de Barcelona",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          2
+        ]
       }
     },
     {
@@ -4060,6 +4108,14 @@
       "team1": "Getafe CF",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -4069,6 +4125,14 @@
       "team1": "FC Barcelona",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -4078,6 +4142,14 @@
       "team1": "RC Celta de Vigo",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -4087,6 +4159,14 @@
       "team1": "Villarreal CF",
       "team2": "Valencia CF",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4096,6 +4176,14 @@
       "team1": "Deportivo Alavés",
       "team2": "Girona FC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -4289,7 +4377,8 @@
     },
     {
       "round": "Matchday 28",
-      "date": "2026-03-15",
+      "date": "2026-03-13",
+      "time": "21:00",
       "team1": "Deportivo Alavés",
       "team2": "Villarreal CF",
       "score": {
@@ -4297,39 +4386,8 @@
     },
     {
       "round": "Matchday 28",
-      "date": "2026-03-15",
-      "team1": "Club Atlético de Madrid",
-      "team2": "Getafe CF",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2026-03-15",
-      "team1": "FC Barcelona",
-      "team2": "Sevilla FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2026-03-15",
-      "team1": "Real Betis Balompié",
-      "team2": "RC Celta de Vigo",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2026-03-15",
-      "team1": "Real Oviedo",
-      "team2": "Valencia CF",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 28",
-      "date": "2026-03-15",
+      "date": "2026-03-14",
+      "time": "14:00",
       "team1": "Girona FC",
       "team2": "Athletic Club",
       "score": {
@@ -4337,7 +4395,26 @@
     },
     {
       "round": "Matchday 28",
-      "date": "2026-03-15",
+      "date": "2026-03-14",
+      "time": "16:15",
+      "team1": "Club Atlético de Madrid",
+      "team2": "Getafe CF",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-14",
+      "time": "18:30",
+      "team1": "Real Oviedo",
+      "team2": "Valencia CF",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-14",
+      "time": "21:00",
       "team1": "Real Madrid CF",
       "team2": "Elche CF",
       "score": {
@@ -4346,6 +4423,7 @@
     {
       "round": "Matchday 28",
       "date": "2026-03-15",
+      "time": "14:00",
       "team1": "RCD Mallorca",
       "team2": "RCD Espanyol de Barcelona",
       "score": {
@@ -4354,38 +4432,52 @@
     {
       "round": "Matchday 28",
       "date": "2026-03-15",
-      "team1": "Rayo Vallecano de Madrid",
-      "team2": "Levante UD",
+      "time": "16:15",
+      "team1": "FC Barcelona",
+      "team2": "Sevilla FC",
       "score": {
       }
     },
     {
       "round": "Matchday 28",
       "date": "2026-03-15",
+      "time": "18:30",
+      "team1": "Real Betis Balompié",
+      "team2": "RC Celta de Vigo",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-15",
+      "time": "21:00",
       "team1": "Real Sociedad de Fútbol",
       "team2": "CA Osasuna",
       "score": {
       }
     },
     {
-      "round": "Matchday 29",
-      "date": "2026-03-22",
-      "team1": "Athletic Club",
-      "team2": "Real Betis Balompié",
+      "round": "Matchday 28",
+      "date": "2026-03-16",
+      "time": "21:00",
+      "team1": "Rayo Vallecano de Madrid",
+      "team2": "Levante UD",
       "score": {
       }
     },
     {
       "round": "Matchday 29",
-      "date": "2026-03-22",
-      "team1": "FC Barcelona",
-      "team2": "Rayo Vallecano de Madrid",
+      "date": "2026-03-20",
+      "time": "21:00",
+      "team1": "Villarreal CF",
+      "team2": "Real Sociedad de Fútbol",
       "score": {
       }
     },
     {
       "round": "Matchday 29",
-      "date": "2026-03-22",
+      "date": "2026-03-21",
+      "time": "14:00",
       "team1": "Elche CF",
       "team2": "RCD Mallorca",
       "score": {
@@ -4393,7 +4485,8 @@
     },
     {
       "round": "Matchday 29",
-      "date": "2026-03-22",
+      "date": "2026-03-21",
+      "time": "16:15",
       "team1": "RCD Espanyol de Barcelona",
       "team2": "Getafe CF",
       "score": {
@@ -4401,7 +4494,8 @@
     },
     {
       "round": "Matchday 29",
-      "date": "2026-03-22",
+      "date": "2026-03-21",
+      "time": "18:30",
       "team1": "Levante UD",
       "team2": "Real Oviedo",
       "score": {
@@ -4409,7 +4503,17 @@
     },
     {
       "round": "Matchday 29",
-      "date": "2026-03-22",
+      "date": "2026-03-21",
+      "time": "18:30",
+      "team1": "CA Osasuna",
+      "team2": "Girona FC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-21",
+      "time": "21:00",
       "team1": "Sevilla FC",
       "team2": "Valencia CF",
       "score": {
@@ -4418,6 +4522,16 @@
     {
       "round": "Matchday 29",
       "date": "2026-03-22",
+      "time": "14:00",
+      "team1": "FC Barcelona",
+      "team2": "Rayo Vallecano de Madrid",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-22",
+      "time": "16:15",
       "team1": "RC Celta de Vigo",
       "team2": "Deportivo Alavés",
       "score": {
@@ -4426,24 +4540,18 @@
     {
       "round": "Matchday 29",
       "date": "2026-03-22",
+      "time": "18:30",
+      "team1": "Athletic Club",
+      "team2": "Real Betis Balompié",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-22",
+      "time": "21:00",
       "team1": "Real Madrid CF",
       "team2": "Club Atlético de Madrid",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2026-03-22",
-      "team1": "CA Osasuna",
-      "team2": "Girona FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 29",
-      "date": "2026-03-22",
-      "team1": "Villarreal CF",
-      "team2": "Real Sociedad de Fútbol",
       "score": {
       }
     },
