@@ -138,6 +138,12 @@ Nurgazy Nazhimidinov (@nurgasemetey) writes:
 >
 > Here is the source code: https://github.com/nurgasemetey/compare-last-season
 
+Rodolfo Melogli (@BusinessBloomer) writes:
+
+> I use the openfootball Football.TXT fixture data for Serie A and the Premier League to power [fantatools.com](https://fantatools.com/en/), a set of free fantasy-football tools — fixture difficulty ratings and "next 5" run-in rankings for Fantacalcio and FPL.
+>
+> https://fantatools.com/en/
+
 
 ## License
 
