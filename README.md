@@ -77,7 +77,7 @@ edit the (auto-)generated JSON files here but the Football.TXT sources upstream 
 - and so on
 
 
-and than wait to get the (auto-)generated totball.json updates. If you only edit / patch the (auto-)generated JSON files here without updating
+and than wait to get the (auto-)generated football.json updates. If you only edit / patch the (auto-)generated JSON files here without updating
 the sources upstream than your changes will get lost / overwritten with the next update.
 
 
