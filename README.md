@@ -86,6 +86,7 @@ the sources upstream than your changes will get lost / overwritten with the next
 If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome. See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts to get started
 or use your very own.
 
+ o o o
 
 Or as a quick alternative 
 you can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any (match data) file in the Football.TXT format to JSON. 
