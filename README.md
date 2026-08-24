@@ -69,11 +69,11 @@ $ curl https://raw.githubusercontent.com/openfootball/football.json/master/2015-
 Note: The Football.JSON files get (auto-)generated using the datasets in the Football.TXT format, thus, **please do NOT
 edit the (auto-)generated JSON files here but the Football.TXT sources upstream in the country repos** e.g.:
 
-- English Premier League, Championship, League One, League Two in [**`/england`**](https://github.com/openfootball/england)  ([online page index](https://openfootball.github.io/england/))
-- Deutsche Bundesliga, 2. Bundesliga, 3. Liga in [**`/deutschland`**](https://github.com/openfootball/deutschland)  ([online page index](https://openfootball.github.io/deutschland/))
-- Spanish Primera División ("La Liga"), Segunda División in [**`/espana`**](https://github.com/openfootball/espana)   ([online page index](https://openfootball.github.io/espana/))
-- Italian Serie A, Serie B in [**`/italy`**](https://github.com/openfootball/italy)   ([online page index](https://openfootball.github.io/italy/))
-- French Ligue 1, Ligue 2 in [**`/france`**](https://github.com/openfootball/europe/tree/master/france) (in [`/europe`](https://github.com/openfootball/europe) ([online page index](https://openfootball.github.io/europe/)))   
+- English Premier League, Championship, League One, League Two in [**`/england`**](https://github.com/openfootball/england)  ([football.txt page index](https://openfootball.github.io/england/))
+- Deutsche Bundesliga, 2. Bundesliga, 3. Liga in [**`/deutschland`**](https://github.com/openfootball/deutschland)  ([football.txt page index](https://openfootball.github.io/deutschland/))
+- Spanish Primera División ("La Liga"), Segunda División in [**`/espana`**](https://github.com/openfootball/espana)   ([football.txt page index](https://openfootball.github.io/espana/))
+- Italian Serie A, Serie B in [**`/italy`**](https://github.com/openfootball/italy)   ([football.txt page index](https://openfootball.github.io/italy/))
+- French Ligue 1, Ligue 2 in [**`/france`**](https://github.com/openfootball/europe/tree/master/france) (in [`/europe`](https://github.com/openfootball/europe) ([football.txt page index](https://openfootball.github.io/europe/)))   
 - and so on
 
 
