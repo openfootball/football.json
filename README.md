@@ -1,32 +1,13 @@
 ## Frequently Asked Questions (& Answers)
 
-Q: When (and how ofter) do the football.json datasets get updated?
+Q: When (and how often) do the football.json datasets get updated?
 
 A: The football.json datsets of the latest season (that is, 2026 & 2026/27) 
 get auto-updated once a day (5 o'clock UTC) from the upstream Football.TXT datasets via a github action,
 see the [action log @ yorobot/football.json](https://github.com/yorobot/football.json/actions) for details.
 
-Note, however,  for the upstream Football.TXT datasets for now there's no automatic (daily) update.  
+Note, however,  for the upstream Football.TXT datasets for now there's no automatic (daily) update.
 See [Updates / Contributions Welcome - Please Update the Football.TXT Sources](#updates--contributions-welcome---please-update-the-footballtxt-sources) for details.
-
-
-
-## What's News?
-
-You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any (match data) file in the Football.TXT format to JSON. 
-
-Let's try to convert the English Premier League 2026/27
-in the Football.TXT format (see [`england/2026-27/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2026-27/1-premierleague.txt)) to JSON:
-
-```
-$ fbtxt2json england/2026-27/1-premierleague.txt -o en.1.json
-```
-
-Tip - Or try to convert the complete [`/england`](https://github.com/openfootball/england) repo at once:
-
-```
-$ fbtxt2json . -o ./_site   # run inside /england; output json datasets to _site directory
-```
 
 
 
@@ -104,6 +85,23 @@ the sources upstream than your changes will get lost / overwritten with the next
 
 If you want to help out updating the (auto-)generated football.json datasets right here from the sources - you are more than welcome. See the [`yorobot/football.json`](https://github.com/yorobot/football.json) build scripts to get started
 or use your very own.
+
+
+Or as a quick alternative 
+you can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any (match data) file in the Football.TXT format to JSON. 
+
+Let's try to convert the English Premier League 2026/27
+in the Football.TXT format (see [`england/2026-27/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2026-27/1-premierleague.txt)) to JSON:
+
+```
+$ fbtxt2json england/2026-27/1-premierleague.txt -o en.1.json
+```
+
+Tip - Or try to convert the complete [`/england`](https://github.com/openfootball/england) repo at once:
+
+```
+$ fbtxt2json . -o ./_site   # run inside /england; output json datasets to _site directory
+```
 
 
 
